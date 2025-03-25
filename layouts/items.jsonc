@@ -1,6 +1,4 @@
 {
-  // sets layouts for shadred items grids
-  // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
   "shared_item_grid": {
     "type": "array",
     "orientation": "vertical",
@@ -17,13 +15,185 @@
             "h_alignment": "left",
             "rows": [
               [
-                "toggle",
-                "progressive"
-              ],
-              [
-                "consumable",
-                "progressive_toggle"
+                "Area Keys",
+                "Lobster (Junk)"
               ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Option1": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "canvas",
+            "width": 300,
+            "height": 66,
+            "margin": "1,5",
+            "content": [
+              {
+                "type": "item",
+                "item": "ShulkIcon",
+                "canvas_depth": 1,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "ShulkAirSlash",
+                "canvas_depth": 1,
+                "canvas_left": 65,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkBackSlash",
+                "canvas_depth": 1,
+                "canvas_left": 87,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkBattleSoul",
+                "canvas_depth": 1,
+                "canvas_left": 109,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkLightHeal",
+                "canvas_depth": 1,
+                "canvas_left": 131,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoArmour",
+                "canvas_depth": 1,
+                "canvas_left": 153,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoBuster",
+                "canvas_depth": 1,
+                "canvas_left": 65,
+                "canvas_top": 22,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoCyclone",
+                "canvas_depth": 1,
+                "canvas_left": 87,
+                "canvas_top": 22,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoEater",
+                "canvas_depth": 1,
+                "canvas_left": 109,
+                "canvas_top": 22,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoEnchant",
+                "canvas_depth": 1,
+                "canvas_left": 131,
+                "canvas_top": 22,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoPurge",
+                "canvas_depth": 1,
+                "canvas_left": 153,
+                "canvas_top": 22,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoShield",
+                "canvas_depth": 1,
+                "canvas_left": 65,
+                "canvas_top": 44,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoSpeed",
+                "canvas_depth": 1,
+                "canvas_left": 87,
+                "canvas_top": 44,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkShadowEye",
+                "canvas_depth": 1,
+                "canvas_left": 109,
+                "canvas_top": 44,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkShakerEdge",
+                "canvas_depth": 1,
+                "canvas_left": 131,
+                "canvas_top": 44,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkSlitEdge",
+                "canvas_depth": 1,
+                "canvas_left": 153,
+                "canvas_top": 44,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkStreamEdge",
+                "canvas_depth": 1,
+                "canvas_left": 175,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkAffinity",
+                "canvas_depth": 1,
+                "canvas_left": 175,
+                "canvas_top": 22,
+                "width": 32,
+                "height": 32
+              }
             ]
           }
         ]

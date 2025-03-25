@@ -1,56 +1,269 @@
 [
-  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
   {
-    "name": "Toggle",
-    "type": "toggle",
-    "img": "images/items/toggle.png",
-    "codes": "toggle"
-  },
-  {
-    "name": "Progressive",
+    "name": "Area Keys",
     "type": "progressive",
     "allow_disabled": true,
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/items/progressive.png",
+        "img": "images/items/key.png",
         "codes": "progressive",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "progressive_2",
         "inherit_codes": false
       }
     ]
   },
   {
-    "name": "Consumable",
+    "name": "Shulk Affinity",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/Affinity1.png",
+        "codes": "ShulkAffinity,ShulkAffinity1"
+      },
+      {
+        "img": "images/items/Affinity2.png",
+        "codes": "ShulkAffinity,ShulkAffinity2",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/Affinity3.png",
+        "codes": "ShulkAffinity,ShulkAffinity3",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/Affinity4.png",
+        "codes": "ShulkAffinity,ShulkAffinity4",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/Affinity5.png",
+        "codes": "ShulkAffinity,ShulkAffinity5",
+        "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Shulk",
+    "type": "static",
+    "img": "images/items/Shulk.png",
+    "codes":"CharacterIcons,ShulkIcon"
+  },
+  {
+    "name": "Lobster (Junk)",
     "type": "consumable",
-    "img": "images/items/consumable.png",
-    "max_quantity": 8,
+    "img": "images/items/Lobster.png",
+    "max_quantity": 9999999,
     "increment": 1,
     "decrement": 1,
-    "initial_quantity": 1,
+    "initial_quantity": 0,
     "overlay_background": "#000000",
     "overlay_font_size": 8,
     "codes": "consumable"
   },
   {
-    "name": "Progressive Toggle",
-    "type": "progressive_toggle",
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/progressive.png",
-        "codes": "progressive_toggle",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "progressive_toggle_2",
-        "inherit_codes": false
-      }
-    ]
+    "name": "Area Keys",
+    "type": "consumable",
+    "img": "images/items/key.png",
+    "max_quantity": 22,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable"
+  },
+  {
+    "name": "Shulk Back Slash Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkBackSlash.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkBackSlash"
+  },
+  {
+    "name": "Shulk Air Slash Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkAirSlash.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkAirSlash"
+  },
+  {
+    "name": "Shulk Battle Soul Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkBattleSoul.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkBattleSoul"
+  },
+  {
+    "name": "Shulk Light Heal Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkLightHeal.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkLightHeal"
+  },
+  {
+    "name": "Shulk Monado Armour Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkMonadoArmour.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkMonadoArmour"
+  },
+  {
+    "name": "Shulk Monado Buster Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkMonadoBuster.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkMonadoBuster"
+  },
+  {
+    "name": "Shulk Monado Cyclone Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkMonadoCyclone.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkMonadoCyclone"
+  },
+  {
+    "name": "Shulk Monado Eater Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkMonadoEater.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkMonadoEater"
+  },
+  {
+    "name": "Shulk Monado Enchant Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkMonadoEnchant.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkMonadoEnchant"
+  },
+  {
+    "name": "Shulk Monado Purge Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkMonadoPurge.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkMonadoPurge"
+  },
+  {
+    "name": "Shulk Monado Shield Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkMonadoShield.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkMonadoShield"
+  },
+  {
+    "name": "Shulk Monado Speed Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkMonadoSpeed.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkMonadoSpeed"
+  },
+  {
+    "name": "Shulk Shadow Eye Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkShadowEye.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkShadowEye"
+  },
+  {
+    "name": "Shulk Shaker Edge Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkShakerEdge.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkShakerEdge"
+  },
+  {
+    "name": "Shulk Slit Edge Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkSlitEdge.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkSlitEdge"
+  },
+  {
+    "name": "Shulk Stream Edge Max Level",
+    "type": "consumable",
+    "img": "images/items/ShulkStreamEdge.png",
+    "max_quantity": 12,
+    "increment": 3,
+    "decrement": 1,
+    "initial_quantity": 4,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "arts,ShulkStreamEdge"
   }
 ]

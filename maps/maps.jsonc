@@ -1,10 +1,10 @@
 [
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
   {
-    "name": "map1",
+    "name": "Colony9",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/map.png"
+    "img": "images/maps/Colony9.png"
   },
   {
     "name": "map2",
