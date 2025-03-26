@@ -15,6 +15,15 @@
           "content": [
             {
               "type": "group",
+              "header": "Items",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "shared_item_grid"
+              }
+            },
+            {
+              "type": "group",
               "header": "Option 1",
               "dock": "top",
               "content": {

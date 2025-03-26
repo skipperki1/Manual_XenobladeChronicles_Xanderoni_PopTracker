@@ -1,16 +1,38 @@
 [
   {
-    "name": "Area Keys",
-    "type": "progressive",
+    "name": "Shulk Integrity",
+    "type": "toggle",
     "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/key.png",
-        "codes": "progressive",
-        "inherit_codes": false
-      }
-    ]
+    "img": "images/items/Integrity.png",
+    "codes": "skilltrees,ShulkIntegrity"
+  },
+  {
+    "name": "Shulk Intuition",
+    "type": "toggle",
+    "allow_disabled": true,
+    "img": "images/items/Intuition.png",
+    "codes": "skilltrees,ShulkIntuition"
+  },
+  {
+    "name": "Shulk Humanity",
+    "type": "toggle",
+    "allow_disabled": true,
+    "img": "images/items/Humanity.png",
+    "codes": "skilltrees,ShulkHumanity"
+  },
+  {
+    "name": "Shulk Pessimism",
+    "type": "toggle",
+    "allow_disabled": true,
+    "img": "images/items/Pessimism.png",
+    "codes": "skilltrees,ShulkPessimism"
+  },
+  {
+    "name": "Shulk Bravery",
+    "type": "toggle",
+    "allow_disabled": true,
+    "img": "images/items/Bravery.png",
+    "codes": "skilltrees,ShulkBravery"
   },
   {
     "name": "Shulk Affinity",
@@ -60,7 +82,7 @@
     "initial_quantity": 0,
     "overlay_background": "#000000",
     "overlay_font_size": 8,
-    "codes": "consumable"
+    "codes": "consumable,Lobster"
   },
   {
     "name": "Area Keys",
@@ -72,7 +94,7 @@
     "initial_quantity": 0,
     "overlay_background": "#000000",
     "overlay_font_size": 8,
-    "codes": "consumable"
+    "codes": "consumable,AreaKeys"
   },
   {
     "name": "Shulk Back Slash Max Level",

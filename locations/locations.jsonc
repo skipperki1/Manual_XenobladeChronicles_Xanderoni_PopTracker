@@ -1,34 +1,33 @@
 [
   {
-    "name": "Example Parent",
+    "name": "Colony 9",
     "children": [
       {
-        "name": "Example Location 1",
-        "access_rules": [
-          //read as: progressive_2 or toggle
-          "progressive_2",
-          "toggle"
-        ],
+        "name": "Gem Man's Stall",
+        "access_rules": [],
         "sections": [
           {
-            "name": "Example Section 1",
-            "item_count": 1
+            "name": "Landmark",
+            "item_count": 1,
+            "chest_unopened_img": "images/mapicons/Landmark.png",
+            "chest_opened_img": "images/mapicons/LandmarkGray.png"
           },
           {
-            "name": "Example Section 2",
-            "item_count": 3
+            "name": "The Gem Man's Invention",
+            "item_count": 1,
+            "chest_unopened_img": "images/mapicons/QuestMarker.png",
+            "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+            "access_rules": [
+              "AreaKeys:5"
+            ]
           }
         ],
         "map_locations": [
           {
-            "map": "map1",
-            "x": 1750,
-            "y": 700
-          },
-          {
-            "map": "map2",
-            "x": 1000,
-            "y": 500
+            "map": "Colony9",
+            "x": 480,
+            "y": 300,
+            "size": 8
           }
         ]
       },

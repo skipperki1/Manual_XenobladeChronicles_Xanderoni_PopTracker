@@ -12,11 +12,12 @@
           {
             "type": "itemgrid",
             "item_margin": "10, 10",
+            "item_size": "40,40",
             "h_alignment": "left",
             "rows": [
               [
-                "Area Keys",
-                "Lobster (Junk)"
+                "AreaKeys",
+                "Lobster"
               ]
             ]
           }
@@ -36,7 +37,7 @@
         "content": [
           {
             "type": "canvas",
-            "width": 300,
+            "width": 340,
             "height": 66,
             "margin": "1,5",
             "content": [
@@ -190,9 +191,489 @@
                 "item": "ShulkAffinity",
                 "canvas_depth": 1,
                 "canvas_left": 175,
+                "canvas_top": 25,
+                "width": 44,
+                "height": 44
+              },
+              {
+                "type": "item",
+                "item": "ShulkIntegrity",
+                "canvas_depth": 1,
+                "canvas_left": 221,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkIntuition",
+                "canvas_depth": 1,
+                "canvas_left": 221,
+                "canvas_top": 15,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkHumanity",
+                "canvas_depth": 1,
+                "canvas_left": 221,
+                "canvas_top": 30,
+                "width": 65,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkPessimism",
+                "canvas_depth": 1,
+                "canvas_left": 221,
+                "canvas_top": 45,
+                "width": 75,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkBravery",
+                "canvas_depth": 1,
+                "canvas_left": 221,
+                "canvas_top": 60,
+                "width": 57,
+                "height": 13
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },"Option2": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "canvas",
+            "width": 340,
+            "height": 66,
+            "margin": "1,5",
+            "content": [
+              {
+                "type": "item",
+                "item": "ShulkIcon",
+                "canvas_depth": 1,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "ShulkAirSlash",
+                "canvas_depth": 1,
+                "canvas_left": 65,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkBackSlash",
+                "canvas_depth": 1,
+                "canvas_left": 87,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkBattleSoul",
+                "canvas_depth": 1,
+                "canvas_left": 109,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkLightHeal",
+                "canvas_depth": 1,
+                "canvas_left": 131,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoArmour",
+                "canvas_depth": 1,
+                "canvas_left": 153,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoBuster",
+                "canvas_depth": 1,
+                "canvas_left": 65,
                 "canvas_top": 22,
-                "width": 32,
-                "height": 32
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoCyclone",
+                "canvas_depth": 1,
+                "canvas_left": 87,
+                "canvas_top": 22,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoEater",
+                "canvas_depth": 1,
+                "canvas_left": 109,
+                "canvas_top": 22,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoEnchant",
+                "canvas_depth": 1,
+                "canvas_left": 131,
+                "canvas_top": 22,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoPurge",
+                "canvas_depth": 1,
+                "canvas_left": 153,
+                "canvas_top": 22,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoShield",
+                "canvas_depth": 1,
+                "canvas_left": 65,
+                "canvas_top": 44,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoSpeed",
+                "canvas_depth": 1,
+                "canvas_left": 87,
+                "canvas_top": 44,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkShadowEye",
+                "canvas_depth": 1,
+                "canvas_left": 109,
+                "canvas_top": 44,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkShakerEdge",
+                "canvas_depth": 1,
+                "canvas_left": 131,
+                "canvas_top": 44,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkSlitEdge",
+                "canvas_depth": 1,
+                "canvas_left": 153,
+                "canvas_top": 44,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkStreamEdge",
+                "canvas_depth": 1,
+                "canvas_left": 175,
+                "canvas_top": 11,
+                "width": 20,
+                "height": 20
+              },
+              {
+                "type": "item",
+                "item": "ShulkAffinity",
+                "canvas_depth": 1,
+                "canvas_left": 175,
+                "canvas_top": 33,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "ShulkIntegrity",
+                "canvas_depth": 1,
+                "canvas_left": 209,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkIntuition",
+                "canvas_depth": 1,
+                "canvas_left": 209,
+                "canvas_top": 15,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkHumanity",
+                "canvas_depth": 1,
+                "canvas_left": 209,
+                "canvas_top": 30,
+                "width": 65,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkPessimism",
+                "canvas_depth": 1,
+                "canvas_left": 209,
+                "canvas_top": 45,
+                "width": 75,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkBravery",
+                "canvas_depth": 1,
+                "canvas_left": 209,
+                "canvas_top": 60,
+                "width": 57,
+                "height": 13
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },"Option3": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "canvas",
+            "width": 340,
+            "height": 100,
+            "margin": "1,5",
+            "content": [
+              {
+                "type": "item",
+                "item": "ShulkIcon",
+                "canvas_depth": 1,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "ShulkAirSlash",
+                "canvas_depth": 1,
+                "canvas_left": 69,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkBackSlash",
+                "canvas_depth": 1,
+                "canvas_left": 101,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkBattleSoul",
+                "canvas_depth": 1,
+                "canvas_left": 133,
+                "width":30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkLightHeal",
+                "canvas_depth": 1,
+                "canvas_left": 165,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoArmour",
+                "canvas_depth": 1,
+                "canvas_left": 69,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoBuster",
+                "canvas_depth": 1,
+                "canvas_left": 101,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoCyclone",
+                "canvas_depth": 1,
+                "canvas_left": 133,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoEater",
+                "canvas_depth": 1,
+                "canvas_left": 165,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoEnchant",
+                "canvas_depth": 1,
+                "canvas_left": 197,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoPurge",
+                "canvas_depth": 1,
+                "canvas_left": 229,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoShield",
+                "canvas_depth": 1,
+                "canvas_left": 261,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoSpeed",
+                "canvas_depth": 1,
+                "canvas_left": 293,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkShadowEye",
+                "canvas_depth": 1,
+                "canvas_left": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkShakerEdge",
+                "canvas_depth": 1,
+                "canvas_left": 229,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkSlitEdge",
+                "canvas_depth": 1,
+                "canvas_left": 261,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkStreamEdge",
+                "canvas_depth": 1,
+                "canvas_left": 293,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 43,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "ShulkIntegrity",
+                "canvas_depth": 1,
+                "canvas_top": 68,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkIntuition",
+                "canvas_depth": 1,
+                "canvas_left": 63,
+                "canvas_top": 68,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkHumanity",
+                "canvas_depth": 1,
+                "canvas_left": 126,
+                "canvas_top": 68,
+                "width": 65,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkPessimism",
+                "canvas_depth": 1,
+                "canvas_left": 197,
+                "canvas_top": 68,
+                "width": 75,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkBravery",
+                "canvas_depth": 1,
+                "canvas_left": 278,
+                "canvas_top": 68,
+                "width": 57,
+                "height": 13
               }
             ]
           }
