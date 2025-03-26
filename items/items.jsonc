@@ -105,7 +105,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkBackSlash"
   },
   {
@@ -117,7 +117,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkAirSlash"
   },
   {
@@ -129,7 +129,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkBattleSoul"
   },
   {
@@ -141,7 +141,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkLightHeal"
   },
   {
@@ -153,7 +153,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkMonadoArmour"
   },
   {
@@ -165,7 +165,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkMonadoBuster"
   },
   {
@@ -177,7 +177,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkMonadoCyclone"
   },
   {
@@ -189,7 +189,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkMonadoEater"
   },
   {
@@ -201,7 +201,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkMonadoEnchant"
   },
   {
@@ -213,7 +213,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkMonadoPurge"
   },
   {
@@ -225,7 +225,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkMonadoShield"
   },
   {
@@ -237,7 +237,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkMonadoSpeed"
   },
   {
@@ -249,7 +249,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkShadowEye"
   },
   {
@@ -261,7 +261,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkShakerEdge"
   },
   {
@@ -273,7 +273,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkSlitEdge"
   },
   {
@@ -285,7 +285,7 @@
     "decrement": 1,
     "initial_quantity": 4,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 10,
     "codes": "arts,ShulkStreamEdge"
   }
 ]
