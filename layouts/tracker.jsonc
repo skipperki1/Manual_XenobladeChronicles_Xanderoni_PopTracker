@@ -24,29 +24,11 @@
             },
             {
               "type": "group",
-              "header": "Option 1",
+              "header": "Party",
               "dock": "top",
               "content": {
                 "type": "layout",
-                "key": "Option1"
-              }
-            },
-            {
-              "type": "group",
-              "header": "Option 2",
-              "dock": "top",
-              "content": {
-                "type": "layout",
-                "key": "Option2"
-              }
-            },
-            {
-              "type": "group",
-              "header": "Option 3",
-              "dock": "top",
-              "content": {
-                "type": "layout",
-                "key": "Option3"
+                "key": "Characters"
               }
             }
           ]
