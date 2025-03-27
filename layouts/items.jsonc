@@ -11,8 +11,8 @@
         "content": [
           {
             "type": "itemgrid",
-            "item_margin": "10, 10",
-            "item_size": "40,40",
+            "item_margin": "5, 5",
+            "item_size": "24,24",
             "h_alignment": "left",
             "rows": [
               [
@@ -38,7 +38,7 @@
           {
             "type": "canvas",
             "width": 340,
-            "height": 78,
+            "height": 72,
             "margin": "1,5",
             "content": [
               {
@@ -52,7 +52,7 @@
                 "type": "item",
                 "item": "ShulkAirSlash",
                 "canvas_depth": 1,
-                "canvas_left": 69,
+                "canvas_left": 71,
                 "width": 30,
                 "height": 30
               },
@@ -60,7 +60,7 @@
                 "type": "item",
                 "item": "ShulkBackSlash",
                 "canvas_depth": 1,
-                "canvas_left": 101,
+                "canvas_left": 107,
                 "width": 30,
                 "height": 30
               },
@@ -68,7 +68,7 @@
                 "type": "item",
                 "item": "ShulkBattleSoul",
                 "canvas_depth": 1,
-                "canvas_left": 133,
+                "canvas_left": 143,
                 "width":30,
                 "height": 30
               },
@@ -76,7 +76,39 @@
                 "type": "item",
                 "item": "ShulkLightHeal",
                 "canvas_depth": 1,
-                "canvas_left": 165,
+                "canvas_left": 179,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkShadowEye",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkShakerEdge",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkSlitEdge",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkStreamEdge",
+                "canvas_depth": 1,
+                "canvas_left": 323,
                 "width": 30,
                 "height": 30
               },
@@ -84,7 +116,7 @@
                 "type": "item",
                 "item": "ShulkMonadoArmour",
                 "canvas_depth": 1,
-                "canvas_left": 69,
+                "canvas_left": 71,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -93,7 +125,7 @@
                 "type": "item",
                 "item": "ShulkMonadoBuster",
                 "canvas_depth": 1,
-                "canvas_left": 101,
+                "canvas_left": 107,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -102,7 +134,7 @@
                 "type": "item",
                 "item": "ShulkMonadoCyclone",
                 "canvas_depth": 1,
-                "canvas_left": 133,
+                "canvas_left": 143,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -111,7 +143,7 @@
                 "type": "item",
                 "item": "ShulkMonadoEater",
                 "canvas_depth": 1,
-                "canvas_left": 165,
+                "canvas_left": 179,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -120,7 +152,7 @@
                 "type": "item",
                 "item": "ShulkMonadoEnchant",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 215,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -129,7 +161,7 @@
                 "type": "item",
                 "item": "ShulkMonadoPurge",
                 "canvas_depth": 1,
-                "canvas_left": 229,
+                "canvas_left": 251,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -138,7 +170,7 @@
                 "type": "item",
                 "item": "ShulkMonadoShield",
                 "canvas_depth": 1,
-                "canvas_left": 261,
+                "canvas_left": 287,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -147,40 +179,8 @@
                 "type": "item",
                 "item": "ShulkMonadoSpeed",
                 "canvas_depth": 1,
-                "canvas_left": 293,
+                "canvas_left": 323,
                 "canvas_top": 33,
-                "width": 30,
-                "height": 30
-              },
-              {
-                "type": "item",
-                "item": "ShulkShadowEye",
-                "canvas_depth": 1,
-                "canvas_left": 197,
-                "width": 30,
-                "height": 30
-              },
-              {
-                "type": "item",
-                "item": "ShulkShakerEdge",
-                "canvas_depth": 1,
-                "canvas_left": 229,
-                "width": 30,
-                "height": 30
-              },
-              {
-                "type": "item",
-                "item": "ShulkSlitEdge",
-                "canvas_depth": 1,
-                "canvas_left": 261,
-                "width": 30,
-                "height": 30
-              },
-              {
-                "type": "item",
-                "item": "ShulkStreamEdge",
-                "canvas_depth": 1,
-                "canvas_left": 293,
                 "width": 30,
                 "height": 30
               },
@@ -204,7 +204,7 @@
                 "type": "item",
                 "item": "ShulkIntuition",
                 "canvas_depth": 1,
-                "canvas_left": 63,
+                "canvas_left": 67,
                 "canvas_top": 68,
                 "width": 57,
                 "height": 13
@@ -213,7 +213,7 @@
                 "type": "item",
                 "item": "ShulkHumanity",
                 "canvas_depth": 1,
-                "canvas_left": 126,
+                "canvas_left": 134,
                 "canvas_top": 68,
                 "width": 65,
                 "height": 13
@@ -222,7 +222,7 @@
                 "type": "item",
                 "item": "ShulkPessimism",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 209,
                 "canvas_top": 68,
                 "width": 75,
                 "height": 13
@@ -231,7 +231,7 @@
                 "type": "item",
                 "item": "ShulkBravery",
                 "canvas_depth": 1,
-                "canvas_left": 278,
+                "canvas_left": 294,
                 "canvas_top": 68,
                 "width": 57,
                 "height": 13
@@ -240,8 +240,8 @@
           },
           {
             "type": "canvas",
-            "width": 340,
-            "height": 78,
+            "width": 355,
+            "height": 72,
             "margin": "1,5",
             "content": [
               {
@@ -255,7 +255,7 @@
                 "type": "item",
                 "item": "ReynArt1",
                 "canvas_depth": 1,
-                "canvas_left": 69,
+                "canvas_left": 71,
                 "width": 30,
                 "height": 30
               },
@@ -263,7 +263,7 @@
                 "type": "item",
                 "item": "ReynArt2",
                 "canvas_depth": 1,
-                "canvas_left": 101,
+                "canvas_left": 107,
                 "width": 30,
                 "height": 30
               },
@@ -271,7 +271,7 @@
                 "type": "item",
                 "item": "ReynArt3",
                 "canvas_depth": 1,
-                "canvas_left": 133,
+                "canvas_left": 143,
                 "width":30,
                 "height": 30
               },
@@ -279,7 +279,7 @@
                 "type": "item",
                 "item": "ReynArt4",
                 "canvas_depth": 1,
-                "canvas_left": 165,
+                "canvas_left": 179,
                 "width": 30,
                 "height": 30
               },
@@ -287,8 +287,7 @@
                 "type": "item",
                 "item": "ReynArt5",
                 "canvas_depth": 1,
-                "canvas_left": 69,
-                "canvas_top": 33,
+                "canvas_left": 215,
                 "width": 30,
                 "height": 30
               },
@@ -296,8 +295,7 @@
                 "type": "item",
                 "item": "ReynArt6",
                 "canvas_depth": 1,
-                "canvas_left": 101,
-                "canvas_top": 33,
+                "canvas_left": 251,
                 "width": 30,
                 "height": 30
               },
@@ -305,8 +303,7 @@
                 "type": "item",
                 "item": "ReynArt7",
                 "canvas_depth": 1,
-                "canvas_left": 133,
-                "canvas_top": 33,
+                "canvas_left": 287,
                 "width": 30,
                 "height": 30
               },
@@ -314,8 +311,7 @@
                 "type": "item",
                 "item": "ReynArt8",
                 "canvas_depth": 1,
-                "canvas_left": 165,
-                "canvas_top": 33,
+                "canvas_left": 323,
                 "width": 30,
                 "height": 30
               },
@@ -323,7 +319,7 @@
                 "type": "item",
                 "item": "ReynArt9",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 71,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -332,7 +328,7 @@
                 "type": "item",
                 "item": "ReynArt10",
                 "canvas_depth": 1,
-                "canvas_left": 229,
+                "canvas_left": 107,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -341,7 +337,7 @@
                 "type": "item",
                 "item": "ReynArt11",
                 "canvas_depth": 1,
-                "canvas_left": 261,
+                "canvas_left": 143,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -350,7 +346,7 @@
                 "type": "item",
                 "item": "ReynArt12",
                 "canvas_depth": 1,
-                "canvas_left": 293,
+                "canvas_left": 179,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -359,7 +355,8 @@
                 "type": "item",
                 "item": "ReynArt13",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 215,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -367,7 +364,8 @@
                 "type": "item",
                 "item": "ReynArt14",
                 "canvas_depth": 1,
-                "canvas_left": 229,
+                "canvas_left": 251,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -375,7 +373,8 @@
                 "type": "item",
                 "item": "ReynArt15",
                 "canvas_depth": 1,
-                "canvas_left": 261,
+                "canvas_left": 287,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -383,7 +382,8 @@
                 "type": "item",
                 "item": "ReynArt16",
                 "canvas_depth": 1,
-                "canvas_left": 293,
+                "canvas_left": 323,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -400,32 +400,32 @@
                 "item": "ReynSkill1",
                 "canvas_depth": 1,
                 "canvas_top": 68,
-                "width": 57,
+                "width": 40,
                 "height": 13
               },
               {
                 "type": "item",
                 "item": "ReynSkill2",
                 "canvas_depth": 1,
-                "canvas_left": 63,
-                "canvas_top": 68,
-                "width": 57,
-                "height": 13
-              },
-              {
-                "type": "item",
-                "item": "ReynSkill3",
-                "canvas_depth": 1,
-                "canvas_left": 126,
+                "canvas_left": 43,
                 "canvas_top": 68,
                 "width": 65,
                 "height": 13
               },
               {
                 "type": "item",
+                "item": "ReynSkill3",
+                "canvas_depth": 1,
+                "canvas_left": 111,
+                "canvas_top": 68,
+                "width": 77,
+                "height": 13
+              },
+              {
+                "type": "item",
                 "item": "ReynSkill4",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 191,
                 "canvas_top": 68,
                 "width": 75,
                 "height": 13
@@ -434,9 +434,9 @@
                 "type": "item",
                 "item": "ReynSkill5",
                 "canvas_depth": 1,
-                "canvas_left": 278,
+                "canvas_left": 269,
                 "canvas_top": 68,
-                "width": 57,
+                "width": 83,
                 "height": 13
               }
             ]
@@ -444,7 +444,7 @@
           {
             "type": "canvas",
             "width": 340,
-            "height": 78,
+            "height": 72,
             "margin": "1,5",
             "content": [
               {
@@ -458,7 +458,7 @@
                 "type": "item",
                 "item": "SharlaArt1",
                 "canvas_depth": 1,
-                "canvas_left": 69,
+                "canvas_left": 71,
                 "width": 30,
                 "height": 30
               },
@@ -466,7 +466,7 @@
                 "type": "item",
                 "item": "SharlaArt2",
                 "canvas_depth": 1,
-                "canvas_left": 101,
+                "canvas_left": 107,
                 "width": 30,
                 "height": 30
               },
@@ -474,7 +474,7 @@
                 "type": "item",
                 "item": "SharlaArt3",
                 "canvas_depth": 1,
-                "canvas_left": 133,
+                "canvas_left": 143,
                 "width":30,
                 "height": 30
               },
@@ -482,7 +482,7 @@
                 "type": "item",
                 "item": "SharlaArt4",
                 "canvas_depth": 1,
-                "canvas_left": 165,
+                "canvas_left": 179,
                 "width": 30,
                 "height": 30
               },
@@ -490,8 +490,7 @@
                 "type": "item",
                 "item": "SharlaArt5",
                 "canvas_depth": 1,
-                "canvas_left": 69,
-                "canvas_top": 33,
+                "canvas_left": 215,
                 "width": 30,
                 "height": 30
               },
@@ -499,8 +498,7 @@
                 "type": "item",
                 "item": "SharlaArt6",
                 "canvas_depth": 1,
-                "canvas_left": 101,
-                "canvas_top": 33,
+                "canvas_left": 251,
                 "width": 30,
                 "height": 30
               },
@@ -508,8 +506,7 @@
                 "type": "item",
                 "item": "SharlaArt7",
                 "canvas_depth": 1,
-                "canvas_left": 133,
-                "canvas_top": 33,
+                "canvas_left": 287,
                 "width": 30,
                 "height": 30
               },
@@ -517,8 +514,7 @@
                 "type": "item",
                 "item": "SharlaArt8",
                 "canvas_depth": 1,
-                "canvas_left": 165,
-                "canvas_top": 33,
+                "canvas_left": 323,
                 "width": 30,
                 "height": 30
               },
@@ -526,7 +522,7 @@
                 "type": "item",
                 "item": "SharlaArt9",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 71,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -535,7 +531,7 @@
                 "type": "item",
                 "item": "SharlaArt10",
                 "canvas_depth": 1,
-                "canvas_left": 229,
+                "canvas_left": 107,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -544,7 +540,7 @@
                 "type": "item",
                 "item": "SharlaArt11",
                 "canvas_depth": 1,
-                "canvas_left": 261,
+                "canvas_left": 143,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -553,7 +549,7 @@
                 "type": "item",
                 "item": "SharlaArt12",
                 "canvas_depth": 1,
-                "canvas_left": 293,
+                "canvas_left": 179,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -562,7 +558,8 @@
                 "type": "item",
                 "item": "SharlaArt13",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 215,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -570,7 +567,8 @@
                 "type": "item",
                 "item": "SharlaArt14",
                 "canvas_depth": 1,
-                "canvas_left": 229,
+                "canvas_left": 251,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -578,7 +576,8 @@
                 "type": "item",
                 "item": "SharlaArt15",
                 "canvas_depth": 1,
-                "canvas_left": 261,
+                "canvas_left": 287,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -586,7 +585,8 @@
                 "type": "item",
                 "item": "SharlaArt16",
                 "canvas_depth": 1,
-                "canvas_left": 293,
+                "canvas_left": 323,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -603,7 +603,7 @@
                 "item": "SharlaSkill1",
                 "canvas_depth": 1,
                 "canvas_top": 68,
-                "width": 57,
+                "width": 60,
                 "height": 13
               },
               {
@@ -612,34 +612,34 @@
                 "canvas_depth": 1,
                 "canvas_left": 63,
                 "canvas_top": 68,
-                "width": 57,
+                "width": 72,
                 "height": 13
               },
               {
                 "type": "item",
                 "item": "SharlaSkill3",
                 "canvas_depth": 1,
-                "canvas_left": 126,
+                "canvas_left": 137,
                 "canvas_top": 68,
-                "width": 65,
+                "width": 90,
                 "height": 13
               },
               {
                 "type": "item",
                 "item": "SharlaSkill4",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 229,
                 "canvas_top": 68,
-                "width": 75,
+                "width": 59,
                 "height": 13
               },
               {
                 "type": "item",
                 "item": "SharlaSkill5",
                 "canvas_depth": 1,
-                "canvas_left": 278,
+                "canvas_left": 290,
                 "canvas_top": 68,
-                "width": 57,
+                "width": 63,
                 "height": 13
               }
             ]
@@ -647,7 +647,7 @@
           {
             "type": "canvas",
             "width": 340,
-            "height": 78,
+            "height": 72,
             "margin": "1,5",
             "content": [
               {
@@ -661,7 +661,7 @@
                 "type": "item",
                 "item": "DunbanArt1",
                 "canvas_depth": 1,
-                "canvas_left": 69,
+                "canvas_left": 71,
                 "width": 30,
                 "height": 30
               },
@@ -669,7 +669,7 @@
                 "type": "item",
                 "item": "DunbanArt2",
                 "canvas_depth": 1,
-                "canvas_left": 101,
+                "canvas_left": 107,
                 "width": 30,
                 "height": 30
               },
@@ -677,7 +677,7 @@
                 "type": "item",
                 "item": "DunbanArt3",
                 "canvas_depth": 1,
-                "canvas_left": 133,
+                "canvas_left": 143,
                 "width":30,
                 "height": 30
               },
@@ -685,7 +685,7 @@
                 "type": "item",
                 "item": "DunbanArt4",
                 "canvas_depth": 1,
-                "canvas_left": 165,
+                "canvas_left": 179,
                 "width": 30,
                 "height": 30
               },
@@ -693,8 +693,7 @@
                 "type": "item",
                 "item": "DunbanArt5",
                 "canvas_depth": 1,
-                "canvas_left": 69,
-                "canvas_top": 33,
+                "canvas_left": 215,
                 "width": 30,
                 "height": 30
               },
@@ -702,8 +701,7 @@
                 "type": "item",
                 "item": "DunbanArt6",
                 "canvas_depth": 1,
-                "canvas_left": 101,
-                "canvas_top": 33,
+                "canvas_left": 251,
                 "width": 30,
                 "height": 30
               },
@@ -711,8 +709,7 @@
                 "type": "item",
                 "item": "DunbanArt7",
                 "canvas_depth": 1,
-                "canvas_left": 133,
-                "canvas_top": 33,
+                "canvas_left": 287,
                 "width": 30,
                 "height": 30
               },
@@ -720,8 +717,7 @@
                 "type": "item",
                 "item": "DunbanArt8",
                 "canvas_depth": 1,
-                "canvas_left": 165,
-                "canvas_top": 33,
+                "canvas_left": 323,
                 "width": 30,
                 "height": 30
               },
@@ -729,7 +725,7 @@
                 "type": "item",
                 "item": "DunbanArt9",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 71,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -738,7 +734,7 @@
                 "type": "item",
                 "item": "DunbanArt10",
                 "canvas_depth": 1,
-                "canvas_left": 229,
+                "canvas_left": 107,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -747,7 +743,7 @@
                 "type": "item",
                 "item": "DunbanArt11",
                 "canvas_depth": 1,
-                "canvas_left": 261,
+                "canvas_left": 143,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -756,7 +752,7 @@
                 "type": "item",
                 "item": "DunbanArt12",
                 "canvas_depth": 1,
-                "canvas_left": 293,
+                "canvas_left": 179,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -765,7 +761,8 @@
                 "type": "item",
                 "item": "DunbanArt13",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 215,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -773,7 +770,8 @@
                 "type": "item",
                 "item": "DunbanArt14",
                 "canvas_depth": 1,
-                "canvas_left": 229,
+                "canvas_left": 251,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -781,7 +779,8 @@
                 "type": "item",
                 "item": "DunbanArt15",
                 "canvas_depth": 1,
-                "canvas_left": 261,
+                "canvas_left": 287,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -789,7 +788,8 @@
                 "type": "item",
                 "item": "DunbanArt16",
                 "canvas_depth": 1,
-                "canvas_left": 293,
+                "canvas_left": 323,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -813,18 +813,18 @@
                 "type": "item",
                 "item": "DunbanSkill2",
                 "canvas_depth": 1,
-                "canvas_left": 63,
+                "canvas_left": 62,
                 "canvas_top": 68,
-                "width": 57,
+                "width": 69,
                 "height": 13
               },
               {
                 "type": "item",
                 "item": "DunbanSkill3",
                 "canvas_depth": 1,
-                "canvas_left": 126,
+                "canvas_left": 138,
                 "canvas_top": 68,
-                "width": 65,
+                "width": 54,
                 "height": 13
               },
               {
@@ -840,9 +840,9 @@
                 "type": "item",
                 "item": "DunbanSkill5",
                 "canvas_depth": 1,
-                "canvas_left": 278,
+                "canvas_left": 277,
                 "canvas_top": 68,
-                "width": 57,
+                "width": 78,
                 "height": 13
               }
             ]
@@ -850,7 +850,7 @@
           {
             "type": "canvas",
             "width": 340,
-            "height": 78,
+            "height": 72,
             "margin": "1,5",
             "content": [
               {
@@ -864,7 +864,7 @@
                 "type": "item",
                 "item": "RikiArt1",
                 "canvas_depth": 1,
-                "canvas_left": 69,
+                "canvas_left": 71,
                 "width": 30,
                 "height": 30
               },
@@ -872,7 +872,7 @@
                 "type": "item",
                 "item": "RikiArt2",
                 "canvas_depth": 1,
-                "canvas_left": 101,
+                "canvas_left": 107,
                 "width": 30,
                 "height": 30
               },
@@ -880,7 +880,7 @@
                 "type": "item",
                 "item": "RikiArt3",
                 "canvas_depth": 1,
-                "canvas_left": 133,
+                "canvas_left": 143,
                 "width":30,
                 "height": 30
               },
@@ -888,7 +888,7 @@
                 "type": "item",
                 "item": "RikiArt4",
                 "canvas_depth": 1,
-                "canvas_left": 165,
+                "canvas_left": 179,
                 "width": 30,
                 "height": 30
               },
@@ -896,8 +896,7 @@
                 "type": "item",
                 "item": "RikiArt5",
                 "canvas_depth": 1,
-                "canvas_left": 69,
-                "canvas_top": 33,
+                "canvas_left": 215,
                 "width": 30,
                 "height": 30
               },
@@ -905,8 +904,7 @@
                 "type": "item",
                 "item": "RikiArt6",
                 "canvas_depth": 1,
-                "canvas_left": 101,
-                "canvas_top": 33,
+                "canvas_left": 251,
                 "width": 30,
                 "height": 30
               },
@@ -914,8 +912,7 @@
                 "type": "item",
                 "item": "RikiArt7",
                 "canvas_depth": 1,
-                "canvas_left": 133,
-                "canvas_top": 33,
+                "canvas_left": 287,
                 "width": 30,
                 "height": 30
               },
@@ -923,8 +920,7 @@
                 "type": "item",
                 "item": "RikiArt8",
                 "canvas_depth": 1,
-                "canvas_left": 165,
-                "canvas_top": 33,
+                "canvas_left": 323,
                 "width": 30,
                 "height": 30
               },
@@ -932,7 +928,7 @@
                 "type": "item",
                 "item": "RikiArt9",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 71,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -941,7 +937,7 @@
                 "type": "item",
                 "item": "RikiArt10",
                 "canvas_depth": 1,
-                "canvas_left": 229,
+                "canvas_left": 107,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -950,7 +946,7 @@
                 "type": "item",
                 "item": "RikiArt11",
                 "canvas_depth": 1,
-                "canvas_left": 261,
+                "canvas_left": 143,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -959,7 +955,7 @@
                 "type": "item",
                 "item": "RikiArt12",
                 "canvas_depth": 1,
-                "canvas_left": 293,
+                "canvas_left": 179,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -968,7 +964,8 @@
                 "type": "item",
                 "item": "RikiArt13",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 215,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -976,7 +973,8 @@
                 "type": "item",
                 "item": "RikiArt14",
                 "canvas_depth": 1,
-                "canvas_left": 229,
+                "canvas_left": 251,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -984,7 +982,8 @@
                 "type": "item",
                 "item": "RikiArt15",
                 "canvas_depth": 1,
-                "canvas_left": 261,
+                "canvas_left": 287,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -992,7 +991,8 @@
                 "type": "item",
                 "item": "RikiArt16",
                 "canvas_depth": 1,
-                "canvas_left": 293,
+                "canvas_left": 323,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -1016,34 +1016,34 @@
                 "type": "item",
                 "item": "RikiSkill2",
                 "canvas_depth": 1,
-                "canvas_left": 63,
+                "canvas_left": 65,
                 "canvas_top": 68,
-                "width": 57,
+                "width": 66,
                 "height": 13
               },
               {
                 "type": "item",
                 "item": "RikiSkill3",
                 "canvas_depth": 1,
-                "canvas_left": 126,
+                "canvas_left": 139,
                 "canvas_top": 68,
-                "width": 65,
+                "width": 72,
                 "height": 13
               },
               {
                 "type": "item",
                 "item": "RikiSkill4",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 219,
                 "canvas_top": 68,
-                "width": 75,
+                "width": 72,
                 "height": 13
               },
               {
                 "type": "item",
                 "item": "RikiSkill5",
                 "canvas_depth": 1,
-                "canvas_left": 278,
+                "canvas_left": 298,
                 "canvas_top": 68,
                 "width": 57,
                 "height": 13
@@ -1053,7 +1053,7 @@
           {
             "type": "canvas",
             "width": 340,
-            "height": 78,
+            "height": 72,
             "margin": "1,5",
             "content": [
               {
@@ -1067,7 +1067,7 @@
                 "type": "item",
                 "item": "MeliaArt1",
                 "canvas_depth": 1,
-                "canvas_left": 69,
+                "canvas_left": 71,
                 "width": 30,
                 "height": 30
               },
@@ -1075,7 +1075,7 @@
                 "type": "item",
                 "item": "MeliaArt2",
                 "canvas_depth": 1,
-                "canvas_left": 101,
+                "canvas_left": 107,
                 "width": 30,
                 "height": 30
               },
@@ -1083,7 +1083,7 @@
                 "type": "item",
                 "item": "MeliaArt3",
                 "canvas_depth": 1,
-                "canvas_left": 133,
+                "canvas_left": 143,
                 "width":30,
                 "height": 30
               },
@@ -1091,7 +1091,7 @@
                 "type": "item",
                 "item": "MeliaArt4",
                 "canvas_depth": 1,
-                "canvas_left": 165,
+                "canvas_left": 179,
                 "width": 30,
                 "height": 30
               },
@@ -1099,8 +1099,7 @@
                 "type": "item",
                 "item": "MeliaArt5",
                 "canvas_depth": 1,
-                "canvas_left": 69,
-                "canvas_top": 33,
+                "canvas_left": 215,
                 "width": 30,
                 "height": 30
               },
@@ -1108,8 +1107,7 @@
                 "type": "item",
                 "item": "MeliaArt6",
                 "canvas_depth": 1,
-                "canvas_left": 101,
-                "canvas_top": 33,
+                "canvas_left": 251,
                 "width": 30,
                 "height": 30
               },
@@ -1117,8 +1115,7 @@
                 "type": "item",
                 "item": "MeliaArt7",
                 "canvas_depth": 1,
-                "canvas_left": 133,
-                "canvas_top": 33,
+                "canvas_left": 287,
                 "width": 30,
                 "height": 30
               },
@@ -1126,8 +1123,7 @@
                 "type": "item",
                 "item": "MeliaArt8",
                 "canvas_depth": 1,
-                "canvas_left": 165,
-                "canvas_top": 33,
+                "canvas_left": 323,
                 "width": 30,
                 "height": 30
               },
@@ -1135,7 +1131,7 @@
                 "type": "item",
                 "item": "MeliaArt9",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 71,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -1144,7 +1140,7 @@
                 "type": "item",
                 "item": "MeliaArt10",
                 "canvas_depth": 1,
-                "canvas_left": 229,
+                "canvas_left": 107,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -1153,7 +1149,7 @@
                 "type": "item",
                 "item": "MeliaArt11",
                 "canvas_depth": 1,
-                "canvas_left": 261,
+                "canvas_left": 143,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -1162,7 +1158,7 @@
                 "type": "item",
                 "item": "MeliaArt12",
                 "canvas_depth": 1,
-                "canvas_left": 293,
+                "canvas_left": 179,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -1171,7 +1167,8 @@
                 "type": "item",
                 "item": "MeliaArt13",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 215,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -1179,7 +1176,8 @@
                 "type": "item",
                 "item": "MeliaArt14",
                 "canvas_depth": 1,
-                "canvas_left": 229,
+                "canvas_left": 251,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -1187,7 +1185,8 @@
                 "type": "item",
                 "item": "MeliaArt15",
                 "canvas_depth": 1,
-                "canvas_left": 261,
+                "canvas_left": 287,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -1195,7 +1194,8 @@
                 "type": "item",
                 "item": "MeliaArt16",
                 "canvas_depth": 1,
-                "canvas_left": 293,
+                "canvas_left": 323,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -1212,23 +1212,23 @@
                 "item": "MeliaSkill1",
                 "canvas_depth": 1,
                 "canvas_top": 68,
-                "width": 57,
+                "width": 60,
                 "height": 13
               },
               {
                 "type": "item",
                 "item": "MeliaSkill2",
                 "canvas_depth": 1,
-                "canvas_left": 63,
+                "canvas_left": 68,
                 "canvas_top": 68,
-                "width": 57,
+                "width": 69,
                 "height": 13
               },
               {
                 "type": "item",
                 "item": "MeliaSkill3",
                 "canvas_depth": 1,
-                "canvas_left": 126,
+                "canvas_left": 145,
                 "canvas_top": 68,
                 "width": 65,
                 "height": 13
@@ -1237,18 +1237,18 @@
                 "type": "item",
                 "item": "MeliaSkill4",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 218,
                 "canvas_top": 68,
-                "width": 75,
+                "width": 72,
                 "height": 13
               },
               {
                 "type": "item",
                 "item": "MeliaSkill5",
                 "canvas_depth": 1,
-                "canvas_left": 278,
+                "canvas_left": 298,
                 "canvas_top": 68,
-                "width": 57,
+                "width": 54,
                 "height": 13
               }
             ]
@@ -1256,7 +1256,7 @@
           {
             "type": "canvas",
             "width": 340,
-            "height": 78,
+            "height": 72,
             "margin": "1,5",
             "content": [
               {
@@ -1270,7 +1270,7 @@
                 "type": "item",
                 "item": "SevenArt1",
                 "canvas_depth": 1,
-                "canvas_left": 69,
+                "canvas_left": 71,
                 "width": 30,
                 "height": 30
               },
@@ -1278,7 +1278,7 @@
                 "type": "item",
                 "item": "SevenArt2",
                 "canvas_depth": 1,
-                "canvas_left": 101,
+                "canvas_left": 107,
                 "width": 30,
                 "height": 30
               },
@@ -1286,7 +1286,7 @@
                 "type": "item",
                 "item": "SevenArt3",
                 "canvas_depth": 1,
-                "canvas_left": 133,
+                "canvas_left": 143,
                 "width":30,
                 "height": 30
               },
@@ -1294,7 +1294,7 @@
                 "type": "item",
                 "item": "SevenArt4",
                 "canvas_depth": 1,
-                "canvas_left": 165,
+                "canvas_left": 179,
                 "width": 30,
                 "height": 30
               },
@@ -1302,8 +1302,7 @@
                 "type": "item",
                 "item": "SevenArt5",
                 "canvas_depth": 1,
-                "canvas_left": 69,
-                "canvas_top": 33,
+                "canvas_left": 215,
                 "width": 30,
                 "height": 30
               },
@@ -1311,8 +1310,7 @@
                 "type": "item",
                 "item": "SevenArt6",
                 "canvas_depth": 1,
-                "canvas_left": 101,
-                "canvas_top": 33,
+                "canvas_left": 251,
                 "width": 30,
                 "height": 30
               },
@@ -1320,8 +1318,7 @@
                 "type": "item",
                 "item": "SevenArt7",
                 "canvas_depth": 1,
-                "canvas_left": 133,
-                "canvas_top": 33,
+                "canvas_left": 287,
                 "width": 30,
                 "height": 30
               },
@@ -1329,8 +1326,7 @@
                 "type": "item",
                 "item": "SevenArt8",
                 "canvas_depth": 1,
-                "canvas_left": 165,
-                "canvas_top": 33,
+                "canvas_left": 323,
                 "width": 30,
                 "height": 30
               },
@@ -1338,7 +1334,7 @@
                 "type": "item",
                 "item": "SevenArt9",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 71,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -1347,7 +1343,7 @@
                 "type": "item",
                 "item": "SevenArt10",
                 "canvas_depth": 1,
-                "canvas_left": 229,
+                "canvas_left": 107,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -1356,7 +1352,7 @@
                 "type": "item",
                 "item": "SevenArt11",
                 "canvas_depth": 1,
-                "canvas_left": 261,
+                "canvas_left": 143,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -1365,7 +1361,7 @@
                 "type": "item",
                 "item": "SevenArt12",
                 "canvas_depth": 1,
-                "canvas_left": 293,
+                "canvas_left": 179,
                 "canvas_top": 33,
                 "width": 30,
                 "height": 30
@@ -1374,7 +1370,8 @@
                 "type": "item",
                 "item": "SevenArt13",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 215,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -1382,7 +1379,8 @@
                 "type": "item",
                 "item": "SevenArt14",
                 "canvas_depth": 1,
-                "canvas_left": 229,
+                "canvas_left": 251,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -1390,7 +1388,8 @@
                 "type": "item",
                 "item": "SevenArt15",
                 "canvas_depth": 1,
-                "canvas_left": 261,
+                "canvas_left": 287,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -1398,7 +1397,8 @@
                 "type": "item",
                 "item": "SevenArt16",
                 "canvas_depth": 1,
-                "canvas_left": 293,
+                "canvas_left": 323,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -1422,37 +1422,1562 @@
                 "type": "item",
                 "item": "SevenSkill2",
                 "canvas_depth": 1,
-                "canvas_left": 63,
+                "canvas_left": 80,
                 "canvas_top": 68,
-                "width": 57,
+                "width": 30,
                 "height": 13
               },
               {
                 "type": "item",
                 "item": "SevenSkill3",
                 "canvas_depth": 1,
-                "canvas_left": 126,
+                "canvas_left": 133,
                 "canvas_top": 68,
-                "width": 65,
+                "width": 45,
                 "height": 13
               },
               {
                 "type": "item",
                 "item": "SevenSkill4",
                 "canvas_depth": 1,
-                "canvas_left": 197,
+                "canvas_left": 201,
                 "canvas_top": 68,
-                "width": 75,
+                "width": 63,
                 "height": 13
               },
               {
                 "type": "item",
                 "item": "SevenSkill5",
                 "canvas_depth": 1,
-                "canvas_left": 278,
+                "canvas_left": 287,
                 "canvas_top": 68,
-                "width": 57,
+                "width": 69,
                 "height": 13
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },"Licenses/Affinity/Reconstruction/Collectapaedia": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0,0,32",
+        "content": [
+          {
+            "type": "canvas",
+            "width": 48,
+            "height": 34,
+            "margin": "1,0",
+            "content": [
+              {
+                "type": "item",
+                "item": "Hunt",
+                "canvas_left": 6,
+                "width": 32,
+                "height": 32
+              },
+              {
+                "type": "item",
+                "item": "C9Hunt",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "TCHunt",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "BLHunt",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "C6Hunt",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "EMHunt",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "SMHunt",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "MaFoHunt",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "ESHunt",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "HETHunt",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "width": 23,
+                "height": 23
+              },
+              {
+                "type": "item",
+                "item": "VMHunt",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "SVHunt",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "GFHunt",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "FAHunt",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "MeFiHunt",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "canvas_left": 26,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "CFHunt",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "AHunt",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "canvas_left": 26,
+                "width": 8,
+                "height": 8
+              },
+              {
+                "type": "item",
+                "item": "BIHunt",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              },
+              {
+                "type": "item",
+                "item": "PIHunt",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              }
+            ]
+          },
+          {
+            "type": "canvas",
+            "width": 48,
+            "height": 34,
+            "margin": "1,0",
+            "content": [
+              {
+                "type": "item",
+                "item": "Veg",
+                "canvas_left": 6,
+                "width": 32,
+                "height": 32
+              },
+              {
+                "type": "item",
+                "item": "C9Veg",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "TCVeg",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "BLVeg",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "C6Veg",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "EMVeg",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "SMVeg",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "MaFoVeg",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "ESVeg",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "HETVeg",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "width": 23,
+                "height": 23
+              },
+              {
+                "type": "item",
+                "item": "VMVeg",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "SVVeg",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "GFVeg",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "FAVeg",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "MeFiVeg",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "canvas_left": 26,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "CFVeg",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "AVeg",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "canvas_left": 26,
+                "width": 8,
+                "height": 8
+              },
+              {
+                "type": "item",
+                "item": "BIVeg",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              },
+              {
+                "type": "item",
+                "item": "PIVeg",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              }
+            ]
+          },
+          {
+            "type": "canvas",
+            "width": 48,
+            "height": 34,
+            "margin": "1,0",
+            "content": [
+              {
+                "type": "item",
+                "item": "Veg",
+                "canvas_left": 6,
+                "width": 32,
+                "height": 32
+              },
+              {
+                "type": "item",
+                "item": "C9Fruit",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "TCFruit",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "BLFruit",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "C6Fruit",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "EMFruit",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "SMFruit",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "MaFoFruit",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "ESFruit",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "HETFruit",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "width": 23,
+                "height": 23
+              },
+              {
+                "type": "item",
+                "item": "VMFruit",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "SVFruit",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "GFFruit",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "FAFruit",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "MeFiFruit",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "canvas_left": 26,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "CFFruit",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "AFruit",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "canvas_left": 26,
+                "width": 8,
+                "height": 8
+              },
+              {
+                "type": "item",
+                "item": "BIFruit",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              },
+              {
+                "type": "item",
+                "item": "PIFruit",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              }
+            ]
+          },
+          {
+            "type": "canvas",
+            "width": 48,
+            "height": 34,
+            "margin": "1,0",
+            "content": [
+              {
+                "type": "item",
+                "item": "Flower",
+                "canvas_left": 6,
+                "width": 32,
+                "height": 32
+              },
+              {
+                "type": "item",
+                "item": "C9Flower",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "TCFlower",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "BLFlower",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "C6Flower",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "EMFlower",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "SMFlower",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "MaFoFlower",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "ESFlower",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "HETFlower",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "width": 23,
+                "height": 23
+              },
+              {
+                "type": "item",
+                "item": "VMFlower",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "SVFlower",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "GFFlower",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "FAFlower",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "MeFiFlower",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "canvas_left": 26,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "CFFlower",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "AFlower",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "canvas_left": 26,
+                "width": 8,
+                "height": 8
+              },
+              {
+                "type": "item",
+                "item": "BIFlower",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              },
+              {
+                "type": "item",
+                "item": "PIFlower",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              }
+            ]
+          },
+          {
+            "type": "canvas",
+            "width": 48,
+            "height": 34,
+            "margin": "1,0",
+            "content": [
+              {
+                "type": "item",
+                "item": "Animal",
+                "canvas_left": 6,
+                "width": 32,
+                "height": 32
+              },
+              {
+                "type": "item",
+                "item": "C9Animal",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "TCAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "BLAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "C6Animal",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "EMAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "SMAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "MaFoAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "ESAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "HETAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "width": 23,
+                "height": 23
+              },
+              {
+                "type": "item",
+                "item": "VMAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "SVAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "GFAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "FAAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "MeFiAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "canvas_left": 26,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "CFAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "AAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "canvas_left": 26,
+                "width": 8,
+                "height": 8
+              },
+              {
+                "type": "item",
+                "item": "BIAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              },
+              {
+                "type": "item",
+                "item": "PIAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              }
+            ]
+          },
+          {
+            "type": "canvas",
+            "width": 48,
+            "height": 34,
+            "margin": "1,0",
+            "content": [
+              {
+                "type": "item",
+                "item": "Bug",
+                "canvas_left": 6,
+                "width": 32,
+                "height": 32
+              },
+              {
+                "type": "item",
+                "item": "C9Bug",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "TCBug",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "BLBug",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "C6Bug",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "EMBug",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "SMBug",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "MaFoBug",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "ESBug",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "HETBug",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "width": 23,
+                "height": 23
+              },
+              {
+                "type": "item",
+                "item": "VMBug",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "SVBug",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "GFBug",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "FABug",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "MeFiBug",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "canvas_left": 26,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "CFBug",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "ABug",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "canvas_left": 26,
+                "width": 8,
+                "height": 8
+              },
+              {
+                "type": "item",
+                "item": "BIBug",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              },
+              {
+                "type": "item",
+                "item": "PIBug",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              }
+            ]
+          },
+          {
+            "type": "canvas",
+            "width": 48,
+            "height": 34,
+            "margin": "1,0",
+            "content": [
+              {
+                "type": "item",
+                "item": "Nature",
+                "canvas_left": 6,
+                "width": 32,
+                "height": 32
+              },
+              {
+                "type": "item",
+                "item": "C9Nature",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "TCNature",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "BLNature",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "C6Nature",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "EMNature",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "SMNature",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "MaFoNature",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "ESNature",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "HETNature",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "width": 23,
+                "height": 23
+              },
+              {
+                "type": "item",
+                "item": "VMNature",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "SVNature",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "GFNature",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "FANature",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "MeFiNature",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "canvas_left": 26,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "CFNature",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "ANature",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "canvas_left": 26,
+                "width": 8,
+                "height": 8
+              },
+              {
+                "type": "item",
+                "item": "BINature",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              },
+              {
+                "type": "item",
+                "item": "PINature",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              }
+            ]
+          },
+          {
+            "type": "canvas",
+            "width": 48,
+            "height": 34,
+            "margin": "1,0",
+            "content": [
+              {
+                "type": "item",
+                "item": "Parts",
+                "canvas_left": 6,
+                "width": 32,
+                "height": 32
+              },
+              {
+                "type": "item",
+                "item": "C9Parts",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "TCParts",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "BLParts",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "C6Parts",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "EMParts",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "SMParts",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "MaFoParts",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "ESParts",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "HETParts",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "width": 23,
+                "height": 23
+              },
+              {
+                "type": "item",
+                "item": "VMParts",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "SVParts",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "GFParts",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "FAParts",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "MeFiParts",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "canvas_left": 26,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "CFParts",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "AParts",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "canvas_left": 26,
+                "width": 8,
+                "height": 8
+              },
+              {
+                "type": "item",
+                "item": "BIParts",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              },
+              {
+                "type": "item",
+                "item": "PIParts",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              }
+            ]
+          },
+          {
+            "type": "canvas",
+            "width": 48,
+            "height": 34,
+            "margin": "1,0",
+            "content": [
+              {
+                "type": "item",
+                "item": "Strange",
+                "canvas_left": 6,
+                "width": 32,
+                "height": 32
+              },
+              {
+                "type": "item",
+                "item": "C9Strange",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "TCStrange",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "BLStrange",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "C6Strange",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "EMStrange",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "SMStrange",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "MaFoStrange",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "ESStrange",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "HETStrange",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "width": 23,
+                "height": 23
+              },
+              {
+                "type": "item",
+                "item": "VMStrange",
+                "canvas_depth": 1,
+                "canvas_top": 34,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "SVStrange",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "GFStrange",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "FAStrange",
+                "canvas_depth": 1,
+                "canvas_top": 70,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "MeFiStrange",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "canvas_left": 26,
+                "width": 17,
+                "height": 17
+              },
+              {
+                "type": "item",
+                "item": "CFStrange",
+                "canvas_depth": 1,
+                "canvas_top": 94,
+                "canvas_left": 26,
+                "width": 14,
+                "height": 14
+              },
+              {
+                "type": "item",
+                "item": "AStrange",
+                "canvas_depth": 1,
+                "canvas_top": 106,
+                "canvas_left": 26,
+                "width": 8,
+                "height": 8
+              },
+              {
+                "type": "item",
+                "item": "BIStrange",
+                "canvas_depth": 1,
+                "canvas_top": 118,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
+              },
+              {
+                "type": "item",
+                "item": "PIStrange",
+                "canvas_depth": 1,
+                "canvas_top": 130,
+                "canvas_left": 26,
+                "width": 12,
+                "height": 12
               }
             ]
           }

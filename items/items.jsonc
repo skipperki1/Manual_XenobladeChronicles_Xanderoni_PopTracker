@@ -1948,108 +1948,1020 @@
     "name": "Colony 9 Hunting License",
     "type": "toggle",
     "img": "images/items/C9.png",
-    "codes": "toggle,Hunt,Colony9"
+    "codes": "toggle,Hunt,Colony9,C9Hunt"
   },
   {
     "name": "Tephra Cave Hunting License",
     "type": "toggle",
     "img": "images/items/TC.png",
-    "codes": "toggle,Hunt,TephraCave"
+    "codes": "toggle,Hunt,TephraCave,TCHunt"
   },
   {
     "name": "Bionis' Leg Hunting License",
     "type": "toggle",
     "img": "images/items/BL.png",
-    "codes": "toggle,Hunt,BionisLeg"
+    "codes": "toggle,Hunt,BionisLeg,BLHunt"
   },
   {
     "name": "Colony 6 Hunting License",
     "type": "toggle",
     "img": "images/items/C6.png",
-    "codes": "toggle,Hunt,Colony6"
+    "codes": "toggle,Hunt,Colony6,C6Hunt"
   },
   {
     "name": "Ether Mine Hunting License",
     "type": "toggle",
     "img": "images/items/EM.png",
-    "codes": "toggle,Hunt,EtherMine"
+    "codes": "toggle,Hunt,EtherMine,EMHunt"
   },
   {
     "name": "Satorl Marsh Hunting License",
     "type": "toggle",
     "img": "images/items/SM.png",
-    "codes": "toggle,Hunt,SatorlMarsh"
+    "codes": "toggle,Hunt,SatorlMarsh,SMHunt"
   },
   {
     "name": "Makna Forest Hunting License",
     "type": "toggle",
     "img": "images/items/MF.png",
-    "codes": "toggle,Hunt,MaknaForest"
+    "codes": "toggle,Hunt,MaknaForest,MaFoHunt"
   },
   {
     "name": "Eryth Sea Hunting License",
     "type": "toggle",
     "img": "images/items/ES.png",
-    "codes": "toggle,Hunt,ErythSea"
+    "codes": "toggle,Hunt,ErythSea,ESHunt"
   },
   {
     "name": "High Entia Tomb Hunting License",
     "type": "toggle",
     "img": "images/items/HET.png",
-    "codes": "toggle,Hunt,HighEntiaTomb"
+    "codes": "toggle,Hunt,HighEntiaTomb,HETHunt"
   },
   {
     "name": "Valak Mountain Hunting License",
     "type": "toggle",
     "img": "images/items/VM.png",
-    "codes": "toggle,Hunt,ValakMountain"
+    "codes": "toggle,Hunt,ValakMountain,VMHunt"
   },
   {
     "name": "Sword Valley Hunting License",
     "type": "toggle",
     "img": "images/items/SV.png",
-    "codes": "toggle,Hunt,Sword Valley"
+    "codes": "toggle,Hunt,Sword Valley,SVHunt"
   },
   {
     "name": "Galahad Fortress Hunting License",
     "type": "toggle",
     "img": "images/items/GF.png",
-    "codes": "toggle,Hunt,GalahadFortress"
+    "codes": "toggle,Hunt,GalahadFortress,GFHunt"
   },
   {
     "name": "Fallen Arm Hunting License",
     "type": "toggle",
     "img": "images/items/FA.png",
-    "codes": "toggle,Hunt,FallenArm"
+    "codes": "toggle,Hunt,FallenArm,FAHunt"
   },
   {
     "name": "Mechonis Field Hunting License",
     "type": "toggle",
     "img": "images/items/MF.png",
-    "codes": "toggle,Hunt,MechonisField"
+    "codes": "toggle,Hunt,MechonisField,MeFiHunt"
   },
   {
     "name": "Central Factory Hunting License",
     "type": "toggle",
     "img": "images/items/CF.png",
-    "codes": "toggle,Hunt,CentralFactory"
+    "codes": "toggle,Hunt,CentralFactory,CFHunt"
   },
   {
     "name": "Agniratha Hunting License",
     "type": "toggle",
     "img": "images/items/A.png",
-    "codes": "toggle,Hunt,Agniratha"
+    "codes": "toggle,Hunt,Agniratha,AHunt"
   },
   {
     "name": "Bionis' Interior Hunting License",
     "type": "toggle",
     "img": "images/items/BI.png",
-    "codes": "toggle,Hunt,BionisInterior"
+    "codes": "toggle,Hunt,BionisInterior,BIHunt"
   },
   {
     "name": "Prison Island Hunting License",
     "type": "toggle",
     "img": "images/items/PI.png",
-    "codes": "toggle,Hunt,PrisonIsland"
+    "codes": "toggle,Hunt,PrisonIsland,PIHunt"
+  },
+  {
+    "name": "Veg Collectopaedia",
+    "type": "static",
+    "img": "images/items/Veg.png",
+    "codes": "static,Veg"
+  },
+  {
+    "name": "Colony 9 Veg",
+    "type": "toggle",
+    "img": "images/items/C9.png",
+    "codes": "toggle,Veg,Colony9,C9Veg"
+  },
+  {
+    "name": "Tephra Cave Veg",
+    "type": "toggle",
+    "img": "images/items/TC.png",
+    "codes": "toggle,Veg,TephraCave,TCVeg"
+  },
+  {
+    "name": "Bionis' Leg Veg",
+    "type": "toggle",
+    "img": "images/items/BL.png",
+    "codes": "toggle,Veg,BionisLeg,BLVeg"
+  },
+  {
+    "name": "Colony 6 Veg",
+    "type": "toggle",
+    "img": "images/items/C6.png",
+    "codes": "toggle,Veg,Colony6,C6Veg"
+  },
+  {
+    "name": "Ether Mine Veg",
+    "type": "toggle",
+    "img": "images/items/EM.png",
+    "codes": "toggle,Veg,EtherMine,EMVeg"
+  },
+  {
+    "name": "Satorl Marsh Veg",
+    "type": "toggle",
+    "img": "images/items/SM.png",
+    "codes": "toggle,Veg,SatorlMarsh,SMVeg"
+  },
+  {
+    "name": "Makna Forest Veg",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Veg,MaknaForest,MaFoVeg"
+  },
+  {
+    "name": "Eryth Sea Veg",
+    "type": "toggle",
+    "img": "images/items/ES.png",
+    "codes": "toggle,Veg,ErythSea,ESVeg"
+  },
+  {
+    "name": "High Entia Tomb Veg",
+    "type": "toggle",
+    "img": "images/items/HET.png",
+    "codes": "toggle,Veg,HighEntiaTomb,HETVeg"
+  },
+  {
+    "name": "Valak Mountain Veg",
+    "type": "toggle",
+    "img": "images/items/VM.png",
+    "codes": "toggle,Veg,ValakMountain,VMVeg"
+  },
+  {
+    "name": "Sword Valley Veg",
+    "type": "toggle",
+    "img": "images/items/SV.png",
+    "codes": "toggle,Veg,Sword Valley,SVVeg"
+  },
+  {
+    "name": "Galahad Fortress Veg",
+    "type": "toggle",
+    "img": "images/items/GF.png",
+    "codes": "toggle,Veg,GalahadFortress,GFVeg"
+  },
+  {
+    "name": "Fallen Arm Veg",
+    "type": "toggle",
+    "img": "images/items/FA.png",
+    "codes": "toggle,Veg,FallenArm,FAVeg"
+  },
+  {
+    "name": "Mechonis Field Veg",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Veg,MechonisField,MeFiVeg"
+  },
+  {
+    "name": "Central Factory Veg",
+    "type": "toggle",
+    "img": "images/items/CF.png",
+    "codes": "toggle,Veg,CentralFactory,CFVeg"
+  },
+  {
+    "name": "Agniratha Veg",
+    "type": "toggle",
+    "img": "images/items/A.png",
+    "codes": "toggle,Veg,Agniratha,AVeg"
+  },
+  {
+    "name": "Bionis' Interior Veg",
+    "type": "toggle",
+    "img": "images/items/BI.png",
+    "codes": "toggle,Veg,BionisInterior,BIVeg"
+  },
+  {
+    "name": "Prison Island Veg",
+    "type": "toggle",
+    "img": "images/items/PI.png",
+    "codes": "toggle,Veg,PrisonIsland,PIVeg"
+  },
+  {
+    "name": "Fruit Collectopaedia",
+    "type": "static",
+    "img": "images/items/Fruit.png",
+    "codes": "static,Fruit"
+  },
+  {
+    "name": "Colony 9 Fruit",
+    "type": "toggle",
+    "img": "images/items/C9.png",
+    "codes": "toggle,Fruit,Colony9,C9Fruit"
+  },
+  {
+    "name": "Tephra Cave Fruit",
+    "type": "toggle",
+    "img": "images/items/TC.png",
+    "codes": "toggle,Fruit,TephraCave,TCFruit"
+  },
+  {
+    "name": "Bionis' Leg Fruit",
+    "type": "toggle",
+    "img": "images/items/BL.png",
+    "codes": "toggle,Fruit,BionisLeg,BLFruit"
+  },
+  {
+    "name": "Colony 6 Fruit",
+    "type": "toggle",
+    "img": "images/items/C6.png",
+    "codes": "toggle,Fruit,Colony6,C6Fruit"
+  },
+  {
+    "name": "Ether Mine Fruit",
+    "type": "toggle",
+    "img": "images/items/EM.png",
+    "codes": "toggle,Fruit,EtherMine,EMFruit"
+  },
+  {
+    "name": "Satorl Marsh Fruit",
+    "type": "toggle",
+    "img": "images/items/SM.png",
+    "codes": "toggle,Fruit,SatorlMarsh,SMFruit"
+  },
+  {
+    "name": "Makna Forest Fruit",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Fruit,MaknaForest,MaFoFruit"
+  },
+  {
+    "name": "Eryth Sea Fruit",
+    "type": "toggle",
+    "img": "images/items/ES.png",
+    "codes": "toggle,Fruit,ErythSea,ESFruit"
+  },
+  {
+    "name": "High Entia Tomb Fruit",
+    "type": "toggle",
+    "img": "images/items/HET.png",
+    "codes": "toggle,Fruit,HighEntiaTomb,HETFruit"
+  },
+  {
+    "name": "Valak Mountain Fruit",
+    "type": "toggle",
+    "img": "images/items/VM.png",
+    "codes": "toggle,Fruit,ValakMountain,VMFruit"
+  },
+  {
+    "name": "Sword Valley Fruit",
+    "type": "toggle",
+    "img": "images/items/SV.png",
+    "codes": "toggle,Fruit,Sword Valley,SVFruit"
+  },
+  {
+    "name": "Galahad Fortress Fruit",
+    "type": "toggle",
+    "img": "images/items/GF.png",
+    "codes": "toggle,Fruit,GalahadFortress,GFFruit"
+  },
+  {
+    "name": "Fallen Arm Fruit",
+    "type": "toggle",
+    "img": "images/items/FA.png",
+    "codes": "toggle,Fruit,FallenArm,FAFruit"
+  },
+  {
+    "name": "Mechonis Field Fruit",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Fruit,MechonisField,MeFiFruit"
+  },
+  {
+    "name": "Central Factory Fruit",
+    "type": "toggle",
+    "img": "images/items/CF.png",
+    "codes": "toggle,Fruit,CentralFactory,CFFruit"
+  },
+  {
+    "name": "Agniratha Fruit",
+    "type": "toggle",
+    "img": "images/items/A.png",
+    "codes": "toggle,Fruit,Agniratha,AFruit"
+  },
+  {
+    "name": "Bionis' Interior Fruit",
+    "type": "toggle",
+    "img": "images/items/BI.png",
+    "codes": "toggle,Fruit,BionisInterior,BIFruit"
+  },
+  {
+    "name": "Prison Island Fruit",
+    "type": "toggle",
+    "img": "images/items/PI.png",
+    "codes": "toggle,Fruit,PrisonIsland,PIFruit"
+  },
+  {
+    "name": "Flower Collectopaedia",
+    "type": "static",
+    "img": "images/items/Flower.png",
+    "codes": "static,Flower"
+  },
+  {
+    "name": "Colony 9 Flower",
+    "type": "toggle",
+    "img": "images/items/C9.png",
+    "codes": "toggle,Flower,Colony9,C9Flower"
+  },
+  {
+    "name": "Tephra Cave Flower",
+    "type": "toggle",
+    "img": "images/items/TC.png",
+    "codes": "toggle,Flower,TephraCave,TCFlower"
+  },
+  {
+    "name": "Bionis' Leg Flower",
+    "type": "toggle",
+    "img": "images/items/BL.png",
+    "codes": "toggle,Flower,BionisLeg,BLFlower"
+  },
+  {
+    "name": "Colony 6 Flower",
+    "type": "toggle",
+    "img": "images/items/C6.png",
+    "codes": "toggle,Flower,Colony6,C6Flower"
+  },
+  {
+    "name": "Ether Mine Flower",
+    "type": "toggle",
+    "img": "images/items/EM.png",
+    "codes": "toggle,Flower,EtherMine,EMFlower"
+  },
+  {
+    "name": "Satorl Marsh Flower",
+    "type": "toggle",
+    "img": "images/items/SM.png",
+    "codes": "toggle,Flower,SatorlMarsh,SMFlower"
+  },
+  {
+    "name": "Makna Forest Flower",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Flower,MaknaForest,MaFoFlower"
+  },
+  {
+    "name": "Eryth Sea Flower",
+    "type": "toggle",
+    "img": "images/items/ES.png",
+    "codes": "toggle,Flower,ErythSea,ESFlower"
+  },
+  {
+    "name": "High Entia Tomb Flower",
+    "type": "toggle",
+    "img": "images/items/HET.png",
+    "codes": "toggle,Flower,HighEntiaTomb,HETFlower"
+  },
+  {
+    "name": "Valak Mountain Flower",
+    "type": "toggle",
+    "img": "images/items/VM.png",
+    "codes": "toggle,Flower,ValakMountain,VMFlower"
+  },
+  {
+    "name": "Sword Valley Flower",
+    "type": "toggle",
+    "img": "images/items/SV.png",
+    "codes": "toggle,Flower,Sword Valley,SVFlower"
+  },
+  {
+    "name": "Galahad Fortress Flower",
+    "type": "toggle",
+    "img": "images/items/GF.png",
+    "codes": "toggle,Flower,GalahadFortress,GFFlower"
+  },
+  {
+    "name": "Fallen Arm Flower",
+    "type": "toggle",
+    "img": "images/items/FA.png",
+    "codes": "toggle,Flower,FallenArm,FAFlower"
+  },
+  {
+    "name": "Mechonis Field Flower",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Flower,MechonisField,MeFiFlower"
+  },
+  {
+    "name": "Central Factory Flower",
+    "type": "toggle",
+    "img": "images/items/CF.png",
+    "codes": "toggle,Flower,CentralFactory,CFFlower"
+  },
+  {
+    "name": "Agniratha Flower",
+    "type": "toggle",
+    "img": "images/items/A.png",
+    "codes": "toggle,Flower,Agniratha,AFlower"
+  },
+  {
+    "name": "Bionis' Interior Flower",
+    "type": "toggle",
+    "img": "images/items/BI.png",
+    "codes": "toggle,Flower,BionisInterior,BIFlower"
+  },
+  {
+    "name": "Prison Island Flower",
+    "type": "toggle",
+    "img": "images/items/PI.png",
+    "codes": "toggle,Flower,PrisonIsland,PIFlower"
+  },
+  {
+    "name": "Animal Collectopaedia",
+    "type": "static",
+    "img": "images/items/Animal.png",
+    "codes": "static,Animal"
+  },
+  {
+    "name": "Colony 9 Animal",
+    "type": "toggle",
+    "img": "images/items/C9.png",
+    "codes": "toggle,Animal,Colony9,C9Animal"
+  },
+  {
+    "name": "Tephra Cave Animal",
+    "type": "toggle",
+    "img": "images/items/TC.png",
+    "codes": "toggle,Animal,TephraCave,TCAnimal"
+  },
+  {
+    "name": "Bionis' Leg Animal",
+    "type": "toggle",
+    "img": "images/items/BL.png",
+    "codes": "toggle,Animal,BionisLeg,BLAnimal"
+  },
+  {
+    "name": "Colony 6 Animal",
+    "type": "toggle",
+    "img": "images/items/C6.png",
+    "codes": "toggle,Animal,Colony6,C6Animal"
+  },
+  {
+    "name": "Ether Mine Animal",
+    "type": "toggle",
+    "img": "images/items/EM.png",
+    "codes": "toggle,Animal,EtherMine,EMAnimal"
+  },
+  {
+    "name": "Satorl Marsh Animal",
+    "type": "toggle",
+    "img": "images/items/SM.png",
+    "codes": "toggle,Animal,SatorlMarsh,SMAnimal"
+  },
+  {
+    "name": "Makna Forest Animal",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Animal,MaknaForest,MaFoAnimal"
+  },
+  {
+    "name": "Eryth Sea Animal",
+    "type": "toggle",
+    "img": "images/items/ES.png",
+    "codes": "toggle,Animal,ErythSea,ESAnimal"
+  },
+  {
+    "name": "High Entia Tomb Animal",
+    "type": "toggle",
+    "img": "images/items/HET.png",
+    "codes": "toggle,Animal,HighEntiaTomb,HETAnimal"
+  },
+  {
+    "name": "Valak Mountain Animal",
+    "type": "toggle",
+    "img": "images/items/VM.png",
+    "codes": "toggle,Animal,ValakMountain,VMAnimal"
+  },
+  {
+    "name": "Sword Valley Animal",
+    "type": "toggle",
+    "img": "images/items/SV.png",
+    "codes": "toggle,Animal,Sword Valley,SVAnimal"
+  },
+  {
+    "name": "Galahad Fortress Animal",
+    "type": "toggle",
+    "img": "images/items/GF.png",
+    "codes": "toggle,Animal,GalahadFortress,GFAnimal"
+  },
+  {
+    "name": "Fallen Arm Animal",
+    "type": "toggle",
+    "img": "images/items/FA.png",
+    "codes": "toggle,Animal,FallenArm,FAAnimal"
+  },
+  {
+    "name": "Mechonis Field Animal",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Animal,MechonisField,MeFiAnimal"
+  },
+  {
+    "name": "Central Factory Animal",
+    "type": "toggle",
+    "img": "images/items/CF.png",
+    "codes": "toggle,Animal,CentralFactory,CFAnimal"
+  },
+  {
+    "name": "Agniratha Animal",
+    "type": "toggle",
+    "img": "images/items/A.png",
+    "codes": "toggle,Animal,Agniratha,AAnimal"
+  },
+  {
+    "name": "Bionis' Interior Animal",
+    "type": "toggle",
+    "img": "images/items/BI.png",
+    "codes": "toggle,Animal,BionisInterior,BIAnimal"
+  },
+  {
+    "name": "Prison Island Animal",
+    "type": "toggle",
+    "img": "images/items/PI.png",
+    "codes": "toggle,Animal,PrisonIsland,PIAnimal"
+  },
+  {
+    "name": "Bug Collectopaedia",
+    "type": "static",
+    "img": "images/items/Bug.png",
+    "codes": "static,Bug"
+  },
+  {
+    "name": "Colony 9 Bug",
+    "type": "toggle",
+    "img": "images/items/C9.png",
+    "codes": "toggle,Bug,Colony9,C9Bug"
+  },
+  {
+    "name": "Tephra Cave Bug",
+    "type": "toggle",
+    "img": "images/items/TC.png",
+    "codes": "toggle,Bug,TephraCave,TCBug"
+  },
+  {
+    "name": "Bionis' Leg Bug",
+    "type": "toggle",
+    "img": "images/items/BL.png",
+    "codes": "toggle,Bug,BionisLeg,BLBug"
+  },
+  {
+    "name": "Colony 6 Bug",
+    "type": "toggle",
+    "img": "images/items/C6.png",
+    "codes": "toggle,Bug,Colony6,C6Bug"
+  },
+  {
+    "name": "Ether Mine Bug",
+    "type": "toggle",
+    "img": "images/items/EM.png",
+    "codes": "toggle,Bug,EtherMine,EMBug"
+  },
+  {
+    "name": "Satorl Marsh Bug",
+    "type": "toggle",
+    "img": "images/items/SM.png",
+    "codes": "toggle,Bug,SatorlMarsh,SMBug"
+  },
+  {
+    "name": "Makna Forest Bug",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Bug,MaknaForest,MaFoBug"
+  },
+  {
+    "name": "Eryth Sea Bug",
+    "type": "toggle",
+    "img": "images/items/ES.png",
+    "codes": "toggle,Bug,ErythSea,ESBug"
+  },
+  {
+    "name": "High Entia Tomb Bug",
+    "type": "toggle",
+    "img": "images/items/HET.png",
+    "codes": "toggle,Bug,HighEntiaTomb,HETBug"
+  },
+  {
+    "name": "Valak Mountain Bug",
+    "type": "toggle",
+    "img": "images/items/VM.png",
+    "codes": "toggle,Bug,ValakMountain,VMBug"
+  },
+  {
+    "name": "Sword Valley Bug",
+    "type": "toggle",
+    "img": "images/items/SV.png",
+    "codes": "toggle,Bug,Sword Valley,SVBug"
+  },
+  {
+    "name": "Galahad Fortress Bug",
+    "type": "toggle",
+    "img": "images/items/GF.png",
+    "codes": "toggle,Bug,GalahadFortress,GFBug"
+  },
+  {
+    "name": "Fallen Arm Bug",
+    "type": "toggle",
+    "img": "images/items/FA.png",
+    "codes": "toggle,Bug,FallenArm,FABug"
+  },
+  {
+    "name": "Mechonis Field Bug",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Bug,MechonisField,MeFiBug"
+  },
+  {
+    "name": "Central Factory Bug",
+    "type": "toggle",
+    "img": "images/items/CF.png",
+    "codes": "toggle,Bug,CentralFactory,CFBug"
+  },
+  {
+    "name": "Agniratha Bug",
+    "type": "toggle",
+    "img": "images/items/A.png",
+    "codes": "toggle,Bug,Agniratha,ABug"
+  },
+  {
+    "name": "Bionis' Interior Bug",
+    "type": "toggle",
+    "img": "images/items/BI.png",
+    "codes": "toggle,Bug,BionisInterior,BIBug"
+  },
+  {
+    "name": "Prison Island Bug",
+    "type": "toggle",
+    "img": "images/items/PI.png",
+    "codes": "toggle,Bug,PrisonIsland,PIBug"
+  },
+  {
+    "name": "Nature Collectopaedia",
+    "type": "static",
+    "img": "images/items/Nature.png",
+    "codes": "static,Nature"
+  },
+  {
+    "name": "Colony 9 Nature",
+    "type": "toggle",
+    "img": "images/items/C9.png",
+    "codes": "toggle,Nature,Colony9,C9Nature"
+  },
+  {
+    "name": "Tephra Cave Nature",
+    "type": "toggle",
+    "img": "images/items/TC.png",
+    "codes": "toggle,Nature,TephraCave,TCNature"
+  },
+  {
+    "name": "Bionis' Leg Nature",
+    "type": "toggle",
+    "img": "images/items/BL.png",
+    "codes": "toggle,Nature,BionisLeg,BLNature"
+  },
+  {
+    "name": "Colony 6 Nature",
+    "type": "toggle",
+    "img": "images/items/C6.png",
+    "codes": "toggle,Nature,Colony6,C6Nature"
+  },
+  {
+    "name": "Ether Mine Nature",
+    "type": "toggle",
+    "img": "images/items/EM.png",
+    "codes": "toggle,Nature,EtherMine,EMNature"
+  },
+  {
+    "name": "Satorl Marsh Nature",
+    "type": "toggle",
+    "img": "images/items/SM.png",
+    "codes": "toggle,Nature,SatorlMarsh,SMNature"
+  },
+  {
+    "name": "Makna Forest Nature",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Nature,MaknaForest,MaFoNature"
+  },
+  {
+    "name": "Eryth Sea Nature",
+    "type": "toggle",
+    "img": "images/items/ES.png",
+    "codes": "toggle,Nature,ErythSea,ESNature"
+  },
+  {
+    "name": "High Entia Tomb Nature",
+    "type": "toggle",
+    "img": "images/items/HET.png",
+    "codes": "toggle,Nature,HighEntiaTomb,HETNature"
+  },
+  {
+    "name": "Valak Mountain Nature",
+    "type": "toggle",
+    "img": "images/items/VM.png",
+    "codes": "toggle,Nature,ValakMountain,VMNature"
+  },
+  {
+    "name": "Sword Valley Nature",
+    "type": "toggle",
+    "img": "images/items/SV.png",
+    "codes": "toggle,Nature,Sword Valley,SVNature"
+  },
+  {
+    "name": "Galahad Fortress Nature",
+    "type": "toggle",
+    "img": "images/items/GF.png",
+    "codes": "toggle,Nature,GalahadFortress,GFNature"
+  },
+  {
+    "name": "Fallen Arm Nature",
+    "type": "toggle",
+    "img": "images/items/FA.png",
+    "codes": "toggle,Nature,FallenArm,FANature"
+  },
+  {
+    "name": "Mechonis Field Nature",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Nature,MechonisField,MeFiNature"
+  },
+  {
+    "name": "Central Factory Nature",
+    "type": "toggle",
+    "img": "images/items/CF.png",
+    "codes": "toggle,Nature,CentralFactory,CFNature"
+  },
+  {
+    "name": "Agniratha Nature",
+    "type": "toggle",
+    "img": "images/items/A.png",
+    "codes": "toggle,Nature,Agniratha,ANature"
+  },
+  {
+    "name": "Bionis' Interior Nature",
+    "type": "toggle",
+    "img": "images/items/BI.png",
+    "codes": "toggle,Nature,BionisInterior,BINature"
+  },
+  {
+    "name": "Prison Island Nature",
+    "type": "toggle",
+    "img": "images/items/PI.png",
+    "codes": "toggle,Nature,PrisonIsland,PINature"
+  },
+  {
+    "name": "Parts Collectopaedia",
+    "type": "static",
+    "img": "images/items/Parts.png",
+    "codes": "static,Parts"
+  },
+  {
+    "name": "Colony 9 Parts",
+    "type": "toggle",
+    "img": "images/items/C9.png",
+    "codes": "toggle,Parts,Colony9,C9Parts"
+  },
+  {
+    "name": "Tephra Cave Parts",
+    "type": "toggle",
+    "img": "images/items/TC.png",
+    "codes": "toggle,Parts,TephraCave,TCParts"
+  },
+  {
+    "name": "Bionis' Leg Parts",
+    "type": "toggle",
+    "img": "images/items/BL.png",
+    "codes": "toggle,Parts,BionisLeg,BLParts"
+  },
+  {
+    "name": "Colony 6 Parts",
+    "type": "toggle",
+    "img": "images/items/C6.png",
+    "codes": "toggle,Parts,Colony6,C6Parts"
+  },
+  {
+    "name": "Ether Mine Parts",
+    "type": "toggle",
+    "img": "images/items/EM.png",
+    "codes": "toggle,Parts,EtherMine,EMParts"
+  },
+  {
+    "name": "Satorl Marsh Parts",
+    "type": "toggle",
+    "img": "images/items/SM.png",
+    "codes": "toggle,Parts,SatorlMarsh,SMParts"
+  },
+  {
+    "name": "Makna Forest Parts",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Parts,MaknaForest,MaFoParts"
+  },
+  {
+    "name": "Eryth Sea Parts",
+    "type": "toggle",
+    "img": "images/items/ES.png",
+    "codes": "toggle,Parts,ErythSea,ESParts"
+  },
+  {
+    "name": "High Entia Tomb Parts",
+    "type": "toggle",
+    "img": "images/items/HET.png",
+    "codes": "toggle,Parts,HighEntiaTomb,HETParts"
+  },
+  {
+    "name": "Valak Mountain Parts",
+    "type": "toggle",
+    "img": "images/items/VM.png",
+    "codes": "toggle,Parts,ValakMountain,VMParts"
+  },
+  {
+    "name": "Sword Valley Parts",
+    "type": "toggle",
+    "img": "images/items/SV.png",
+    "codes": "toggle,Parts,Sword Valley,SVParts"
+  },
+  {
+    "name": "Galahad Fortress Parts",
+    "type": "toggle",
+    "img": "images/items/GF.png",
+    "codes": "toggle,Parts,GalahadFortress,GFParts"
+  },
+  {
+    "name": "Fallen Arm Parts",
+    "type": "toggle",
+    "img": "images/items/FA.png",
+    "codes": "toggle,Parts,FallenArm,FAParts"
+  },
+  {
+    "name": "Mechonis Field Parts",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Parts,MechonisField,MeFiParts"
+  },
+  {
+    "name": "Central Factory Parts",
+    "type": "toggle",
+    "img": "images/items/CF.png",
+    "codes": "toggle,Parts,CentralFactory,CFParts"
+  },
+  {
+    "name": "Agniratha Parts",
+    "type": "toggle",
+    "img": "images/items/A.png",
+    "codes": "toggle,Parts,Agniratha,AParts"
+  },
+  {
+    "name": "Bionis' Interior Parts",
+    "type": "toggle",
+    "img": "images/items/BI.png",
+    "codes": "toggle,Parts,BionisInterior,BIParts"
+  },
+  {
+    "name": "Prison Island Parts",
+    "type": "toggle",
+    "img": "images/items/PI.png",
+    "codes": "toggle,Parts,PrisonIsland,PIParts"
+  },
+  {
+    "name": "Strange Collectopaedia",
+    "type": "static",
+    "img": "images/items/Strange.png",
+    "codes": "static,Strange"
+  },
+  {
+    "name": "Colony 9 Strange",
+    "type": "toggle",
+    "img": "images/items/C9.png",
+    "codes": "toggle,Strange,Colony9,C9Strange"
+  },
+  {
+    "name": "Tephra Cave Strange",
+    "type": "toggle",
+    "img": "images/items/TC.png",
+    "codes": "toggle,Strange,TephraCave,TCStrange"
+  },
+  {
+    "name": "Bionis' Leg Strange",
+    "type": "toggle",
+    "img": "images/items/BL.png",
+    "codes": "toggle,Strange,BionisLeg,BLStrange"
+  },
+  {
+    "name": "Colony 6 Strange",
+    "type": "toggle",
+    "img": "images/items/C6.png",
+    "codes": "toggle,Strange,Colony6,C6Strange"
+  },
+  {
+    "name": "Ether Mine Strange",
+    "type": "toggle",
+    "img": "images/items/EM.png",
+    "codes": "toggle,Strange,EtherMine,EMStrange"
+  },
+  {
+    "name": "Satorl Marsh Strange",
+    "type": "toggle",
+    "img": "images/items/SM.png",
+    "codes": "toggle,Strange,SatorlMarsh,SMStrange"
+  },
+  {
+    "name": "Makna Forest Strange",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Strange,MaknaForest,MaFoStrange"
+  },
+  {
+    "name": "Eryth Sea Strange",
+    "type": "toggle",
+    "img": "images/items/ES.png",
+    "codes": "toggle,Strange,ErythSea,ESStrange"
+  },
+  {
+    "name": "High Entia Tomb Strange",
+    "type": "toggle",
+    "img": "images/items/HET.png",
+    "codes": "toggle,Strange,HighEntiaTomb,HETStrange"
+  },
+  {
+    "name": "Valak Mountain Strange",
+    "type": "toggle",
+    "img": "images/items/VM.png",
+    "codes": "toggle,Strange,ValakMountain,VMStrange"
+  },
+  {
+    "name": "Sword Valley Strange",
+    "type": "toggle",
+    "img": "images/items/SV.png",
+    "codes": "toggle,Strange,Sword Valley,SVStrange"
+  },
+  {
+    "name": "Galahad Fortress Strange",
+    "type": "toggle",
+    "img": "images/items/GF.png",
+    "codes": "toggle,Strange,GalahadFortress,GFStrange"
+  },
+  {
+    "name": "Fallen Arm Strange",
+    "type": "toggle",
+    "img": "images/items/FA.png",
+    "codes": "toggle,Strange,FallenArm,FAStrange"
+  },
+  {
+    "name": "Mechonis Field Strange",
+    "type": "toggle",
+    "img": "images/items/MF.png",
+    "codes": "toggle,Strange,MechonisField,MeFiStrange"
+  },
+  {
+    "name": "Central Factory Strange",
+    "type": "toggle",
+    "img": "images/items/CF.png",
+    "codes": "toggle,Strange,CentralFactory,CFStrange"
+  },
+  {
+    "name": "Agniratha Strange",
+    "type": "toggle",
+    "img": "images/items/A.png",
+    "codes": "toggle,Strange,Agniratha,AStrange"
+  },
+  {
+    "name": "Bionis' Interior Strange",
+    "type": "toggle",
+    "img": "images/items/BI.png",
+    "codes": "toggle,Strange,BionisInterior,BIStrange"
+  },
+  {
+    "name": "Prison Island Strange",
+    "type": "toggle",
+    "img": "images/items/PI.png",
+    "codes": "toggle,Strange,PrisonIsland,PIStrange"
   }
 ]

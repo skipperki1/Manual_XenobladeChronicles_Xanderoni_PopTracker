@@ -30,6 +30,15 @@
                 "type": "layout",
                 "key": "Characters"
               }
+            },
+            {
+              "type": "group",
+              "header": "Licenses/Affinity/Reconstruction/Collectapaedia",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "Licenses/Affinity/Reconstruction/Collectapaedia"
+              }
             }
           ]
         },
