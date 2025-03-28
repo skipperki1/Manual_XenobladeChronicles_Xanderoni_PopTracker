@@ -1459,7 +1459,7 @@
         ]
       }
     ]
-  },"Licenses/Affinity/Reconstruction/Collectapaedia": {
+  },"Licenses/Collectapaedia": {
     "type": "array",
     "orientation": "horizontal",
     "margin": "0,0",
@@ -1467,11 +1467,11 @@
       {
         "type": "array",
         "orientation": "horizontal",
-        "margin": "0,0,0,32",
+        "margin": "0,0",
         "content": [
           {
             "type": "canvas",
-            "width": 48,
+            "width": 44,
             "height": 34,
             "margin": "1,0",
             "content": [
@@ -1639,7 +1639,7 @@
           },
           {
             "type": "canvas",
-            "width": 48,
+            "width": 44,
             "height": 34,
             "margin": "1,0",
             "content": [
@@ -1807,13 +1807,13 @@
           },
           {
             "type": "canvas",
-            "width": 48,
+            "width": 44,
             "height": 34,
             "margin": "1,0",
             "content": [
               {
                 "type": "item",
-                "item": "Veg",
+                "item": "Fruit",
                 "canvas_left": 6,
                 "width": 32,
                 "height": 32
@@ -1975,7 +1975,7 @@
           },
           {
             "type": "canvas",
-            "width": 48,
+            "width": 44,
             "height": 34,
             "margin": "1,0",
             "content": [
@@ -2143,7 +2143,7 @@
           },
           {
             "type": "canvas",
-            "width": 48,
+            "width": 44,
             "height": 34,
             "margin": "1,0",
             "content": [
@@ -2311,7 +2311,7 @@
           },
           {
             "type": "canvas",
-            "width": 48,
+            "width": 44,
             "height": 34,
             "margin": "1,0",
             "content": [
@@ -2479,7 +2479,7 @@
           },
           {
             "type": "canvas",
-            "width": 48,
+            "width": 44,
             "height": 34,
             "margin": "1,0",
             "content": [
@@ -2647,7 +2647,7 @@
           },
           {
             "type": "canvas",
-            "width": 48,
+            "width": 44,
             "height": 34,
             "margin": "1,0",
             "content": [
@@ -2815,7 +2815,7 @@
           },
           {
             "type": "canvas",
-            "width": 48,
+            "width": 44,
             "height": 34,
             "margin": "1,0",
             "content": [

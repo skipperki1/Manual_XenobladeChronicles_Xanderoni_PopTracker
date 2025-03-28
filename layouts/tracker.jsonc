@@ -15,15 +15,6 @@
           "content": [
             {
               "type": "group",
-              "header": "Items",
-              "dock": "top",
-              "content": {
-                "type": "layout",
-                "key": "shared_item_grid"
-              }
-            },
-            {
-              "type": "group",
               "header": "Party",
               "dock": "top",
               "content": {
@@ -33,11 +24,20 @@
             },
             {
               "type": "group",
-              "header": "Licenses/Affinity/Reconstruction/Collectapaedia",
+              "header": "Items/Affinity/Reconstruction",
               "dock": "top",
               "content": {
                 "type": "layout",
-                "key": "Licenses/Affinity/Reconstruction/Collectapaedia"
+                "key": "shared_item_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Licenses/Collectapaedia",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "Licenses/Collectapaedia"
               }
             }
           ]
