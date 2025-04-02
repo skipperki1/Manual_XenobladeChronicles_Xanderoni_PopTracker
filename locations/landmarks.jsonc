@@ -1,0 +1,185 @@
+[
+  {
+    "name": "Colony 9 Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "children": [
+      {
+        "name": "Gem Man's Stall",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 480,
+            "y": 300,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Mechon Wreckage Site",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 187,
+            "y": 84,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Main Entrance (Colony 9)",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 383,
+            "y": 362,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Ether Light",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 462,
+            "y": 358,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Central Plaza",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 598,
+            "y": 305,
+            "size": 8
+          },
+          {
+            "map": "C9Full",
+            "x": 598,
+            "y": 305,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Fortress Entrance",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 591,
+            "y": 229,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Tranquil Square",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 540,
+            "y": 441,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Outlook Park",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 436,
+            "y": 558,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Tephra Cave Entrance",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 74,
+            "y": 301,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Cylinder Hanger",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 75,
+            "y": 102,
+            "size": 8
+          }
+        ]
+      }
+    ]
+  }
+]

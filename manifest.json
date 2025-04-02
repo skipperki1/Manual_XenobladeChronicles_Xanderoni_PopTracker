@@ -9,12 +9,9 @@
   "variants": {
     "standard": {
       "display_name": "Map Tracker",
-      "flags": [
-        "ap",
-        "apmanual"
-      ]
+      "flags": ["apmanual"]
     },
-    "var_itemsonly": {
+    "var_artsanity": {
       "display_name": "Map Tracker (Artsanity)",
       "flags": [
         "ap"

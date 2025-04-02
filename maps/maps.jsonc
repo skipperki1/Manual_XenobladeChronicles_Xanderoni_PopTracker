@@ -1,15 +1,75 @@
 [
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
   {
-    "name": "Colony9",
+    "name": "C9Full",
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/Colony9.png"
   },
   {
-    "name": "AreaAffinity",
+    "name": "C9UM",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/AreaAffinityMap.png"
+    "img": "images/maps/Colony9.png"
+  },
+  {
+    "name": "C9Q",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Colony9.png"
+  },
+  {
+    "name": "C9NPC",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Colony9.png"
+  },
+  {
+    "name": "C9H2H",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Colony9.png"
+  },
+  {
+    "name": "C9LM",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/Colony9.png"
+  },
+  {
+    "name": "TCFull",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/TephraCave.png"
+  },
+  {
+    "name": "TCLM",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/TephraCave.png"
+  },
+  {
+    "name": "TCUM",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/TephraCave.png"
+  },
+  {
+    "name": "TCQ",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/TephraCave.png"
+  },
+  {
+    "name": "TCNPC",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/TephraCave.png"
+  },
+  {
+    "name": "TCH2H",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/TephraCave.png"
   }
 ]

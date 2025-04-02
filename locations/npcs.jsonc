@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Colony 9 NPCs",
+    "chest_unopened_img": "images/npcs/MetNPC.png",
+    "children": [
+      {
+        "name": "Mechon Wreckage Site",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Werner",
+            "chest_opened_img": "images/npcs/Werner.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9NPC",
+            "x": 187,
+            "y": 84,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Residential District (West)",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Jackson (AM)",
+            "chest_opened_img": "images/npcs/Jackson.png"
+          },
+          {
+            "name": "Lukas (AM)",
+            "chest_opened_img": "images/npcs/Lukas.png"
+          },
+          {
+            "name": "Minnie (PM)",
+            "chest_opened_img": "images/npcs/Minnie.png"
+          },
+          {
+            "name": "Moritz (AM)",
+            "chest_opened_img": "images/npcs/Moritz.png"
+          },
+          {
+            "name": "Narine (AM)",
+            "chest_opened_img": "images/npcs/Narine.png"
+          },
+          {
+            "name": "Niranira (AM)",
+            "chest_opened_img": "images/npcs/Niranira.png"
+          },
+          {
+            "name": "Suzanna (AM)",
+            "chest_opened_img": "images/npcs/Suzanna.png"
+          },
+          {
+            "name": "Zukazu (PM)",
+            "chest_opened_img": "images/npcs/Zukazu.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9NPC",
+            "x": 496,
+            "y": 471,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Residential District (South)",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Dionysis (AM)",
+            "chest_opened_img": "images/npcs/Dionysis.png"
+          },
+          {
+            "name": "Jolele (PM)",
+            "chest_opened_img": "images/npcs/Jolele.png"
+          },
+          {
+            "name": "Jiroque (PM)",
+            "chest_opened_img": "images/npcs/Jiroque.png"
+          },
+          {
+            "name": "Peppino (PM)",
+            "chest_opened_img": "images/npcs/Peppino.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9NPC",
+            "x": 540,
+            "y": 480,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Tranquil Square",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Kenny Rohan (AM)",
+            "chest_opened_img": "images/npcs/KennyRohan.png"
+          },
+          {
+            "name": "Betty (AM)",
+            "chest_opened_img": "images/npcs/Betty.png"
+          },
+          {
+            "name": "Francoise (AM)",
+            "chest_opened_img": "images/npcs/Francoise.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9NPC",
+            "x": 540,
+            "y": 441,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Gem Man's Stall",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Paola (AM)",
+            "chest_opened_img": "images/npcs/Paola.png"
+          },
+          {
+            "name": "Rocco (AM)",
+            "chest_opened_img": "images/npcs/Rocco.png"
+          },
+          {
+            "name": "Oleksiy (PM)",
+            "chest_opened_img": "images/npcs/Oleksiy.png"
+          },
+          {
+            "name": "Rosemary (PM)",
+            "chest_opened_img": "images/npcs/Rosemary.png"
+          },
+          {
+            "name": "Sesame (PM)",
+            "chest_opened_img": "images/npcs/Sesame.png"
+          },
+          {
+            "name": "King Squeeze (PM)",
+            "chest_opened_img": "images/npcs/KingSqueeze.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9NPC",
+            "x": 479,
+            "y": 303,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Ether Light",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Cheryl (AM)",
+            "chest_opened_img": "images/npcs/Cheryl.png"
+          },
+          {
+            "name": "Marcia (AM)",
+            "chest_opened_img": "images/npcs/Marcia.png"
+          },
+          {
+            "name": "Sonia (AM)",
+            "chest_opened_img": "images/npcs/Sonia.png"
+          },
+          {
+            "name": "Giorgio (AM)",
+            "chest_opened_img": "images/npcs/Giorgio.png"
+          },
+          {
+            "name": "Desiree (PM)",
+            "chest_opened_img": "images/npcs/Desiree.png"
+          },
+          {
+            "name": "Shura (PM)",
+            "chest_opened_img": "images/npcs/Shura.png"
+          },
+          {
+            "name": "Leopold (PM)",
+            "chest_opened_img": "images/npcs/Leopold.png"
+          },
+          {
+            "name": "Sylviane (PM)",
+            "chest_opened_img": "images/npcs/Sylviane.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9NPC",
+            "x": 462,
+            "y": 358,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Dunban's House",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Dorothy (AM)",
+            "chest_opened_img": "images/npcs/Dorothy.png"
+          },
+          {
+            "name": "Liliana (AM)",
+            "chest_opened_img": "images/npcs/Liliana.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9NPC",
+            "x": 405,
+            "y": 335,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Fortress Entrance|Weapons Dev. Lab",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Raoul (AM)",
+            "chest_opened_img": "images/npcs/Raoul.png"
+          },
+          {
+            "name": "Jan (AM)",
+            "chest_opened_img": "images/npcs/Jan.png"
+          },
+          {
+            "name": "Miller (AM)",
+            "chest_opened_img": "images/npcs/Miller.png"
+          },
+          {
+            "name": "Dean (AM)",
+            "chest_opened_img": "images/npcs/Dean.png"
+          },
+          {
+            "name": "Mefimefi (PM)",
+            "chest_opened_img": "images/npcs/Mefimefi.png"
+          },
+          {
+            "name": "Arnaut (PM)",
+            "chest_opened_img": "images/npcs/Arnaut.png"
+          },
+          {
+            "name": "Erik (20:00)",
+            "chest_opened_img": "images/npcs/Erik.png"
+          },
+          {
+            "name": "Perrine (20:00)",
+            "chest_opened_img": "images/npcs/Perrine.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9NPC",
+            "x": 592,
+            "y": 210,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Military District (Rear)",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Emmy Leater (AM)",
+            "chest_opened_img": "images/npcs/EmmyLeater.png"
+          },
+          {
+            "name": "Kantz (AM)",
+            "chest_opened_img": "images/npcs/Kantz.png"
+          },
+          {
+            "name": "Monica (PM)",
+            "chest_opened_img": "images/npcs/Monica.png"
+          },
+          {
+            "name": "Andreas (PM)",
+            "chest_opened_img": "images/npcs/Andreas.png"
+          },
+          {
+            "name": "Nic (PM)",
+            "chest_opened_img": "images/npcs/Nic.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9NPC",
+            "x": 592,
+            "y": 137,
+            "size": 8
+          }
+        ]
+      }
+    ]
+  }
+]

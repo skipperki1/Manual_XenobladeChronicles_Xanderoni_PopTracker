@@ -45,6 +45,7 @@
     "name": "Shulk Integrity",
     "type": "toggle",
     "allow_disabled": true,
+    "initial_active_state": true,
     "img": "images/items/Integrity.png",
     "codes": "skilltrees,ShulkIntegrity,ShulkSkill1"
   },
@@ -310,6 +311,7 @@
     "name": "Reyn Spirit",
     "type": "toggle",
     "allow_disabled": true,
+    "initial_active_state": true,
     "img": "images/items/Spirit.png",
     "codes": "skilltrees,ReynSpirit,ReynSkill1"
   },
@@ -576,6 +578,7 @@
     "type": "toggle",
     "allow_disabled": true,
     "img": "images/items/Devotion.png",
+    "initial_active_state": true,
     "codes": "skilltrees,SharlaDevotion,SharlaSkill1"
   },
   {
@@ -841,6 +844,7 @@
     "type": "toggle",
     "allow_disabled": true,
     "img": "images/items/Bravery.png",
+    "initial_active_state": true,
     "codes": "skilltrees,DunbanBravery,DunbanSkill1"
   },
   {
@@ -1106,6 +1110,7 @@
     "type": "toggle",
     "allow_disabled": true,
     "img": "images/items/Vivacity.png",
+    "initial_active_state": true,
     "codes": "skilltrees,RikiVivacity,RikiSkill1"
   },
   {
@@ -1371,6 +1376,7 @@
     "type": "toggle",
     "allow_disabled": true,
     "img": "images/items/Serenity.png",
+    "initial_active_state": true,
     "codes": "skilltrees,MeliaSerenity,MeliaSkill1"
   },
   {
@@ -1636,6 +1642,7 @@
     "type": "toggle",
     "allow_disabled": true,
     "img": "images/items/Courage.png",
+    "initial_active_state": true,
     "codes": "skilltrees,SevenCourage,SevenSkill1"
   },
   {
@@ -1995,8 +2002,8 @@
   {
     "name": "High Entia Tomb Hunting License",
     "type": "toggle",
-    "img": "images/items/HET.png",
-    "codes": "toggle,Hunt,HighEntiaTomb,HETHunt"
+    "img": "images/items/HT.PNG",
+    "codes": "toggle,Hunt,HighEntiaTomb,HTHunt"
   },
   {
     "name": "Valak Mountain Hunting License",
@@ -2385,8 +2392,8 @@
   {
     "name": "High Entia Tomb Bug",
     "type": "toggle",
-    "img": "images/items/HET.png",
-    "codes": "toggle,Bug,HighEntiaTomb,HETBug"
+    "img": "images/items/HT.PNG",
+    "codes": "toggle,Bug,HighEntiaTomb,HTBug"
   },
   {
     "name": "Galahad Fortress Bug",
@@ -2523,8 +2530,8 @@
   {
     "name": "High Entia Tomb Parts",
     "type": "toggle",
-    "img": "images/items/HET.png",
-    "codes": "toggle,Parts,HighEntiaTomb,HETParts"
+    "img": "images/items/HT.PNG",
+    "codes": "toggle,Parts,HighEntiaTomb,HTParts"
   },
   {
     "name": "Sword Valley Parts",
@@ -2637,8 +2644,8 @@
   {
     "name": "High Entia Tomb Strange",
     "type": "toggle",
-    "img": "images/items/HET.png",
-    "codes": "toggle,Strange,HighEntiaTomb,HETStrange"
+    "img": "images/items/HT.PNG",
+    "codes": "toggle,Strange,HighEntiaTomb,HTStrange"
   },
   {
     "name": "Valak Mountain Strange",

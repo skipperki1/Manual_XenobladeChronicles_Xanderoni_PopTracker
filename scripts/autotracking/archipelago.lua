@@ -6,6 +6,7 @@
 -- if you run into issues when touching A LOT of items/locations here, see the comment about Tracker.AllowDeferredLogicUpdate in autotracking.lua
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/sectionID.lua")
 
 CUR_INDEX = -1
 LOCAL_ITEMS = {}
@@ -14,31 +15,68 @@ GLOBAL_ITEMS = {}
 -- resets an item to its initial state
 function resetItem(item_code, item_type)
 	local obj = Tracker:FindObjectForCode(item_code)
-	if obj then
-		item_type = item_type or obj.Type
-		if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-			print(string.format("resetItem: resetting item %s of type %s", item_code, item_type))
-		end
-		if item_type == "toggle" or item_type == "toggle_badged" then
-			obj.Active = false
-		elseif item_type == "progressive" or item_type == "progressive_toggle" then
-			obj.CurrentStage = 0
-			obj.Active = false
-		elseif item_type == "consumable" then
-			obj.AcquiredCount = 0
-		elseif item_type == "custom" then
-			-- your code for your custom lua items goes here
-		elseif item_type == "static" and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-			print(string.format("resetItem: tried to reset static item %s", item_code))
-		elseif item_type == "composite_toggle" and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-			print(string.format(
-				"resetItem: tried to reset composite_toggle item %s but composite_toggle cannot be accessed via lua." ..
-				"Please use the respective left/right toggle item codes instead.", item_code))
+	if ARTSANITY then
+		if obj then
+			item_type = item_type or obj.Type
+			if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+				print(string.format("resetItem: resetting item %s of type %s", item_code, item_type))
+			end
+			if item_type == "toggle" or item_type == "toggle_badged" then
+				obj.Active = false
+			elseif item_type == "progressive" or item_type == "progressive_toggle" then
+				obj.CurrentStage = 0
+				obj.Active = false
+			elseif obj.AcquiredCount == 1 then
+				print("Total set to 1 for: ",item_code)
+				obj.AcquiredCount = 1
+			elseif item_type == "consumable" and obj.AcquiredCount ~= 1 then
+				print("Total set to 0 for: ",item_code)
+				obj.AcquiredCount = 0
+			elseif item_type == "custom" then
+				-- your code for your custom lua items goes here
+			elseif item_type == "static" and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+				print(string.format("resetItem: tried to reset static item %s", item_code))
+			elseif item_type == "composite_toggle" and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+				print(string.format(
+					"resetItem: tried to reset composite_toggle item %s but composite_toggle cannot be accessed via lua." ..
+					"Please use the respective left/right toggle item codes instead.", item_code))
+			elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+				print(string.format("resetItem: unknown item type %s for code %s", item_type, item_code))
+			end
 		elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-			print(string.format("resetItem: unknown item type %s for code %s", item_type, item_code))
+			print(string.format("resetItem: could not find item object for code %s", item_code))
 		end
-	elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-		print(string.format("resetItem: could not find item object for code %s", item_code))
+	else
+		if obj then
+			item_type = item_type or obj.Type
+			if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+				print(string.format("resetItem: resetting item %s of type %s", item_code, item_type))
+			end
+			if item_type == "toggle" or item_type == "toggle_badged" then
+				obj.Active = false
+			elseif item_type == "progressive" or item_type == "progressive_toggle" then
+				obj.CurrentStage = 0
+				obj.Active = false
+			elseif obj.AcquiredCount == 4 then
+				print("Total set to 4 for: ",item_code)
+				obj.AcquiredCount = 4
+			elseif item_type == "consumable" and obj.AcquiredCount ~= 4 then
+				print("Total set to 0 for: ",item_code)
+				obj.AcquiredCount = 0
+			elseif item_type == "custom" then
+				-- your code for your custom lua items goes here
+			elseif item_type == "static" and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+				print(string.format("resetItem: tried to reset static item %s", item_code))
+			elseif item_type == "composite_toggle" and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+				print(string.format(
+					"resetItem: tried to reset composite_toggle item %s but composite_toggle cannot be accessed via lua." ..
+					"Please use the respective left/right toggle item codes instead.", item_code))
+			elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+				print(string.format("resetItem: unknown item type %s for code %s", item_type, item_code))
+			end
+		elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+			print(string.format("resetItem: could not find item object for code %s", item_code))
+		end
 	end
 end
 
@@ -241,6 +279,36 @@ function onLocation(location_id, location_name)
 		end
 	end
 end
+
+ScriptHost:AddOnLocationSectionChangedHandler("manual", function(section)
+    local sectionID = section.FullID
+    if sectionID == "Victory/Zanza The Devine/Clear" then
+        if section.AvailableChestCount == 0 then
+            local res = Archipelago:StatusUpdate(Archipelago.ClientStatus.GOAL)
+            if res then
+                print("Sent Victory")
+                local obj = Tracker:FindObjectForCode("event_cynthia")
+                obj.Active = true
+            else
+                print("Error sending Victory")
+            end
+        end
+    elseif (section.AvailableChestCount == 0) then  -- this only works for 1 chest per section
+        -- AP location cleared
+        local sectionID = section.FullID
+        local apID = sectionIDToAPID[sectionID]
+        if apID ~= nil then
+            local res = Archipelago:LocationChecks({apID})
+            if res then
+                print("Sent " .. tostring(apID) .. " for " .. tostring(sectionID))
+            else
+                print("Error sending " .. tostring(apID) .. " for " .. tostring(sectionID))
+            end
+        else
+            print(tostring(sectionID) .. " is not an AP location")
+        end
+    end
+end)
 
 -- called when a locations is scouted
 function onScout(location_id, location_name, item_id, item_name, item_player)

@@ -1,0 +1,581 @@
+[
+  {
+    "name": "Colony 9 Unique Monsters",
+    "access_rules": ["C9Hunt"],
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "children": [
+      {
+        "name": "UM: Verdant Bluchal",
+        "sections": [
+          {
+            "name": "Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9Full",
+            "x": 373,
+            "y": 239,
+            "size": 8
+          },
+          {
+            "map": "C9UM",
+            "x": 373,
+            "y": 239,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Itinerant Dorothea",
+        "access_rules": ["C9Hunt,AreaKeys:1"],
+        "sections": [
+          {
+            "name": "Lv.6 (Day)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9Full",
+            "x": 280,
+            "y": 515,
+            "size": 8
+          },
+          {
+            "map": "C9UM",
+            "x": 280,
+            "y": 515,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Evil Rhangrot",
+        "access_rules": ["C9Hunt,AreaKeys:1"],
+        "sections": [
+          {
+            "name": "Lv.6"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9Full",
+            "x": 200,
+            "y": 500,
+            "size": 8
+          },
+          {
+            "map": "C9UM",
+            "x": 200,
+            "y": 500,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Lake Magdalena",
+        "access_rules": ["C9Hunt,AreaKeys:1"],
+        "sections": [
+          {
+            "name": "Lv.6 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9UM",
+            "x": 436,
+            "y": 558,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Speedy Ramshyde",
+        "access_rules": ["C9Hunt,AreaKeys:2"],
+        "sections": [
+          {
+            "name": "Lv.10"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9UM",
+            "x": 282,
+            "y": 543,
+            "size": 8
+          },
+          {
+            "map": "C9Full",
+            "x": 282,
+            "y": 543,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Enchanting Grune",
+        "access_rules": ["C9Hunt,AreaKeys:2"],
+        "sections": [
+          {
+            "name": "Lv.13"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9UM",
+            "x": 165,
+            "y": 325,
+            "size": 8
+          },
+          {
+            "map": "C9Full",
+            "x": 165,
+            "y": 325,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Dark Murkamor",
+        "access_rules": ["C9Hunt,AreaKeys:3"],
+        "sections": [
+          {
+            "name": "Lv.18 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9UM",
+            "x": 575,
+            "y": 615,
+            "size": 8
+          },
+          {
+            "map": "C9Full",
+            "x": 575,
+            "y": 615,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Gentle Mother Armu",
+        "access_rules": ["C9Hunt,AreaKeys:6"],
+        "sections": [
+          {
+            "name": "Lv.37"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9UM",
+            "x": 930,
+            "y": 275,
+            "size": 8
+          },
+          {
+            "map": "C9Full",
+            "x": 930,
+            "y": 275,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Impenetrable Redrob",
+        "access_rules": ["C9Hunt,AreaKeys:6"],
+        "sections": [
+          {
+            "name": "Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9UM",
+            "x": 775,
+            "y": 550,
+            "size": 8
+          },
+          {
+            "map": "C9Full",
+            "x": 775,
+            "y": 550,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Roguish Frengel|Shadeless Matrix",
+        "sections": [
+          {
+            "name": "Lv.39",
+            "access_rules": ["C9Hunt,AreaKeys:6"]
+          },
+          {
+            "name": "Lv.44",
+            "access_rules": ["C9Hunt,AreaKeys:7"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9UM",
+            "x": 200,
+            "y": 400,
+            "size": 8
+          },
+          {
+            "map": "C9Full",
+            "x": 200,
+            "y": 400,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Gentle Rodriguez",
+        "access_rules": ["C9Hunt,AreaKeys:7"],
+        "sections": [
+          {
+            "name": "Lv.40"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9UM",
+            "x": 1010,
+            "y": 155,
+            "size": 8
+          },
+          {
+            "map": "C9Full",
+            "x": 1010,
+            "y": 155,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Flailing Bracken",
+        "access_rules": ["C9Hunt,AreaKeys:18"],
+        "sections": [
+          {
+            "name": "Lv.73"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9UM",
+            "x": 790,
+            "y": 50,
+            "size": 8
+          },
+          {
+            "map": "C9Full",
+            "x": 790,
+            "y": 50,
+            "size": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Colony 9 Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "children": [
+      {
+        "name": "Metal Face",
+        "access_rules": ["AreaKeys:1"],
+        "sections": [
+          {
+            "name": "Boss: Metal Face"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9UM",
+            "x": 496,
+            "y": 471,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Ancient Machines",
+        "access_rules": ["AreaKeys:1"],
+        "sections": [
+          {
+            "name": "Boss: Ancient Machines"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9UM",
+            "x": 69,
+            "y": 138,
+            "size": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tephra Cave Unique Monsters",
+    "access_rules": ["TCHunt"],
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "children": [
+      {
+        "name": "UM: Verdant Bluchal",
+        "sections": [
+          {
+            "name": "Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 373,
+            "y": 239,
+            "size": 8
+          },
+          {
+            "map": "TCUM",
+            "x": 373,
+            "y": 239,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Itinerant Dorothea",
+        "access_rules": ["TCHunt,AreaKeys:1"],
+        "sections": [
+          {
+            "name": "Lv.6 (Day)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 280,
+            "y": 515,
+            "size": 8
+          },
+          {
+            "map": "TCUM",
+            "x": 280,
+            "y": 515,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Evil Rhangrot",
+        "access_rules": ["TCHunt,AreaKeys:1"],
+        "sections": [
+          {
+            "name": "Lv.6"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 200,
+            "y": 500,
+            "size": 8
+          },
+          {
+            "map": "TCUM",
+            "x": 200,
+            "y": 500,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Lake Magdalena",
+        "access_rules": ["TCHunt,AreaKeys:1"],
+        "sections": [
+          {
+            "name": "Lv.6 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCUM",
+            "x": 436,
+            "y": 558,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Speedy Ramshyde",
+        "access_rules": ["TCHunt,AreaKeys:2"],
+        "sections": [
+          {
+            "name": "Lv.10"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCUM",
+            "x": 282,
+            "y": 543,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Enchanting Grune",
+        "access_rules": ["TCHunt,AreaKeys:2"],
+        "sections": [
+          {
+            "name": "Lv.13"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCUM",
+            "x": 165,
+            "y": 325,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Dark Murkamor",
+        "access_rules": ["TCHunt,AreaKeys:3"],
+        "sections": [
+          {
+            "name": "Lv.18 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCUM",
+            "x": 575,
+            "y": 615,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Gentle Mother Armu",
+        "access_rules": ["TCHunt,AreaKeys:6"],
+        "sections": [
+          {
+            "name": "Lv.37"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCUM",
+            "x": 930,
+            "y": 275,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Impenetrable Redrob",
+        "access_rules": ["TCHunt,AreaKeys:6"],
+        "sections": [
+          {
+            "name": "Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCUM",
+            "x": 775,
+            "y": 550,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Roguish Frengel|Shadeless Matrix",
+        "sections": [
+          {
+            "name": "Lv.39",
+            "access_rules": ["TCHunt,AreaKeys:6"]
+          },
+          {
+            "name": "Lv.44",
+            "access_rules": ["TCHunt,AreaKeys:7"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCUM",
+            "x": 200,
+            "y": 400,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Gentle Rodriguez",
+        "access_rules": ["TCHunt,AreaKeys:7"],
+        "sections": [
+          {
+            "name": "Lv.40"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCUM",
+            "x": 1010,
+            "y": 155,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "UM: Flailing Bracken",
+        "access_rules": ["TCHunt,AreaKeys:18"],
+        "sections": [
+          {
+            "name": "Lv.73"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCUM",
+            "x": 790,
+            "y": 50,
+            "size": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tephra Cave Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "children": [
+      {
+        "name": "Metal Face",
+        "access_rules": ["AreaKeys:1"],
+        "sections": [
+          {
+            "name": "Boss: Metal Face"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCUM",
+            "x": 496,
+            "y": 471,
+            "size": 8
+          }
+        ]
+      }
+    ]
+  }
+]

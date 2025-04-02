@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Colony 9 H2H",
+    "chest_unopened_img": "images/mapicons/HeartToHeart.png",
+    "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
+    "children": [
+      {
+        "name": "Watching Over Them",
+        "sections": [
+        {
+          "name": "Reyn & Dunban",
+          "access_rules": [
+          "AreaKeys:4,ReynAffinity5,DunbanAffinity5"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C9H2H",
+            "x": 496,
+            "y": 471,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Ancient Wreckage",
+        "sections": [
+        {
+          "name": "Reyn & Melia",
+          "access_rules": [
+          "AreaKeys:8,ReynAffinity4,MeliaAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C9H2H",
+            "x": 69,
+            "y": 138,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "A Heropon's Perspective",
+        "sections": [
+        {
+          "name": "Sharla & Riki",
+          "access_rules": [
+          "AreaKeys:8,SharlaAffinity3,RikiAffinity3"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C9H2H",
+            "x": 187,
+            "y": 84,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Sunrise in the Park",
+        "sections": [
+        {
+          "name": "Shulk & Fiora",
+          "access_rules": [
+          "ShulkAffinity1,SevenAffinity1"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C9H2H",
+            "x": 436,
+            "y": 558,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Fiora's Cooking",
+        "sections": [
+        {
+          "name": "Reyn & Fiora",
+          "access_rules": [
+          "ReynAffinity2,SevenAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C9H2H",
+            "x": 405,
+            "y": 335,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Enduring Friendship",
+        "sections": [
+        {
+          "name": "Shulk & Reyn",
+          "access_rules": [
+          "ShulkAffinity2,ReynAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C9H2H",
+            "x": 74,
+            "y": 301,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Overlooking the Colony",
+        "sections": [
+        {
+          "name": "Reyn & Sharla",
+          "access_rules": [
+          "AreaKeys:2,ReynAffinity4,SharlaAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C9H2H",
+            "x": 885,
+            "y": 370,
+            "size": 8
+          },
+          {
+            "map": "C9Full",
+            "x": 885,
+            "y": 370,
+            "size": 8
+          }
+        ]
+      }
+    ]
+  }
+]

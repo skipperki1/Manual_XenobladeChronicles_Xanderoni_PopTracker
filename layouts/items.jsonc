@@ -1463,7 +1463,7 @@
         ]
       }
     ]
-  },"Collectapaedia": {
+  },"Collectopaedia": {
     "type": "array",
     "orientation": "horizontal",
     "margin": "0,0",
@@ -1498,7 +1498,7 @@
                 "type": "item",
                 "item": "BLVeg",
                 "canvas_depth": 1,
-                "canvas_top": 58,
+                "canvas_top": 46,
                 "width": 14,
                 "height": 14
               },
@@ -1506,7 +1506,7 @@
                 "type": "item",
                 "item": "SMVeg",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_top": 58,
                 "width": 17,
                 "height": 17
               },
@@ -1514,25 +1514,17 @@
                 "type": "item",
                 "item": "MaFoVeg",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_top": 70,
                 "width": 17,
                 "height": 17
               },
               {
                 "type": "item",
-                "item": "FVVeg",
-                "canvas_depth": 1,
-                "canvas_top": 118,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
                 "item": "ESVeg",
                 "canvas_depth": 1,
-                "canvas_top": 130,
-                "width": 14,
-                "height": 14
+                "canvas_top": 82,
+                "width": 15,
+                "height": 15
               },
               {
                 "type": "item",
@@ -1540,8 +1532,8 @@
                 "canvas_depth": 1,
                 "canvas_top": 34,
                 "canvas_left": 26,
-                "width": 15,
-                "height": 15
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
@@ -1556,7 +1548,7 @@
                 "type": "item",
                 "item": "FAVeg",
                 "canvas_depth": 1,
-                "canvas_top": 70,
+                "canvas_top": 58,
                 "canvas_left": 26,
                 "width": 14,
                 "height": 14
@@ -1565,7 +1557,7 @@
                 "type": "item",
                 "item": "MeFiVeg",
                 "canvas_depth": 1,
-                "canvas_top": 82,
+                "canvas_top": 70,
                 "canvas_left": 26,
                 "width": 17,
                 "height": 17
@@ -1574,7 +1566,7 @@
                 "type": "item",
                 "item": "CFVeg",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_top": 82,
                 "canvas_left": 26,
                 "width": 14,
                 "height": 14
@@ -1583,8 +1575,8 @@
                 "type": "item",
                 "item": "BIVeg",
                 "canvas_depth": 1,
-                "canvas_top": 118,
-                "canvas_left": 26,
+                "canvas_top": 94,
+                "canvas_left": 13,
                 "width": 12,
                 "height": 12
               }
@@ -1631,7 +1623,7 @@
                 "type": "item",
                 "item": "MaFoFruit",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_top": 70,
                 "width": 17,
                 "height": 17
               },
@@ -1639,21 +1631,13 @@
                 "type": "item",
                 "item": "FVFruit",
                 "canvas_depth": 1,
-                "canvas_top": 118,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "ALFruit",
-                "canvas_depth": 1,
-                "canvas_top": 130,
+                "canvas_top": 82,
                 "width": 15,
                 "height": 15
               },
               {
                 "type": "item",
-                "item": "VMFruit",
+                "item": "ALFruit",
                 "canvas_depth": 1,
                 "canvas_top": 34,
                 "canvas_left": 26,
@@ -1662,9 +1646,18 @@
               },
               {
                 "type": "item",
-                "item": "SVFruit",
+                "item": "VMFruit",
                 "canvas_depth": 1,
                 "canvas_top": 46,
+                "canvas_left": 26,
+                "width": 16,
+                "height": 16
+              },
+              {
+                "type": "item",
+                "item": "SVFruit",
+                "canvas_depth": 1,
+                "canvas_top": 58,
                 "canvas_left": 26,
                 "width": 15,
                 "height": 15
@@ -1673,7 +1666,7 @@
                 "type": "item",
                 "item": "AGFruit",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_top": 70,
                 "canvas_left": 26,
                 "width": 16,
                 "height": 16
@@ -1682,7 +1675,7 @@
                 "type": "item",
                 "item": "PIFruit",
                 "canvas_depth": 1,
-                "canvas_top": 130,
+                "canvas_top": 82,
                 "canvas_left": 26,
                 "width": 12,
                 "height": 12
@@ -1722,7 +1715,7 @@
                 "type": "item",
                 "item": "C6Flower",
                 "canvas_depth": 1,
-                "canvas_top": 70,
+                "canvas_top": 58,
                 "width": 14,
                 "height": 14
               },
@@ -1730,7 +1723,7 @@
                 "type": "item",
                 "item": "SMFlower",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_top": 70,
                 "width": 17,
                 "height": 17
               },
@@ -1738,29 +1731,13 @@
                 "type": "item",
                 "item": "MaFoFlower",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_top": 82,
                 "width": 17,
                 "height": 17
               },
               {
                 "type": "item",
                 "item": "ESFlower",
-                "canvas_depth": 1,
-                "canvas_top": 118,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "ALFlower",
-                "canvas_depth": 1,
-                "canvas_top": 130,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "VMFlower",
                 "canvas_depth": 1,
                 "canvas_top": 34,
                 "canvas_left": 26,
@@ -1769,9 +1746,27 @@
               },
               {
                 "type": "item",
-                "item": "SVFlower",
+                "item": "ALFlower",
                 "canvas_depth": 1,
                 "canvas_top": 46,
+                "canvas_left": 26,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "VMFlower",
+                "canvas_depth": 1,
+                "canvas_top": 58,
+                "canvas_left": 26,
+                "width": 16,
+                "height": 16
+              },
+              {
+                "type": "item",
+                "item": "SVFlower",
+                "canvas_depth": 1,
+                "canvas_top": 70,
                 "canvas_left": 26,
                 "width": 15,
                 "height": 15
@@ -1789,8 +1784,8 @@
                 "type": "item",
                 "item": "AGFlower",
                 "canvas_depth": 1,
-                "canvas_top": 106,
-                "canvas_left": 26,
+                "canvas_top": 94,
+                "canvas_left": 13,
                 "width": 16,
                 "height": 16
               }
@@ -1813,7 +1808,7 @@
                 "type": "item",
                 "item": "TCAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 46,
+                "canvas_top": 34,
                 "width": 14,
                 "height": 14
               },
@@ -1821,7 +1816,7 @@
                 "type": "item",
                 "item": "C6Animal",
                 "canvas_depth": 1,
-                "canvas_top": 70,
+                "canvas_top": 46,
                 "width": 14,
                 "height": 14
               },
@@ -1829,15 +1824,15 @@
                 "type": "item",
                 "item": "EMAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 82,
-                "width": 17,
-                "height": 17
+                "canvas_top": 58,
+                "width": 18,
+                "height": 18
               },
               {
                 "type": "item",
                 "item": "SMAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_top": 70,
                 "width": 17,
                 "height": 17
               },
@@ -1845,21 +1840,13 @@
                 "type": "item",
                 "item": "MaFoAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_top": 82,
                 "width": 17,
                 "height": 17
               },
               {
                 "type": "item",
                 "item": "ESAnimal",
-                "canvas_depth": 1,
-                "canvas_top": 118,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "VMAnimal",
                 "canvas_depth": 1,
                 "canvas_top": 34,
                 "canvas_left": 26,
@@ -1868,9 +1855,18 @@
               },
               {
                 "type": "item",
+                "item": "VMAnimal",
+                "canvas_depth": 1,
+                "canvas_top": 46,
+                "canvas_left": 26,
+                "width": 16,
+                "height": 16
+              },
+              {
+                "type": "item",
                 "item": "FAAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 70,
+                "canvas_top": 58,
                 "canvas_left": 26,
                 "width": 14,
                 "height": 14
@@ -1879,7 +1875,7 @@
                 "type": "item",
                 "item": "CFAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_top": 70,
                 "canvas_left": 26,
                 "width": 14,
                 "height": 14
@@ -1888,7 +1884,7 @@
                 "type": "item",
                 "item": "BIAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 118,
+                "canvas_top": 82,
                 "canvas_left": 26,
                 "width": 12,
                 "height": 12
@@ -1897,8 +1893,8 @@
                 "type": "item",
                 "item": "PIAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 130,
-                "canvas_left": 26,
+                "canvas_top": 94,
+                "canvas_left": 13,
                 "width": 12,
                 "height": 12
               }
@@ -1945,15 +1941,15 @@
                 "type": "item",
                 "item": "EMBug",
                 "canvas_depth": 1,
-                "canvas_top": 82,
-                "width": 17,
-                "height": 17
+                "canvas_top": 70,
+                "width": 18,
+                "height": 18
               },
               {
                 "type": "item",
                 "item": "MaFoBug",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_top": 82,
                 "width": 17,
                 "height": 17
               },
@@ -1961,32 +1957,33 @@
                 "type": "item",
                 "item": "FVBug",
                 "canvas_depth": 1,
-                "canvas_top": 118,
-                "width": 14,
-                "height": 14
+                "canvas_top": 94,
+                "width": 15,
+                "height": 15
               },
               {
                 "type": "item",
-                "item": "HETBug",
+                "item": "HTBug",
                 "canvas_depth": 1,
-                "canvas_top": 130,
-                "width": 23,
-                "height": 23
+                "canvas_top": 34,
+                "canvas_left": 26,
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
                 "item": "GFBug",
                 "canvas_depth": 1,
-                "canvas_top": 58,
+                "canvas_top": 46,
                 "canvas_left": 26,
-                "width": 14,
-                "height": 14
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
                 "item": "MeFiBug",
                 "canvas_depth": 1,
-                "canvas_top": 82,
+                "canvas_top": 58,
                 "canvas_left": 26,
                 "width": 17,
                 "height": 17
@@ -1995,7 +1992,7 @@
                 "type": "item",
                 "item": "CFBug",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_top": 70,
                 "canvas_left": 26,
                 "width": 14,
                 "height": 14
@@ -2004,7 +2001,7 @@
                 "type": "item",
                 "item": "AGBug",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_top": 82,
                 "canvas_left": 26,
                 "width": 16,
                 "height": 16
@@ -2013,7 +2010,7 @@
                 "type": "item",
                 "item": "PIBug",
                 "canvas_depth": 1,
-                "canvas_top": 130,
+                "canvas_top": 94,
                 "canvas_left": 26,
                 "width": 12,
                 "height": 12
@@ -2037,7 +2034,7 @@
                 "type": "item",
                 "item": "TCNature",
                 "canvas_depth": 1,
-                "canvas_top": 46,
+                "canvas_top": 34,
                 "width": 14,
                 "height": 14
               },
@@ -2045,7 +2042,7 @@
                 "type": "item",
                 "item": "BLNature",
                 "canvas_depth": 1,
-                "canvas_top": 58,
+                "canvas_top": 46,
                 "width": 14,
                 "height": 14
               },
@@ -2053,15 +2050,15 @@
                 "type": "item",
                 "item": "EMNature",
                 "canvas_depth": 1,
-                "canvas_top": 82,
-                "width": 17,
-                "height": 17
+                "canvas_top": 58,
+                "width": 18,
+                "height": 18
               },
               {
                 "type": "item",
                 "item": "SMNature",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_top": 70,
                 "width": 17,
                 "height": 17
               },
@@ -2069,9 +2066,9 @@
                 "type": "item",
                 "item": "ESNature",
                 "canvas_depth": 1,
-                "canvas_top": 118,
-                "width": 14,
-                "height": 14
+                "canvas_top": 82,
+                "width": 15,
+                "height": 15
               },
               {
                 "type": "item",
@@ -2079,14 +2076,14 @@
                 "canvas_depth": 1,
                 "canvas_top": 34,
                 "canvas_left": 26,
-                "width": 15,
-                "height": 15
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
                 "item": "FANature",
                 "canvas_depth": 1,
-                "canvas_top": 70,
+                "canvas_top": 46,
                 "canvas_left": 26,
                 "width": 14,
                 "height": 14
@@ -2095,7 +2092,7 @@
                 "type": "item",
                 "item": "MeFiNature",
                 "canvas_depth": 1,
-                "canvas_top": 82,
+                "canvas_top": 58,
                 "canvas_left": 26,
                 "width": 17,
                 "height": 17
@@ -2104,7 +2101,7 @@
                 "type": "item",
                 "item": "CFNature",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_top": 70,
                 "canvas_left": 26,
                 "width": 14,
                 "height": 14
@@ -2113,7 +2110,7 @@
                 "type": "item",
                 "item": "AGNature",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_top": 82,
                 "canvas_left": 26,
                 "width": 16,
                 "height": 16
@@ -2122,8 +2119,8 @@
                 "type": "item",
                 "item": "PINature",
                 "canvas_depth": 1,
-                "canvas_top": 130,
-                "canvas_left": 26,
+                "canvas_top": 94,
+                "canvas_left": 13,
                 "width": 12,
                 "height": 12
               }
@@ -2154,7 +2151,7 @@
                 "type": "item",
                 "item": "BLParts",
                 "canvas_depth": 1,
-                "canvas_top": 58,
+                "canvas_top": 46,
                 "width": 14,
                 "height": 14
               },
@@ -2162,41 +2159,31 @@
                 "type": "item",
                 "item": "EMParts",
                 "canvas_depth": 1,
-                "canvas_top": 82,
-                "width": 17,
-                "height": 17
+                "canvas_top": 58,
+                "width": 18,
+                "height": 18
               },
               {
                 "type": "item",
                 "item": "SMParts",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_top": 70,
                 "width": 17,
                 "height": 17
               },
               {
                 "type": "item",
-                "item": "HETParts",
+                "item": "HTParts",
                 "canvas_depth": 1,
-                "canvas_top": 130,
-                "width": 23,
-                "height": 23
-              },
-              {
-                "type": "item",
-                "item": "VMParts",
-                "canvas_depth": 1,
-                "canvas_top": 34,
-                "canvas_left": 26,
-                "width": 15,
-                "height": 15
+                "canvas_top": 82,
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
                 "item": "SVParts",
                 "canvas_depth": 1,
-                "canvas_top": 46,
-                "canvas_left": 26,
+                "canvas_top": 94,
                 "width": 15,
                 "height": 15
               },
@@ -2204,16 +2191,16 @@
                 "type": "item",
                 "item": "GFParts",
                 "canvas_depth": 1,
-                "canvas_top": 58,
+                "canvas_top": 34,
                 "canvas_left": 26,
-                "width": 14,
-                "height": 14
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
                 "item": "FAParts",
                 "canvas_depth": 1,
-                "canvas_top": 70,
+                "canvas_top": 46,
                 "canvas_left": 26,
                 "width": 14,
                 "height": 14
@@ -2222,7 +2209,7 @@
                 "type": "item",
                 "item": "MeFiParts",
                 "canvas_depth": 1,
-                "canvas_top": 82,
+                "canvas_top": 58,
                 "canvas_left": 26,
                 "width": 17,
                 "height": 17
@@ -2231,7 +2218,7 @@
                 "type": "item",
                 "item": "CFParts",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_top": 70,
                 "canvas_left": 26,
                 "width": 14,
                 "height": 14
@@ -2240,7 +2227,7 @@
                 "type": "item",
                 "item": "AGParts",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_top": 82,
                 "canvas_left": 26,
                 "width": 16,
                 "height": 16
@@ -2249,7 +2236,7 @@
                 "type": "item",
                 "item": "PIParts",
                 "canvas_depth": 1,
-                "canvas_top": 130,
+                "canvas_top": 94,
                 "canvas_left": 26,
                 "width": 12,
                 "height": 12
@@ -2306,8 +2293,8 @@
                 "item": "EMStrange",
                 "canvas_depth": 1,
                 "canvas_top": 82,
-                "width": 17,
-                "height": 17
+                "width": 18,
+                "height": 18
               },
               {
                 "type": "item",
@@ -2330,16 +2317,16 @@
                 "item": "FVStrange",
                 "canvas_depth": 1,
                 "canvas_top": 118,
-                "width": 14,
-                "height": 14
+                "width": 15,
+                "height": 15
               },
               {
                 "type": "item",
                 "item": "ESStrange",
                 "canvas_depth": 1,
                 "canvas_top": 130,
-                "width": 14,
-                "height": 14
+                "width": 15,
+                "height": 15
               },
               {
                 "type": "item",
@@ -2352,12 +2339,12 @@
               },
               {
                 "type": "item",
-                "item": "HETStrange",
+                "item": "HTStrange",
                 "canvas_depth": 1,
                 "canvas_top": 46,
                 "canvas_left": 26,
-                "width": 23,
-                "height": 23
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
@@ -2365,8 +2352,8 @@
                 "canvas_depth": 1,
                 "canvas_top": 58,
                 "canvas_left": 26,
-                "width": 14,
-                "height": 14
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
@@ -2374,8 +2361,8 @@
                 "canvas_depth": 1,
                 "canvas_top": 70,
                 "canvas_left": 26,
-                "width": 14,
-                "height": 14
+                "width": 15,
+                "height": 15
               },
               {
                 "type": "item",
@@ -2383,8 +2370,8 @@
                 "canvas_depth": 1,
                 "canvas_top": 82,
                 "canvas_left": 26,
-                "width": 17,
-                "height": 17
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
@@ -2410,8 +2397,8 @@
                 "canvas_depth": 1,
                 "canvas_top": 118,
                 "canvas_left": 26,
-                "width": 12,
-                "height": 12
+                "width": 14,
+                "height": 14
               },
               {
                 "type": "item",
@@ -2419,8 +2406,8 @@
                 "canvas_depth": 1,
                 "canvas_top": 130,
                 "canvas_left": 26,
-                "width": 15,
-                "height": 15
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
@@ -2497,8 +2484,8 @@
                 "item": "C6Hunt",
                 "canvas_depth": 1,
                 "canvas_left": 112,
-                "width": 18,
-                "height": 18
+                "width": 17,
+                "height": 17
               },
               {
                 "type": "item",
@@ -2534,11 +2521,11 @@
               },
               {
                 "type": "item",
-                "item": "HETHunt",
+                "item": "HTHunt",
                 "canvas_depth": 1,
                 "canvas_left": 251,
-                "width": 27,
-                "height": 27
+                "width": 18,
+                "height": 18
               },
               {
                 "type": "item",
@@ -2600,8 +2587,8 @@
                 "canvas_depth": 1,
                 "canvas_left": 196,
                 "canvas_top": 16,
-                "width": 16,
-                "height": 16
+                "width": 18,
+                "height": 18
               },
               {
                 "type": "item",
@@ -4159,12 +4146,12 @@
               },
               {
                 "type": "item",
-                "item": "HETHunt",
+                "item": "HTHunt",
                 "canvas_depth": 1,
                 "canvas_left": 306,
                 "canvas_top": 185,
-                "width": 34,
-                "height": 34
+                "width": 23,
+                "height": 23
               },
               {
                 "type": "item",
@@ -4252,34 +4239,35 @@
         ]
       }
     ]
-  },"CollectapaediaHorizontal": {
+  },"CollectopaediaHorizontal": {
     "type": "array",
     "orientation": "horizontal",
     "margin": "15,0",
     "content": [
       {
         "type": "array",
-        "orientation": "horizontal",
+        "orientation": "vertical",
         "margin": "0,0",
         "content": [
           {
             "type": "canvas",
-            "width": 44,
-            "height":  140,
+            "width": 34,
+            "height":  34,
             "margin": "1,0",
             "content": [
               {
                 "type": "item",
                 "item": "Veg",
                 "canvas_left": 6,
-                "width": 32,
-                "height": 32
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
                 "item": "C9Veg",
                 "canvas_depth": 1,
-                "canvas_top": 34,
+                "canvas_left": 38,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4287,7 +4275,8 @@
                 "type": "item",
                 "item": "BLVeg",
                 "canvas_depth": 1,
-                "canvas_top": 58,
+                "canvas_left": 58,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4295,7 +4284,8 @@
                 "type": "item",
                 "item": "SMVeg",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_left": 77,
+                "canvas_top": 5,
                 "width": 17,
                 "height": 17
               },
@@ -4303,41 +4293,35 @@
                 "type": "item",
                 "item": "MaFoVeg",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_left": 97,
+                "canvas_top": 5,
                 "width": 17,
                 "height": 17
               },
               {
                 "type": "item",
-                "item": "FVVeg",
-                "canvas_depth": 1,
-                "canvas_top": 118,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
                 "item": "ESVeg",
                 "canvas_depth": 1,
-                "canvas_top": 130,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "VMVeg",
-                "canvas_depth": 1,
-                "canvas_top": 34,
-                "canvas_left": 26,
+                "canvas_left": 116,
+                "canvas_top": 5,
                 "width": 15,
                 "height": 15
               },
               {
                 "type": "item",
+                "item": "VMVeg",
+                "canvas_depth": 1,
+                "canvas_left": 38,
+                "canvas_top": 20,
+                "width": 17,
+                "height": 16
+              },
+              {
+                "type": "item",
                 "item": "SVVeg",
                 "canvas_depth": 1,
-                "canvas_top": 46,
-                "canvas_left": 26,
+                "canvas_left": 58,
+                "canvas_top": 20,
                 "width": 15,
                 "height": 15
               },
@@ -4345,8 +4329,8 @@
                 "type": "item",
                 "item": "FAVeg",
                 "canvas_depth": 1,
-                "canvas_top": 70,
-                "canvas_left": 26,
+                "canvas_left": 77,
+                "canvas_top": 20,
                 "width": 14,
                 "height": 14
               },
@@ -4354,8 +4338,8 @@
                 "type": "item",
                 "item": "MeFiVeg",
                 "canvas_depth": 1,
-                "canvas_top": 82,
-                "canvas_left": 26,
+                "canvas_left": 97,
+                "canvas_top": 20,
                 "width": 17,
                 "height": 17
               },
@@ -4363,8 +4347,8 @@
                 "type": "item",
                 "item": "CFVeg",
                 "canvas_depth": 1,
-                "canvas_top": 94,
-                "canvas_left": 26,
+                "canvas_left": 116,
+                "canvas_top": 20,
                 "width": 14,
                 "height": 14
               },
@@ -4372,31 +4356,31 @@
                 "type": "item",
                 "item": "BIVeg",
                 "canvas_depth": 1,
-                "canvas_top": 118,
-                "canvas_left": 26,
+                "canvas_left": 134,
+                "canvas_top": 12,
                 "width": 12,
                 "height": 12
               }
             ]
-          },
-          {
+          },{
             "type": "canvas",
-            "width": 44,
-            "height":  140,
+            "width": 34,
+            "height":  34,
             "margin": "1,0",
             "content": [
               {
                 "type": "item",
                 "item": "Fruit",
                 "canvas_left": 6,
-                "width": 32,
-                "height": 32
+                "width": 20,
+                "height": 20
               },
               {
                 "type": "item",
                 "item": "C9Fruit",
                 "canvas_depth": 1,
-                "canvas_top": 34,
+                "canvas_left": 38,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4404,7 +4388,8 @@
                 "type": "item",
                 "item": "TCFruit",
                 "canvas_depth": 1,
-                "canvas_top": 46,
+                "canvas_left": 58,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4412,7 +4397,8 @@
                 "type": "item",
                 "item": "BLFruit",
                 "canvas_depth": 1,
-                "canvas_top": 58,
+                "canvas_left": 78,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4420,7 +4406,8 @@
                 "type": "item",
                 "item": "MaFoFruit",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_left": 98,
+                "canvas_top": 5,
                 "width": 17,
                 "height": 17
               },
@@ -4428,15 +4415,17 @@
                 "type": "item",
                 "item": "FVFruit",
                 "canvas_depth": 1,
-                "canvas_top": 118,
-                "width": 14,
-                "height": 14
+                "canvas_left": 118,
+                "canvas_top": 5,
+                "width": 15,
+                "height": 15
               },
               {
                 "type": "item",
                 "item": "ALFruit",
                 "canvas_depth": 1,
-                "canvas_top": 130,
+                "canvas_left": 38,
+                "canvas_top": 20,
                 "width": 15,
                 "height": 15
               },
@@ -4444,17 +4433,17 @@
                 "type": "item",
                 "item": "VMFruit",
                 "canvas_depth": 1,
-                "canvas_top": 34,
-                "canvas_left": 26,
-                "width": 15,
-                "height": 15
+                "canvas_left": 58,
+                "canvas_top": 20,
+                "width": 17,
+                "height": 16
               },
               {
                 "type": "item",
                 "item": "SVFruit",
                 "canvas_depth": 1,
-                "canvas_top": 46,
-                "canvas_left": 26,
+                "canvas_left": 78,
+                "canvas_top": 20,
                 "width": 15,
                 "height": 15
               },
@@ -4462,8 +4451,8 @@
                 "type": "item",
                 "item": "AGFruit",
                 "canvas_depth": 1,
-                "canvas_top": 106,
-                "canvas_left": 26,
+                "canvas_left": 98,
+                "canvas_top": 20,
                 "width": 16,
                 "height": 16
               },
@@ -4471,31 +4460,31 @@
                 "type": "item",
                 "item": "PIFruit",
                 "canvas_depth": 1,
-                "canvas_top": 130,
-                "canvas_left": 26,
+                "canvas_left": 118,
+                "canvas_top": 20,
                 "width": 12,
                 "height": 12
               }
             ]
-          },
-          {
+          },{
             "type": "canvas",
-            "width": 44,
-            "height":  140,
+            "width": 34,
+            "height":  34,
             "margin": "1,0",
             "content": [
               {
                 "type": "item",
                 "item": "Flower",
                 "canvas_left": 6,
-                "width": 32,
-                "height": 32
+                "width": 20,
+                "height": 20
               },
               {
                 "type": "item",
                 "item": "C9Flower",
                 "canvas_depth": 1,
-                "canvas_top": 34,
+                "canvas_left": 38,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4503,7 +4492,8 @@
                 "type": "item",
                 "item": "TCFlower",
                 "canvas_depth": 1,
-                "canvas_top": 46,
+                "canvas_left": 58,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4511,7 +4501,8 @@
                 "type": "item",
                 "item": "C6Flower",
                 "canvas_depth": 1,
-                "canvas_top": 70,
+                "canvas_left": 78,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4519,7 +4510,8 @@
                 "type": "item",
                 "item": "SMFlower",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_left": 98,
+                "canvas_top": 5,
                 "width": 17,
                 "height": 17
               },
@@ -4527,7 +4519,8 @@
                 "type": "item",
                 "item": "MaFoFlower",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_left": 118,
+                "canvas_top": 5,
                 "width": 17,
                 "height": 17
               },
@@ -4535,15 +4528,17 @@
                 "type": "item",
                 "item": "ESFlower",
                 "canvas_depth": 1,
-                "canvas_top": 118,
-                "width": 14,
-                "height": 14
+                "canvas_left": 38,
+                "canvas_top": 20,
+                "width": 15,
+                "height": 15
               },
               {
                 "type": "item",
                 "item": "ALFlower",
                 "canvas_depth": 1,
-                "canvas_top": 130,
+                "canvas_left": 58,
+                "canvas_top": 20,
                 "width": 15,
                 "height": 15
               },
@@ -4551,17 +4546,17 @@
                 "type": "item",
                 "item": "VMFlower",
                 "canvas_depth": 1,
-                "canvas_top": 34,
-                "canvas_left": 26,
-                "width": 15,
-                "height": 15
+                "canvas_left": 78,
+                "canvas_top": 20,
+                "width": 17,
+                "height": 16
               },
               {
                 "type": "item",
                 "item": "SVFlower",
                 "canvas_depth": 1,
-                "canvas_top": 46,
-                "canvas_left": 26,
+                "canvas_left": 98,
+                "canvas_top": 20,
                 "width": 15,
                 "height": 15
               },
@@ -4569,8 +4564,8 @@
                 "type": "item",
                 "item": "MeFiFlower",
                 "canvas_depth": 1,
-                "canvas_top": 82,
-                "canvas_left": 26,
+                "canvas_left": 118,
+                "canvas_top": 20,
                 "width": 17,
                 "height": 17
               },
@@ -4578,31 +4573,31 @@
                 "type": "item",
                 "item": "AGFlower",
                 "canvas_depth": 1,
-                "canvas_top": 106,
-                "canvas_left": 26,
+                "canvas_left": 138,
+                "canvas_top": 12,
                 "width": 16,
                 "height": 16
               }
             ]
-          },
-          {
+          },{
             "type": "canvas",
-            "width": 44,
-            "height":  140,
+            "width": 34,
+            "height":  34,
             "margin": "1,0",
             "content": [
               {
                 "type": "item",
                 "item": "Animal",
                 "canvas_left": 6,
-                "width": 32,
-                "height": 32
+                "width": 20,
+                "height": 20
               },
               {
                 "type": "item",
                 "item": "TCAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 46,
+                "canvas_left": 38,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4610,7 +4605,8 @@
                 "type": "item",
                 "item": "C6Animal",
                 "canvas_depth": 1,
-                "canvas_top": 70,
+                "canvas_left": 58,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4618,15 +4614,17 @@
                 "type": "item",
                 "item": "EMAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 82,
-                "width": 17,
-                "height": 17
+                "canvas_left": 78,
+                "canvas_top": 5,
+                "width": 18,
+                "height": 18
               },
               {
                 "type": "item",
                 "item": "SMAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_left": 98,
+                "canvas_top": 5,
                 "width": 17,
                 "height": 17
               },
@@ -4634,7 +4632,8 @@
                 "type": "item",
                 "item": "MaFoAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_left": 118,
+                "canvas_top": 5,
                 "width": 17,
                 "height": 17
               },
@@ -4642,25 +4641,26 @@
                 "type": "item",
                 "item": "ESAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 118,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "VMAnimal",
-                "canvas_depth": 1,
-                "canvas_top": 34,
-                "canvas_left": 26,
+                "canvas_left": 38,
+                "canvas_top": 20,
                 "width": 15,
                 "height": 15
               },
               {
                 "type": "item",
+                "item": "VMAnimal",
+                "canvas_depth": 1,
+                "canvas_left": 58,
+                "canvas_top": 20,
+                "width": 17,
+                "height": 16
+              },
+              {
+                "type": "item",
                 "item": "FAAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 70,
-                "canvas_left": 26,
+                "canvas_left": 78,
+                "canvas_top": 20,
                 "width": 14,
                 "height": 14
               },
@@ -4668,8 +4668,8 @@
                 "type": "item",
                 "item": "CFAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 94,
-                "canvas_left": 26,
+                "canvas_left": 98,
+                "canvas_top": 20,
                 "width": 14,
                 "height": 14
               },
@@ -4677,8 +4677,8 @@
                 "type": "item",
                 "item": "BIAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 118,
-                "canvas_left": 26,
+                "canvas_left": 118,
+                "canvas_top": 20,
                 "width": 12,
                 "height": 12
               },
@@ -4686,31 +4686,31 @@
                 "type": "item",
                 "item": "PIAnimal",
                 "canvas_depth": 1,
-                "canvas_top": 130,
-                "canvas_left": 26,
+                "canvas_left": 138,
+                "canvas_top": 12,
                 "width": 12,
                 "height": 12
               }
             ]
-          },
-          {
+          },{
             "type": "canvas",
-            "width": 44,
-            "height":  140,
+            "width": 34,
+            "height":  34,
             "margin": "1,0",
             "content": [
               {
                 "type": "item",
                 "item": "Bug",
                 "canvas_left": 6,
-                "width": 32,
-                "height": 32
+                "width": 20,
+                "height": 20
               },
               {
                 "type": "item",
                 "item": "C9Bug",
                 "canvas_depth": 1,
-                "canvas_top": 34,
+                "canvas_left": 38,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4718,7 +4718,8 @@
                 "type": "item",
                 "item": "TCBug",
                 "canvas_depth": 1,
-                "canvas_top": 46,
+                "canvas_left": 58,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4726,7 +4727,8 @@
                 "type": "item",
                 "item": "BLBug",
                 "canvas_depth": 1,
-                "canvas_top": 58,
+                "canvas_left": 78,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4734,15 +4736,17 @@
                 "type": "item",
                 "item": "EMBug",
                 "canvas_depth": 1,
-                "canvas_top": 82,
-                "width": 17,
-                "height": 17
+                "canvas_left": 98,
+                "canvas_top": 5,
+                "width": 18,
+                "height": 18
               },
               {
                 "type": "item",
                 "item": "MaFoBug",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_left": 118,
+                "canvas_top": 5,
                 "width": 17,
                 "height": 17
               },
@@ -4750,33 +4754,35 @@
                 "type": "item",
                 "item": "FVBug",
                 "canvas_depth": 1,
-                "canvas_top": 118,
-                "width": 14,
-                "height": 14
+                "canvas_left": 138,
+                "canvas_top": 5,
+                "width": 15,
+                "height": 15
               },
               {
                 "type": "item",
-                "item": "HETBug",
+                "item": "HTBug",
                 "canvas_depth": 1,
-                "canvas_top": 130,
-                "width": 23,
-                "height": 23
+                "canvas_left": 38,
+                "canvas_top": 20,
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
                 "item": "GFBug",
                 "canvas_depth": 1,
-                "canvas_top": 58,
-                "canvas_left": 26,
-                "width": 14,
-                "height": 14
+                "canvas_left": 58,
+                "canvas_top": 20,
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
                 "item": "MeFiBug",
                 "canvas_depth": 1,
-                "canvas_top": 82,
-                "canvas_left": 26,
+                "canvas_left": 78,
+                "canvas_top": 20,
                 "width": 17,
                 "height": 17
               },
@@ -4784,8 +4790,8 @@
                 "type": "item",
                 "item": "CFBug",
                 "canvas_depth": 1,
-                "canvas_top": 94,
-                "canvas_left": 26,
+                "canvas_left": 98,
+                "canvas_top": 20,
                 "width": 14,
                 "height": 14
               },
@@ -4793,8 +4799,8 @@
                 "type": "item",
                 "item": "AGBug",
                 "canvas_depth": 1,
-                "canvas_top": 106,
-                "canvas_left": 26,
+                "canvas_left": 118,
+                "canvas_top": 20,
                 "width": 16,
                 "height": 16
               },
@@ -4802,31 +4808,31 @@
                 "type": "item",
                 "item": "PIBug",
                 "canvas_depth": 1,
-                "canvas_top": 130,
-                "canvas_left": 26,
+                "canvas_left": 138,
+                "canvas_top": 20,
                 "width": 12,
                 "height": 12
               }
             ]
-          },
-          {
+          },{
             "type": "canvas",
-            "width": 44,
-            "height":  140,
+            "width": 34,
+            "height":  34,
             "margin": "1,0",
             "content": [
               {
                 "type": "item",
                 "item": "Nature",
                 "canvas_left": 6,
-                "width": 32,
-                "height": 32
+                "width": 20,
+                "height": 20
               },
               {
                 "type": "item",
                 "item": "TCNature",
                 "canvas_depth": 1,
-                "canvas_top": 46,
+                "canvas_left": 38,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4834,7 +4840,8 @@
                 "type": "item",
                 "item": "BLNature",
                 "canvas_depth": 1,
-                "canvas_top": 58,
+                "canvas_left": 58,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4842,15 +4849,17 @@
                 "type": "item",
                 "item": "EMNature",
                 "canvas_depth": 1,
-                "canvas_top": 82,
-                "width": 17,
-                "height": 17
+                "canvas_left": 78,
+                "canvas_top": 5,
+                "width": 18,
+                "height": 18
               },
               {
                 "type": "item",
                 "item": "SMNature",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_left": 98,
+                "canvas_top": 5,
                 "width": 17,
                 "height": 17
               },
@@ -4858,25 +4867,26 @@
                 "type": "item",
                 "item": "ESNature",
                 "canvas_depth": 1,
-                "canvas_top": 118,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "VMNature",
-                "canvas_depth": 1,
-                "canvas_top": 34,
-                "canvas_left": 26,
+                "canvas_left": 118,
+                "canvas_top": 5,
                 "width": 15,
                 "height": 15
               },
               {
                 "type": "item",
+                "item": "VMNature",
+                "canvas_depth": 1,
+                "canvas_left": 38,
+                "canvas_top": 20,
+                "width": 17,
+                "height": 16
+              },
+              {
+                "type": "item",
                 "item": "FANature",
                 "canvas_depth": 1,
-                "canvas_top": 70,
-                "canvas_left": 26,
+                "canvas_left": 58,
+                "canvas_top": 20,
                 "width": 14,
                 "height": 14
               },
@@ -4884,8 +4894,8 @@
                 "type": "item",
                 "item": "MeFiNature",
                 "canvas_depth": 1,
-                "canvas_top": 82,
-                "canvas_left": 26,
+                "canvas_left": 78,
+                "canvas_top": 20,
                 "width": 17,
                 "height": 17
               },
@@ -4893,8 +4903,8 @@
                 "type": "item",
                 "item": "CFNature",
                 "canvas_depth": 1,
-                "canvas_top": 94,
-                "canvas_left": 26,
+                "canvas_left": 98,
+                "canvas_top": 20,
                 "width": 14,
                 "height": 14
               },
@@ -4902,8 +4912,8 @@
                 "type": "item",
                 "item": "AGNature",
                 "canvas_depth": 1,
-                "canvas_top": 106,
-                "canvas_left": 26,
+                "canvas_left": 118,
+                "canvas_top": 20,
                 "width": 16,
                 "height": 16
               },
@@ -4911,31 +4921,31 @@
                 "type": "item",
                 "item": "PINature",
                 "canvas_depth": 1,
-                "canvas_top": 130,
-                "canvas_left": 26,
+                "canvas_left": 138,
+                "canvas_top": 12,
                 "width": 12,
                 "height": 12
               }
             ]
-          },
-          {
+          },{
             "type": "canvas",
-            "width": 44,
-            "height":  140,
+            "width": 34,
+            "height":  34,
             "margin": "1,0",
             "content": [
               {
                 "type": "item",
                 "item": "Parts",
                 "canvas_left": 6,
-                "width": 32,
-                "height": 32
+                "width": 20,
+                "height": 20
               },
               {
                 "type": "item",
                 "item": "C9Parts",
                 "canvas_depth": 1,
-                "canvas_top": 34,
+                "canvas_left": 38,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4943,7 +4953,8 @@
                 "type": "item",
                 "item": "BLParts",
                 "canvas_depth": 1,
-                "canvas_top": 58,
+                "canvas_left": 58,
+                "canvas_top": 5,
                 "width": 14,
                 "height": 14
               },
@@ -4951,41 +4962,35 @@
                 "type": "item",
                 "item": "EMParts",
                 "canvas_depth": 1,
-                "canvas_top": 82,
-                "width": 17,
-                "height": 17
+                "canvas_left": 78,
+                "canvas_top": 5,
+                "width": 18,
+                "height": 18
               },
               {
                 "type": "item",
                 "item": "SMParts",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_left": 98,
+                "canvas_top": 5,
                 "width": 17,
                 "height": 17
               },
               {
                 "type": "item",
-                "item": "HETParts",
+                "item": "HTParts",
                 "canvas_depth": 1,
-                "canvas_top": 130,
-                "width": 23,
-                "height": 23
-              },
-              {
-                "type": "item",
-                "item": "VMParts",
-                "canvas_depth": 1,
-                "canvas_top": 34,
-                "canvas_left": 26,
-                "width": 15,
-                "height": 15
+                "canvas_left": 118,
+                "canvas_top": 5,
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
                 "item": "SVParts",
                 "canvas_depth": 1,
-                "canvas_top": 46,
-                "canvas_left": 26,
+                "canvas_left": 138,
+                "canvas_top": 5,
                 "width": 15,
                 "height": 15
               },
@@ -4993,17 +4998,17 @@
                 "type": "item",
                 "item": "GFParts",
                 "canvas_depth": 1,
-                "canvas_top": 58,
-                "canvas_left": 26,
-                "width": 14,
-                "height": 14
+                "canvas_left": 38,
+                "canvas_top": 20,
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
                 "item": "FAParts",
                 "canvas_depth": 1,
-                "canvas_top": 70,
-                "canvas_left": 26,
+                "canvas_left": 58,
+                "canvas_top": 20,
                 "width": 14,
                 "height": 14
               },
@@ -5011,8 +5016,8 @@
                 "type": "item",
                 "item": "MeFiParts",
                 "canvas_depth": 1,
-                "canvas_top": 82,
-                "canvas_left": 26,
+                "canvas_left": 78,
+                "canvas_top": 20,
                 "width": 17,
                 "height": 17
               },
@@ -5020,8 +5025,8 @@
                 "type": "item",
                 "item": "CFParts",
                 "canvas_depth": 1,
-                "canvas_top": 94,
-                "canvas_left": 26,
+                "canvas_left": 98,
+                "canvas_top": 20,
                 "width": 14,
                 "height": 14
               },
@@ -5029,8 +5034,8 @@
                 "type": "item",
                 "item": "AGParts",
                 "canvas_depth": 1,
-                "canvas_top": 106,
-                "canvas_left": 26,
+                "canvas_left": 118,
+                "canvas_top": 20,
                 "width": 16,
                 "height": 16
               },
@@ -5038,13 +5043,20 @@
                 "type": "item",
                 "item": "PIParts",
                 "canvas_depth": 1,
-                "canvas_top": 130,
-                "canvas_left": 26,
+                "canvas_left": 138,
+                "canvas_top": 20,
                 "width": 12,
                 "height": 12
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "130,0",
+        "content": [
           {
             "type": "canvas",
             "width": 44,
@@ -5070,7 +5082,7 @@
                 "type": "item",
                 "item": "TCStrange",
                 "canvas_depth": 1,
-                "canvas_top": 46,
+                "canvas_top": 54,
                 "width": 14,
                 "height": 14
               },
@@ -5078,7 +5090,7 @@
                 "type": "item",
                 "item": "BLStrange",
                 "canvas_depth": 1,
-                "canvas_top": 58,
+                "canvas_top": 74,
                 "width": 14,
                 "height": 14
               },
@@ -5086,7 +5098,7 @@
                 "type": "item",
                 "item": "C6Strange",
                 "canvas_depth": 1,
-                "canvas_top": 70,
+                "canvas_top": 94,
                 "width": 14,
                 "height": 14
               },
@@ -5094,15 +5106,15 @@
                 "type": "item",
                 "item": "EMStrange",
                 "canvas_depth": 1,
-                "canvas_top": 82,
-                "width": 17,
-                "height": 17
+                "canvas_top": 114,
+                "width": 18,
+                "height": 18
               },
               {
                 "type": "item",
                 "item": "SMStrange",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_top": 134,
                 "width": 17,
                 "height": 17
               },
@@ -5110,7 +5122,7 @@
                 "type": "item",
                 "item": "MaFoStrange",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_top": 154,
                 "width": 17,
                 "height": 17
               },
@@ -5118,68 +5130,67 @@
                 "type": "item",
                 "item": "FVStrange",
                 "canvas_depth": 1,
-                "canvas_top": 118,
-                "width": 14,
-                "height": 14
+                "canvas_top": 174,
+                "width": 15,
+                "height": 15
               },
               {
                 "type": "item",
                 "item": "ESStrange",
                 "canvas_depth": 1,
-                "canvas_top": 130,
-                "width": 14,
-                "height": 14
+                "canvas_top": 194,
+                "width": 15,
+                "height": 15
               },
               {
                 "type": "item",
                 "item": "ALStrange",
                 "canvas_depth": 1,
+                "canvas_top": 214,
+                "width": 15,
+                "height": 15
+              },
+              {
+                "type": "item",
+                "item": "HTStrange",
+                "canvas_depth": 1,
                 "canvas_top": 34,
+                "canvas_left": 26,
+                "width": 16,
+                "height": 16
+              },
+              {
+                "type": "item",
+                "item": "VMStrange",
+                "canvas_depth": 1,
+                "canvas_top": 54,
+                "canvas_left": 26,
+                "width": 16,
+                "height": 16
+              },
+              {
+                "type": "item",
+                "item": "SVStrange",
+                "canvas_depth": 1,
+                "canvas_top": 74,
                 "canvas_left": 26,
                 "width": 15,
                 "height": 15
               },
               {
                 "type": "item",
-                "item": "HETStrange",
-                "canvas_depth": 1,
-                "canvas_top": 46,
-                "canvas_left": 26,
-                "width": 23,
-                "height": 23
-              },
-              {
-                "type": "item",
-                "item": "VMStrange",
-                "canvas_depth": 1,
-                "canvas_top": 58,
-                "canvas_left": 26,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "SVStrange",
-                "canvas_depth": 1,
-                "canvas_top": 70,
-                "canvas_left": 26,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
                 "item": "GFStrange",
                 "canvas_depth": 1,
-                "canvas_top": 82,
+                "canvas_top": 94,
                 "canvas_left": 26,
-                "width": 17,
-                "height": 17
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
                 "item": "FAStrange",
                 "canvas_depth": 1,
-                "canvas_top": 94,
+                "canvas_top": 114,
                 "canvas_left": 26,
                 "width": 14,
                 "height": 14
@@ -5188,7 +5199,7 @@
                 "type": "item",
                 "item": "MeFiStrange",
                 "canvas_depth": 1,
-                "canvas_top": 106,
+                "canvas_top": 134,
                 "canvas_left": 26,
                 "width": 17,
                 "height": 17
@@ -5197,25 +5208,26 @@
                 "type": "item",
                 "item": "CFStrange",
                 "canvas_depth": 1,
-                "canvas_top": 118,
+                "canvas_top": 154,
                 "canvas_left": 26,
-                "width": 12,
-                "height": 12
+                "width": 14,
+                "height": 14
               },
               {
                 "type": "item",
                 "item": "AGStrange",
                 "canvas_depth": 1,
-                "canvas_top": 130,
+                "canvas_top": 174,
                 "canvas_left": 26,
-                "width": 15,
-                "height": 15
+                "width": 16,
+                "height": 16
               },
               {
                 "type": "item",
                 "item": "BIStrange",
                 "canvas_depth": 1,
-                "canvas_top": 142,
+                "canvas_top": 194,
+                "canvas_left": 26,
                 "width": 12,
                 "height": 12
               },
@@ -5223,7 +5235,7 @@
                 "type": "item",
                 "item": "PIStrange",
                 "canvas_depth": 1,
-                "canvas_top": 142,
+                "canvas_top": 214,
                 "canvas_left": 26,
                 "width": 12,
                 "height": 12
