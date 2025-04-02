@@ -21,9 +21,11 @@
         "access_rules": [],
         "sections": [
           {
+            "name": "Mechon Wreckage Site",
             "ref": "Colony 9 Landmarks/Mechon Wreckage Site/Landmark"
           },
           {
+            "name": "Werner",
             "ref": "Colony 9 NPCs/Mechon Wreckage Site/Werner"
           },
           {
@@ -45,9 +47,11 @@
         "access_rules": [],
         "sections": [
           {
+            "name": "Cylinder Hanger",
             "ref": "Colony 9 Landmarks/Cylinder Hanger/Landmark"
           },
           {
+            "name": "Boss: Ancient Machines",
             "ref": "Colony 9 Bosses/Ancient Machines/Boss: Ancient Machines"
           },
           {
@@ -69,9 +73,11 @@
         "access_rules": [],
         "sections": [
           {
+            "name": "Landmark",
             "ref": "Colony 9 Landmarks/Outlook Park/Landmark"
           },
           {
+            "name": "UM: Lake Megdalena (Lv.6 Night)",
             "ref": "Colony 9 Unique Monsters/UM: Lake Magdalena/Lv.6 (Night)"
           },
           {
@@ -97,6 +103,7 @@
             "ref": "Colony 9 Landmarks/Tranquil Square/Landmark"
           },
           {
+            "name": "Boss: Metal Face",
             "ref": "Colony 9 Bosses/Metal Face/Boss: Metal Face"
           },
           {
@@ -118,24 +125,31 @@
         "access_rules": [],
         "sections": [
           {
+            "name": "Jackson (AM)",
             "ref": "Colony 9 NPCs/Residential District (West)/Jackson (AM)"
           },
           {
+            "name": "Lukas (AM)",
             "ref": "Colony 9 NPCs/Residential District (West)/Lukas (AM)"
           },
           {
+            "name": "Minnie (PM)",
             "ref": "Colony 9 NPCs/Residential District (West)/Minnie (PM)"
           },
           {
+            "name": "Moritz (AM)",
             "ref": "Colony 9 NPCs/Residential District (West)/Moritz (AM)"
           },
           {
+            "name": "Narine (AM)",
             "ref": "Colony 9 NPCs/Residential District (West)/Narine (AM)"
           },
           {
+            "name": "Niranira (AM)",
             "ref": "Colony 9 NPCs/Residential District (West)/Niranira (AM)"
           },
           {
+            "name": "Suzanna (AM)",
             "ref": "Colony 9 NPCs/Residential District (West)/Suzanna (AM)"
           }
         ],
@@ -153,24 +167,31 @@
         "access_rules": [],
         "sections": [
           {
+            "name": "Zukazu (PM)",
             "ref": "Colony 9 NPCs/Residential District (West)/Zukazu (PM)"
           },
           {
+            "name": "Dionysis (AM)",
             "ref": "Colony 9 NPCs/Residential District (South)/Dionysis (AM)"
           },
           {
+            "name": "Jolele (PM)",
             "ref": "Colony 9 NPCs/Residential District (South)/Jolele (PM)"
           },
           {
+            "name": "Jiroque (AM)",
             "ref": "Colony 9 NPCs/Residential District (South)/Jiroque (AM)"
           },
           {
+            "name": "Kenny Rohan (AM)",
             "ref": "Colony 9 NPCs/Tranquil Square/Kenny Rohan (AM)"
           },
           {
+            "name": "Betty (AM)",
             "ref": "Colony 9 NPCs/Tranquil Square/Betty (AM)"
           },
           {
+            "name": "Francoise (AM)",
             "ref": "Colony 9 NPCs/Tranquil Square/Francoise (AM)"
           }
         ],
@@ -188,54 +209,71 @@
         "access_rules": [],
         "sections": [
           {
+            "name": "A Mysterious Light (Kenny Rohan) {Lv.3}",
             "ref": "Colony 9 Quests/Tranquil Square/A Mysterious Light (Kenny Rohan) {Lv.3}"
           },
           {
+            "name": "Out Like a Light? (Kenny Rohan) {Lv.3}",
             "ref": "Colony 9 Quests/Tranquil Square/Out Like a Light? (Kenny Rohan) {Lv.3}"
           },
           {
+            "name": "Collection Quest 3 (Generic)",
             "ref": "Colony 9 Quests/Tranquil Square/Collection Quest 3 (Generic)"
           },
           {
+            "name": "Collection Quest 4 (Generic)",
             "ref": "Colony 9 Quests/Tranquil Square/Collection Quest 4 (Generic)"
           },
           {
+            "name": "Education-Minded Suzanna (Suzanna) {Lv.2}",
             "ref": "Colony 9 Quests/Tranquil Square/Education-Minded Suzanna (Suzanna) {Lv.2}"
           },
           {
+            "name": "Education-Crazy Suzanna (Suzanna) {Lv.2}",
             "ref": "Colony 9 Quests/Tranquil Square/Education-Crazy Suzanna (Suzanna) {Lv.2}"
           },
           {
+            "name": "Flattened Flowers (Francoise)",
             "ref": "Colony 9 Quests/Tranquil Square/Flattened Flowers (Francoise)"
           },
           {
+            "name": "Friendship Tokens (Moritz) {Lv.4}",
             "ref": "Colony 9 Quests/Tranquil Square/Friendship Tokens (Moritz) {Lv.4}"
           },
           {
+            "name": "Getting to Know Minnie (Minnie) {Lv.4}",
             "ref": "Colony 9 Quests/Tranquil Square/Getting to Know Minnie (Minnie) {Lv.4}"
           },
           {
+            "name": "Jackson's Awakening (Jackson)",
             "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening (Jackson)"
           },
           {
+            "name": "Lonely Niranira (Niranira)",
             "ref": "Colony 9 Quests/Tranquil Square/Lonely Niranira (Niranira)"
           },
           {
+            "name": "Material Quest 4 (Generic)",
             "ref": "Colony 9 Quests/Tranquil Square/Material Quest 4 (Generic)"
           },
           {
+            "name": "Paola and Narine (Narine)",
             "ref": "Colony 9 Quests/Tranquil Square/Paola and Narine (Narine)"
           },
           {
+            "name": "Pride and Courage (Lukas) {Lv.2}",
             "ref": "Colony 9 Quests/Tranquil Square/Pride and Courage (Lukas) {Lv.2}"
           },
           {
+            "name": "Search Quest 2 (Generic)",
             "ref": "Colony 9 Quests/Tranquil Square/Search Quest 2 (Generic)"
           },
           {
+            "name": "Search Quest 4 (Generic)",
             "ref": "Colony 9 Quests/Tranquil Square/Search Quest 4 (Generic)"
           },
           {
+            "name": "The Key to a Long Life (Dionysis)",
             "ref": "Colony 9 Quests/Tranquil Square/The Key to a Long Life (Dionysis)"
           }
         ],
@@ -339,12 +377,15 @@
             "ref": "Colony 9 Landmarks/Tephra Cave Entrance/Landmark"
           },
           {
+            "name": "Monster Quest 4 - Part 1 (Generic)",
             "ref": "Colony 9 Quests/Tephra Cave Entrance/Monster Quest 4 - Part 1 (Generic)"
           },
           {
+            "name": "Monster Quest 4 - Part 2 (Generic)",
             "ref": "Colony 9 Quests/Tephra Cave Entrance/Monster Quest 4 - Part 2 (Generic)"
           },
           {
+            "name": "Monster Quest 4 - Part 3 (Generic)",
             "ref": "Colony 9 Quests/Tephra Cave Entrance/Monster Quest 4 - Part 3 (Generic)"
           },
           {
@@ -368,15 +409,6 @@
           {
             "name": "Fortress Entrance",
             "ref": "Colony 9 Landmarks/Fortress Entrance/Landmark"
-          },
-          {
-            "ref": "Colony 9 Quests/Tephra Cave Entrance/Monster Quest 4 - Part 1 (Generic)"
-          },
-          {
-            "ref": "Colony 9 Quests/Tephra Cave Entrance/Monster Quest 4 - Part 2 (Generic)"
-          },
-          {
-            "ref": "Colony 9 Quests/Tephra Cave Entrance/Monster Quest 4 - Part 3 (Generic)"
           }
         ],
         "map_locations": [
@@ -393,57 +425,75 @@
         "access_rules": [],
         "sections": [
           {
+            "name": "A Young Captain's Request (Emmy Leater) {Lv.1}",
             "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Request (Emmy Leater) {Lv.1}"
           },
           {
+            "name": "A Young Captain's Suffering (Emmy Leater) {Lv.1}",
             "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Suffering (Emmy Leater) {Lv.1}"
           },
           {
+            "name": "A Young Captain's Rise (Emmy Leater) {Lv.2}",
             "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Rise (Emmy Leater) {Lv.2}"
           },
           {
+            "name": "A Young Captain's Challenge (Emmy Leater) {Lv.3}",
             "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Challenge (Emmy Leater) {Lv.3}"
           },
           {
+            "name": "Birthday Shoes (Kantz) {Lv.4}",
             "ref": "Colony 9 Quests/Fortress Entrance/Birthday Shoes (Kantz) {Lv.4}"
           },
           {
+            "name": "Challenge 1 (Generic)",
             "ref": "Colony 9 Quests/Fortress Entrance/Challenge 1 (Generic)"
           },
           {
+            "name": "Challenge 3 (Generic)",
             "ref": "Colony 9 Quests/Fortress Entrance/Challenge 3 (Generic)"
           },
           {
+            "name": "Dean's Shady Request (Dean) {Lv.2}",
             "ref": "Colony 9 Quests/Fortress Entrance/Dean's Shady Request (Dean) {Lv.2}"
           },
           {
+            "name": "Material Quest 1 (Generic)",
             "ref": "Colony 9 Quests/Fortress Entrance/Material Quest 1 (Generic)"
           },
           {
+            "name": "Monster Quest 1 - Part 1 (Generic)",
             "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 1 - Part 1 (Generic)"
           },
           {
+            "name": "Monster Quest 1 - Part 2 (Generic)",
             "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 1 - Part 2 (Generic)"
           },
           {
+            "name": "Monster Quest 1 - Part 3 (Generic)",
             "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 1 - Part 3 (Generic)"
           },
           {
+            "name": "Monster Quest 2 - Part 1 (Generic)",
             "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 1 (Generic)"
           },
           {
+            "name": "Monster Quest 2 - Part 2 (Generic)",
             "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 2 (Generic)"
           },
           {
+            "name": "Monster Quest 2 - Part 3 (Generic)",
             "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3 (Generic)"
           },
           {
+            "name": "The Elite Captain's Anguish (Raoul) {Lv.4}",
             "ref": "Colony 9 Quests/Fortress Entrance/The Elite Captain's Anguish (Raoul) {Lv.4}"
           },
           {
+            "name": "The Old Soldier's Test (Jan)",
             "ref": "Colony 9 Quests/Fortress Entrance/The Old Soldier's Test (Jan)"
           },
           {
+            "name": "A Token of Friendship (Shulk)",
             "ref": "Colony 9 Quests/Fortress Entrance/A Token of Friendship (Shulk)"
           }
         ],
@@ -461,42 +511,55 @@
         "access_rules": [],
         "sections": [
           {
+            "name": "Raoul (AM)",
             "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Raoul (AM)"
           },
           {
+            "name": "Jan (AM)",
             "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Jan (AM)"
           },
           {
+            "name": "Miller (AM)",
             "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Miller (AM)"
           },
           {
+            "name": "Dean (AM)",
             "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Dean (AM)"
           },
           {
+            "name": "Mefimefi (PM)",
             "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Mefimefi (PM)"
           },
           {
+            "name": "Arnaut (PM)",
             "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Arnaut (PM)"
           },
           {
+            "name": "Erik (20:00)",
             "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Erik (20:00)"
           },
           {
+            "name": "Perrine (20:00)",
             "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Perrine (20:00)"
           },
           {
+            "name": "Emmy Leater (AM)",
             "ref": "Colony 9 NPCs/Military District (Rear)/Emmy Leater (AM)"
           },
           {
+            "name": "Kantz (AM)",
             "ref": "Colony 9 NPCs/Military District (Rear)/Kantz (AM)"
           },
           {
+            "name": "Monica (PM)",
             "ref": "Colony 9 NPCs/Military District (Rear)/Monica (PM)"
           },
           {
+            "name": "Andreas (PM)",
             "ref": "Colony 9 NPCs/Military District (Rear)/Andreas (PM)"
           },
           {
+            "name": "Nic (PM)",
             "ref": "Colony 9 NPCs/Military District (Rear)/Nic (PM)"
           }
         ],
@@ -506,6 +569,20 @@
             "x": 591,
             "y": 229,
             "size": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tephra Cave",
+    "children":[
+      {
+        "name": "Zanza The Devine",
+        "access_rules": ["AreaKeys:22,MemoryFragments:20"],
+        "sections": [
+          {
+            "name": "Clear"
           }
         ]
       }
