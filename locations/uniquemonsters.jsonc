@@ -359,12 +359,6 @@
         ],
         "map_locations": [
           {
-            "map": "TCFull",
-            "x": 642,
-            "y": 941,
-            "size": 16
-          },
-          {
             "map": "TCUM",
             "x": 642,
             "y": 941,
@@ -380,12 +374,6 @@
           }
         ],
         "map_locations": [
-          {
-            "map": "TCFull",
-            "x": 895,
-            "y": 712,
-            "size": 16
-          },
           {
             "map": "TCUM",
             "x": 895,
@@ -540,12 +528,6 @@
         ],
         "map_locations": [
           {
-            "map": "TCFull",
-            "x": 180,
-            "y": 280,
-            "size": 16
-          },
-          {
             "map": "TCUM",
             "x": 180,
             "y": 280,
@@ -608,12 +590,6 @@
         ],
         "map_locations": [
           {
-            "map": "TCFull",
-            "x": 365,
-            "y": 1130,
-            "size": 16
-          },
-          {
             "map": "TCUM",
             "x": 365,
             "y": 1130,
@@ -630,12 +606,6 @@
           }
         ],
         "map_locations": [
-          {
-            "map": "TCFull",
-            "x": 360,
-            "y": 1175,
-            "size": 16
-          },
           {
             "map": "TCUM",
             "x": 360,
@@ -662,12 +632,6 @@
         "map_locations": [
           {
             "map": "TCUM",
-            "x": 325,
-            "y": 1140,
-            "size": 16
-          },
-          {
-            "map": "TCFull",
             "x": 325,
             "y": 1140,
             "size": 16

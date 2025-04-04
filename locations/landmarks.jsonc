@@ -242,12 +242,6 @@
             "x": 211,
             "y": 280,
             "size": 16
-          },
-          {
-            "map": "TCFull",
-            "x": 211,
-            "y": 280,
-            "size": 16
           }
         ]
       },
@@ -275,7 +269,7 @@
         ]
       },
       {
-        "name": "Vilia Lake",
+        "name": "Villa Lake",
         "access_rules": [],
         "sections": [
           {
@@ -285,12 +279,6 @@
         "map_locations": [
           {
             "map": "TCLM",
-            "x": 884,
-            "y": 734,
-            "size": 16
-          },
-          {
-            "map": "TCFull",
             "x": 884,
             "y": 734,
             "size": 16
@@ -354,12 +342,6 @@
         "map_locations": [
           {
             "map": "TCLM",
-            "x": 610,
-            "y": 918,
-            "size": 16
-          },
-          {
-            "map": "TCFull",
             "x": 610,
             "y": 918,
             "size": 16

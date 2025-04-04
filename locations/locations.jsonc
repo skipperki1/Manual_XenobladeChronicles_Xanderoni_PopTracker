@@ -582,39 +582,39 @@
         "sections": [
           {
             "name": "Mag Mell Ruins",
-            "ref": "@Tephra Cave Landmarks/Mag Mell Ruins/Landmark"
+            "ref": "Tephra Cave Landmarks/Mag Mell Ruins/Landmark"
           },
           {
             "name": "Missing in Action",
-            "ref": "@Tephra Cave Quests/Mag Mell Ruins/Missing in Action"
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/Missing in Action"
           },
           {
             "name": "Arachno Silk Fundraising",
-            "ref": "@Tephra Cave Quests/Mag Mell Ruins/Arachno Silk Fundraising"
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/Arachno Silk Fundraising"
           },
           {
             "name": "A Thank You",
-            "ref": "@Tephra Cave Quests/Mag Mell Ruins/A Thank You"
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/A Thank You"
           },
           {
             "name": "Clearing Obstructions",
-            "ref": "@Tephra Cave Quests/Mag Mell Ruins/Clearing Obstructions"
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/Clearing Obstructions"
           },
           {
             "name": "Collection Quest 1",
-            "ref": "@Tephra Cave Quests/Mag Mell Ruins/Collection Quest 1"
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/Collection Quest 1"
           },
           {
             "name": "Collection Quest 2",
-            "ref": "@Tephra Cave Quests/Mag Mell Ruins/Collection Quest 2"
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/Collection Quest 2"
           },
           {
             "name": "Material Quest 1",
-            "ref": "@Tephra Cave Quests/Mag Mell Ruins/Material Quest 1"
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/Material Quest 1"
           },
           {
             "name": "Material Quest 2",
-            "ref": "@Tephra Cave Quests/Mag Mell Ruins/Material Quest 2"
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/Material Quest 2"
           }
         ],
         "map_locations": [
@@ -623,6 +623,158 @@
             "x": 325,
             "y": 312,
             "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Spring of Grief",
+        "sections": [
+          {
+            "name": "Spring of Grief",
+            "ref": "Tephra Cave Landmarks/Spring of Grief/Landmark"
+          },
+          {
+            "name": "UM: Solid Konev (Lv. 10 Night)",
+            "ref": "Tephra Cave Unique Monsters/UM: Solid Konev/Lv.10 (Night)"
+          },
+          {
+            "name": "Glowing in the Night",
+            "ref": "Tephra Cave H2H/Glowing in the Night/Dunban & Riki"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 211,
+            "y": 280,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Villa Lake",
+        "sections": [
+          {
+            "name": "Villa Lake",
+            "ref": "Tephra Cave Landmarks/Villa Lake/Landmark"
+          },
+          {
+            "name": "UM: Gluttonous Eugen (Lv.11)",
+            "ref": "Tephra Cave Unique Monsters/UM: Gluttonous Eugen/Lv.11"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 884,
+            "y": 734,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Heavenly Window",
+        "sections": [
+          {
+            "name": "Heavenly Window",
+            "ref": "Tephra Cave Landmarks/Heavenly Window/Landmark"
+          },
+          {
+            "name": "UM: Protective Torquidon (Lv. 96)",
+            "ref": "Tephra Cave Unique Monsters/UM: Protective Torquidon/Lv.96"
+          },
+          {
+            "name": "UM: Erratic Goliante (Lv. 97)",
+            "ref": "Tephra Cave Unique Monsters/UM: Erratic Goliante/Lv.97"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 610,
+            "y": 918,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Arachno Queen's Nest",
+        "sections": [
+          {
+            "name": "Boss: Arachno Queen",
+            "ref": "Tephra Cave Bosses/Arachno Queen/Boss: Arachno Queen"
+          },
+          {
+            "name": "UM: Firework Geldesia (Lv.98)",
+            "ref": "Tephra Cave Unique Monsters/UM: Firework Geldesia/Lv.98"
+          },
+          {
+            "name": "UM: Reckless Zanden (Lv.98)",
+            "ref": "Tephra Cave Unique Monsters/UM: Reckless Zanden/Lv.98"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 354,
+            "y": 1149,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Fruit Completion",
+            "access_rules": ["TCFruit"],
+            "chest_unopened_img": "images/items/Fruit.png",
+            "chest_opened_img": "images/items/FruitDone.png"
+          },
+          {
+            "name": "Flower Completion",
+            "access_rules": ["TCFlower"],
+            "chest_unopened_img": "images/items/Flower.png",
+            "chest_opened_img": "images/items/FlowerDone.png"
+          },
+          {
+            "name": "Animal Completion",
+            "access_rules": ["TCAnimal"],
+            "chest_unopened_img": "images/items/Animal.png",
+            "chest_opened_img": "images/items/AnimalDone.png"
+          },
+          {
+            "name": "Bug Completion",
+            "access_rules": ["TCBug"],
+            "chest_unopened_img": "images/items/Bug.png",
+            "chest_opened_img": "images/items/BugDone.png"
+          },
+          {
+            "name": "Nature Completion",
+            "access_rules": ["TCNature"],
+            "chest_unopened_img": "images/items/Nature.png",
+            "chest_opened_img": "images/items/NatureDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["TCStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["TCFruit,TCFlower,TCAnimal,TCBug,TCNature,TCStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 1201,
+            "y": 921,
+            "size": 24
           }
         ]
       }
