@@ -402,5 +402,104 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Tephra Cave Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "children": [
+      {
+        "name": "Mag Mell Ruins",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Missing in Action",
+            "access_rules": ["AreaKeys:1"]
+          },
+          {
+            "name": "Arachno Silk Fundraising",
+            "access_rules": ["AreaKeys:1"]
+          },
+          {
+            "name": "A Thank You",
+            "access_rules": ["AreaKeys:1"]
+          },
+          {
+            "name": "Clearing Obstructions",
+            "access_rules": ["AreaKeys:1"]
+          },
+          {
+            "name": "Collection Quest 1",
+            "access_rules": ["AreaKeys:1"]
+          },
+          {
+            "name": "Collection Quest 2",
+            "access_rules": ["AreaKeys:1"]
+          },
+          {
+            "name": "Material Quest 1",
+            "access_rules": ["AreaKeys:1"]
+          },
+          {
+            "name": "Material Quest 2",
+            "access_rules": ["AreaKeys:1"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCQ",
+            "x": 325,
+            "y": 312,
+            "size": 16
+          },
+          {
+            "map": "TCFull",
+            "x": 325,
+            "y": 312,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bafalgar Tomb",
+        "access_rules": ["AreaKeys:20"],
+        "sections": [
+          {
+            "name": "The Book of Bafalgar",
+            "access_rules": []
+          },
+          {
+            "name": "The Blood of Bafalgar",
+            "access_rules": ["TCHunt"]
+          },
+          {
+            "name": "The Path of Bafalgar",
+            "access_rules": ["TCHunt"]
+          },
+          {
+            "name": "The Coffin of Bafalgar",
+            "access_rules": ["TCHunt"]
+          },
+          {
+            "name": "The Gratitude of Bafalgar",
+            "access_rules": ["TCHunt"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCQ",
+            "x": 1007,
+            "y": 426,
+            "size": 16
+          },
+          {
+            "map": "TCFull",
+            "x": 1007,
+            "y": 426,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

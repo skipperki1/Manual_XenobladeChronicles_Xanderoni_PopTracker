@@ -323,98 +323,12 @@
   },
   {
     "name": "Tephra Cave Unique Monsters",
-    "access_rules": ["TCHunt"],
+    "access_rules": ["TCHunt,AreaKeys:1"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "children": [
       {
-        "name": "UM: Verdant Bluchal",
-        "sections": [
-          {
-            "name": "Lv.5"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TCFull",
-            "x": 373,
-            "y": 239,
-            "size": 8
-          },
-          {
-            "map": "TCUM",
-            "x": 373,
-            "y": 239,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "UM: Itinerant Dorothea",
-        "access_rules": ["TCHunt,AreaKeys:1"],
-        "sections": [
-          {
-            "name": "Lv.6 (Day)"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TCFull",
-            "x": 280,
-            "y": 515,
-            "size": 8
-          },
-          {
-            "map": "TCUM",
-            "x": 280,
-            "y": 515,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "UM: Evil Rhangrot",
-        "access_rules": ["TCHunt,AreaKeys:1"],
-        "sections": [
-          {
-            "name": "Lv.6"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TCFull",
-            "x": 200,
-            "y": 500,
-            "size": 8
-          },
-          {
-            "map": "TCUM",
-            "x": 200,
-            "y": 500,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "UM: Lake Magdalena",
-        "access_rules": ["TCHunt,AreaKeys:1"],
-        "sections": [
-          {
-            "name": "Lv.6 (Night)"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TCUM",
-            "x": 436,
-            "y": 558,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "UM: Speedy Ramshyde",
-        "access_rules": ["TCHunt,AreaKeys:2"],
+        "name": "UM: Cellar Bugworm",
         "sections": [
           {
             "name": "Lv.10"
@@ -422,133 +336,311 @@
         ],
         "map_locations": [
           {
-            "map": "TCUM",
-            "x": 282,
-            "y": 543,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "UM: Enchanting Grune",
-        "access_rules": ["TCHunt,AreaKeys:2"],
-        "sections": [
-          {
-            "name": "Lv.13"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TCUM",
-            "x": 165,
-            "y": 325,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "UM: Dark Murkamor",
-        "access_rules": ["TCHunt,AreaKeys:3"],
-        "sections": [
-          {
-            "name": "Lv.18 (Night)"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TCUM",
-            "x": 575,
-            "y": 615,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "UM: Gentle Mother Armu",
-        "access_rules": ["TCHunt,AreaKeys:6"],
-        "sections": [
-          {
-            "name": "Lv.37"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TCUM",
-            "x": 930,
-            "y": 275,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "UM: Impenetrable Redrob",
-        "access_rules": ["TCHunt,AreaKeys:6"],
-        "sections": [
-          {
-            "name": "Lv.38 (Night)"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "TCUM",
-            "x": 775,
-            "y": 550,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "UM: Roguish Frengel|Shadeless Matrix",
-        "sections": [
-          {
-            "name": "Lv.39",
-            "access_rules": ["TCHunt,AreaKeys:6"]
+            "map": "TCFull",
+            "x": 370,
+            "y": 499,
+            "size": 16
           },
           {
-            "name": "Lv.44",
-            "access_rules": ["TCHunt,AreaKeys:7"]
-          }
-        ],
-        "map_locations": [
-          {
             "map": "TCUM",
-            "x": 200,
-            "y": 400,
-            "size": 8
+            "x": 370,
+            "y": 499,
+            "size": 16
           }
         ]
       },
       {
-        "name": "UM: Gentle Rodriguez",
-        "access_rules": ["TCHunt,AreaKeys:7"],
+        "name": "UM: Erratic Goliante",
+        "access_rules": ["AreaKeys:20"],
         "sections": [
           {
-            "name": "Lv.40"
+            "name": "Lv.97"
           }
         ],
         "map_locations": [
           {
+            "map": "TCFull",
+            "x": 642,
+            "y": 941,
+            "size": 16
+          },
+          {
             "map": "TCUM",
-            "x": 1010,
-            "y": 155,
-            "size": 8
+            "x": 642,
+            "y": 941,
+            "size": 16
           }
         ]
       },
       {
-        "name": "UM: Flailing Bracken",
-        "access_rules": ["TCHunt,AreaKeys:18"],
+        "name": "UM: Gluttonous Eugen",
         "sections": [
           {
-            "name": "Lv.73"
+            "name": "Lv.11"
           }
         ],
         "map_locations": [
           {
+            "map": "TCFull",
+            "x": 895,
+            "y": 712,
+            "size": 16
+          },
+          {
             "map": "TCUM",
-            "x": 790,
-            "y": 50,
-            "size": 8
+            "x": 895,
+            "y": 712,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Judicious Bunnitzol",
+        "access_rules": ["AreaKeys:20"],
+        "sections": [
+          {
+            "name": "Lv.94"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 152,
+            "y": 116,
+            "size": 16
+          },
+          {
+            "map": "TCUM",
+            "x": 152,
+            "y": 116,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Mining Patrichev",
+        "sections": [
+          {
+            "name": "Lv.8"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 421,
+            "y": 451,
+            "size": 16
+          },
+          {
+            "map": "TCUM",
+            "x": 421,
+            "y": 451,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Musical Vanflare",
+        "access_rules": ["AreaKeys:20"],
+        "sections": [
+          {
+            "name": "Lv.93"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 456,
+            "y": 648,
+            "size": 16
+          },
+          {
+            "map": "TCUM",
+            "x": 456,
+            "y": 648,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Plump Sprahda",
+        "access_rules": ["AreaKeys:20"],
+        "sections": [
+          {
+            "name": "Lv.92"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 945,
+            "y": 560,
+            "size": 16
+          },
+          {
+            "map": "TCUM",
+            "x": 945,
+            "y": 560,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Protective Torquidon",
+        "access_rules": ["AreaKeys:20"],
+        "sections": [
+          {
+            "name": "Lv.96"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 595,
+            "y": 905,
+            "size": 16
+          },
+          {
+            "map": "TCUM",
+            "x": 595,
+            "y": 905,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Reckless Galdon",
+        "access_rules": ["AreaKeys:20"],
+        "sections": [
+          {
+            "name": "Lv.95"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 296,
+            "y": 234,
+            "size": 16
+          },
+          {
+            "map": "TCUM",
+            "x": 296,
+            "y": 234,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Solid Konev",
+        "sections": [
+          {
+            "name": "Lv.10 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 180,
+            "y": 280,
+            "size": 16
+          },
+          {
+            "map": "TCUM",
+            "x": 180,
+            "y": 280,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Wallslide Gwynry",
+        "sections": [
+          {
+            "name": "Lv.9"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 435,
+            "y": 292,
+            "size": 16
+          },
+          {
+            "map": "TCUM",
+            "x": 435,
+            "y": 292,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Dazzling Tolosnia",
+        "access_rules": ["AreaKeys:20"],
+        "sections": [
+          {
+            "name": "Lv.97"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 465,
+            "y": 1075,
+            "size": 16
+          },
+          {
+            "map": "TCUM",
+            "x": 465,
+            "y": 1075,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Firework Geldesia",
+        "access_rules": ["AreaKeys:20"],
+        "sections": [
+          {
+            "name": "Lv.98"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 365,
+            "y": 1130,
+            "size": 16
+          },
+          {
+            "map": "TCUM",
+            "x": 365,
+            "y": 1130,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Reckless Zanden",
+        "access_rules": ["AreaKeys:20"],
+        "sections": [
+          {
+            "name": "Lv.98"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 360,
+            "y": 1175,
+            "size": 16
+          },
+          {
+            "map": "TCUM",
+            "x": 360,
+            "y": 1175,
+            "size": 16
           }
         ]
       }
@@ -560,19 +652,25 @@
     "chest_opened_img": "images/mapicons/DeadBoss.png",
     "children": [
       {
-        "name": "Metal Face",
+        "name": "Arachno Queen",
         "access_rules": ["AreaKeys:1"],
         "sections": [
           {
-            "name": "Boss: Metal Face"
+            "name": "Boss: Arachno Queen"
           }
         ],
         "map_locations": [
           {
             "map": "TCUM",
-            "x": 496,
-            "y": 471,
-            "size": 8
+            "x": 325,
+            "y": 1140,
+            "size": 16
+          },
+          {
+            "map": "TCFull",
+            "x": 325,
+            "y": 1140,
+            "size": 16
           }
         ]
       }

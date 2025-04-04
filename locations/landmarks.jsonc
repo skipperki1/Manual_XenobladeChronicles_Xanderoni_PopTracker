@@ -181,5 +181,191 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Tephra Cave Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:1"],
+    "children": [
+      {
+        "name": "Mag Mell Ruins",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 325,
+            "y": 312,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Rear Entrance",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 519,
+            "y": 169,
+            "size": 16
+          },
+          {
+            "map": "TCFull",
+            "x": 519,
+            "y": 169,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Spring of Grief",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 211,
+            "y": 280,
+            "size": 16
+          },
+          {
+            "map": "TCFull",
+            "x": 211,
+            "y": 280,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Tephra Path",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 589,
+            "y": 569,
+            "size": 16
+          },
+          {
+            "map": "TCFull",
+            "x": 589,
+            "y": 569,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Vilia Lake",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 884,
+            "y": 734,
+            "size": 16
+          },
+          {
+            "map": "TCFull",
+            "x": 884,
+            "y": 734,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Leg Pass",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 802,
+            "y": 1198,
+            "size": 16
+          },
+          {
+            "map": "TCFull",
+            "x": 802,
+            "y": 1198,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bafalgar Tomb",
+        "access_rules": ["AreaKeys:20"],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 1007,
+            "y": 426,
+            "size": 16
+          },
+          {
+            "map": "TCFull",
+            "x": 1007,
+            "y": 426,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Heavenly Window",
+        "access_rules": ["AreaKeys:20"],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 610,
+            "y": 918,
+            "size": 16
+          },
+          {
+            "map": "TCFull",
+            "x": 610,
+            "y": 918,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

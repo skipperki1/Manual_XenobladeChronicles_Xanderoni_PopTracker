@@ -578,11 +578,51 @@
     "name": "Tephra Cave",
     "children":[
       {
-        "name": "Zanza The Devine",
-        "access_rules": ["AreaKeys:22,MemoryFragments:20"],
+        "name": "Mag Mell Ruins",
         "sections": [
           {
-            "name": "Clear"
+            "name": "Mag Mell Ruins",
+            "ref": "@Tephra Cave Landmarks/Mag Mell Ruins/Landmark"
+          },
+          {
+            "name": "Missing in Action",
+            "ref": "@Tephra Cave Quests/Mag Mell Ruins/Missing in Action"
+          },
+          {
+            "name": "Arachno Silk Fundraising",
+            "ref": "@Tephra Cave Quests/Mag Mell Ruins/Arachno Silk Fundraising"
+          },
+          {
+            "name": "A Thank You",
+            "ref": "@Tephra Cave Quests/Mag Mell Ruins/A Thank You"
+          },
+          {
+            "name": "Clearing Obstructions",
+            "ref": "@Tephra Cave Quests/Mag Mell Ruins/Clearing Obstructions"
+          },
+          {
+            "name": "Collection Quest 1",
+            "ref": "@Tephra Cave Quests/Mag Mell Ruins/Collection Quest 1"
+          },
+          {
+            "name": "Collection Quest 2",
+            "ref": "@Tephra Cave Quests/Mag Mell Ruins/Collection Quest 2"
+          },
+          {
+            "name": "Material Quest 1",
+            "ref": "@Tephra Cave Quests/Mag Mell Ruins/Material Quest 1"
+          },
+          {
+            "name": "Material Quest 2",
+            "ref": "@Tephra Cave Quests/Mag Mell Ruins/Material Quest 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 325,
+            "y": 312,
+            "size": 16
           }
         ]
       }

@@ -217,15 +217,6 @@
                  }
                 },
                 {
-                  "title": "NPC's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "TCNPC"
-                     ]
-                    }
-                },
-                  {
                   "title": "Heart-to-Heart's",
                   "content": {
                     "type": "map",

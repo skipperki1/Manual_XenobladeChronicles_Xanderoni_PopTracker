@@ -168,7 +168,7 @@
             "size": 16
           },
           {
-            "map": "TCH2H",
+            "map": "TCFull",
             "x": 40,
             "y": 1090,
             "size": 16
@@ -218,7 +218,7 @@
             "size": 16
           },
           {
-            "map": "TCH2H",
+            "map": "TCFull",
             "x": 720,
             "y": 330,
             "size": 16

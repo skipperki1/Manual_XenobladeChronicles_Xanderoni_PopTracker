@@ -61,12 +61,6 @@
     "img": "images/maps/TephraCave.png"
   },
   {
-    "name": "TCNPC",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/TephraCave.png"
-  },
-  {
     "name": "TCH2H",
     "location_size": 48,
     "location_border_thickness": 4,
