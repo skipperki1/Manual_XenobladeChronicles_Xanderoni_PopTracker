@@ -1,4 +1,4 @@
-Tracker and Manual Client for Xenoblade Chronicles Manual!
+Tracker and Manual Client for Xenoblade Chronicles Manual Archipelago!
 
 ## Installation
 
