@@ -639,5 +639,326 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Bionis' Leg Unique Monsters",
+    "access_rules": ["BLHunt,AreaKeys:2"],
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "children": [
+      {
+        "name": "UM: Armoured Rockwell",
+        "sections": [
+          {
+            "name": "Lv.82 (Rain)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLUM",
+            "x": 466,
+            "y": 672,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 466,
+            "y": 672,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Canyon Valencia",
+        "sections": [
+          {
+            "name": "Lv.78 (Clear)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLUM",
+            "x": 158,
+            "y": 256,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Clifftop Bayern",
+        "sections": [
+          {
+            "name": "Lv.32"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLUM",
+            "x": 675,
+            "y": 591,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 675,
+            "y": 591,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Field Altrich",
+        "sections": [
+          {
+            "name": "Lv.76"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLUM",
+            "x": 875,
+            "y": 517,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 875,
+            "y": 517,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Mysterious Barnaby",
+        "sections": [
+          {
+            "name": "Lv.75"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLUM",
+            "x": 400,
+            "y": 258,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 400,
+            "y": 258,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Napping Volfen",
+        "sections": [
+          {
+            "name": "Lv.17 (Rain)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLUM",
+            "x": 278,
+            "y": 710,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 278,
+            "y": 710,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Night Cardamon",
+        "sections": [
+          {
+            "name": "Lv.18 (Clear Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLUM",
+            "x": 445,
+            "y": 350,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 445,
+            "y": 350,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Sniper Paramecia",
+        "sections": [
+          {
+            "name": "Lv.15"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLUM",
+            "x": 190,
+            "y": 830,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 190,
+            "y": 830,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Territorial Rotbart",
+        "sections": [
+          {
+            "name": "Lv.81"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLUM",
+            "x": 225,
+            "y": 700,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 225,
+            "y": 700,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Trainer Harmelon",
+        "sections": [
+          {
+            "name": "Lv.15"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLUM",
+            "x": 378,
+            "y": 166,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 378,
+            "y": 166,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Vagrant Alfead",
+        "sections": [
+          {
+            "name": "Lv.16"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLUM",
+            "x": 303,
+            "y": 571,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 303,
+            "y": 571,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Violent Andante",
+        "sections": [
+          {
+            "name": "Lv.16"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLUM",
+            "x": 514,
+            "y": 745,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 514,
+            "y": 745,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: White Eduardo",
+        "sections": [
+          {
+            "name": "Lv.17 (Thunder)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLUM",
+            "x": 645,
+            "y": 730,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 645,
+            "y": 730,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bionis' Leg Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "children": [
+      {
+        "name": "Spiral Valley",
+        "access_rules": ["AreaKeys:2"],
+        "sections": [
+          {
+            "name": "Boss: Mechon M71"
+          },
+          {
+            "name": "Boss: Mysterious Face"
+          },
+          {
+            "name": "UM: Immovable Gonzalez (Lv.90)",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "access_rules": ["BLHunt"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLUM",
+            "x": 400,
+            "y": 258,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

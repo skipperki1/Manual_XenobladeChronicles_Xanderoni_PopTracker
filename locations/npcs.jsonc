@@ -310,5 +310,101 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Colony 6 NPCs",
+    "chest_unopened_img": "images/npcs/MetNPC.png",
+    "children": [
+      {
+        "name": "Refugee Camp",
+        "access_rules": ["AreaKeys:2"],
+        "sections": [
+          {
+            "name": "Anna (AM)",
+            "chest_opened_img": "images/npcs/Anna.png"
+          },
+          {
+            "name": "Arda",
+            "chest_opened_img": "images/npcs/Arda.png"
+          },
+          {
+            "name": "Earnest",
+            "chest_opened_img": "images/npcs/Earnest.png"
+          },
+          {
+            "name": "Ewan",
+            "chest_opened_img": "images/npcs/Ewan.png"
+          },
+          {
+            "name": "Gorman (PM)",
+            "chest_opened_img": "images/npcs/Gorman.png"
+          },
+          {
+            "name": "Juju",
+            "chest_opened_img": "images/npcs/Juju.png"
+          },
+          {
+            "name": "Kiroki (AM)",
+            "chest_opened_img": "images/npcs/Kiroki.png"
+          },
+          {
+            "name": "Matryona (AM)",
+            "chest_opened_img": "images/npcs/Matryona.png"
+          },
+          {
+            "name": "Nikita (AM)",
+            "chest_opened_img": "images/npcs/Nikita.png"
+          },
+          {
+            "name": "Olga (AM)",
+            "chest_opened_img": "images/npcs/Olga.png"
+          },
+          {
+            "name": "Pama",
+            "chest_opened_img": "images/npcs/Pama.png"
+          },
+          {
+            "name": "Satata (AM)",
+            "chest_opened_img": "images/npcs/Satata.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLNPC",
+            "x": 411,
+            "y": 835,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 416,
+            "y": 835,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Traveller's Rest",
+        "access_rules": ["AreaKeys:2"],
+        "sections": [
+          {
+            "name": "Batubatu",
+            "chest_opened_img": "images/npcs/Batubatu.png"
+          },
+          {
+            "name": "Gerugu",
+            "chest_opened_img": "images/npcs/Gerugu.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLNPC",
+            "x": 278,
+            "y": 268,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

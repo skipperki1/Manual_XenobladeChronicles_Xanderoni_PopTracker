@@ -724,7 +724,7 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": [],
+        "access_rules": ["AreaKeys:1"],
         "sections": [
           {
             "name": "Fruit Completion",
@@ -774,6 +774,229 @@
             "map": "TCFull",
             "x": 1201,
             "y": 921,
+            "size": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bionis' Leg",
+    "children":[
+      {
+        "name": "Traveller's Rest",
+        "sections": [
+          {
+            "name": "Batubatu",
+            "ref": "Colony 6 NPCs/Traveller's Rest/Batubatu"
+          },
+          {
+            "name": "Gerugu",
+            "ref": "Colony 6 NPCs/Traveller's Rest/Gerugu"
+          },
+          {
+            "name": "The Lost Nopon",
+            "ref": "Bionis' Leg Quests/Traveller's Rest/The Lost Nopon"
+          },
+          {
+            "name": "With Much Gratitude",
+            "ref": "Bionis' Leg Quests/Traveller's Rest/With Much Gratitude"
+          },
+          {
+            "name": "With Even More Gratitude",
+            "ref": "Bionis' Leg Quests/Traveller's Rest/With Even More Gratitude"
+          },
+          {
+            "name": "Legend of Mythical Empress",
+            "ref": "Bionis' Leg Quests/Traveller's Rest/Legend of Mythical Empress"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLFull",
+            "x": 278,
+            "y": 268,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ragrinar Canyon Path",
+        "sections": [
+          {
+            "name": "Batubatu",
+            "ref": "Bionis' Leg Landmark/Ragrinar Canyon Path/Landmark"
+          },
+          {
+            "name": "Monster Quest 1 - Part 1",
+            "ref": "Bionis' Leg Quests/Ragrinar Canyon Path/Monster Quest 1 - Part 1"
+          },
+          {
+            "name": "Monster Quest 1 - Part 2",
+            "ref": "Bionis' Leg Quests/Ragrinar Canyon Path/Monster Quest 1 - Part 2"
+          },
+          {
+            "name": "Monster Quest 1 - Part 3",
+            "ref": "Bionis' Leg Quests/Ragrinar Canyon Path/Monster Quest 1 - Part 3"
+          },
+          {
+            "name": "Monster Quest 1 - Part 4",
+            "ref": "Bionis' Leg Quests/Ragrinar Canyon Path/Monster Quest 1 - Part 4"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLFull",
+            "x": 75,
+            "y": 697,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Spiral Valley",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Bionis' Leg Landmarks/Spiral Valley/Landmark"
+          },
+          {
+            "name": "Boss: Mechon M71",
+            "ref": "Bionis' Leg Bosses/Spiral Valley/Boss: Mechon M71"
+          },
+          {
+            "name": "Boss: Mysterious Face",
+            "ref": "Bionis' Leg Bosses/Spiral Valley/Boss: Mysterious Face"
+          },
+          {
+            "name": "UM: Immovable Gonzalez (Lv.90)",
+            "ref": "Bionis' Leg Bosses/Spiral Valley/UM: Immovable Gonzalez (Lv.90)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLFull",
+            "x": 400,
+            "y": 258,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Observation Platform",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Bionis' Leg Landmarks/Observation Platform/Landmark"
+          },
+          {
+            "name": "UM: Canyon Valencia",
+            "ref": "Bionis' Leg Unique Monsters/UM: Canyon Valencia/Lv.78 (Clear)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLFull",
+            "x": 158,
+            "y": 256,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Believer's Paradise",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Bionis' Leg Landmarks/Believer's Paradise/Landmark"
+          },
+          {
+            "name": "Geography Lesson",
+            "ref": "Bionis' Leg H2H/Geography Lesson/Shulk & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLFull",
+            "x": 489,
+            "y": 238,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Raguel Bridge - North",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Bionis' Leg Landmarks/Raguel Bridge - North/Landmark"
+          },
+          {
+            "name": "What Visions May Bring",
+            "ref": "Bionis' Leg H2H/What Visions May Bring/Shulk & Sharla"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLFull",
+            "x": 686,
+            "y": 754,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:2"],
+        "sections": [
+          {
+            "name": "Veg Completion",
+            "access_rules": ["BLVeg"],
+            "chest_unopened_img": "images/items/Veg.png",
+            "chest_opened_img": "images/items/VegDone.png"
+          },
+          {
+            "name": "Fruit Completion",
+            "access_rules": ["BLFruit"],
+            "chest_unopened_img": "images/items/Fruit.png",
+            "chest_opened_img": "images/items/FruitDone.png"
+          },
+          {
+            "name": "Bug Completion",
+            "access_rules": ["BLBug"],
+            "chest_unopened_img": "images/items/Bug.png",
+            "chest_opened_img": "images/items/BugDone.png"
+          },
+          {
+            "name": "Nature Completion",
+            "access_rules": ["BLNature"],
+            "chest_unopened_img": "images/items/Nature.png",
+            "chest_opened_img": "images/items/NatureDone.png"
+          },
+          {
+            "name": "Parts Completion",
+            "access_rules": ["BLParts"],
+            "chest_unopened_img": "images/items/Parts.png",
+            "chest_opened_img": "images/items/PartsDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["BLStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["BLVeg,BLFruit,BLBug,BLNature,BLParts,BLStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLFull",
+            "x": 765,
+            "y": 291,
             "size": 24
           }
         ]

@@ -495,5 +495,244 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Bionis' Leg Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "children": [
+      {
+        "name": "Refugee Camp",
+        "access_rules": ["AreaKeys:2"],
+        "sections": [
+          {
+            "name": "Emergency Treatment (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "A Thoughtful Idea (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "A Dash of Colour (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Thieving Monsters (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "The Greedy Monster (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Earnest's Fibs",
+            "access_rules": []
+          },
+          {
+            "name": "Earnest's Mischief",
+            "access_rules": []
+          },
+          {
+            "name": "Earnest's Solitude",
+            "access_rules": []
+          },
+          {
+            "name": "Being a Good Grandfather (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Supplies for Satorl",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "A Flower for a Rose",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "Battling Brutes",
+            "access_rules": ["AreaKeys:20"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLQ",
+            "x": 401,
+            "y": 835,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 401,
+            "y": 865,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Refugee Camp (Generic)",
+        "access_rules": ["AreaKeys:2"],
+        "sections": [
+          {
+            "name": "Monster Quest 2 (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Monster Quest 3 - Part 1 (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Monster Quest 3 - Part 2 (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Challenge 1 - Part 1 (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Challenge 1 - Part 2 (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Challenge 2 - Part 1 (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Challenge 2 - Part 2 (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Material Quest 1 (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Material Quest 2 (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Material Quest 3 (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Material Quest 4 (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Collection Quest 1 (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Collection Quest 2 (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Search Quest 1 (MISSABLE)",
+            "access_rules": []
+          },
+          {
+            "name": "Search Quest 2 (MISSABLE)",
+            "access_rules": []
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLQ",
+            "x": 431,
+            "y": 835,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 431,
+            "y": 865,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Surprise!",
+        "access_rules": ["AreaKeys:2"],
+        "sections": [
+          {
+            "name": "Save the Girl! (MISSABLE)",
+            "access_rules": []
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLQ",
+            "x": 305,
+            "y": 773,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 305,
+            "y": 773,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ragrinar Canyon Path",
+        "access_rules": ["AreaKeys:2"],
+        "sections": [
+          {
+            "name": "Monster Quest 1 - Part 1",
+            "access_rules": []
+          },
+          {
+            "name": "Monster Quest 1 - Part 2",
+            "access_rules": []
+          },
+          {
+            "name": "Monster Quest 1 - Part 3",
+            "access_rules": []
+          },
+          {
+            "name": "Monster Quest 1 - Part 4",
+            "access_rules": []
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLQ",
+            "x": 75,
+            "y": 697,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Traveller's Rest",
+        "access_rules": ["AreaKeys:2"],
+        "sections": [
+          {
+            "name": "The Lost Nopon",
+            "access_rules": []
+          },
+          {
+            "name": "With Much Gratitude",
+            "access_rules": []
+          },
+          {
+            "name": "With Even More Gratitude",
+            "access_rules": []
+          },
+          {
+            "name": "Legend of Mythical Empress",
+            "access_rules": ["AreaKeys:7"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLQ",
+            "x": 278,
+            "y": 268,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

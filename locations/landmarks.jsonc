@@ -349,5 +349,230 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Bionis' Leg Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:2"],
+    "children": [
+      {
+        "name": "Ragrinar Canyon Path",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 75,
+            "y": 697,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kamos Guidepost",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 189,
+            "y": 718,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 189,
+            "y": 718,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Jabos Rock Rest Area",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 402,
+            "y": 677,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 402,
+            "y": 677,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Refugee Camp",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 411,
+            "y": 835,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Raguel Bridge - South",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 625,
+            "y": 815,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 625,
+            "y": 815,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Raguel Bridge - North",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 686,
+            "y": 754,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Spiral Valley",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 400,
+            "y": 258,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Zax Guidepost",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 295,
+            "y": 151,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 295,
+            "y": 151,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bask Cave Passage",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 470,
+            "y": 413,
+            "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 470,
+            "y": 413,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Believer's Paradise",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 489,
+            "y": 238,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Observation Platform",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 158,
+            "y": 256,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

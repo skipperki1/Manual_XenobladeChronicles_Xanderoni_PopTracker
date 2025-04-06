@@ -220,5 +220,107 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Bionis' Leg H2H",
+    "chest_unopened_img": "images/mapicons/HeartToHeart.png",
+    "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
+    "children": [
+      {
+        "name": "Geography Lesson",
+        "sections": [
+        {
+          "name": "Shulk & Dunban",
+          "access_rules": [
+          "AreaKeys:4,ShulkAffinity4,DunbanAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "BLH2H",
+            "x": 489,
+            "y": 238,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Revisiting the Past",
+        "sections": [
+        {
+          "name": "Sharla & Dunban",
+          "access_rules": [
+          "AreaKeys:4,SharlaAffinity5,DunbanAffinity5"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "BLH2H",
+            "x": 331,
+            "y": 652,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "What's on Reyn's Mind",
+        "sections": [
+        {
+          "name": "Reyn & Sharla",
+          "access_rules": [
+          "AreaKeys:2,SharlaAffinity2,ReynAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "BLH2H",
+            "x": 411,
+            "y": 835,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Heir to the Monado",
+        "sections": [
+        {
+          "name": "Reyn & Dunban",
+          "access_rules": [
+          "AreaKeys:4,DunbanAffinity2,ReynAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "BLH2H",
+            "x": 411,
+            "y": 835,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "What Visions May Bring",
+        "sections": [
+        {
+          "name": "Shulk & Sharla",
+          "access_rules": [
+          "AreaKeys:2,SharlaAffinity2,ShulkAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "BLH2H",
+            "x": 677,
+            "y": 733,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]
