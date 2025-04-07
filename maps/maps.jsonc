@@ -157,18 +157,6 @@
     "img": "images/maps/EtherMine.png"
   },
   {
-    "name": "EMQ",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/EtherMine.png"
-  },
-  {
-    "name": "EMNPC",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/EtherMine.png"
-  },
-  {
     "name": "EMH2H",
     "location_size": 48,
     "location_border_thickness": 4,

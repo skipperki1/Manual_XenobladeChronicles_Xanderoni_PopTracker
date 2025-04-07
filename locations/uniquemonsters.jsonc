@@ -1034,5 +1034,85 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Ether Mine Unique Monsters",
+    "access_rules": ["EMHunt,AreaKeys:4"],
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "children": [
+      {
+        "name": "UM: Dark Kisling",
+        "sections": [
+          {
+            "name": "Lv.20"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMUM",
+            "x": 125,
+            "y": 440,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Elegant Marin",
+        "sections": [
+          {
+            "name": "Lv.29"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMUM",
+            "x": 180,
+            "y": 405,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Vengeful Daulton",
+        "sections": [
+          {
+            "name": "Lv.22"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMUM",
+            "x": 125,
+            "y": 485,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ether Mine Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "children": [
+      {
+        "name": "Bosses",
+        "access_rules": ["AreaKeys:4"],
+        "sections": [
+          {
+            "name": "Boss: Xord"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMUM",
+            "x": 848,
+            "y": 994,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

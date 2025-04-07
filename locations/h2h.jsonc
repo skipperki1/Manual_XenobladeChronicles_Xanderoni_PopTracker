@@ -492,5 +492,56 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Ether Mine H2H",
+    "chest_unopened_img": "images/mapicons/HeartToHeart.png",
+    "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
+    "children": [
+      {
+        "name": "A Broken Watch",
+        "sections": [
+        {
+          "name": "Shulk & Sharla",
+          "access_rules": [
+          "AreaKeys:4,ShulkAffinity4,SharlaAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "EMH2H",
+            "x": 76,
+            "y": 329,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "A Wistful Glow",
+        "sections": [
+        {
+          "name": "Reyn & Sharla",
+          "access_rules": [
+          "AreaKeys:4,ReynAffinity5,SharlaAffinity5"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "EMH2H",
+            "x": 58,
+            "y": 432,
+            "size": 16
+          },
+          {
+            "map": "EMFull",
+            "x": 58,
+            "y": 432,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -719,5 +719,225 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Ether Mine Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:4"],
+    "children": [
+      {
+        "name": "Drainage Tunnel",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 243,
+            "y": 149,
+            "size": 16
+          },
+          {
+            "map": "EMFull",
+            "x": 243,
+            "y": 149,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Drainage Control Room",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 198,
+            "y": 212,
+            "size": 16
+          },
+          {
+            "map": "EMFull",
+            "x": 198,
+            "y": 212,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Freight Elevator",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 269,
+            "y": 1205,
+            "size": 16
+          },
+          {
+            "map": "EMFull",
+            "x": 269,
+            "y": 1205,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Pit - Entrance",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 107,
+            "y": 579,
+            "size": 16
+          },
+          {
+            "map": "EMFull",
+            "x": 107,
+            "y": 579,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Mining Base",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 76,
+            "y": 329,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Personnel Lift 2",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 477,
+            "y": 628,
+            "size": 16
+          },
+          {
+            "map": "EMFull",
+            "x": 477,
+            "y": 628,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Regulation Piston",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 515,
+            "y": 371,
+            "size": 16
+          },
+          {
+            "map": "EMFull",
+            "x": 515,
+            "y": 371,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Personnel Lift 3",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 472,
+            "y": 1023,
+            "size": 16
+          },
+          {
+            "map": "EMFull",
+            "x": 472,
+            "y": 1023,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Pit - Base Level",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 848,
+            "y": 994,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Glowmoss Lake",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 180,
+            "y": 405,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

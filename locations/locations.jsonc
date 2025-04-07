@@ -912,7 +912,7 @@
             "ref": "Tephra Cave Landmarks/Bafalgar Tomb/Landmark"
           },
           {
-            "name": "The of Bafalgar",
+            "name": "The Book of Bafalgar",
             "ref": "Tephra Cave Quests/Bafalgar Tomb/The Book of Bafalgar"
           },
           {
@@ -1299,10 +1299,6 @@
             "ref": "Colony 6 NPCs/Refugee Camp/Gorman (PM)"
           },
           {
-            "name": "Gorman (PM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Gorman (PM)"
-          },
-          {
             "name": "Juju",
             "ref": "Colony 6 NPCs/Refugee Camp/Juju"
           },
@@ -1413,6 +1409,124 @@
             "x": 240,
             "y": 583,
             "size": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ether Mine",
+    "children":[
+      {
+        "name": "Mining Base",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Ether Mine Landmarks/Mining Base/Landmark"
+          },
+          {
+            "name": "A Broken Watch",
+            "ref": "Ether Mine H2H/A Broken Watch/Shulk & Sharla"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMFull",
+            "x": 76,
+            "y": 329,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:4"],
+        "sections": [
+          {
+            "name": "Animal Completion",
+            "access_rules": ["EMAnimal"],
+            "chest_unopened_img": "images/items/Animal.png",
+            "chest_opened_img": "images/items/AnimalDone.png"
+          },
+          {
+            "name": "Bug Completion",
+            "access_rules": ["EMBug"],
+            "chest_unopened_img": "images/items/Bug.png",
+            "chest_opened_img": "images/items/BugDone.png"
+          },
+          {
+            "name": "Nature Completion",
+            "access_rules": ["EMNature"],
+            "chest_unopened_img": "images/items/Nature.png",
+            "chest_opened_img": "images/items/NatureDone.png"
+          },
+          {
+            "name": "Parts Completion",
+            "access_rules": ["EMParts"],
+            "chest_unopened_img": "images/items/Parts.png",
+            "chest_opened_img": "images/items/PartsDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["EMStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["EMAnimal,EMBug,EMNature,EMParts,EMStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMFull",
+            "x": 703,
+            "y": 1140,
+            "size": 24
+          }
+        ]
+      },
+      {
+        "name": "Glowmoss Lake",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Ether Mine Landmarks/Glowmoss Lake/Landmark"
+          },
+          {
+            "name": "UM: Elegant Marin",
+            "ref": "Ether Mine Unique Monsters/UM: Elegant Marin/Lv.29"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMFull",
+            "x": 180,
+            "y": 405,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Pit - Base Level",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Ether Mine Landmarks/Central Pit - Base Level/Landmark"
+          },
+          {
+            "name": "Boss: Xord",
+            "ref": "Ether Mine Bosses/Bosses/Boss: Xord"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMFull",
+            "x": 848,
+            "y": 994,
+            "size": 16
           }
         ]
       }
