@@ -404,6 +404,97 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Reconstruction HQ",
+        "access_rules": ["AreaKeys:3"],
+        "sections": [
+          {
+            "name": "Anna (AM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Anna (AM)"
+          },
+          {
+            "name": "Arda (AM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Arda (AM)"
+          },
+          {
+            "name": "Ewan (PM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Ewan"
+          },
+          {
+            "name": "Gorman (PM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Gorman (PM)"
+          },
+          {
+            "name": "Gorman (PM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Gorman (PM)"
+          },
+          {
+            "name": "Juju",
+            "ref": "Colony 6 NPCs/Refugee Camp/Juju"
+          },
+          {
+            "name": "Kiroki (AM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Kiroki (AM)"
+          },
+          {
+            "name": "Matryona (PM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Matryona (AM)"
+          },
+          {
+            "name": "Nikita (AM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Nikita (AM)"
+          },
+          {
+            "name": "Olga (PM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Olga (AM)"
+          },
+          {
+            "name": "Otharon",
+            "chest_opened_img": "images/npcs/Otharon.png",
+            "access_rules": ["AreaKeys:4"]
+          },
+          {
+            "name": "Pama (AM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Pama"
+          },
+          {
+            "name": "Satata (AM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Satata (AM)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6NPC",
+            "x": 73,
+            "y": 632,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Watchpoint Junction",
+        "access_rules": ["AreaKeys:3"],
+        "sections": [
+          {
+            "name": "Daza",
+            "chest_opened_img": "images/npcs/Daza.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6NPC",
+            "x": 375,
+            "y": 365,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 375,
+            "y": 365,
+            "size": 16
+          }
+        ]
       }
     ]
   }

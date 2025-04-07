@@ -55,6 +55,10 @@
             "ref": "Colony 9 Bosses/Ancient Machines/Boss: Ancient Machines"
           },
           {
+            "name": "The Lost Pendant (Soldier)",
+            "ref": "Colony 9 Quests/Cylinder Hangar/The Lost Pendant (Soldier)"
+          },
+          {
             "name": "Ancient Wreckage",
             "ref": "Colony 9 H2H/Ancient Wreckage/Reyn & Melia"
           }
@@ -116,6 +120,28 @@
             "map": "C9Full",
             "x": 530,
             "y": 455,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Central Plaza",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Tranquil Square",
+            "ref": "Colony 9 Landmarks/Central Plaza/Landmark"
+          },
+          {
+            "name": "Central Plaza",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1 (Generic)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9Full",
+            "x": 598,
+            "y": 305,
             "size": 8
           }
         ]
@@ -306,8 +332,214 @@
         "map_locations": [
           {
             "map": "C9Full",
-            "x": 462,
-            "y": 358,
+            "x": 452,
+            "y": 348,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Commercial District NPCs",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Paola (AM)",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Paola (AM)"
+          },
+          {
+            "name": "Rocco (AM)",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Rocco (AM)"
+          },
+          {
+            "name": "Oleksiy (PM)",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Oleksiy (PM)"
+          },
+          {
+            "name": "Rosemary (PM)",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Rosemary (PM)"
+          },
+          {
+            "name": "Sesame (PM)",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Sesame (PM)"
+          },
+          {
+            "name": "King Squeeze (PM)",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/King Squeeze (PM)"
+          },
+          {
+            "name": "Cheryl (AM)",
+            "ref": "Colony 9 NPCs/Ether Light/Cheryl (AM)"
+          },
+          {
+            "name": "Marcia (AM)",
+            "ref": "Colony 9 NPCs/Ether Light/Marcia (AM)"
+          },
+          {
+            "name": "Sonia (AM)",
+            "ref": "Colony 9 NPCs/Ether Light/Sonia (AM)"
+          },
+          {
+            "name": "Giorgio (AM)",
+            "ref": "Colony 9 NPCs/Ether Light/Giorgio (AM)"
+          },
+          {
+            "name": "Desiree (PM)",
+            "ref": "Colony 9 NPCs/Ether Light/Desiree (PM)"
+          },
+          {
+            "name": "Shura (PM)",
+            "ref": "Colony 9 NPCs/Ether Light/Shura (PM)"
+          },
+          {
+            "name": "Leopold (PM)",
+            "ref": "Colony 9 NPCs/Ether Light/Leopold (PM)"
+          },
+          {
+            "name": "Sylviane (PM)",
+            "ref": "Colony 9 NPCs/Ether Light/Sylviane (PM)"
+          },
+          {
+            "name": "Dorothy (AM)",
+            "ref": "Colony 9 NPCs/Dunban's House/Dorothy (AM)"
+          },
+          {
+            "name": "Liliana (AM)",
+            "ref": "Colony 9 NPCs/Dunban's House/Liliana (AM)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9Full",
+            "x": 452,
+            "y": 368,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Commercial District Quests 1",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "The Gem Man's Invention (Gem Man)",
+            "ref": "Colony 9 Quests/Gem Man's Stall/The Gem Man's Invention (Gem Man)"
+          },
+          {
+            "name": "Search Quest 3 (Generic)",
+            "ref": "Colony 9 Quests/Gem Man's Stall/Search Quest 3 (Generic)"
+          },
+          {
+            "name": "A Curry Conundrum (Giorgio)",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum (Giorgio)"
+          },
+          {
+            "name": "Biscuits for a Grandson (Marcia)",
+            "ref": "Colony 9 Quests/Ether Light 1/Biscuits for a Grandson (Marcia)"
+          },
+          {
+            "name": "Challenge 2 (Generic)",
+            "ref": "Colony 9 Quests/Ether Light 1/Challenge 2 (Generic)"
+          },
+          {
+            "name": "Challenge 4 (Generic)",
+            "ref": "Colony 9 Quests/Ether Light 1/Challenge 4 (Generic)"
+          },
+          {
+            "name": "Collection Quest 1 (Generic)",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1 (Generic)"
+          },
+          {
+            "name": "Collection Quest 2 (Generic)",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 2 (Generic)"
+          },
+          {
+            "name": "Desiree's Future (Desiree)",
+            "ref": "Colony 9 Quests/Ether Light 1/Desiree's Future (Desiree)"
+          },
+          {
+            "name": "Getting to Know Dorothy (Dorothy)",
+            "ref": "Colony 9 Quests/Ether Light 1/Getting to Know Dorothy (Dorothy)"
+          },
+          {
+            "name": "Liliana's Sincere Request (Liliana)",
+            "ref": "Colony 9 Quests/Ether Light 1/Liliana's Sincere Request (Liliana)"
+          },
+          {
+            "name": "Material Quest 2 (Generic)",
+            "ref": "Colony 9 Quests/Ether Light 1/Material Quest 2 (Generic)"
+          },
+          {
+            "name": "Material Quest 3 (Generic)",
+            "ref": "Colony 9 Quests/Ether Light 1/Material Quest 3 (Generic)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9Full",
+            "x": 472,
+            "y": 348,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Commercial District Quests 2",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Delivering Food (Story)",
+            "ref": "Colony 9 Quests/Dunban's House/Delivering Food (Story)"
+          },
+          {
+            "name": "Mementos of a Lost Son (Cheryl)",
+            "ref": "Colony 9 Quests/Ether Light 2/Mementos of a Lost Son (Cheryl)"
+          },
+          {
+            "name": "Monster Quest 3 - Part 1 (Generic)",
+            "ref": "Colony 9 Quests/Ether Light 2/Monster Quest 3 - Part 1 (Generic)"
+          },
+          {
+            "name": "Monster Quest 3 - Part 2 (Generic)",
+            "ref": "Colony 9 Quests/Ether Light 2/Monster Quest 3 - Part 2 (Generic)"
+          },
+          {
+            "name": "Monster Quest 3 - Part 3 (Generic)",
+            "ref": "Colony 9 Quests/Ether Light 2/Monster Quest 3 - Part 3 (Generic)"
+          },
+          {
+            "name": "Monster Quest 3 - Part 4 (Generic)",
+            "ref": "Colony 9 Quests/Ether Light 2/Monster Quest 3 - Part 4 (Generic)"
+          },
+          {
+            "name": "Overworked and Underpaid (Giorgio)",
+            "ref": "Colony 9 Quests/Ether Light 2/Overworked and Underpaid (Giorgio)"
+          },
+          {
+            "name": "Rocco's Heartful Request (Rocco)",
+            "ref": "Colony 9 Quests/Ether Light 2/Rocco's Heartful Request (Rocco)"
+          },
+          {
+            "name": "The Broken Watch (Desiree)",
+            "ref": "Colony 9 Quests/Ether Light 2/The Broken Watch (Desiree)"
+          },
+          {
+            "name": "The Plan - Preparation (Sesame)",
+            "ref": "Colony 9 Quests/Ether Light 2/The Plan - Preparation (Sesame)"
+          },
+          {
+            "name": "The Plan - The Night Before (Sesame)",
+            "ref": "Colony 9 Quests/Ether Light 2/The Plan - The Night Before (Sesame)"
+          },
+          {
+            "name": "The Plan - Execution (Sesame)",
+            "ref": "Colony 9 Quests/Ether Light 2/The Plan - Execution (Sesame)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9Full",
+            "x": 472,
+            "y": 368,
             "size": 8
           }
         ]
@@ -425,24 +657,24 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "A Young Captain's Request (Emmy Leater) {Lv.1}",
-            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Request (Emmy Leater) {Lv.1}"
+            "name": "A Young Captain's Request (Emmy Leater)",
+            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Request (Emmy Leater)"
           },
           {
-            "name": "A Young Captain's Suffering (Emmy Leater) {Lv.1}",
-            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Suffering (Emmy Leater) {Lv.1}"
+            "name": "A Young Captain's Suffering (Emmy Leater)",
+            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Suffering (Emmy Leater)"
           },
           {
-            "name": "A Young Captain's Rise (Emmy Leater) {Lv.2}",
-            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Rise (Emmy Leater) {Lv.2}"
+            "name": "A Young Captain's Rise (Emmy Leater)",
+            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Rise (Emmy Leater)"
           },
           {
-            "name": "A Young Captain's Challenge (Emmy Leater) {Lv.3}",
-            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Challenge (Emmy Leater) {Lv.3}"
+            "name": "A Young Captain's Challenge (Emmy Leater)",
+            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Challenge (Emmy Leater)"
           },
           {
-            "name": "Birthday Shoes (Kantz) {Lv.4}",
-            "ref": "Colony 9 Quests/Fortress Entrance/Birthday Shoes (Kantz) {Lv.4}"
+            "name": "Birthday Shoes (Kantz)",
+            "ref": "Colony 9 Quests/Fortress Entrance/Birthday Shoes (Kantz)"
           },
           {
             "name": "Challenge 1 (Generic)",
@@ -453,8 +685,8 @@
             "ref": "Colony 9 Quests/Fortress Entrance/Challenge 3 (Generic)"
           },
           {
-            "name": "Dean's Shady Request (Dean) {Lv.2}",
-            "ref": "Colony 9 Quests/Fortress Entrance/Dean's Shady Request (Dean) {Lv.2}"
+            "name": "Dean's Shady Request (Dean)",
+            "ref": "Colony 9 Quests/Fortress Entrance/Dean's Shady Request (Dean)"
           },
           {
             "name": "Material Quest 1 (Generic)",
@@ -485,8 +717,8 @@
             "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3 (Generic)"
           },
           {
-            "name": "The Elite Captain's Anguish (Raoul) {Lv.4}",
-            "ref": "Colony 9 Quests/Fortress Entrance/The Elite Captain's Anguish (Raoul) {Lv.4}"
+            "name": "The Elite Captain's Anguish (Raoul)",
+            "ref": "Colony 9 Quests/Fortress Entrance/The Elite Captain's Anguish (Raoul)"
           },
           {
             "name": "The Old Soldier's Test (Jan)",
@@ -673,10 +905,47 @@
         ]
       },
       {
+        "name": "Bafalgar Tomb",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Tephra Cave Landmarks/Bafalgar Tomb/Landmark"
+          },
+          {
+            "name": "The of Bafalgar",
+            "ref": "Tephra Cave Quests/Bafalgar Tomb/The Book of Bafalgar"
+          },
+          {
+            "name": "The Blood of Bafalgar",
+            "ref": "Tephra Cave Quests/Bafalgar Tomb/The Blood of Bafalgar"
+          },
+          {
+            "name": "The Path of Bafalgar",
+            "ref": "Tephra Cave Quests/Bafalgar Tomb/The Path of Bafalgar"
+          },
+          {
+            "name": "The Coffin of Bafalgar",
+            "ref": "Tephra Cave Quests/Bafalgar Tomb/The Coffin of Bafalgar"
+          },
+          {
+            "name": "The Gratitude of Bafalgar",
+            "ref": "Tephra Cave Quests/Bafalgar Tomb/The Gratitude of Bafalgar"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCFull",
+            "x": 1007,
+            "y": 426,
+            "size": 16
+          }
+        ]
+      },
+      {
         "name": "Heavenly Window",
         "sections": [
           {
-            "name": "Heavenly Window",
+            "name": "Landmark",
             "ref": "Tephra Cave Landmarks/Heavenly Window/Landmark"
           },
           {
@@ -997,6 +1266,152 @@
             "map": "BLFull",
             "x": 765,
             "y": 291,
+            "size": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Colony 6",
+    "children":[
+      {
+        "name": "Reconstruction HQ",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Colony 6 Landmarks/Reconstruction HQ/Landmark"
+          },
+          {
+            "name": "Anna (AM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Anna (AM)"
+          },
+          {
+            "name": "Arda (AM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Arda (AM)"
+          },
+          {
+            "name": "Ewan (PM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Ewan"
+          },
+          {
+            "name": "Gorman (PM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Gorman (PM)"
+          },
+          {
+            "name": "Gorman (PM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Gorman (PM)"
+          },
+          {
+            "name": "Juju",
+            "ref": "Colony 6 NPCs/Refugee Camp/Juju"
+          },
+          {
+            "name": "Kiroki (AM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Kiroki (AM)"
+          },
+          {
+            "name": "Matryona (PM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Matryona (AM)"
+          },
+          {
+            "name": "Nikita (AM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Nikita (AM)"
+          },
+          {
+            "name": "Olga (PM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Olga (AM)"
+          },
+          {
+            "name": "Otharon",
+            "ref": "Colony 6 NPCs/Reconstruction HQ/Otharon"
+          },
+          {
+            "name": "Pama (AM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Pama"
+          },
+          {
+            "name": "Satata (AM)",
+            "ref": "Colony 6 NPCs/Refugee Camp/Satata (AM)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6Full",
+            "x": 73,
+            "y": 632,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:3"],
+        "sections": [
+          {
+            "name": "Flower Completion",
+            "access_rules": ["C6Flower"],
+            "chest_unopened_img": "images/items/Flower.png",
+            "chest_opened_img": "images/items/FlowerDone.png"
+          },
+          {
+            "name": "Animal Completion",
+            "access_rules": ["C6Animal"],
+            "chest_unopened_img": "images/items/Animal.png",
+            "chest_opened_img": "images/items/AnimalDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["C6Strange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["C6Flower,C6Animal,C6Strange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6Full",
+            "x": 541,
+            "y": 306,
+            "size": 24
+          }
+        ]
+      },
+      {
+        "name": "Main Entrance",
+        "access_rules": ["AreaKeys:3"],
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Colony 6 Landmarks/Main Entrance/Landmark"
+          },
+          {
+            "name": "Boss: Sureny Telethia",
+            "ref": "Colony 6 Bosses/Bosses/Boss: Sureny Telethia"
+          },
+          {
+            "name": "Boss: Sani Telethia",
+            "ref": "Colony 6 Bosses/Bosses/Boss: Sani Telethia"
+          },
+          {
+            "name": "Dunban's Right Arm",
+            "ref": "Colony 6 H2H/Dunban's Right Arm/Sharla & Dunban"
+          },
+          {
+            "name": "Recovery and Reflection",
+            "ref": "Colony 6 H2H/Recovery and Reflection/Dunban & Seven"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6Full",
+            "x": 240,
+            "y": 583,
             "size": 24
           }
         ]

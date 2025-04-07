@@ -65,7 +65,7 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "A Curry Conundrum (Giorgio) {Lv.1}"
+            "name": "A Curry Conundrum (Giorgio)"
           },
           {
             "name": "Biscuits for a Grandson (Marcia)"
@@ -87,15 +87,15 @@
             "access_rules": []
           },
           {
-            "name": "Desiree's Future (Desiree) {Lv.4}",
+            "name": "Desiree's Future (Desiree)",
             "access_rules": ["AreaKeys:5"]
           },
           {
-            "name": "Getting to Know Dorothy (Dorothy) {Lv.4}",
+            "name": "Getting to Know Dorothy (Dorothy)",
             "access_rules": ["AreaKeys:20"]
           },
           {
-            "name": "Liliana's Sincere Request (Liliana) {Lv.2}",
+            "name": "Liliana's Sincere Request (Liliana)",
             "access_rules": []
           },
           {
@@ -142,11 +142,11 @@
             "access_rules": []
           },
           {
-            "name": "Overworked and Underpaid (Giorgio) {Lv.2}",
+            "name": "Overworked and Underpaid (Giorgio)",
             "access_rules": []
           },
           {
-            "name": "Rocco's Heartful Request (Rocco) {Lv.1}",
+            "name": "Rocco's Heartful Request (Rocco)",
             "access_rules": []
           },
           {
@@ -158,11 +158,11 @@
             "access_rules": ["AreaKeys:1"]
           },
           {
-            "name": "The Plan - The Night Before (Sesame) {Lv.2}",
+            "name": "The Plan - The Night Before (Sesame)",
             "access_rules": []
           },
           {
-            "name": "The Plan - Execution (Sesame) {Lv.3}",
+            "name": "The Plan - Execution (Sesame)",
             "access_rules": ["C9Hunt"]
           }
         ],
@@ -180,23 +180,23 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "A Young Captain's Request (Emmy Leater) {Lv.1}",
+            "name": "A Young Captain's Request (Emmy Leater)",
             "access_rules": []
           },
           {
-            "name": "A Young Captain's Suffering (Emmy Leater) {Lv.1}",
+            "name": "A Young Captain's Suffering (Emmy Leater)",
             "access_rules": ["AreaKeys:1"]
           },
           {
-            "name": "A Young Captain's Rise (Emmy Leater) {Lv.2}",
+            "name": "A Young Captain's Rise (Emmy Leater)",
             "access_rules": ["AreaKeys:1"]
           },
           {
-            "name": "A Young Captain's Challenge (Emmy Leater) {Lv.3}",
+            "name": "A Young Captain's Challenge (Emmy Leater)",
             "access_rules": ["AreaKeys:7"]
           },
           {
-            "name": "Birthday Shoes (Kantz) {Lv.4}",
+            "name": "Birthday Shoes (Kantz)",
             "access_rules": ["AreaKeys:20"]
           },
           {
@@ -208,7 +208,7 @@
             "access_rules": ["C9Hunt"]
           },
           {
-            "name": "Dean's Shady Request (Dean) {Lv.2}",
+            "name": "Dean's Shady Request (Dean)",
             "access_rules": ["AreaKeys:1"]
           },
           {
@@ -240,7 +240,7 @@
             "access_rules": []
           },
           {
-            "name": "The Elite Captain's Anguish (Raoul) {Lv.4}",
+            "name": "The Elite Captain's Anguish (Raoul)",
             "access_rules": ["AreaKeys:20"]
           },
           {
@@ -306,11 +306,11 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "A Mysterious Light (Kenny Rohan) {Lv.3}",
+            "name": "A Mysterious Light (Kenny Rohan)",
             "access_rules": ["AreaKeys:2"]
           },
           {
-            "name": "Out Like a Light? (Kenny Rohan) {Lv.3}",
+            "name": "Out Like a Light? (Kenny Rohan)",
             "access_rules": ["AreaKeys:2"]
           },
           {
@@ -322,11 +322,11 @@
             "access_rules": []
           },
           {
-            "name": "Education-Minded Suzanna (Suzanna) {Lv.2}",
+            "name": "Education-Minded Suzanna (Suzanna)",
             "access_rules": []
           },
           {
-            "name": "Education-Crazy Suzanna (Suzanna) {Lv.2}",
+            "name": "Education-Crazy Suzanna (Suzanna)",
             "access_rules": ["AreaKeys:1"]
           },
           {
@@ -334,11 +334,11 @@
             "access_rules": []
           },
           {
-            "name": "Friendship Tokens (Moritz) {Lv.4}",
+            "name": "Friendship Tokens (Moritz)",
             "access_rules": ["AreaKeys:20"]
           },
           {
-            "name": "Getting to Know Minnie (Minnie) {Lv.4}",
+            "name": "Getting to Know Minnie (Minnie)",
             "access_rules": ["AreaKeys:20"]
           },
           {
@@ -358,7 +358,7 @@
             "access_rules": ["AreaKeys:8,ShulkAffinity4,ReynAffinity4,SharlaAffinty4,MeliaAffinity4","AreaKeys:8,ShulkAffinity4,ReynAffinity4,SharlaAffinty4,SevenAffinity4","AreaKeys:8,ShulkAffinity4,ReynAffinity4,SevenAffinty4,MeliaAffinity4"]
           },
           {
-            "name": "Pride and Courage (Lukas) {Lv.2}",
+            "name": "Pride and Courage (Lukas)",
             "access_rules": []
           },
           {
@@ -395,6 +395,12 @@
         "map_locations": [
           {
             "map": "C9Q",
+            "x": 523,
+            "y": 198,
+            "size": 8
+          },
+          {
+            "map": "C9Full",
             "x": 523,
             "y": 198,
             "size": 8
@@ -482,12 +488,6 @@
         "map_locations": [
           {
             "map": "TCQ",
-            "x": 1007,
-            "y": 426,
-            "size": 16
-          },
-          {
-            "map": "TCFull",
             "x": 1007,
             "y": 426,
             "size": 16
@@ -729,6 +729,253 @@
             "map": "BLQ",
             "x": 278,
             "y": 268,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Colony 6 Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "children": [
+      {
+        "name": "Quests A-FI",
+        "access_rules": ["AreaKeys:3"],
+        "sections": [
+          {
+            "name": "Chemist's Reopening",
+            "access_rules": ["AreaKeys:4"]
+          },
+          {
+            "name": "Cook-Off Comeback?",
+            "access_rules": ["AreaKeys:10"]
+          },
+          {
+            "name": "Cook-Off Counter Attack!",
+            "access_rules": ["AreaKeys:10"]
+          },
+          {
+            "name": "Cook-Off Final Blow?!",
+            "access_rules": ["AreaKeys:10"]
+          },
+          {
+            "name": "Cook-Off Showdown!",
+            "access_rules": ["AreaKeys:13"]
+          },
+          {
+            "name": "A Dauntless Trader",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "Defend Colony 6 - Mechon (15% Reconstruction)",
+            "access_rules": ["AreaKeys:7"]
+          },
+          {
+            "name": "Defend Colony 6 - Reptile (35% Reconstruction)",
+            "access_rules": ["AreaKeys:10"]
+          },
+          {
+            "name": "Defend Colony 6 - Elite (55% Reconstruction)",
+            "access_rules": ["AreaKeys:16"]
+          },
+          {
+            "name": "Defend Colony 6 - Ancient (75% Reconstruction)",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "Defend Colony 6 - Demon (95% Reconstruction)",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "A Delectable Delicacy",
+            "access_rules": ["AreaKeys:10"]
+          },
+          {
+            "name": "Delivering the Undeliverable",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "A Final Sweet Favour",
+            "access_rules": ["AreaKeys:13"]
+          },
+          {
+            "name": "Finding the Unfindable",
+            "access_rules": ["AreaKeys:20"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6Q",
+            "x": 541,
+            "y": 461,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 541,
+            "y": 461,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Quests FO-PO",
+        "access_rules": ["AreaKeys:3"],
+        "sections": [
+          {
+            "name": "For the Restoration (MISSABLE)",
+            "access_rules": ["AreaKeys:4"]
+          },
+          {
+            "name": "A Gutsy Trader",
+            "access_rules": ["AreaKeys:7"]
+          },
+          {
+            "name": "In Pursuit of Love",
+            "access_rules": ["AreaKeys:16"]
+          },
+          {
+            "name": "Lifespan of a Machina",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "Looking for Freedom",
+            "access_rules": ["AreaKeys:10"]
+          },
+          {
+            "name": "Making a New Path (MISSABLE)",
+            "access_rules": ["AreaKeys:4"]
+          },
+          {
+            "name": "Matryona's Answer",
+            "access_rules": ["AreaKeys:5"]
+          },
+          {
+            "name": "Melancholy Tyrea",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "Missing Lodger",
+            "access_rules": ["AreaKeys:10"]
+          },
+          {
+            "name": "Nic's Training",
+            "access_rules": ["AreaKeys:18"]
+          },
+          {
+            "name": "Nic's Final Test",
+            "access_rules": ["AreaKeys:18"]
+          },
+          {
+            "name": "Obstinate Berryjammy",
+            "access_rules": ["AreaKeys:13"]
+          },
+          {
+            "name": "Odd Smoke - Investigation",
+            "access_rules": ["AreaKeys:16"]
+          },
+          {
+            "name": "Odd Smoke - Resolution",
+            "access_rules": ["AreaKeys:16"]
+          },
+          {
+            "name": "A Poet's Concerns",
+            "access_rules": ["AreaKeys:20"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6Q",
+            "x": 541,
+            "y": 583,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 541,
+            "y": 583,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Quests PR-U",
+        "access_rules": ["AreaKeys:3"],
+        "sections": [
+          {
+            "name": "Proof of Status",
+            "access_rules": []
+          },
+          {
+            "name": "Replica Monado 1",
+            "access_rules": ["AreaKeys:21"]
+          },
+          {
+            "name": "Replica Monado 2",
+            "access_rules": ["AreaKeys:21"]
+          },
+          {
+            "name": "Replica Monado 3",
+            "access_rules": ["AreaKeys:21"]
+          },
+          {
+            "name": "Replica Monado 4",
+            "access_rules": ["AreaKeys:21"]
+          },
+          {
+            "name": "Replica Monado 5",
+            "access_rules": ["AreaKeys:21"]
+          },
+          {
+            "name": "Rest in Peace",
+            "access_rules": ["AreaKeys:7"]
+          },
+          {
+            "name": "Safety First",
+            "access_rules": []
+          },
+          {
+            "name": "Satata's Younger Brother",
+            "access_rules": ["AreaKeys:4"]
+          },
+          {
+            "name": "A Secret Mission",
+            "access_rules": []
+          },
+          {
+            "name": "Securing Provisions",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "A Selfish Girl's Mistake",
+            "access_rules": ["AreaKeys:4"]
+          },
+          {
+            "name": "A Tantalising Treat",
+            "access_rules": ["AreaKeys:13"]
+          },
+          {
+            "name": "The Most Transparent Thing",
+            "access_rules": ["AreaKeys:13"]
+          },
+          {
+            "name": "Unstoppable Berryjammy",
+            "access_rules": ["AreaKeys:13"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6Q",
+            "x": 541,
+            "y": 699,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 541,
+            "y": 699,
             "size": 16
           }
         ]

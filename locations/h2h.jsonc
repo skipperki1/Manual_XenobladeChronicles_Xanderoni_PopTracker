@@ -277,8 +277,8 @@
         "map_locations": [
           {
             "map": "BLH2H",
-            "x": 411,
-            "y": 835,
+            "x": 405,
+            "y": 854,
             "size": 16
           }
         ]
@@ -317,6 +317,176 @@
             "map": "BLH2H",
             "x": 677,
             "y": 733,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Colony 6 H2H",
+    "chest_unopened_img": "images/mapicons/HeartToHeart.png",
+    "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
+    "children": [
+      {
+        "name": "Dunban's Right Arm",
+        "sections": [
+        {
+          "name": "Sharla & Dunban",
+          "access_rules": [
+          "AreaKeys:4,SharlaAffinity4,DunbanAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C6H2H",
+            "x": 277,
+            "y": 549,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "One Year On",
+        "sections": [
+        {
+          "name": "Reyn & Dunban",
+          "access_rules": [
+          "AreaKeys:4,ReynAffinity4,DunbanAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C6H2H",
+            "x": 272,
+            "y": 780,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 272,
+            "y": 780,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Quiet Time",
+        "sections": [
+        {
+          "name": "Riki & Seven",
+          "access_rules": [
+          "AreaKeys:16,RikiAffinity4,SevenAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C6H2H",
+            "x": 168,
+            "y": 531,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 168,
+            "y": 531,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Recovery and Reflection",
+        "sections": [
+        {
+          "name": "Dunban & Seven",
+          "access_rules": [
+          "AreaKeys:16,DunbanAffinity4,SevenAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C6H2H",
+            "x": 274,
+            "y": 592,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Renewed Determination",
+        "sections": [
+        {
+          "name": "Shulk & Reyn",
+          "access_rules": [
+          "AreaKeys:20,ShulkAffinity5,ReynAffinity5"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C6H2H",
+            "x": 144,
+            "y": 771,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 144,
+            "y": 771,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Strength of Heart",
+        "sections": [
+        {
+          "name": "Shulk & Dunban",
+          "access_rules": [
+          "AreaKeys:4,ShulkAffinity5,DunbanAffinity5"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C6H2H",
+            "x": 167,
+            "y": 589,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 167,
+            "y": 589,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "The Colony Reborn",
+        "sections": [
+        {
+          "name": "Shulk & Sharla",
+          "access_rules": [
+          "AreaKeys:4,ShulkAffinity5,SharlaAffinity5,Colony6Special:5"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C6H2H",
+            "x": 83,
+            "y": 569,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 83,
+            "y": 569,
             "size": 16
           }
         ]

@@ -483,12 +483,6 @@
         ],
         "map_locations": [
           {
-            "map": "TCFull",
-            "x": 595,
-            "y": 905,
-            "size": 16
-          },
-          {
             "map": "TCUM",
             "x": 595,
             "y": 905,
@@ -738,14 +732,14 @@
         "map_locations": [
           {
             "map": "BLUM",
-            "x": 400,
-            "y": 258,
+            "x": 923,
+            "y": 731,
             "size": 16
           },
           {
             "map": "BLFull",
-            "x": 400,
-            "y": 258,
+            "x": 923,
+            "y": 731,
             "size": 16
           }
         ]
@@ -955,6 +949,86 @@
             "map": "BLUM",
             "x": 400,
             "y": 258,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Colony 6 Unique Monsters",
+    "access_rules": ["C6Hunt,AreaKeys:3"],
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "children": [
+      {
+        "name": "UM: Graceful Holand",
+        "sections": [
+          {
+            "name": "Lv.19"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6UM",
+            "x": 230,
+            "y": 390,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 230,
+            "y": 390,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Drifter Jutard",
+        "sections": [
+          {
+            "name": "Lv.25",
+            "access_rules": ["AreaKeys:4"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6UM",
+            "x": 216,
+            "y": 764,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 216,
+            "y": 764,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Colony 6 Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "children": [
+      {
+        "name": "Bosses",
+        "access_rules": ["AreaKeys:20"],
+        "sections": [
+          {
+            "name": "Boss: Sureny Telethia"
+          },
+          {
+            "name": "Boss: Sani Telethia"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6UM",
+            "x": 256,
+            "y": 600,
             "size": 16
           }
         ]

@@ -90,22 +90,22 @@
       {
         "img": "images/items/Affinity2.png",
         "codes": "ShulkAffinity,ShulkAffinity2",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity3.png",
         "codes": "ShulkAffinity,ShulkAffinity3",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity4.png",
         "codes": "ShulkAffinity,ShulkAffinity4",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity5.png",
         "codes": "ShulkAffinity,ShulkAffinity5",
-        "inherit_codes": false
+        "inherit_codes": true
       }
     ]
   },
@@ -356,22 +356,22 @@
       {
         "img": "images/items/Affinity2.png",
         "codes": "ReynAffinity,ReynAffinity2",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity3.png",
         "codes": "ReynAffinity,ReynAffinity3",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity4.png",
         "codes": "ReynAffinity,ReynAffinity4",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity5.png",
         "codes": "ReynAffinity,ReynAffinity5",
-        "inherit_codes": false
+        "inherit_codes": true
       }
     ]
   },
@@ -622,22 +622,22 @@
       {
         "img": "images/items/Affinity2.png",
         "codes": "SharlaAffinity,SharlaAffinity2",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity3.png",
         "codes": "SharlaAffinity,SharlaAffinity3",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity4.png",
         "codes": "SharlaAffinity,SharlaAffinity4",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity5.png",
         "codes": "SharlaAffinity,SharlaAffinity5",
-        "inherit_codes": false
+        "inherit_codes": true
       }
     ]
   },
@@ -888,22 +888,22 @@
       {
         "img": "images/items/Affinity2.png",
         "codes": "DunbanAffinity,DunbanAffinity2",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity3.png",
         "codes": "DunbanAffinity,DunbanAffinity3",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity4.png",
         "codes": "DunbanAffinity,DunbanAffinity4",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity5.png",
         "codes": "DunbanAffinity,DunbanAffinity5",
-        "inherit_codes": false
+        "inherit_codes": true
       }
     ]
   },
@@ -1154,22 +1154,22 @@
       {
         "img": "images/items/Affinity2.png",
         "codes": "RikiAffinity,RikiAffinity2",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity3.png",
         "codes": "RikiAffinity,RikiAffinity3",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity4.png",
         "codes": "RikiAffinity,RikiAffinity4",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity5.png",
         "codes": "RikiAffinity,RikiAffinity5",
-        "inherit_codes": false
+        "inherit_codes": true
       }
     ]
   },
@@ -1420,22 +1420,22 @@
       {
         "img": "images/items/Affinity2.png",
         "codes": "MeliaAffinity,MeliaAffinity2",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity3.png",
         "codes": "MeliaAffinity,MeliaAffinity3",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity4.png",
         "codes": "MeliaAffinity,MeliaAffinity4",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity5.png",
         "codes": "MeliaAffinity,MeliaAffinity5",
-        "inherit_codes": false
+        "inherit_codes": true
       }
     ]
   },
@@ -1686,22 +1686,22 @@
       {
         "img": "images/items/Affinity2.png",
         "codes": "SevenAffinity,SevenAffinity2",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity3.png",
         "codes": "SevenAffinity,SevenAffinity3",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity4.png",
         "codes": "SevenAffinity,SevenAffinity4",
-        "inherit_codes": false
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity5.png",
         "codes": "SevenAffinity,SevenAffinity5",
-        "inherit_codes": false
+        "inherit_codes": true
       }
     ]
   },

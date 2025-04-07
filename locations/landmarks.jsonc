@@ -86,12 +86,6 @@
             "x": 598,
             "y": 305,
             "size": 8
-          },
-          {
-            "map": "C9Full",
-            "x": 598,
-            "y": 305,
-            "size": 8
           }
         ]
       },
@@ -319,12 +313,6 @@
         "map_locations": [
           {
             "map": "TCLM",
-            "x": 1007,
-            "y": 426,
-            "size": 16
-          },
-          {
-            "map": "TCFull",
             "x": 1007,
             "y": 426,
             "size": 16
@@ -569,6 +557,163 @@
             "map": "BLLM",
             "x": 158,
             "y": 256,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Colony 6 Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:3"],
+    "children": [
+      {
+        "name": "Drainage Outlet",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6LM",
+            "x": 170,
+            "y": 483,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 170,
+            "y": 483,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Freight Road",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6LM",
+            "x": 233,
+            "y": 829,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 233,
+            "y": 829,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Main Entrance",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6LM",
+            "x": 240,
+            "y": 583,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Misty Path",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6LM",
+            "x": 323,
+            "y": 1079,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 323,
+            "y": 1079,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Reconstruction HQ",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6LM",
+            "x": 73,
+            "y": 632,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Supply Road",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6LM",
+            "x": 424,
+            "y": 157,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 424,
+            "y": 157,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Watchpoint Junction",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6LM",
+            "x": 395,
+            "y": 251,
+            "size": 16
+          },
+          {
+            "map": "C6Full",
+            "x": 395,
+            "y": 251,
             "size": 16
           }
         ]
