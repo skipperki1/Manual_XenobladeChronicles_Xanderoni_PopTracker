@@ -9,11 +9,11 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "The Gem Man's Invention (Gem Man)",
+            "name": "The Gem Man's Invention",
             "access_rules": ["AreaKeys:5"]
           },
           {
-            "name": "Search Quest 3 (Generic)",
+            "name": "Search Quest 3",
             "access_rules": []
           }
         ],
@@ -31,7 +31,7 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Search Quest 1 (Generic)"
+            "name": "Search Quest 1"
           }
         ],
         "map_locations": [
@@ -48,7 +48,7 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "The Lost Pendant (Soldier)"
+            "name": "The Lost Pendant"
           }
         ],
         "map_locations": [
@@ -65,45 +65,45 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "A Curry Conundrum (Giorgio)"
+            "name": "A Curry Conundrum"
           },
           {
-            "name": "Biscuits for a Grandson (Marcia)"
+            "name": "Biscuits for a Grandson"
           },
           {
-            "name": "Challenge 2 (Generic)",
+            "name": "Challenge 2",
             "access_rules": ["C9Hunt"]
           },
           {
-            "name": "Challenge 4 (Generic)",
+            "name": "Challenge 4",
             "access_rules": ["C9Hunt"]
           },
           {
-            "name": "Collection Quest 1 (Generic)",
+            "name": "Collection Quest 1",
             "access_rules": []
           },
           {
-            "name": "Collection Quest 2 (Generic)",
+            "name": "Collection Quest 2",
             "access_rules": []
           },
           {
-            "name": "Desiree's Future (Desiree)",
+            "name": "Desiree's Future",
             "access_rules": ["AreaKeys:5"]
           },
           {
-            "name": "Getting to Know Dorothy (Dorothy)",
+            "name": "Getting to Know Dorothy",
             "access_rules": ["AreaKeys:20"]
           },
           {
-            "name": "Liliana's Sincere Request (Liliana)",
+            "name": "Liliana's Sincere Request",
             "access_rules": []
           },
           {
-            "name": "Material Quest 2 (Generic)",
+            "name": "Material Quest 2",
             "access_rules": []
           },
           {
-            "name": "Material Quest 3 (Generic)",
+            "name": "Material Quest 3",
             "access_rules": []
           }
         ],
@@ -122,47 +122,47 @@
         "sections": [
           
           {
-            "name": "Mementos of a Lost Son (Cheryl)",
+            "name": "Mementos of a Lost Son",
             "access_rules": ["AreaKeys:5"]
           },
           {
-            "name": "Monster Quest 3 - Part 1 (Generic)",
+            "name": "Monster Quest 3 - Part 1",
             "access_rules": []
           },
           {
-            "name": "Monster Quest 3 - Part 2 (Generic)",
+            "name": "Monster Quest 3 - Part 2",
             "access_rules": []
           },
           {
-            "name": "Monster Quest 3 - Part 3 (Generic)",
+            "name": "Monster Quest 3 - Part 3",
             "access_rules": []
           },
           {
-            "name": "Monster Quest 3 - Part 4 (Generic)",
+            "name": "Monster Quest 3 - Part 4",
             "access_rules": []
           },
           {
-            "name": "Overworked and Underpaid (Giorgio)",
+            "name": "Overworked and Underpaid",
             "access_rules": []
           },
           {
-            "name": "Rocco's Heartful Request (Rocco)",
+            "name": "Rocco's Heartful Request",
             "access_rules": []
           },
           {
-            "name": "The Broken Watch (Desiree)",
+            "name": "The Broken Watch",
             "access_rules": []
           },
           {
-            "name": "The Plan - Preparation (Sesame)",
+            "name": "The Plan - Preparation",
             "access_rules": ["AreaKeys:1"]
           },
           {
-            "name": "The Plan - The Night Before (Sesame)",
+            "name": "The Plan - The Night Before",
             "access_rules": []
           },
           {
-            "name": "The Plan - Execution (Sesame)",
+            "name": "The Plan - Execution",
             "access_rules": ["C9Hunt"]
           }
         ],
@@ -180,71 +180,71 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "A Young Captain's Request (Emmy Leater)",
+            "name": "A Young Captain's Request",
             "access_rules": []
           },
           {
-            "name": "A Young Captain's Suffering (Emmy Leater)",
+            "name": "A Young Captain's Suffering",
             "access_rules": ["AreaKeys:1"]
           },
           {
-            "name": "A Young Captain's Rise (Emmy Leater)",
+            "name": "A Young Captain's Rise",
             "access_rules": ["AreaKeys:1"]
           },
           {
-            "name": "A Young Captain's Challenge (Emmy Leater)",
+            "name": "A Young Captain's Challenge",
             "access_rules": ["AreaKeys:7"]
           },
           {
-            "name": "Birthday Shoes (Kantz)",
+            "name": "Birthday Shoes",
             "access_rules": ["AreaKeys:20"]
           },
           {
-            "name": "Challenge 1 (Generic)",
+            "name": "Challenge 1",
             "access_rules": ["C9Hunt"]
           },
           {
-            "name": "Challenge 3 (Generic)",
+            "name": "Challenge 3",
             "access_rules": ["C9Hunt"]
           },
           {
-            "name": "Dean's Shady Request (Dean)",
+            "name": "Dean's Shady Request",
             "access_rules": ["AreaKeys:1"]
           },
           {
-            "name": "Material Quest 1 (Generic)",
+            "name": "Material Quest 1",
             "access_rules": []
           },
           {
-            "name": "Monster Quest 1 - Part 1 (Generic)",
+            "name": "Monster Quest 1 - Part 1",
             "access_rules": []
           },
           {
-            "name": "Monster Quest 1 - Part 2 (Generic)",
+            "name": "Monster Quest 1 - Part 2",
             "access_rules": []
           },
           {
-            "name": "Monster Quest 1 - Part 3 (Generic)",
+            "name": "Monster Quest 1 - Part 3",
             "access_rules": []
           },
           {
-            "name": "Monster Quest 2 - Part 1 (Generic)",
+            "name": "Monster Quest 2 - Part 1",
             "access_rules": []
           },
           {
-            "name": "Monster Quest 2 - Part 2 (Generic)",
+            "name": "Monster Quest 2 - Part 2",
             "access_rules": []
           },
           {
-            "name": "Monster Quest 2 - Part 3 (Generic)",
+            "name": "Monster Quest 2 - Part 3",
             "access_rules": []
           },
           {
-            "name": "The Elite Captain's Anguish (Raoul)",
+            "name": "The Elite Captain's Anguish",
             "access_rules": ["AreaKeys:20"]
           },
           {
-            "name": "The Old Soldier's Test (Jan)",
+            "name": "The Old Soldier's Test",
             "access_rules": ["AreaKeys:8"]
           }
         ],
@@ -262,7 +262,7 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Delivering Food (Story)",
+            "name": "Delivering Food",
             "access_rules": []
           }
         ],
@@ -280,15 +280,15 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Monster Quest 4 - Part 1 (Generic)",
+            "name": "Monster Quest 4 - Part 1",
             "access_rules": ["AreaKeys:1"]
           },
           {
-            "name": "Monster Quest 4 - Part 2 (Generic)",
+            "name": "Monster Quest 4 - Part 2",
             "access_rules": ["AreaKeys:1"]
           },
           {
-            "name": "Monster Quest 4 - Part 3 (Generic)",
+            "name": "Monster Quest 4 - Part 3",
             "access_rules": ["AreaKeys:1"]
           }
         ],
@@ -306,71 +306,71 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "A Mysterious Light (Kenny Rohan)",
+            "name": "A Mysterious Light",
             "access_rules": ["AreaKeys:2"]
           },
           {
-            "name": "Out Like a Light? (Kenny Rohan)",
+            "name": "Out Like a Light?",
             "access_rules": ["AreaKeys:2"]
           },
           {
-            "name": "Collection Quest 3 (Generic)",
+            "name": "Collection Quest 3",
             "access_rules": []
           },
           {
-            "name": "Collection Quest 4 (Generic)",
+            "name": "Collection Quest 4",
             "access_rules": []
           },
           {
-            "name": "Education-Minded Suzanna (Suzanna)",
+            "name": "Education-Minded Suzanna",
             "access_rules": []
           },
           {
-            "name": "Education-Crazy Suzanna (Suzanna)",
+            "name": "Education-Crazy Suzanna",
             "access_rules": ["AreaKeys:1"]
           },
           {
-            "name": "Flattened Flowers (Francoise)",
+            "name": "Flattened Flowers",
             "access_rules": []
           },
           {
-            "name": "Friendship Tokens (Moritz)",
+            "name": "Friendship Tokens",
             "access_rules": ["AreaKeys:20"]
           },
           {
-            "name": "Getting to Know Minnie (Minnie)",
+            "name": "Getting to Know Minnie",
             "access_rules": ["AreaKeys:20"]
           },
           {
-            "name": "Jackson's Awakening (Jackson)",
+            "name": "Jackson's Awakening",
             "access_rules": []
           },
           {
-            "name": "Lonely Niranira (Niranira)",
+            "name": "Lonely Niranira",
             "access_rules": []
           },
           {
-            "name": "Material Quest 4 (Generic)",
+            "name": "Material Quest 4",
             "access_rules": []
           },
           {
-            "name": "Paola and Narine (Narine)",
+            "name": "Paola and Narine",
             "access_rules": ["AreaKeys:8,ShulkAffinity4,ReynAffinity4,SharlaAffinty4,MeliaAffinity4","AreaKeys:8,ShulkAffinity4,ReynAffinity4,SharlaAffinty4,SevenAffinity4","AreaKeys:8,ShulkAffinity4,ReynAffinity4,SevenAffinty4,MeliaAffinity4"]
           },
           {
-            "name": "Pride and Courage (Lukas)",
+            "name": "Pride and Courage",
             "access_rules": []
           },
           {
-            "name": "Search Quest 2 (Generic)",
+            "name": "Search Quest 2",
             "access_rules": []
           },
           {
-            "name": "Search Quest 4 (Generic)",
+            "name": "Search Quest 4",
             "access_rules": []
           },
           {
-            "name": "The Key to a Long Life (Dionysis)",
+            "name": "The Key to a Long Life",
             "access_rules": []
           }
         ],
@@ -388,7 +388,7 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "A Token of Friendship (Shulk)",
+            "name": "A Token of Friendship",
             "access_rules": ["AreaKeys:20"]
           }
         ],
@@ -745,15 +745,15 @@
         "access_rules": ["AreaKeys:3"],
         "sections": [
           {
-            "name": "Chemist's Reopening",
+            "name": "Chemist's Reopening (Olga)",
             "access_rules": ["AreaKeys:4"]
           },
           {
-            "name": "Cook-Off Comeback?",
+            "name": "Cook-Off Counter Attack!",
             "access_rules": ["AreaKeys:10"]
           },
           {
-            "name": "Cook-Off Counter Attack!",
+            "name": "Cook-Off Comeback?",
             "access_rules": ["AreaKeys:10"]
           },
           {
@@ -976,6 +976,157 @@
             "map": "C6Full",
             "x": 541,
             "y": 699,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Satorl Marsh Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "children": [
+      {
+        "name": "Nopon Merchant Camp",
+        "access_rules": ["AreaKeys:5"],
+        "sections": [
+          {
+            "name": "Kacha's Kidnapping",
+            "access_rules": []
+          },
+          {
+            "name": "The Giants' Key",
+            "access_rules": []
+          },
+          {
+            "name": "The Giants' Treasure",
+            "access_rules": []
+          },
+          {
+            "name": "Making Camp",
+            "access_rules": []
+          },
+          {
+            "name": "Monster Quest 1",
+            "access_rules": []
+          },
+          {
+            "name": "Monster Quest 2",
+            "access_rules": []
+          },
+          {
+            "name": "Monster Quest 3",
+            "access_rules": []
+          },
+          {
+            "name": "Monster Quest 4",
+            "access_rules": []
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMQ",
+            "x": 115,
+            "y": 525,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kelsher Wetland",
+        "access_rules": ["AreaKeys:5"],
+        "sections": [
+          {
+            "name": "The Ancient Ceremony",
+            "access_rules": []
+          },
+          {
+            "name": "Ancient Ceremony Offerings",
+            "access_rules": []
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMQ",
+            "x": 22,
+            "y": 159,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nopon Refuge",
+        "access_rules": ["AreaKeys:5"],
+        "sections": [
+          {
+            "name": "Preventing Starvation",
+            "access_rules": []
+          },
+          {
+            "name": "Zazadan in Danger",
+            "access_rules": ["SMHunt"]
+          },
+          {
+            "name": "It's All in the Mind",
+            "access_rules": []
+          },
+          {
+            "name": "A Mysterious Delicacy",
+            "access_rules": []
+          },
+          {
+            "name": "A Gift?",
+            "access_rules": []
+          },
+          {
+            "name": "Gather Information",
+            "access_rules": ["AreaKeys:10"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMQ",
+            "x": 709,
+            "y": 836,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sororal Statues",
+        "access_rules": ["AreaKeys:20"],
+        "sections": [
+          {
+            "name": "Challenge",
+            "access_rules": ["SMHunt"]
+          },
+          {
+            "name": "For a Friend",
+            "access_rules": []
+          },
+          {
+            "name": "A Merciful End",
+            "access_rules": []
+          },
+          {
+            "name": "A Release from Duty",
+            "access_rules": []
+          },
+          {
+            "name": "The Imperial Ceremony",
+            "access_rules": []
+          },
+          {
+            "name": "Imperial Ceremony Offerings",
+            "access_rules": []
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMQ",
+            "x": 845,
+            "y": 661,
             "size": 16
           }
         ]

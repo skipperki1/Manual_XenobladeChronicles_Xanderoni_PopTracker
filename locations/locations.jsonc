@@ -55,8 +55,8 @@
             "ref": "Colony 9 Bosses/Ancient Machines/Boss: Ancient Machines"
           },
           {
-            "name": "The Lost Pendant (Soldier)",
-            "ref": "Colony 9 Quests/Cylinder Hangar/The Lost Pendant (Soldier)"
+            "name": "The Lost Pendant",
+            "ref": "Colony 9 Quests/Cylinder Hangar/The Lost Pendant"
           },
           {
             "name": "Ancient Wreckage",
@@ -134,7 +134,7 @@
           },
           {
             "name": "Central Plaza",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1 (Generic)"
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
           }
         ],
         "map_locations": [
@@ -235,72 +235,72 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "A Mysterious Light (Kenny Rohan) {Lv.3}",
-            "ref": "Colony 9 Quests/Tranquil Square/A Mysterious Light (Kenny Rohan) {Lv.3}"
+            "name": "A Mysterious Light",
+            "ref": "Colony 9 Quests/Tranquil Square/A Mysterious Light"
           },
           {
-            "name": "Out Like a Light? (Kenny Rohan) {Lv.3}",
-            "ref": "Colony 9 Quests/Tranquil Square/Out Like a Light? (Kenny Rohan) {Lv.3}"
+            "name": "Out Like a Light?",
+            "ref": "Colony 9 Quests/Tranquil Square/Out Like a Light?"
           },
           {
-            "name": "Collection Quest 3 (Generic)",
-            "ref": "Colony 9 Quests/Tranquil Square/Collection Quest 3 (Generic)"
+            "name": "Collection Quest 3",
+            "ref": "Colony 9 Quests/Tranquil Square/Collection Quest 3"
           },
           {
-            "name": "Collection Quest 4 (Generic)",
-            "ref": "Colony 9 Quests/Tranquil Square/Collection Quest 4 (Generic)"
+            "name": "Collection Quest 4",
+            "ref": "Colony 9 Quests/Tranquil Square/Collection Quest 4"
           },
           {
-            "name": "Education-Minded Suzanna (Suzanna) {Lv.2}",
-            "ref": "Colony 9 Quests/Tranquil Square/Education-Minded Suzanna (Suzanna) {Lv.2}"
+            "name": "Education-Minded Suzanna",
+            "ref": "Colony 9 Quests/Tranquil Square/Education-Minded Suzanna"
           },
           {
-            "name": "Education-Crazy Suzanna (Suzanna) {Lv.2}",
-            "ref": "Colony 9 Quests/Tranquil Square/Education-Crazy Suzanna (Suzanna) {Lv.2}"
+            "name": "Education-Crazy Suzanna",
+            "ref": "Colony 9 Quests/Tranquil Square/Education-Crazy Suzanna"
           },
           {
-            "name": "Flattened Flowers (Francoise)",
-            "ref": "Colony 9 Quests/Tranquil Square/Flattened Flowers (Francoise)"
+            "name": "Flattened Flowers",
+            "ref": "Colony 9 Quests/Tranquil Square/Flattened Flowers"
           },
           {
-            "name": "Friendship Tokens (Moritz) {Lv.4}",
-            "ref": "Colony 9 Quests/Tranquil Square/Friendship Tokens (Moritz) {Lv.4}"
+            "name": "Friendship Tokens",
+            "ref": "Colony 9 Quests/Tranquil Square/Friendship Tokens"
           },
           {
-            "name": "Getting to Know Minnie (Minnie) {Lv.4}",
-            "ref": "Colony 9 Quests/Tranquil Square/Getting to Know Minnie (Minnie) {Lv.4}"
+            "name": "Getting to Know Minnie",
+            "ref": "Colony 9 Quests/Tranquil Square/Getting to Know Minnie"
           },
           {
-            "name": "Jackson's Awakening (Jackson)",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening (Jackson)"
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
           },
           {
-            "name": "Lonely Niranira (Niranira)",
-            "ref": "Colony 9 Quests/Tranquil Square/Lonely Niranira (Niranira)"
+            "name": "Lonely Niranira",
+            "ref": "Colony 9 Quests/Tranquil Square/Lonely Niranira"
           },
           {
-            "name": "Material Quest 4 (Generic)",
-            "ref": "Colony 9 Quests/Tranquil Square/Material Quest 4 (Generic)"
+            "name": "Material Quest 4",
+            "ref": "Colony 9 Quests/Tranquil Square/Material Quest 4"
           },
           {
-            "name": "Paola and Narine (Narine)",
-            "ref": "Colony 9 Quests/Tranquil Square/Paola and Narine (Narine)"
+            "name": "Paola and Narine",
+            "ref": "Colony 9 Quests/Tranquil Square/Paola and Narine"
           },
           {
-            "name": "Pride and Courage (Lukas) {Lv.2}",
-            "ref": "Colony 9 Quests/Tranquil Square/Pride and Courage (Lukas) {Lv.2}"
+            "name": "Pride and Courage",
+            "ref": "Colony 9 Quests/Tranquil Square/Pride and Courage"
           },
           {
-            "name": "Search Quest 2 (Generic)",
-            "ref": "Colony 9 Quests/Tranquil Square/Search Quest 2 (Generic)"
+            "name": "Search Quest 2",
+            "ref": "Colony 9 Quests/Tranquil Square/Search Quest 2"
           },
           {
-            "name": "Search Quest 4 (Generic)",
-            "ref": "Colony 9 Quests/Tranquil Square/Search Quest 4 (Generic)"
+            "name": "Search Quest 4",
+            "ref": "Colony 9 Quests/Tranquil Square/Search Quest 4"
           },
           {
-            "name": "The Key to a Long Life (Dionysis)",
-            "ref": "Colony 9 Quests/Tranquil Square/The Key to a Long Life (Dionysis)"
+            "name": "The Key to a Long Life",
+            "ref": "Colony 9 Quests/Tranquil Square/The Key to a Long Life"
           }
         ],
         "map_locations": [
@@ -421,56 +421,56 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "The Gem Man's Invention (Gem Man)",
-            "ref": "Colony 9 Quests/Gem Man's Stall/The Gem Man's Invention (Gem Man)"
+            "name": "The Gem Man's Invention",
+            "ref": "Colony 9 Quests/Gem Man's Stall/The Gem Man's Invention"
           },
           {
-            "name": "Search Quest 3 (Generic)",
-            "ref": "Colony 9 Quests/Gem Man's Stall/Search Quest 3 (Generic)"
+            "name": "Search Quest 3",
+            "ref": "Colony 9 Quests/Gem Man's Stall/Search Quest 3"
           },
           {
-            "name": "A Curry Conundrum (Giorgio)",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum (Giorgio)"
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
           },
           {
-            "name": "Biscuits for a Grandson (Marcia)",
-            "ref": "Colony 9 Quests/Ether Light 1/Biscuits for a Grandson (Marcia)"
+            "name": "Biscuits for a Grandson",
+            "ref": "Colony 9 Quests/Ether Light 1/Biscuits for a Grandson"
           },
           {
-            "name": "Challenge 2 (Generic)",
-            "ref": "Colony 9 Quests/Ether Light 1/Challenge 2 (Generic)"
+            "name": "Challenge 2",
+            "ref": "Colony 9 Quests/Ether Light 1/Challenge 2"
           },
           {
-            "name": "Challenge 4 (Generic)",
-            "ref": "Colony 9 Quests/Ether Light 1/Challenge 4 (Generic)"
+            "name": "Challenge 4",
+            "ref": "Colony 9 Quests/Ether Light 1/Challenge 4"
           },
           {
-            "name": "Collection Quest 1 (Generic)",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1 (Generic)"
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
           },
           {
-            "name": "Collection Quest 2 (Generic)",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 2 (Generic)"
+            "name": "Collection Quest 2",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 2"
           },
           {
-            "name": "Desiree's Future (Desiree)",
-            "ref": "Colony 9 Quests/Ether Light 1/Desiree's Future (Desiree)"
+            "name": "Desiree's Future",
+            "ref": "Colony 9 Quests/Ether Light 1/Desiree's Future"
           },
           {
-            "name": "Getting to Know Dorothy (Dorothy)",
-            "ref": "Colony 9 Quests/Ether Light 1/Getting to Know Dorothy (Dorothy)"
+            "name": "Getting to Know Dorothy",
+            "ref": "Colony 9 Quests/Ether Light 1/Getting to Know Dorothy"
           },
           {
-            "name": "Liliana's Sincere Request (Liliana)",
-            "ref": "Colony 9 Quests/Ether Light 1/Liliana's Sincere Request (Liliana)"
+            "name": "Liliana's Sincere Request",
+            "ref": "Colony 9 Quests/Ether Light 1/Liliana's Sincere Request"
           },
           {
-            "name": "Material Quest 2 (Generic)",
-            "ref": "Colony 9 Quests/Ether Light 1/Material Quest 2 (Generic)"
+            "name": "Material Quest 2",
+            "ref": "Colony 9 Quests/Ether Light 1/Material Quest 2"
           },
           {
-            "name": "Material Quest 3 (Generic)",
-            "ref": "Colony 9 Quests/Ether Light 1/Material Quest 3 (Generic)"
+            "name": "Material Quest 3",
+            "ref": "Colony 9 Quests/Ether Light 1/Material Quest 3"
           }
         ],
         "map_locations": [
@@ -487,52 +487,52 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Delivering Food (Story)",
-            "ref": "Colony 9 Quests/Dunban's House/Delivering Food (Story)"
+            "name": "Delivering Food",
+            "ref": "Colony 9 Quests/Dunban's House/Delivering Food"
           },
           {
-            "name": "Mementos of a Lost Son (Cheryl)",
-            "ref": "Colony 9 Quests/Ether Light 2/Mementos of a Lost Son (Cheryl)"
+            "name": "Mementos of a Lost Son",
+            "ref": "Colony 9 Quests/Ether Light 2/Mementos of a Lost Son"
           },
           {
-            "name": "Monster Quest 3 - Part 1 (Generic)",
-            "ref": "Colony 9 Quests/Ether Light 2/Monster Quest 3 - Part 1 (Generic)"
+            "name": "Monster Quest 3 - Part 1",
+            "ref": "Colony 9 Quests/Ether Light 2/Monster Quest 3 - Part 1"
           },
           {
-            "name": "Monster Quest 3 - Part 2 (Generic)",
-            "ref": "Colony 9 Quests/Ether Light 2/Monster Quest 3 - Part 2 (Generic)"
+            "name": "Monster Quest 3 - Part 2",
+            "ref": "Colony 9 Quests/Ether Light 2/Monster Quest 3 - Part 2"
           },
           {
-            "name": "Monster Quest 3 - Part 3 (Generic)",
-            "ref": "Colony 9 Quests/Ether Light 2/Monster Quest 3 - Part 3 (Generic)"
+            "name": "Monster Quest 3 - Part 3",
+            "ref": "Colony 9 Quests/Ether Light 2/Monster Quest 3 - Part 3"
           },
           {
-            "name": "Monster Quest 3 - Part 4 (Generic)",
-            "ref": "Colony 9 Quests/Ether Light 2/Monster Quest 3 - Part 4 (Generic)"
+            "name": "Monster Quest 3 - Part 4",
+            "ref": "Colony 9 Quests/Ether Light 2/Monster Quest 3 - Part 4"
           },
           {
-            "name": "Overworked and Underpaid (Giorgio)",
-            "ref": "Colony 9 Quests/Ether Light 2/Overworked and Underpaid (Giorgio)"
+            "name": "Overworked and Underpaid",
+            "ref": "Colony 9 Quests/Ether Light 2/Overworked and Underpaid"
           },
           {
-            "name": "Rocco's Heartful Request (Rocco)",
-            "ref": "Colony 9 Quests/Ether Light 2/Rocco's Heartful Request (Rocco)"
+            "name": "Rocco's Heartful Request",
+            "ref": "Colony 9 Quests/Ether Light 2/Rocco's Heartful Request"
           },
           {
-            "name": "The Broken Watch (Desiree)",
-            "ref": "Colony 9 Quests/Ether Light 2/The Broken Watch (Desiree)"
+            "name": "The Broken Watch",
+            "ref": "Colony 9 Quests/Ether Light 2/The Broken Watch"
           },
           {
-            "name": "The Plan - Preparation (Sesame)",
-            "ref": "Colony 9 Quests/Ether Light 2/The Plan - Preparation (Sesame)"
+            "name": "The Plan - Preparation",
+            "ref": "Colony 9 Quests/Ether Light 2/The Plan - Preparation"
           },
           {
-            "name": "The Plan - The Night Before (Sesame)",
-            "ref": "Colony 9 Quests/Ether Light 2/The Plan - The Night Before (Sesame)"
+            "name": "The Plan - The Night Before",
+            "ref": "Colony 9 Quests/Ether Light 2/The Plan - The Night Before"
           },
           {
-            "name": "The Plan - Execution (Sesame)",
-            "ref": "Colony 9 Quests/Ether Light 2/The Plan - Execution (Sesame)"
+            "name": "The Plan - Execution",
+            "ref": "Colony 9 Quests/Ether Light 2/The Plan - Execution"
           }
         ],
         "map_locations": [
@@ -609,16 +609,16 @@
             "ref": "Colony 9 Landmarks/Tephra Cave Entrance/Landmark"
           },
           {
-            "name": "Monster Quest 4 - Part 1 (Generic)",
-            "ref": "Colony 9 Quests/Tephra Cave Entrance/Monster Quest 4 - Part 1 (Generic)"
+            "name": "Monster Quest 4 - Part 1",
+            "ref": "Colony 9 Quests/Tephra Cave Entrance/Monster Quest 4 - Part 1"
           },
           {
-            "name": "Monster Quest 4 - Part 2 (Generic)",
-            "ref": "Colony 9 Quests/Tephra Cave Entrance/Monster Quest 4 - Part 2 (Generic)"
+            "name": "Monster Quest 4 - Part 2",
+            "ref": "Colony 9 Quests/Tephra Cave Entrance/Monster Quest 4 - Part 2"
           },
           {
-            "name": "Monster Quest 4 - Part 3 (Generic)",
-            "ref": "Colony 9 Quests/Tephra Cave Entrance/Monster Quest 4 - Part 3 (Generic)"
+            "name": "Monster Quest 4 - Part 3",
+            "ref": "Colony 9 Quests/Tephra Cave Entrance/Monster Quest 4 - Part 3"
           },
           {
             "name": "Enduring Friendship",
@@ -657,76 +657,76 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "A Young Captain's Request (Emmy Leater)",
-            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Request (Emmy Leater)"
+            "name": "A Young Captain's Request",
+            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Request"
           },
           {
-            "name": "A Young Captain's Suffering (Emmy Leater)",
-            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Suffering (Emmy Leater)"
+            "name": "A Young Captain's Suffering",
+            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Suffering"
           },
           {
-            "name": "A Young Captain's Rise (Emmy Leater)",
-            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Rise (Emmy Leater)"
+            "name": "A Young Captain's Rise",
+            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Rise"
           },
           {
-            "name": "A Young Captain's Challenge (Emmy Leater)",
-            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Challenge (Emmy Leater)"
+            "name": "A Young Captain's Challenge",
+            "ref": "Colony 9 Quests/Fortress Entrance/A Young Captain's Challenge"
           },
           {
-            "name": "Birthday Shoes (Kantz)",
-            "ref": "Colony 9 Quests/Fortress Entrance/Birthday Shoes (Kantz)"
+            "name": "Birthday Shoes",
+            "ref": "Colony 9 Quests/Fortress Entrance/Birthday Shoes"
           },
           {
-            "name": "Challenge 1 (Generic)",
-            "ref": "Colony 9 Quests/Fortress Entrance/Challenge 1 (Generic)"
+            "name": "Challenge 1",
+            "ref": "Colony 9 Quests/Fortress Entrance/Challenge 1"
           },
           {
-            "name": "Challenge 3 (Generic)",
-            "ref": "Colony 9 Quests/Fortress Entrance/Challenge 3 (Generic)"
+            "name": "Challenge 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Challenge 3"
           },
           {
-            "name": "Dean's Shady Request (Dean)",
-            "ref": "Colony 9 Quests/Fortress Entrance/Dean's Shady Request (Dean)"
+            "name": "Dean's Shady Request",
+            "ref": "Colony 9 Quests/Fortress Entrance/Dean's Shady Request"
           },
           {
-            "name": "Material Quest 1 (Generic)",
-            "ref": "Colony 9 Quests/Fortress Entrance/Material Quest 1 (Generic)"
+            "name": "Material Quest 1",
+            "ref": "Colony 9 Quests/Fortress Entrance/Material Quest 1"
           },
           {
-            "name": "Monster Quest 1 - Part 1 (Generic)",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 1 - Part 1 (Generic)"
+            "name": "Monster Quest 1 - Part 1",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 1 - Part 1"
           },
           {
-            "name": "Monster Quest 1 - Part 2 (Generic)",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 1 - Part 2 (Generic)"
+            "name": "Monster Quest 1 - Part 2",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 1 - Part 2"
           },
           {
-            "name": "Monster Quest 1 - Part 3 (Generic)",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 1 - Part 3 (Generic)"
+            "name": "Monster Quest 1 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 1 - Part 3"
           },
           {
-            "name": "Monster Quest 2 - Part 1 (Generic)",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 1 (Generic)"
+            "name": "Monster Quest 2 - Part 1",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 1"
           },
           {
-            "name": "Monster Quest 2 - Part 2 (Generic)",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 2 (Generic)"
+            "name": "Monster Quest 2 - Part 2",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 2"
           },
           {
-            "name": "Monster Quest 2 - Part 3 (Generic)",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3 (Generic)"
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
           },
           {
-            "name": "The Elite Captain's Anguish (Raoul)",
-            "ref": "Colony 9 Quests/Fortress Entrance/The Elite Captain's Anguish (Raoul)"
+            "name": "The Elite Captain's Anguish",
+            "ref": "Colony 9 Quests/Fortress Entrance/The Elite Captain's Anguish"
           },
           {
-            "name": "The Old Soldier's Test (Jan)",
-            "ref": "Colony 9 Quests/Fortress Entrance/The Old Soldier's Test (Jan)"
+            "name": "The Old Soldier's Test",
+            "ref": "Colony 9 Quests/Fortress Entrance/The Old Soldier's Test"
           },
           {
-            "name": "A Token of Friendship (Shulk)",
-            "ref": "Colony 9 Quests/Fortress Entrance/A Token of Friendship (Shulk)"
+            "name": "A Token of Friendship",
+            "ref": "Colony 9 Quests/Fortress Entrance/A Token of Friendship"
           }
         ],
         "map_locations": [
@@ -1527,6 +1527,269 @@
             "x": 848,
             "y": 994,
             "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Satorl Marsh",
+    "children":[
+      {
+        "name": "Kelsher Wetland",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Satorl Marsh Landmarks/Kelsher Wetland/Landmark"
+          },
+          {
+            "name": "The Ancient Ceremony",
+            "ref": "Satorl Marsh Quests/Kelsher Wetland/The Ancient Ceremony"
+          },
+          {
+            "name": "Ancient Ceremony Offerings",
+            "ref": "Satorl Marsh Quests/Kelsher Wetland/Ancient Ceremony Offerings"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMFull",
+            "x": 22,
+            "y": 159,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nopon Refuge",
+        "sections": [
+          {
+            "name": "Zazadan",
+            "ref": "Satorl Marsh NPCs/Nopon Refuge/Zazadan"
+          },
+          {
+            "name": "Preventing Starvation",
+            "ref": "Satorl Marsh Quests/Nopon Refuge/Preventing Starvation"
+          },
+          {
+            "name": "Zazadan in Danger",
+            "ref": "Satorl Marsh Quests/Nopon Refuge/Zazadan in Danger"
+          },
+          {
+            "name": "It's All in the Mind",
+            "ref": "Satorl Marsh Quests/Nopon Refuge/It's All in the Mind"
+          },
+          {
+            "name": "A Mysterious Delicacy",
+            "ref": "Satorl Marsh Quests/Nopon Refuge/A Mysterious Delicacy"
+          },
+          {
+            "name": "A Gift?",
+            "ref": "Satorl Marsh Quests/Nopon Refuge/A Gift?"
+          },
+          {
+            "name": "Gather Information",
+            "ref": "Satorl Marsh Quests/Nopon Refuge/Gather Information"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMFull",
+            "x": 709,
+            "y": 836,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sororal Statues",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Satorl Marsh Landmarks/Sororal Statues/Landmark"
+          },
+          {
+            "name": "Boss: Satorl Guardian",
+            "ref": "Satorl Marsh Bosses/Bosses/Boss: Satorl Guardian"
+          },
+          {
+            "name": "Challenge",
+            "ref": "Satorl Marsh Quests/Sororal Statues/Challenge"
+          },
+          {
+            "name": "For a Friend",
+            "ref": "Satorl Marsh Quests/Sororal Statues/For a Friend"
+          },
+          {
+            "name": "A Merciful End",
+            "ref": "Satorl Marsh Quests/Sororal Statues/A Merciful End"
+          },
+          {
+            "name": "A Release from Duty",
+            "ref": "Satorl Marsh Quests/Sororal Statues/A Release from Duty"
+          },
+          {
+            "name": "The Imperial Ceremony",
+            "ref": "Satorl Marsh Quests/Sororal Statues/The Imperial Ceremony"
+          },
+          {
+            "name": "Imperial Ceremony Offerings",
+            "ref": "Satorl Marsh Quests/Sororal Statues/Imperial Ceremony Offerings"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMFull",
+            "x": 845,
+            "y": 661,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Zaldania Waterfall",
+        "sections": [
+          {
+            "name": "UM: Stormy Widardun",
+            "ref": "Satorl Marsh Unique Monsters/UM: Stormy Widardun/Lv.25"
+          },
+          {
+            "name": "The Shimmering Marsh",
+            "ref": "Satorl Marsh H2H/The Shimmering Marsh/Shulk & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMFull",
+            "x": 301,
+            "y": 557,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Crown Tree",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Satorl Marsh Landmarks/Crown Tree/Landmark"
+          },
+          {
+            "name": "Atop the Crown Tree",
+            "ref": "Satorl Marsh H2H/Atop the Crown Tree/Sharla & Riki"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMFull",
+            "x": 235,
+            "y": 751,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nopon Merchant Camp",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Satorl Marsh Landmarks/Nopon Merchant Camp/Landmark"
+          },
+          {
+            "name": "Kacha's Kidnapping",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/Kacha's Kidnapping"
+          },
+          {
+            "name": "The Giants' Key",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/The Giants' Key"
+          },
+          {
+            "name": "The Giants' Treasure",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/The Giants' Treasure"
+          },
+          {
+            "name": "Making Camp",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/Making Camp"
+          },
+          {
+            "name": "Monster Quest 1",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/Monster Quest 1"
+          },
+          {
+            "name": "Monster Quest 2",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/Monster Quest 2"
+          },
+          {
+            "name": "Monster Quest 3",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/Monster Quest 3"
+          },
+          {
+            "name": "Monster Quest 4",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/Monster Quest 4"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMFull",
+            "x": 115,
+            "y": 525,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:5"],
+        "sections": [
+          {
+            "name": "Veg Completion",
+            "access_rules": ["SMVeg"],
+            "chest_unopened_img": "images/items/Veg.png",
+            "chest_opened_img": "images/items/VegDone.png"
+          },
+          {
+            "name": "Flower Completion",
+            "access_rules": ["SMFlower"],
+            "chest_unopened_img": "images/items/Flower.png",
+            "chest_opened_img": "images/items/FlowerDone.png"
+          },
+          {
+            "name": "Animal Completion",
+            "access_rules": ["SMAnimal"],
+            "chest_unopened_img": "images/items/Animal.png",
+            "chest_opened_img": "images/items/AnimalDone.png"
+          },
+          {
+            "name": "Nature Completion",
+            "access_rules": ["SMNature"],
+            "chest_unopened_img": "images/items/Nature.png",
+            "chest_opened_img": "images/items/NatureDone.png"
+          },
+          {
+            "name": "Parts Completion",
+            "access_rules": ["SMParts"],
+            "chest_unopened_img": "images/items/Parts.png",
+            "chest_opened_img": "images/items/PartsDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["SMStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["SMVeg,SMFlower,SMAnimal,SMNature,SMParts,SMStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMFull",
+            "x": 603,
+            "y": 231,
+            "size": 24
           }
         ]
       }

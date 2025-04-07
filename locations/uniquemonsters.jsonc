@@ -1114,5 +1114,295 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Satorl Marsh Unique Monsters",
+    "access_rules": ["SMHunt,AreaKeys:5"],
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "children": [
+      {
+        "name": "UM: Aggressive Cornelius",
+        "sections": [
+          {
+            "name": "Lv.28"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMUM",
+            "x": 604,
+            "y": 1070,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 604,
+            "y": 1070,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Amber Fischer",
+        "sections": [
+          {
+            "name": "Lv.27"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMUM",
+            "x": 600,
+            "y": 680,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 600,
+            "y": 680,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Cautious Balteid",
+        "sections": [
+          {
+            "name": "Lv.26"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMUM",
+            "x": 363,
+            "y": 805,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 363,
+            "y": 805,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Despotic Arsene (Superboss)",
+        "sections": [
+          {
+            "name": "Lv.108"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMUM",
+            "x": 762,
+            "y": 864,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 762,
+            "y": 864,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Indomitable Daulton",
+        "sections": [
+          {
+            "name": "Lv.85"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMUM",
+            "x": 897,
+            "y": 938,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 897,
+            "y": 938,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Reckless Godwin",
+        "sections": [
+          {
+            "name": "Lv.31"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMUM",
+            "x": 630,
+            "y": 960,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 630,
+            "y": 960,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Stormy Widardun",
+        "sections": [
+          {
+            "name": "Lv.25"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMUM",
+            "x": 301,
+            "y": 557,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Sunlight Schvaik",
+        "sections": [
+          {
+            "name": "Lv.30"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMUM",
+            "x": 516,
+            "y": 806,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 516,
+            "y": 806,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Swift Zektol",
+        "sections": [
+          {
+            "name": "Lv.28"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMUM",
+            "x": 705,
+            "y": 1050,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 705,
+            "y": 1050,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Tumultuous Felix",
+        "sections": [
+          {
+            "name": "Lv.27"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMUM",
+            "x": 570,
+            "y": 926,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 570,
+            "y": 926,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Veteran Yozel",
+        "sections": [
+          {
+            "name": "Lv.83"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMUM",
+            "x": 600,
+            "y": 840,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 600,
+            "y": 840,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Eternal Palsadia",
+        "sections": [
+          {
+            "name": "Lv.91"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMUM",
+            "x": 615,
+            "y": 990,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 615,
+            "y": 990,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Satorl Marsh Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "children": [
+      {
+        "name": "Bosses",
+        "access_rules": ["AreaKeys:5"],
+        "sections": [
+          {
+            "name": "Boss: Satorl Guardian"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMUM",
+            "x": 845,
+            "y": 661,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

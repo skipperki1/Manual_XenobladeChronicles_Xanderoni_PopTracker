@@ -939,5 +939,173 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Satorl Marsh Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:5"],
+    "children": [
+      {
+        "name": "Crown Tree",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 235,
+            "y": 751,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Glowing Obelisk",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 745,
+            "y": 929,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 745,
+            "y": 929,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kelsher Wetland",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 22,
+            "y": 159,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nopon Merchant Camp",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 115,
+            "y": 525,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Silent Obelisk",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 537,
+            "y": 893,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 537,
+            "y": 893,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sororal Statues",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 845,
+            "y": 661,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Statue Summit",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 823,
+            "y": 602,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 823,
+            "y": 602,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Shining Pond",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 430,
+            "y": 991,
+            "size": 16
+          },
+          {
+            "map": "SMFull",
+            "x": 430,
+            "y": 991,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

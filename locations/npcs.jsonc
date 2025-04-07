@@ -493,5 +493,51 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Satorl Marsh NPCs",
+    "chest_unopened_img": "images/npcs/MetNPC.png",
+    "children": [
+      {
+        "name": "Nopon Merchant Camp",
+        "access_rules": ["AreaKeys:5"],
+        "sections": [
+          {
+            "name": "Bokoko",
+            "chest_opened_img": "images/npcs/Bokoko.png"
+          },
+          {
+            "name": "Kacha",
+            "chest_opened_img": "images/npcs/Kacha.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMNPC",
+            "x": 115,
+            "y": 525,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nopon Refuge",
+        "access_rules": ["AreaKeys:5"],
+        "sections": [
+          {
+            "name": "Zazadan",
+            "chest_opened_img": "images/npcs/Zazadan.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMNPC",
+            "x": 709,
+            "y": 836,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]
