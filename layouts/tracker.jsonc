@@ -400,6 +400,23 @@
               }
             },
             {
+              "title": "Bionis' Interior",
+              "content": {
+               "type": "tabbed",
+               "tabs": [
+                  {
+                    "title": "Full",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "BI1Full"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
               "title": "Makna Forest",
               "content": {
                "type": "tabbed",
@@ -1206,7 +1223,7 @@
               }
             },
             {
-              "title": "Bionis' Interior",
+              "title": "Bionis' Interior (End Game)",
               "content": {
                "type": "tabbed",
                "tabs": [
@@ -1718,6 +1735,23 @@
               }
             },
             {
+              "title": "Bionis' Interior",
+              "content": {
+               "type": "tabbed",
+               "tabs": [
+                  {
+                    "title": "Full",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "BI1Full"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
               "title": "Makna Forest",
               "content": {
                "type": "tabbed",
@@ -2524,7 +2558,7 @@
               }
             },
             {
-              "title": "Bionis' Interior",
+              "title": "Bionis' Interior (End Game)",
               "content": {
                "type": "tabbed",
                "tabs": [

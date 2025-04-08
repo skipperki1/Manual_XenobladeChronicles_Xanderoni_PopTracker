@@ -1107,5 +1107,310 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Bionis' Interior First Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:6"],
+    "children": [
+      {
+        "name": "Terminal Trachea",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BI1Full",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Upper Trachea",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BI1Full",
+            "x": 924,
+            "y": 359,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Makna Forest Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:7"],
+    "children": [
+      {
+        "name": "Agni Tablet",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Glowmoss Trihenge",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Lakeside",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Makna Path",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nopon Arch",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Pod Landing Site",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Twisted Tree Gate",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Valak Pass",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Village Entrance",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Waypoint Beacon",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Windmill Pavilion",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Divine Sanctuary",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Seahorse Islet",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sparkling Pool",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "King Agni's Tomb",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 210,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

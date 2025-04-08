@@ -199,6 +199,12 @@
     "img": "images/maps/SatorlMarsh.png"
   },
   {
+    "name": "BI1Full",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/BionisInteriorFirst.png"
+  },
+  {
     "name": "MaFoFull",
     "location_size": 48,
     "location_border_thickness": 4,
