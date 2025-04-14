@@ -446,4 +446,6 @@ LOCATION_MAPPING = {
 	[922] = {{"@Satorl Marsh Quests/Sororal Statues/A Release from Duty"}},
 	[923] = {{"@Satorl Marsh Quests/Sororal Statues/The Imperial Ceremony"}},
 	[924] = {{"@Satorl Marsh Quests/Sororal Statues/Imperial Ceremony Offerings"}},
+	[260] = {{"@Bionis' Interior First Landmarks/Terminal Trachea/Landmark"}},
+	[261] = {{"@Bionis' Interior First Landmarks/Upper Trachea/Landmark"}},
 }
