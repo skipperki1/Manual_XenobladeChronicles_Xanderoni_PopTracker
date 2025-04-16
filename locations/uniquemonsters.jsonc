@@ -1404,5 +1404,218 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Makna Forest Unique Monsters",
+    "access_rules": ["MaFoHunt,AreaKeys:7"],
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "children": [
+      {
+        "name": "UM: Agile Albatro",
+        "sections": [
+          {
+            "name": "Lv.33"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoUM",
+            "x": 413,
+            "y": 344,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Breezy Zolos",
+        "sections": [
+          {
+            "name": "Lv.37"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoUM",
+            "x": 765,
+            "y": 505,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Brutal Gravar",
+        "sections": [
+          {
+            "name": "Lv.46",
+            "access_rules": ["AreaKeys:12"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoUM",
+            "x": 275,
+            "y": 344,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Elder Gragus",
+        "sections": [
+          {
+            "name": "Lv.34"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoUM",
+            "x": 501,
+            "y": 344,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Illustrious Golteus",
+        "sections": [
+          {
+            "name": "Lv.98",
+            "access_rules": ["AreaKeys:20"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoUM",
+            "x": 865,
+            "y": 640,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Lazy Bluco",
+        "sections": [
+          {
+            "name": "Lv.34"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoUM",
+            "x": 900,
+            "y": 530,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Magnificent Digalus",
+        "sections": [
+          {
+            "name": "Lv.99",
+            "access_rules": ["AreaKeys:20"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoUM",
+            "x": 930,
+            "y": 580,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Obsessive Galgaron",
+        "sections": [
+          {
+            "name": "Lv.35"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoUM",
+            "x": 782,
+            "y": 688,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Shimmering Forte",
+        "sections": [
+          {
+            "name": "Lv.33"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoUM",
+            "x": 633,
+            "y": 332,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Unreliable Rezno",
+        "sections": [
+          {
+            "name": "Lv.96 (Quest)",
+            "access_rules": ["AreaKeys:20"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoUM",
+            "x": 210,
+            "y": 595,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Makna Forest Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "children": [
+      {
+        "name": "Leone Telethia",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Boss: Leone Telethia"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoUM",
+            "x": 979,
+            "y": 595,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Puera Telethia",
+        "access_rules": ["AreaKeys:7"],
+        "sections": [
+          {
+            "name": "Boss: Puera Telethia"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoUM",
+            "x": 207,
+            "y": 480,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

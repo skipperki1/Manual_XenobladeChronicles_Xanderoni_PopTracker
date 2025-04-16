@@ -539,5 +539,29 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Makna Forest NPCs",
+    "chest_unopened_img": "images/npcs/MetNPC.png",
+    "children": [
+      {
+        "name": "Divine Sanctuary",
+        "access_rules": ["AreaKeys:7"],
+        "sections": [
+          {
+            "name": "Nopon Sage",
+            "chest_opened_img": "images/npcs/NoponSage.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoNPC",
+            "x": 293,
+            "y": 627,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

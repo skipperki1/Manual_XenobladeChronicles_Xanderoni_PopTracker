@@ -613,5 +613,69 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Makna Forest H2H",
+    "chest_unopened_img": "images/mapicons/HeartToHeart.png",
+    "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
+    "children": [
+      {
+        "name": "Fallen Brethren",
+        "sections": [
+        {
+          "name": "Shulk & Melia",
+          "access_rules": [
+          "AreaKeys:8,ShulkAffinity2,MeliaAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "MaFoH2H",
+            "x": 257,
+            "y": 489,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Riki's Crazy Crystal Plan",
+        "sections": [
+        {
+          "name": "Reyn & Riki",
+          "access_rules": [
+          "AreaKeys:5,ReynAffinity4,RikiAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "MaFoH2H",
+            "x": 635,
+            "y": 330,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "No Boys Allowed",
+        "sections": [
+        {
+          "name": "Sharla & Melia",
+          "access_rules": [
+          "AreaKeys:5,SharlaAffinity2,MeliaAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "MaFoH2H",
+            "x": 550,
+            "y": 412,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

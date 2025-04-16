@@ -1132,5 +1132,108 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Makna Forest Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "children": [
+      {
+        "name": "Divine Sanctuary",
+        "access_rules": ["AreaKeys:7"],
+        "sections": [
+          {
+            "name": "Legend of the Sage",
+            "access_rules": ["AreaKeys:9"]
+          },
+          {
+            "name": "Challenge of the Sage",
+            "access_rules": ["AreaKeys:9"]
+          },
+          {
+            "name": "Final Challenge of the Sage",
+            "access_rules": ["AreaKeys:20"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoQ",
+            "x": 293,
+            "y": 627,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Agni Tablet",
+        "access_rules": ["AreaKeys:7"],
+        "sections": [
+          {
+            "name": "Monster Quest 1",
+            "access_rules": []
+          },
+          {
+            "name": "Monster Quest 2",
+            "access_rules": []
+          },
+          {
+            "name": "Monster Quest 3",
+            "access_rules": []
+          },
+          {
+            "name": "Monster Quest 4",
+            "access_rules": []
+          },
+          {
+            "name": "Challenge",
+            "access_rules": ["AreaKeys:8,MaFoHunt"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoQ",
+            "x": 257,
+            "y": 489,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Pod Landing Site",
+        "access_rules": ["AreaKeys:13"],
+        "sections": [
+          {
+            "name": "Bridge Repair",
+            "access_rules": []
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoQ",
+            "x": 293,
+            "y": 627,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Makna Path",
+        "access_rules": ["AreaKeys:7"],
+        "sections": [
+          {
+            "name": "Mystery Girl Rescue",
+            "access_rules": []
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoQ",
+            "x": 204,
+            "y": 425,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]
