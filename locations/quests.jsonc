@@ -745,7 +745,7 @@
         "access_rules": ["AreaKeys:3"],
         "sections": [
           {
-            "name": "Chemist's Reopening (Olga)",
+            "name": "Chemist's Reopening",
             "access_rules": ["AreaKeys:4"]
           },
           {

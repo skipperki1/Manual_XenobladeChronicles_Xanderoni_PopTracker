@@ -1696,6 +1696,14 @@
             "ref": "Satorl Marsh Landmarks/Nopon Merchant Camp/Landmark"
           },
           {
+            "name": "Bokoko",
+            "ref": "Satorl Marsh NPCs/Nopon Merchant Camp/Bokoko"
+          },
+          {
+            "name": "Kacha",
+            "ref": "Satorl Marsh NPCs/Nopon Merchant Camp/Kacha"
+          },
+          {
             "name": "Kacha's Kidnapping",
             "ref": "Satorl Marsh Quests/Nopon Merchant Camp/Kacha's Kidnapping"
           },
@@ -1789,6 +1797,271 @@
             "map": "SMFull",
             "x": 603,
             "y": 231,
+            "size": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Makna Forest",
+    "children":[
+      {
+        "name": "Makna Path",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Makna Forest Landmarks/Makna Path/Landmark"
+          },
+          {
+            "name": "Mystery Girl Rescue",
+            "ref": "Makna Forest Quests/Makna Path/Mystery Girl Rescue"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 204,
+            "y": 425,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Agni Tablet",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Makna Forest Landmarks/Agni Tablet/Landmark"
+          },
+          {
+            "name": "Monster Quest 1",
+            "ref": "Makna Forest Quests/Agni Tablet/Monster Quest 1"
+          },
+          {
+            "name": "Monster Quest 2",
+            "ref": "Makna Forest Quests/Agni Tablet/Monster Quest 2"
+          },
+          {
+            "name": "Monster Quest 3",
+            "ref": "Makna Forest Quests/Agni Tablet/Monster Quest 3"
+          },
+          {
+            "name": "Monster Quest 4",
+            "ref": "Makna Forest Quests/Agni Tablet/Monster Quest 4"
+          },
+          {
+            "name": "Challenge",
+            "ref": "Makna Forest Quests/Agni Tablet/Challenge"
+          },
+          {
+            "name": "Fallen Brethren",
+            "ref": "Makna Forest H2H/Fallen Brethren/Shulk & Melia"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 257,
+            "y": 489,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Lakeside",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Makna Forest Landmarks/Lakeside/Landmark"
+          },
+          {
+            "name": "Boss: Puera Telethia",
+            "ref": "Makna Forest Bosses/Puera Telethia/Boss: Puera Telethia"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 207,
+            "y": 480,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Divine Sanctuary",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Makna Forest Landmarks/Divine Sanctuary/Landmark"
+          },
+          {
+            "name": "Nopon Sage",
+            "ref": "Makna Forest NPCs/Divine Sanctuary/Nopon Sage"
+          },
+          {
+            "name": "Legend of the Sage",
+            "ref": "Makna Forest Quests/Divine Sanctuary/Legend of the Sage"
+          },
+          {
+            "name": "Challenge of the Sage",
+            "ref": "Makna Forest Quests/Divine Sanctuary/Challenge of the Sage"
+          },
+          {
+            "name": "Final Challenge of the Sage",
+            "ref": "Makna Forest Quests/Divine Sanctuary/Final Challenge of the Sage"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 293,
+            "y": 627,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "King Agni's Tomb",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Makna Forest Landmarks/King Agni's Tomb/Landmark"
+          },
+          {
+            "name": "UM: Brutal Gravar (Lv.46)",
+            "ref": "Makna Forest Unique Monsters/UM: Brutal Gravar/Lv.46"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 275,
+            "y": 344,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nopon Arch",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Makna Forest Landmarks/Nopon Arch/Landmark"
+          },
+          {
+            "name": "UM: Elder Gragus (Lv.34)",
+            "ref": "Makna Forest Unique Monsters/UM: Elder Gragus/Lv.34"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 501,
+            "y": 344,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sparkling Pool",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Makna Forest Landmarks/Sparkling Pool/Landmark"
+          },
+          {
+            "name": "No Boys Allowed",
+            "ref": "Makna Forest H2H/No Boys Allowed/Sharla & Melia"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 550,
+            "y": 412,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Twisted Tree Gate",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Makna Forest Landmarks/Twisted Tree Gate/Landmark"
+          },
+          {
+            "name": "UM: Shimmering Forte (Lv.33)",
+            "ref": "Makna Forest Unique Monsters/UM: Shimmering Forte/Lv.33"
+          },
+          {
+            "name": "Riki's Crazy Crystal Plan",
+            "ref": "Makna Forest H2H/Riki's Crazy Crystal Plan/Reyn & Riki"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 668,
+            "y": 359,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:7"],
+        "sections": [
+          {
+            "name": "Veg Completion",
+            "access_rules": ["MaFoVeg"],
+            "chest_unopened_img": "images/items/Veg.png",
+            "chest_opened_img": "images/items/VegDone.png"
+          },
+          {
+            "name": "Fruit Completion",
+            "access_rules": ["MaFoFruit"],
+            "chest_unopened_img": "images/items/Fruit.png",
+            "chest_opened_img": "images/items/FruitDone.png"
+          },
+          {
+            "name": "Flower Completion",
+            "access_rules": ["MaFoFlower"],
+            "chest_unopened_img": "images/items/Flower.png",
+            "chest_opened_img": "images/items/FlowerDone.png"
+          },
+          {
+            "name": "Animal Completion",
+            "access_rules": ["MaFoAnimal"],
+            "chest_unopened_img": "images/items/Animal.png",
+            "chest_opened_img": "images/items/AnimalDone.png"
+          },
+          {
+            "name": "Bug Completion",
+            "access_rules": ["MaFoBug"],
+            "chest_unopened_img": "images/items/Bug.png",
+            "chest_opened_img": "images/items/BugDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["MaFoStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["MaFoVeg,MaFoFlower,MaFoAnimal,MaFoBug,MaFoFruit,MaFoStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 786,
+            "y": 137,
             "size": 24
           }
         ]
