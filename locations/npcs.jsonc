@@ -377,7 +377,7 @@
           },
           {
             "map": "BLFull",
-            "x": 416,
+            "x": 401,
             "y": 835,
             "size": 16
           }
@@ -558,6 +558,580 @@
             "map": "MaFoNPC",
             "x": 293,
             "y": 627,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Frontier Village NPCs",
+    "chest_unopened_img": "images/npcs/MetNPC.png",
+    "children": [
+      {
+        "name": "Ababa",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Ababa",
+            "chest_opened_img": "images/npcs/Ababa.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 455,
+            "y": 407,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 455,
+            "y": 407,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Adidi",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Adidi",
+            "chest_opened_img": "images/npcs/Adidi.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 88,
+            "y": 394,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 88,
+            "y": 394,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bana",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Bana",
+            "chest_opened_img": "images/npcs/Bana.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 682,
+            "y": 409,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 682,
+            "y": 409,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Berryjammy",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Berryjammy",
+            "chest_opened_img": "images/npcs/Berryjammy.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 583,
+            "y": 927,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Pollen Orb Storehouse",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Cherri",
+            "chest_opened_img": "images/npcs/Cherri.png"
+          },
+          {
+            "name": "Dedeba",
+            "chest_opened_img": "images/npcs/Dedeba.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 821,
+            "y": 375,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 821,
+            "y": 375,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Dabidabi",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Dabidabi",
+            "chest_opened_img": "images/npcs/Dabidabi.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 256,
+            "y": 939,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Deki",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Deki",
+            "chest_opened_img": "images/npcs/Deki.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 454,
+            "y": 320,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 454,
+            "y": 320,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Dobadoba",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Dobadoba",
+            "chest_opened_img": "images/npcs/Dobadoba.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 110,
+            "y": 761,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 110,
+            "y": 761,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Pollen Works",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Gadada",
+            "chest_opened_img": "images/npcs/Gadada.png"
+          },
+          {
+            "name": "Rono",
+            "chest_opened_img": "images/npcs/Rono.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 400,
+            "y": 716,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Gowago",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Gowago",
+            "chest_opened_img": "images/npcs/Gowago.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 301,
+            "y": 675,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hoko",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Hoko",
+            "chest_opened_img": "images/npcs/Hoko.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 153,
+            "y": 925,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Archaeology Level",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Kilaki",
+            "chest_opened_img": "images/npcs/Kilaki.png"
+          },
+          {
+            "name": "Leku",
+            "chest_opened_img": "images/npcs/Leku.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 593,
+            "y": 677,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 593,
+            "y": 677,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kokora",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Kokora",
+            "chest_opened_img": "images/npcs/Kokora.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 615,
+            "y": 240,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Plaza",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Kofuko",
+            "chest_opened_img": "images/npcs/Kofuko.png"
+          },
+          {
+            "name": "Kuriku",
+            "chest_opened_img": "images/npcs/Kuriku.png"
+          },
+          {
+            "name": "Migaga",
+            "chest_opened_img": "images/npcs/Migaga.png"
+          },
+          {
+            "name": "Pipiki",
+            "chest_opened_img": "images/npcs/Pipiki.png"
+          },
+          {
+            "name": "Pokapoka",
+            "chest_opened_img": "images/npcs/Pokapoka.png"
+          },
+          {
+            "name": "Rasha",
+            "chest_opened_img": "images/npcs/Rasha.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 631,
+            "y": 398,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Lalapa",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Lalapa",
+            "chest_opened_img": "images/npcs/Lalapa.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 103,
+            "y": 906,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Archaeology Centre",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Lupa",
+            "chest_opened_img": "images/npcs/Lupa.png"
+          },
+          {
+            "name": "Pachipa",
+            "chest_opened_img": "images/npcs/Pachipa.png"
+          },
+          {
+            "name": "Tuzu",
+            "chest_opened_img": "images/npcs/Tuzu.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 560,
+            "y": 752,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 560,
+            "y": 752,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kyn Shopping Street",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Medi",
+            "chest_opened_img": "images/npcs/Medi.png"
+          },
+          {
+            "name": "Minana",
+            "chest_opened_img": "images/npcs/Minana.png"
+          },
+          {
+            "name": "Puko",
+            "chest_opened_img": "images/npcs/Puko.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 798,
+            "y": 288,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 798,
+            "y": 288,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Miko",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Miko",
+            "chest_opened_img": "images/npcs/Miko.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 372,
+            "y": 943,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Modamo",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Modamo",
+            "chest_opened_img": "images/npcs/Modamo.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 570,
+            "y": 644,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 570,
+            "y": 644,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Norara",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Norara",
+            "chest_opened_img": "images/npcs/Norara.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 142,
+            "y": 368,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 142,
+            "y": 368,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Npa",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Npa",
+            "chest_opened_img": "images/npcs/Npa.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 340,
+            "y": 462,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 340,
+            "y": 462,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Pelupelu",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Pelupelu",
+            "chest_opened_img": "images/npcs/Pelupelu.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 646,
+            "y": 887,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 646,
+            "y": 887,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Pepa",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Pepa",
+            "chest_opened_img": "images/npcs/Pepa.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 144,
+            "y": 894,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Underground Store",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Tati",
+            "chest_opened_img": "images/npcs/Tati.png"
+          },
+          {
+            "name": "Yusa",
+            "chest_opened_img": "images/npcs/Yusa.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVNPC",
+            "x": 242,
+            "y": 477,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 242,
+            "y": 477,
             "size": 16
           }
         ]

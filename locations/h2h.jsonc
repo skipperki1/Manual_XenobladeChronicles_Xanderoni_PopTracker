@@ -261,6 +261,12 @@
             "x": 331,
             "y": 652,
             "size": 16
+          },
+          {
+            "map": "BLFull",
+            "x": 331,
+            "y": 652,
+            "size": 16
           }
         ]
       },
@@ -644,7 +650,7 @@
         {
           "name": "Reyn & Riki",
           "access_rules": [
-          "AreaKeys:5,ReynAffinity4,RikiAffinity4"
+          "AreaKeys:8,ReynAffinity4,RikiAffinity4"
           ]
         }
       ],
@@ -663,7 +669,7 @@
         {
           "name": "Sharla & Melia",
           "access_rules": [
-          "AreaKeys:5,SharlaAffinity2,MeliaAffinity2"
+          "AreaKeys:8,SharlaAffinity2,MeliaAffinity2"
           ]
         }
       ],
@@ -672,6 +678,127 @@
             "map": "MaFoH2H",
             "x": 550,
             "y": 412,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Frontier Village H2H",
+    "chest_unopened_img": "images/mapicons/HeartToHeart.png",
+    "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
+    "children": [
+      {
+        "name": "A Day Like Any Other",
+        "sections": [
+        {
+          "name": "Melia & Seven",
+          "access_rules": [
+          "AreaKeys:16,MeliaAffinity4,SevenAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "FVH2H",
+            "x": 646,
+            "y": 248,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "A Mysterious Sanctuary",
+        "sections": [
+        {
+          "name": "Melia & Riki",
+          "access_rules": [
+          "AreaKeys:8,MeliaAffinity2,RikiAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "FVH2H",
+            "x": 372,
+            "y": 943,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "At the Pollen Works",
+        "sections": [
+        {
+          "name": "Shulk & Riki",
+          "access_rules": [
+          "AreaKeys:8,ShulkAffinity2,RikiAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "FVH2H",
+            "x": 400,
+            "y": 716,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Life's Hard for a Heropon",
+        "sections": [
+        {
+          "name": "Dunban & Riki",
+          "access_rules": [
+          "AreaKeys:8,DunbanAffinity5,RikiAffinity5"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "FVH2H",
+            "x": 301,
+            "y": 675,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Reawakened Memories",
+        "sections": [
+        {
+          "name": "Sharla & Seven",
+          "access_rules": [
+          "AreaKeys:16,SharlaAffinity4,SevenAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "FVH2H",
+            "x": 275,
+            "y": 950,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "True Natures",
+        "sections": [
+        {
+          "name": "Dunban & Melia",
+          "access_rules": [
+          "AreaKeys:8,MeliaAffinity2,DunbanAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "FVH2H",
+            "x": 587,
+            "y": 912,
             "size": 16
           }
         ]

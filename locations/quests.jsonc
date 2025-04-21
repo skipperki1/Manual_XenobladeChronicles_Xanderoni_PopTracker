@@ -1210,8 +1210,8 @@
         "map_locations": [
           {
             "map": "MaFoQ",
-            "x": 293,
-            "y": 627,
+            "x": 322,
+            "y": 309,
             "size": 16
           }
         ]
@@ -1230,6 +1230,371 @@
             "map": "MaFoQ",
             "x": 204,
             "y": 425,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Frontier Village Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "access_rules": ["AreaKeys:8"],
+    "children": [
+      {
+        "name": "Quests A-CH",
+        "sections": [
+          {
+            "name": "Adviser Hunt (MISSABLE)",
+            "access_rules": ["AreaKeys:10"]
+          },
+          {
+            "name": "An Errand for the Heropon (Story)"
+          },
+          {
+            "name": "Avenge a Mamapon's Death",
+            "access_rules": ["AreaKeys:9"]
+          },
+          {
+            "name": "Bana the Betrayer",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "Beat Kilaki to it!"
+          },
+          {
+            "name": "Bored Pelupelu",
+            "access_rules": ["AreaKeys:16"]
+          },
+          {
+            "name": "Broken Ether Furnace",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "Broken Ether Furnace 2",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "Challenge 1",
+            "access_rules": ["MaFoHunt"]
+          },
+          {
+            "name": "Challenge 2",
+            "access_rules": ["MaFoHunt"]
+          },
+          {
+            "name": "Challenge 3",
+            "access_rules": ["MaFoHunt"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 800,
+            "y": 795,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Quests CO-EV",
+        "sections": [
+          {
+            "name": "Collection Quest 1"
+          },
+          {
+            "name": "Collection Quest 2"
+          },
+          {
+            "name": "Collection Quest 3"
+          },
+          {
+            "name": "Collection Quest 4"
+          },
+          {
+            "name": "Dadapon in Trouble"
+          },
+          {
+            "name": "Dangerous Ambition (MISSABLE)",
+            "access_rules": ["AreaKeys:10"]
+          },
+          {
+            "name": "Decoration Makeover"
+          },
+          {
+            "name": "Destroying the City Trade (MISSABLE)",
+            "access_rules": ["AreaKeys:10"]
+          },
+          {
+            "name": "Disinsectization"
+          },
+          {
+            "name": "Even In the Chief's Absence",
+            "access_rules": ["AreaKeys:16"]
+          },
+          {
+            "name": "Evidence Collection (MISSABLE)",
+            "access_rules": ["AreaKeys:10"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 958,
+            "y": 795,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Quests FI-IN",
+        "sections": [
+          {
+            "name": "Find the Kingpin (MISSABLE)",
+            "access_rules": ["AreaKeys:10"]
+          },
+          {
+            "name": "Fixing Time Mushrooms"
+          },
+          {
+            "name": "Getting Bigger!",
+            "access_rules": ["AreaKeys:12"]
+          },
+          {
+            "name": "Giant Attack!",
+            "access_rules": ["AreaKeys:12"]
+          },
+          {
+            "name": "A Gift For Miko",
+            "access_rules": ["AreaKeys:16"]
+          },
+          {
+            "name": "Healing the Healer",
+            "access_rules": ["AreaKeys:12"]
+          },
+          {
+            "name": "Heropon's Spirit"
+          },
+          {
+            "name": "Honouring the Nopon Sage",
+            "access_rules": ["AreaKeys:9"]
+          },
+          {
+            "name": "Hunt for a Patron"
+          },
+          {
+            "name": "Hunt for Bug-Loving Friend"
+          },
+          {
+            "name": "Ingredients For A Brew"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 800,
+            "y": 846,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Quests IT-MA",
+        "sections": [
+          {
+            "name": "It Definitely Exist!"
+          },
+          {
+            "name": "Kind Lupa's Grampypon"
+          },
+          {
+            "name": "Legendary Nopon Charm",
+            "access_rules": ["AreaKeys:12"]
+          },
+          {
+            "name": "Leku's Food Crisis"
+          },
+          {
+            "name": "Lousy Lizards"
+          },
+          {
+            "name": "Making a Mixer"
+          },
+          {
+            "name": "Material Quest 1"
+          },
+          {
+            "name": "Material Quest 2"
+          },
+          {
+            "name": "Material Quest 3"
+          },
+          {
+            "name": "Material Quest 4"
+          },
+          {
+            "name": "Materials for a Mixer"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 958,
+            "y": 846,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Quests ME-MU",
+        "sections": [
+          {
+            "name": "Meeting the Nopon Sage",
+            "access_rules": ["AreaKeys:9"]
+          },
+          {
+            "name": "A Memento of Daddy",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "Mislabelling Problem",
+            "access_rules": ["AreaKeys:12"]
+          },
+          {
+            "name": "Monster Quest 1 - Part 1"
+          },
+          {
+            "name": "Monster Quest 1 - Part 2"
+          },
+          {
+            "name": "Monster Quest 1 - Part 3"
+          },
+          {
+            "name": "Monster Quest 2 - Part 1"
+          },
+          {
+            "name": "Monster Quest 2 - Part 2"
+          },
+          {
+            "name": "Monster Quest 2 - Part 3"
+          },
+          {
+            "name": "Mushy Mushrooms"
+          },
+          {
+            "name": "Musical Genius"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 800,
+            "y": 897,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Quests MY-SEA",
+        "sections": [
+          {
+            "name": "Mystery of Makna Ruins 1",
+            "access_rules": ["AreaKeys:12"]
+          },
+          {
+            "name": "Mystery of Makna Ruins 2",
+            "access_rules": ["AreaKeys:12"]
+          },
+          {
+            "name": "Mystery of Makna Ruins 3",
+            "access_rules": ["AreaKeys:12"]
+          },
+          {
+            "name": "Mystery of Makna Ruins 4",
+            "access_rules": ["AreaKeys:12"]
+          },
+          {
+            "name": "Pollen Orb Ingredients"
+          },
+          {
+            "name": "Popularity Premonition"
+          },
+          {
+            "name": "Presents for Priceless Pupils",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "Restoring the Capital",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "Restoring the Capital 2",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "Search Quest 1"
+          },
+          {
+            "name": "Search Quest 2"
+          },
+          {
+            "name": "Search Quest 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 958,
+            "y": 897,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Quests SEC-WO",
+        "sections": [
+          {
+            "name": "Secret Elixir Ingredients"
+          },
+          {
+            "name": "Secret Ingredient Hunt"
+          },
+          {
+            "name": "Secret Innovation"
+          },
+          {
+            "name": "Strange Noises from Below"
+          },
+          {
+            "name": "Sweet Seduction"
+          },
+          {
+            "name": "The Master's Successor"
+          },
+          {
+            "name": "Things that Hum"
+          },
+          {
+            "name": "Things that Rumble"
+          },
+          {
+            "name": "A Tormented Bug-Lover",
+            "access_rules": ["AreaKeys:9"]
+          },
+          {
+            "name": "Who is Bigger?",
+            "access_rules": ["AreaKeys:12"]
+          },
+          {
+            "name": "A Worried Bug-Lover"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 883,
+            "y": 948,
             "size": 16
           }
         ]

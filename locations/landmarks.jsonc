@@ -52,6 +52,12 @@
             "x": 383,
             "y": 362,
             "size": 8
+          },
+          {
+            "map": "C9Full",
+            "x": 383,
+            "y": 362,
+            "size": 8
           }
         ]
       },
@@ -1261,12 +1267,6 @@
             "x": 322,
             "y": 309,
             "size": 16
-          },
-          {
-            "map": "MaFoFull",
-            "x": 322,
-            "y": 309,
-            "size": 16
           }
         ]
       },
@@ -1449,6 +1449,156 @@
             "map": "MaFoLM",
             "x": 275,
             "y": 344,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Frontier Village Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:8"],
+    "children": [
+      {
+        "name": "Entry Bridge",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 297,
+            "y": 145,
+            "size": 16
+          },
+          {
+            "map": "FVFull",
+            "x": 297,
+            "y": 145,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nopon Tower",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 646,
+            "y": 248,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sacred Altar",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 631,
+            "y": 416,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Pollen Works",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 400,
+            "y": 716,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Riki's House",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 301,
+            "y": 675,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Chief's Residence",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 116,
+            "y": 910,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Prophecy Hut",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 372,
+            "y": 943,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Contemplation Terrace",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 562,
+            "y": 951,
             "size": 16
           }
         ]

@@ -7,7 +7,266 @@
         "access_rules": ["AreaKeys:22,MemoryFragments:20"],
         "sections": [
           {
-            "name": "Clear"
+            "name": "Clear",
+            "chest_unopened_img": "images/mapicons/Monado3.png",
+            "chest_opened_img": "images/mapicons/Monado3Done.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MISC",
+            "x": 200,
+            "y": 206,
+            "size": 32
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Development Levels",
+    "children":[
+      {
+        "name": "Colony 9",
+        "sections": [
+          {
+            "name": "Level 1",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 1,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 2",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 2,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 3",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 3,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 4",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 4,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 5",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 5,
+            "clear_as_group": true
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MISC",
+            "x": 95,
+            "y": 170,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Colony 6",
+        "access_rules": ["AreaKeys:2"],
+        "sections": [
+          {
+            "name": "Level 1",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 1,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 2",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 2,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 3",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 3,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 4",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 4,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 5",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 5,
+            "clear_as_group": true
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MISC",
+            "x": 199,
+            "y": 89,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Bionis",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Level 1",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 1,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 2",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 2,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 3",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 3,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 4",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 4,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 5",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 5,
+            "clear_as_group": true
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MISC",
+            "x": 136,
+            "y": 284,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Upper Bionis",
+        "access_rules": ["AreaKeys:10"],
+        "sections": [
+          {
+            "name": "Level 1",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 1,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 2",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 2,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 3",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 3,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 4",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 4,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 5",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 5,
+            "clear_as_group": true
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MISC",
+            "x": 264,
+            "y": 284,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hidden Village",
+        "access_rules": ["AreaKeys:16"],
+        "sections": [
+          {
+            "name": "Level 1",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 1,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 2",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 2,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 3",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 3,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 4",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 4,
+            "clear_as_group": true
+          },
+          {
+            "name": "Level 5",
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png",
+            "item_count": 5,
+            "clear_as_group": true
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MISC",
+            "x": 305,
+            "y": 174,
+            "size": 16
           }
         ]
       }
@@ -205,8 +464,8 @@
             "ref": "Colony 9 NPCs/Residential District (South)/Jolele (PM)"
           },
           {
-            "name": "Jiroque (AM)",
-            "ref": "Colony 9 NPCs/Residential District (South)/Jiroque (AM)"
+            "name": "Jiroque (PM)",
+            "ref": "Colony 9 NPCs/Residential District (South)/Jiroque (PM)"
           },
           {
             "name": "Kenny Rohan (AM)",
@@ -219,6 +478,10 @@
           {
             "name": "Francoise (AM)",
             "ref": "Colony 9 NPCs/Tranquil Square/Francoise (AM)"
+          },
+          {
+            "name": "Peppino (PM)",
+            "ref": "Colony 9 NPCs/Residential District (South)/Peppino (PM)"
           }
         ],
         "map_locations": [
@@ -1093,8 +1356,8 @@
         "name": "Ragrinar Canyon Path",
         "sections": [
           {
-            "name": "Batubatu",
-            "ref": "Bionis' Leg Landmark/Ragrinar Canyon Path/Landmark"
+            "name": "Landmark",
+            "ref": "Bionis' Leg Landmarks/Ragrinar Canyon Path/Landmark"
           },
           {
             "name": "Monster Quest 1 - Part 1",
@@ -1168,6 +1431,32 @@
             "map": "BLFull",
             "x": 158,
             "y": 256,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Refugee Camp",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Bionis' Leg Landmarks/Observation Platform/Landmark"
+          },
+          {
+            "name": "Heir to the Monado",
+            "ref": "Bionis' Leg H2H/Heir to the Monado/Reyn & Dunban"
+          },
+          {
+            "name": "What's on Reyn's Mind",
+            "ref": "Bionis' Leg H2H/What's on Reyn's Mind/Reyn & Sharla"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLFull",
+            "x": 431,
+            "y": 835,
             "size": 16
           }
         ]
@@ -1650,7 +1939,7 @@
         "name": "Zaldania Waterfall",
         "sections": [
           {
-            "name": "UM: Stormy Widardun",
+            "name": "UM: Stormy Widardun (Lv.25)",
             "ref": "Satorl Marsh Unique Monsters/UM: Stormy Widardun/Lv.25"
           },
           {
@@ -1823,6 +2112,28 @@
             "map": "MaFoFull",
             "x": 204,
             "y": 425,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Pod Landing Site",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Makna Forest Landmarks/Pod Landing Site/Landmark"
+          },
+          {
+            "name": "Bridge Repair",
+            "ref": "Makna Forest Quests/Pod Landing Site/Bridge Repair"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoFull",
+            "x": 322,
+            "y": 309,
             "size": 16
           }
         ]
@@ -2062,6 +2373,256 @@
             "map": "MaFoFull",
             "x": 786,
             "y": 137,
+            "size": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Frontier Village",
+    "children":[
+      {
+        "name": "Nopon Tower",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Frontier Village Landmarks/Nopon Tower/Landmark"
+          },
+          {
+            "name": "Kokora",
+            "ref": "Frontier Village NPCs/Kokora/Kokora"
+          },
+          {
+            "name": "A Day Like Any Other",
+            "ref": "Frontier Village H2H/A Day Like Any Other/Melia & Seven"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 646,
+            "y": 248,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Riki's House",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Frontier Village Landmarks/Riki's House/Landmark"
+          },
+          {
+            "name": "Gowago",
+            "ref": "Frontier Village NPCs/Gowago/Gowago"
+          },
+          {
+            "name": "Life's Hard for a Heropon",
+            "ref": "Frontier Village H2H/Life's Hard for a Heropon/Dunban & Riki"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 301,
+            "y": 675,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Prophecy Hut",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Frontier Village Landmarks/Prophecy Hut/Landmark"
+          },
+          {
+            "name": "Miko",
+            "ref": "Frontier Village NPCs/Miko/Miko"
+          },
+          {
+            "name": "Dabidabi",
+            "ref": "Frontier Village NPCs/Dabidabi/Dabidabi"
+          },
+          {
+            "name": "A Mysterious Sanctuary",
+            "ref": "Frontier Village H2H/A Mysterious Sanctuary/Melia & Riki"
+          },
+          {
+            "name": "Reawakened Memories",
+            "ref": "Frontier Village H2H/Reawakened Memories/Sharla & Seven"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 372,
+            "y": 943,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Chief's Residence",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Frontier Village Landmarks/Chief's Residence/Landmark"
+          },
+          {
+            "name": "Hoko",
+            "ref": "Frontier Village NPCs/Hoko/Hoko"
+          },
+          {
+            "name": "Lalapa",
+            "ref": "Frontier Village NPCs/Lalapa/Lalapa"
+          },
+          {
+            "name": "Pepa",
+            "ref": "Frontier Village NPCs/Pepa/Pepa"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 116,
+            "y": 910,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Pollen Works",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Frontier Village Landmarks/Pollen Works/Landmark"
+          },
+          {
+            "name": "Gadada",
+            "ref": "Frontier Village NPCs/Pollen Works/Gadada"
+          },
+          {
+            "name": "Rono",
+            "ref": "Frontier Village NPCs/Pollen Works/Rono"
+          },
+          {
+            "name": "At the Pollen Works",
+            "ref": "Frontier Village H2H/At the Pollen Works/Shulk & Riki"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 400,
+            "y": 716,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Contemplation Terrace",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Frontier Village Landmarks/Contemplation Terrace/Landmark"
+          },
+          {
+            "name": "Berryjammy",
+            "ref": "Frontier Village NPCs/Berryjammy/Berryjammy"
+          },
+          {
+            "name": "True Natures",
+            "ref": "Frontier Village H2H/True Natures/Dunban & Melia"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 562,
+            "y": 951,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sacred Altar",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Frontier Village Landmarks/Sacred Altar/Landmark"
+          },
+          {
+            "name": "Kofuko",
+            "ref": "Frontier Village NPCs/Central Plaza/Kofuko"
+          },
+          {
+            "name": "Kuriku",
+            "ref": "Frontier Village NPCs/Central Plaza/Kuriku"
+          },
+          {
+            "name": "Migaga",
+            "ref": "Frontier Village NPCs/Central Plaza/Migaga"
+          },
+          {
+            "name": "Pipiki",
+            "ref": "Frontier Village NPCs/Central Plaza/Pipiki"
+          },
+          {
+            "name": "Pokapoka",
+            "ref": "Frontier Village NPCs/Central Plaza/Pokapoka"
+          },
+          {
+            "name": "Rasha",
+            "ref": "Frontier Village NPCs/Central Plaza/Rasha"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 631,
+            "y": 398,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:8"],
+        "sections": [
+          {
+            "name": "Fruit Completion",
+            "access_rules": ["FVFruit"],
+            "chest_unopened_img": "images/items/Fruit.png",
+            "chest_opened_img": "images/items/FruitDone.png"
+          },
+          {
+            "name": "Bug Completion",
+            "access_rules": ["FVBug"],
+            "chest_unopened_img": "images/items/Bug.png",
+            "chest_opened_img": "images/items/BugDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["FVStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["FVBug,FVFruit,FVStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVFull",
+            "x": 880,
+            "y": 659,
             "size": 24
           }
         ]

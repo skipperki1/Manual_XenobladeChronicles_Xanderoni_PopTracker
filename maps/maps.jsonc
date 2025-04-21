@@ -253,18 +253,6 @@
     "img": "images/maps/FrontierVillage.png"
   },
   {
-    "name": "FVUM",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/FrontierVillage.png"
-  },
-  {
-    "name": "FVQ",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/FrontierVillage.png"
-  },
-  {
     "name": "FVNPC",
     "location_size": 48,
     "location_border_thickness": 4,
@@ -743,5 +731,11 @@
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/PrisonIslandEndGame.png"
+  },
+  {
+    "name": "MISC",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/AreaAffinityMap.png"
   }
 ]

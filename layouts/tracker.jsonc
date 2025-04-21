@@ -1837,24 +1837,6 @@
                   }
                 },
                 {
-                 "title": "Unique Monsters & Bosses",
-                  "content": {
-                   "type": "map",
-                   "maps": [
-                     "FVUM"
-                   ]
-                  }
-                },
-                {
-                  "title": "Quests",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "FVQ"
-                    ]
-                 }
-                },
-                {
                   "title": "NPC's",
                   "content": {
                     "type": "map",
@@ -2678,6 +2660,23 @@
                       ]
                     }
                   }
+                ]
+              }
+            },
+            {
+              "title": "Misc.",
+              "content": {
+               "type": "tabbed",
+               "tabs": [
+                {
+                 "title": "Area Affinities & Victory",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "MISC"
+                    ]
+                  }
+                }
                 ]
               }
             }
