@@ -1600,5 +1600,108 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Eryth Sea Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "children": [
+      {
+        "name": "Ether Plant",
+        "access_rules": ["AreaKeys:9"],
+        "sections": [
+          {
+            "name": "Trouble at the Plant"
+          },
+          {
+            "name": "Punish the Hodes"
+          },
+          {
+            "name": "Mend the Plant"
+          },
+          {
+            "name": "Hode Attack"
+          },
+          {
+            "name": "Ancient High Entia Mystery",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "The Missing Boy",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "Secret Research",
+            "access_rules": ["AreaKeys:20"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESQ",
+            "x": 311,
+            "y": 285,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Syrath Lighthouse",
+        "access_rules": ["AreaKeys:9"],
+        "sections": [
+          {
+            "name": "Trouble at the Lighthouse"
+          },
+          {
+            "name": "Monster Quest 1"
+          },
+          {
+            "name": "Monster Quest 2"
+          },
+          {
+            "name": "Collect Quest 1"
+          },
+          {
+            "name": "Collect Quest 2"
+          },
+          {
+            "name": "Challenge",
+            "access_rules": ["ESHunt"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESQ",
+            "x": 591,
+            "y": 447,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Latael Shore",
+        "access_rules": ["AreaKeys:9"],
+        "sections": [
+          {
+            "name": "Save the Worker"
+          },
+          {
+            "name": "Path to Prison Island",
+            "access_rules": ["AreaKeys:12"]
+          },
+          {
+            "name": "Sister Seals",
+            "access_rules": ["AreaKeys:12"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESQ",
+            "x": 503,
+            "y": 147,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -2628,5 +2628,279 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Eryth Sea",
+    "children":[
+      {
+        "name": "Ether Plant",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Eryth Sea Landmarks/Ether Plant/Landmark"
+          },
+          {
+            "name": "Jarack",
+            "ref": "Eryth Sea NPCs/Jarack/Jarack"
+          },
+          {
+            "name": "Trouble at the Plant",
+            "ref": "Eryth Sea Quests/Ether Plant/Trouble at the Plant"
+          },
+          {
+            "name": "Punish the Hodes",
+            "ref": "Eryth Sea Quests/Ether Plant/Punish the Hodes"
+          },
+          {
+            "name": "Mend the Plant",
+            "ref": "Eryth Sea Quests/Ether Plant/Mend the Plant"
+          },
+          {
+            "name": "Hode Attack",
+            "ref": "Eryth Sea Quests/Ether Plant/Hode Attack"
+          },
+          {
+            "name": "Ancient High Entia Mystery",
+            "ref": "Eryth Sea Quests/Ether Plant/Ancient High Entia Mystery"
+          },
+          {
+            "name": "The Missing Boy",
+            "ref": "Eryth Sea Quests/Ether Plant/The Missing Boy"
+          },
+          {
+            "name": "Secret Research",
+            "ref": "Eryth Sea Quests/Ether Plant/Secret Research"
+          },
+          {
+            "name": "A Gift for a Loved One",
+            "ref": "Eryth Sea H2H/A Gift for a Loved One/Sharla & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESFull",
+            "x": 311,
+            "y": 285,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Syrath Lighthouse",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Eryth Sea Landmarks/Syrath Lighthouse/Landmark"
+          },
+          {
+            "name": "Shalen",
+            "ref": "Eryth Sea NPCs/Shalen/Shalen"
+          },
+          {
+            "name": "Trouble at the Lighthouse",
+            "ref": "Eryth Sea Quests/Syrath Lighthouse/Trouble at the Lighthouse"
+          },
+          {
+            "name": "Monster Quest 1",
+            "ref": "Eryth Sea Quests/Syrath Lighthouse/Monster Quest 1"
+          },
+          {
+            "name": "Monster Quest 2",
+            "ref": "Eryth Sea Quests/Syrath Lighthouse/Monster Quest 2"
+          },
+          {
+            "name": "Collect Quest 1",
+            "ref": "Eryth Sea Quests/Syrath Lighthouse/Collect Quest 1"
+          },
+          {
+            "name": "Collect Quest 2",
+            "ref": "Eryth Sea Quests/Syrath Lighthouse/Collect Quest 2"
+          },
+          {
+            "name": "Challenge",
+            "ref": "Eryth Sea Quests/Syrath Lighthouse/Challenge"
+          },
+          {
+            "name": "Riki Have Question",
+            "ref": "Eryth Sea H2H/Riki Have Question/Riki & Seven"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESFull",
+            "x": 591,
+            "y": 447,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Latael Shore",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Eryth Sea Landmarks/Latael Shore/Landmark"
+          },
+          {
+            "name": "Save the Worker",
+            "ref": "Eryth Sea Quests/Latael Shore/Save the Worker"
+          },
+          {
+            "name": "Path to Prison Island",
+            "ref": "Eryth Sea Quests/Latael Shore/Path to Prison Island"
+          },
+          {
+            "name": "Sister Seals",
+            "ref": "Eryth Sea Quests/Latael Shore/Sister Seals"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESFull",
+            "x": 503,
+            "y": 147,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Seal Island",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Eryth Sea Landmarks/Central Seal Island/Landmark"
+          },
+          {
+            "name": "UM: Deadly Medorlo (Lv.93)",
+            "ref": "Eryth Sea Unique Monsters/UM: Deadly Medorlo/Lv.93"
+          },
+          {
+            "name": "Boss: Skyray",
+            "ref": "Eryth Sea Bosses/Skyray/Boss: Skyray"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESFull",
+            "x": 369,
+            "y": 418,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Khatorl Seal Island",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Eryth Sea Landmarks/Khatorl Seal Island/Landmark"
+          },
+          {
+            "name": "UM: Cumulus Danaemos (Lv.41)",
+            "ref": "Eryth Sea Unique Monsters/UM: Cumulus Danaemos/Lv.41"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESFull",
+            "x": 524,
+            "y": 281,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Soltnar Seal Island",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Eryth Sea Landmarks/Soltnar Seal Island/Landmark"
+          },
+          {
+            "name": "UM: Subterranean Zomar (Lv.40)",
+            "ref": "Eryth Sea Unique Monsters/UM: Subterranean Zomar/Lv.40"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESFull",
+            "x": 494,
+            "y": 551,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sleeping Dragon Island",
+        "sections": [
+          {
+            "name": "UM: Clamorous Dablon (Lv.92 Thunder)",
+            "ref": "Eryth Sea Unique Monsters/UM: Clamorous Dablon/Lv.92 (Thunder)"
+          },
+          {
+            "name": "Fish Fly! Fish Fly!",
+            "ref": "Eryth Sea H2H/Fish Fly! Fish Fly!/Reyn & Riki"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESFull",
+            "x": 487,
+            "y": 377,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:9"],
+        "sections": [
+          {
+            "name": "Veg Completion",
+            "access_rules": ["ESVeg"],
+            "chest_unopened_img": "images/items/Veg.png",
+            "chest_opened_img": "images/items/VegDone.png"
+          },
+          {
+            "name": "Flower Completion",
+            "access_rules": ["ESFlower"],
+            "chest_unopened_img": "images/items/Flower.png",
+            "chest_opened_img": "images/items/FlowerDone.png"
+          },
+          {
+            "name": "Animal Completion",
+            "access_rules": ["ESAnimal"],
+            "chest_unopened_img": "images/items/Animal.png",
+            "chest_opened_img": "images/items/AnimalDone.png"
+          },
+          {
+            "name": "Nature Completion",
+            "access_rules": ["ESNature"],
+            "chest_unopened_img": "images/items/Nature.png",
+            "chest_opened_img": "images/items/NatureDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["ESStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["ESVeg,ESFlower,ESAnimal,ESNature,ESStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESFull",
+            "x": 885,
+            "y": 710,
+            "size": 24
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -1604,5 +1604,184 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Eryth Sea Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:9"],
+    "children": [
+      {
+        "name": "Central Seal Island",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 369,
+            "y": 418,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Centre Gate",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 796,
+            "y": 412,
+            "size": 16
+          },
+          {
+            "map": "ESFull",
+            "x": 796,
+            "y": 412,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ether Plant",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 311,
+            "y": 285,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "High Entia Tomb",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 978,
+            "y": 412,
+            "size": 16
+          },
+          {
+            "map": "ESFull",
+            "x": 978,
+            "y": 412,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Khatorl Seal Island",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 524,
+            "y": 281,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Latael Shore",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 503,
+            "y": 147,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Soltnar Seal Island",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 494,
+            "y": 551,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Syrath Lighthouse",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 591,
+            "y": 447,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Faras Cave",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 193,
+            "y": 639,
+            "size": 16
+          },
+          {
+            "map": "ESFull",
+            "x": 193,
+            "y": 639,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

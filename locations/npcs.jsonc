@@ -1137,5 +1137,47 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Eryth Sea NPCs",
+    "chest_unopened_img": "images/npcs/MetNPC.png",
+    "children": [
+      {
+        "name": "Jarack",
+        "access_rules": ["AreaKeys:9"],
+        "sections": [
+          {
+            "name": "Jarack",
+            "chest_opened_img": "images/npcs/Jarack.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESNPC",
+            "x": 311,
+            "y": 285,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Shalen",
+        "access_rules": ["AreaKeys:9"],
+        "sections": [
+          {
+            "name": "Shalen",
+            "chest_opened_img": "images/npcs/Shalen.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESNPC",
+            "x": 591,
+            "y": 447,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

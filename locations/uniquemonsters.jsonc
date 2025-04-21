@@ -1677,5 +1677,321 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Eryth Sea Unique Monsters",
+    "access_rules": ["ESHunt,AreaKeys:9"],
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "children": [
+      {
+        "name": "UM: Bizarre Ragoel",
+        "sections": [
+          {
+            "name": "Lv.88"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 912,
+            "y": 279,
+            "size": 16
+          },
+          {
+            "map": "ESFull",
+            "x": 912,
+            "y": 279,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Clamorous Dablon",
+        "sections": [
+          {
+            "name": "Lv.92 (Thunder)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 481,
+            "y": 362,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Cumulus Danaemos",
+        "sections": [
+          {
+            "name": "Lv.41"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 524,
+            "y": 281,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Deadly Medorlo",
+        "sections": [
+          {
+            "name": "Lv.93"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 352,
+            "y": 415,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Flabbergasted Jerome",
+        "sections": [
+          {
+            "name": "Lv.38 (Clear)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 610,
+            "y": 549,
+            "size": 16
+          },
+          {
+            "map": "ESFull",
+            "x": 610,
+            "y": 549,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Funeral Gozra",
+        "sections": [
+          {
+            "name": "Lv.42"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 217,
+            "y": 286,
+            "size": 16
+          },
+          {
+            "map": "ESFull",
+            "x": 217,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Lightspeed Sonid",
+        "sections": [
+          {
+            "name": "Lv.44"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 940,
+            "y": 295,
+            "size": 16
+          },
+          {
+            "map": "ESFull",
+            "x": 940,
+            "y": 295,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Peeling Kircheis",
+        "sections": [
+          {
+            "name": "Lv.38"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 474,
+            "y": 467,
+            "size": 16
+          },
+          {
+            "map": "ESFull",
+            "x": 474,
+            "y": 467,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Proper Bandaz",
+        "sections": [
+          {
+            "name": "Lv.39 (Shooting Stars)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 836,
+            "y": 504,
+            "size": 16
+          },
+          {
+            "map": "ESFull",
+            "x": 836,
+            "y": 504,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Sacred Zagamei",
+        "sections": [
+          {
+            "name": "Lv.89"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 271,
+            "y": 492,
+            "size": 16
+          },
+          {
+            "map": "ESFull",
+            "x": 271,
+            "y": 492,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Stormy Belagon",
+        "sections": [
+          {
+            "name": "Lv.87"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 542,
+            "y": 664,
+            "size": 16
+          },
+          {
+            "map": "ESFull",
+            "x": 542,
+            "y": 664,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Subterranean Zomar",
+        "sections": [
+          {
+            "name": "Lv.40"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 494,
+            "y": 551,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Tempestuous Edegia",
+        "sections": [
+          {
+            "name": "Lv.39 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 417,
+            "y": 321,
+            "size": 16
+          },
+          {
+            "map": "ESFull",
+            "x": 417,
+            "y": 321,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Turbulent Belmo",
+        "sections": [
+          {
+            "name": "Lv.36 (Clear)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 637,
+            "y": 239,
+            "size": 16
+          },
+          {
+            "map": "ESFull",
+            "x": 637,
+            "y": 239,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Eryth Sea Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "children": [
+      {
+        "name": "Skyray",
+        "access_rules": ["AreaKeys:10"],
+        "sections": [
+          {
+            "name": "Boss: Skyray"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESUM",
+            "x": 385,
+            "y": 415,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]
