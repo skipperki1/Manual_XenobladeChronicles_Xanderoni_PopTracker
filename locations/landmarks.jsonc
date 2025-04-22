@@ -1783,5 +1783,132 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Alcamoth Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:10"],
+    "children": [
+      {
+        "name": "Fountain of Eternity",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALLM",
+            "x": 263,
+            "y": 304,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Fountain of Hope",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALLM",
+            "x": 263,
+            "y": 675,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Main Entrance",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALLM",
+            "x": 43,
+            "y": 490,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ascension Hall",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALLM",
+            "x": 1103,
+            "y": 490,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Imperial Palace",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALLM",
+            "x": 817,
+            "y": 490,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Imperial Villa",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALLM",
+            "x": 1490,
+            "y": 264,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Whitewing Palace",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALLM",
+            "x": 1274,
+            "y": 684,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

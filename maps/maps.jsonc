@@ -313,12 +313,6 @@
     "img": "images/maps/Alcamoth.png"
   },
   {
-    "name": "ALUM",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/Alcamoth.png"
-  },
-  {
     "name": "ALQ",
     "location_size": 48,
     "location_border_thickness": 4,
