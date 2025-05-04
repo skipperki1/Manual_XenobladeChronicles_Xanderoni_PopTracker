@@ -2902,5 +2902,506 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Alcamoth",
+    "children":[
+      {
+        "name": "Main Entrance",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Alcamoth Landmarks/Main Entrance/Landmark"
+          },
+          {
+            "name": "Getting a Member's Card (MISSABLE)",
+            "ref": "Alcamoth Quests/Main Entrance (Surprise)/Getting a Member's Card (MISSABLE)"
+          },
+          {
+            "name": "Vidian Rescue Operation (MISSABLE)",
+            "ref": "Alcamoth Quests/Main Entrance (Surprise)/Vidian Rescue Operation (MISSABLE)"
+          },
+          {
+            "name": "Baroba",
+            "ref": "Alcamoth NPCs/Baroba/Baroba"
+          },
+          {
+            "name": "Lunara",
+            "ref": "Alcamoth NPCs/Lunara & Yura/Lunara"
+          },
+          {
+            "name": "Yura",
+            "ref": "Alcamoth NPCs/Lunara & Yura/Yura"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 43,
+            "y": 490,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Fountain of Eternity",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Alcamoth Landmarks/Fountain of Eternity/Landmark"
+          },
+          {
+            "name": "Don Argentis",
+            "ref": "Alcamoth NPCs/Don Argentis/Don Argentis"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 263,
+            "y": 304,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Imperial Villa",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Alcamoth Landmarks/Imperial Villa/Landmark"
+          },
+          {
+            "name": "Melia's Imperial Villa",
+            "ref": "Alcamoth H2H/Melia's Imperial Villa/Melia & Seven"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 1490,
+            "y": 264,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ascension Hall",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Alcamoth Landmarks/Ascension Hall/Landmark"
+          },
+          {
+            "name": "Donnis",
+            "ref": "Alcamoth NPCs/Ascension Hall/Donnis"
+          },
+          {
+            "name": "Kaelin",
+            "ref": "Alcamoth NPCs/Ascension Hall/Kaelin"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 1103,
+            "y": 490,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Arielle",
+        "sections": [
+          {
+            "name": "Arielle",
+            "ref": "Alcamoth NPCs/Arielle/Arielle"
+          },
+          {
+            "name": "Building Bridges (MISSABLE)",
+            "ref": "Alcamoth Quests/Building Bridges/Building Bridges (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 186,
+            "y": 306,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kurralth, Ricoth, Rozeal, & Zain",
+        "sections": [
+          {
+            "name": "Kurralth",
+            "ref": "Alcamoth NPCs/Kurralth, Ricoth, Rozeal, & Zain/Kurralth"
+          },
+          {
+            "name": "Ricoth",
+            "ref": "Alcamoth NPCs/Kurralth, Ricoth, Rozeal, & Zain/Ricoth"
+          },
+          {
+            "name": "Rozeal",
+            "ref": "Alcamoth NPCs/Kurralth, Ricoth, Rozeal, & Zain/Rozeal"
+          },
+          {
+            "name": "Zain",
+            "ref": "Alcamoth NPCs/Kurralth, Ricoth, Rozeal, & Zain/Zain"
+          },
+          {
+            "name": "Preparing for Adventure (MISSABLE)",
+            "ref": "Alcamoth Quests/Kurralth & Zain/Preparing for Adventure (MISSABLE)"
+          },
+          {
+            "name": "Preparing for Adventure 2 (MISSABLE)",
+            "ref": "Alcamoth Quests/Kurralth & Zain/Preparing for Adventure 2 (MISSABLE)"
+          },
+          {
+            "name": "Preparing for Adventure 3 (MISSABLE)",
+            "ref": "Alcamoth Quests/Kurralth & Zain/Preparing for Adventure 3 (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 318,
+            "y": 222,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Elior",
+        "sections": [
+          {
+            "name": "Elior",
+            "ref": "Alcamoth NPCs/Elior/Elior"
+          },
+          {
+            "name": "Starlight Seeker",
+            "ref": "Alcamoth Quests/Elior/Starlight Seeker (MISSABLE)"
+          },
+          {
+            "name": "Starlight Gazer",
+            "ref": "Alcamoth Quests/Elior/Starlight Gazer (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 430,
+            "y": 210,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Popipo",
+        "sections": [
+          {
+            "name": "Popipo",
+            "ref": "Alcamoth NPCs/Popipo/Popipo"
+          },
+          {
+            "name": "Going Out to Play (MISSABLE)",
+            "ref": "Alcamoth Quests/Going Out to Play/Going Out to Play (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 113,
+            "y": 454,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Jer'ell & Scarlen",
+        "sections": [
+          {
+            "name": "Jer'ell",
+            "ref": "Alcamoth NPCs/Jer'ell & Scarlen/Jer'ell"
+          },
+          {
+            "name": "Scarlen",
+            "ref": "Alcamoth NPCs/Jer'ell & Scarlen/Scarlen"
+          },
+          {
+            "name": "How Do They Feel? (MISSABLE)",
+            "ref": "Alcamoth Quests/Scarlen/How Do They Feel? (MISSABLE)"
+          },
+          {
+            "name": "How Do I Feel? (MISSABLE)",
+            "ref": "Alcamoth Quests/Scarlen/How Do I Feel? (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 184,
+            "y": 487,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nelo",
+        "sections": [
+          {
+            "name": "Nelo",
+            "ref": "Alcamoth NPCs/Nelo/Nelo"
+          },
+          {
+            "name": "Losing the Taste for Alcohol (MISSABLE)",
+            "ref": "Alcamoth Quests/Losing the Taste for Alcohol/Losing the Taste for Alcohol (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 319,
+            "y": 752,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Vol'aren",
+        "sections": [
+          {
+            "name": "Vol'aren",
+            "ref": "Alcamoth NPCs/Vol'aren/Vol'aren"
+          },
+          {
+            "name": "Looking for a Lost Son (MISSABLE)",
+            "ref": "Alcamoth Quests/Vol'aren/Looking for a Lost Son (MISSABLE)"
+          },
+          {
+            "name": "Looking for a Lost Daughter (MISSABLE)",
+            "ref": "Alcamoth Quests/Vol'aren/Looking for a Lost Daughter (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 405,
+            "y": 674,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Merisa",
+        "sections": [
+          {
+            "name": "Merisa",
+            "ref": "Alcamoth NPCs/Merisa/Merisa"
+          },
+          {
+            "name": "Bring Back My Son! (MISSABLE)",
+            "ref": "Alcamoth Quests/Bring Back My Son!/Bring Back My Son! (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 844,
+            "y": 196,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Naroth",
+        "sections": [
+          {
+            "name": "Naroth",
+            "ref": "Alcamoth NPCs/Naroth/Naroth"
+          },
+          {
+            "name": "A Necessary Upgrade (MISSABLE)",
+            "ref": "Alcamoth Quests/A Necessary Upgrade/A Necessary Upgrade (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 766,
+            "y": 415,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Teelan",
+        "sections": [
+          {
+            "name": "Teelan",
+            "ref": "Alcamoth NPCs/Teelan/Teelan"
+          },
+          {
+            "name": "Looking for Gold Bugs (MISSABLE)",
+            "ref": "Alcamoth Quests/Looking for Gold Bugs/Looking for Gold Bugs (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 697,
+            "y": 522,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Mir'leiz",
+        "sections": [
+          {
+            "name": "Mir'leiz",
+            "ref": "Alcamoth NPCs/Mir'leiz/Mir'leiz"
+          },
+          {
+            "name": "Teaching Materials (MISSABLE)",
+            "ref": "Alcamoth Quests/Mir'leiz/Teaching Materials (MISSABLE)"
+          },
+          {
+            "name": "Brave Actions (MISSABLE)",
+            "ref": "Alcamoth Quests/Mir'leiz/Brave Actions (MISSABLE)"
+          },
+          {
+            "name": "Protect the Capital! (MISSABLE)",
+            "ref": "Alcamoth Quests/Mir'leiz/Protect the Capital! (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 752,
+            "y": 616,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ruthan",
+        "sections": [
+          {
+            "name": "Ruthan",
+            "ref": "Alcamoth NPCs/Ruthan/Ruthan"
+          },
+          {
+            "name": "The Deciphering Machine (MISSABLE)",
+            "ref": "Alcamoth Quests/The Deciphering Machine/The Deciphering Machine (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 837,
+            "y": 648,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Vidian",
+        "sections": [
+          {
+            "name": "Vidian",
+            "ref": "Alcamoth NPCs/Vidian/Vidian"
+          },
+          {
+            "name": "Believing Again (MISSABLE)",
+            "ref": "Alcamoth Quests/Believing Again/Believing Again (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 715,
+            "y": 806,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Great Hall Guards",
+        "sections": [
+          {
+            "name": "Galdo",
+            "ref": "Alcamoth NPCs/Great Hall Guards/Galdo"
+          },
+          {
+            "name": "Galvin",
+            "ref": "Alcamoth NPCs/Great Hall Guards/Galvin"
+          },
+          {
+            "name": "Lar'shen",
+            "ref": "Alcamoth NPCs/Great Hall Guards/Lar'shen"
+          },
+          {
+            "name": "Lecrough",
+            "ref": "Alcamoth NPCs/Great Hall Guards/Lecrough"
+          },
+          {
+            "name": "A Friend in Need (MISSABLE)",
+            "ref": "Alcamoth Quests/Great Hall Guards/A Friend in Need (MISSABLE)"
+          },
+          {
+            "name": "Back Pain (MISSABLE)",
+            "ref": "Alcamoth Quests/Great Hall Guards/Back Pain (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 997,
+            "y": 486,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:10"],
+        "sections": [
+          {
+            "name": "Fruit Completion",
+            "access_rules": ["ALFruit"],
+            "chest_unopened_img": "images/items/Fruit.png",
+            "chest_opened_img": "images/items/FruitDone.png"
+          },
+          {
+            "name": "Flower Completion",
+            "access_rules": ["ALFlower"],
+            "chest_unopened_img": "images/items/Flower.png",
+            "chest_opened_img": "images/items/FlowerDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["ALStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["ALFruit,ALFlower,ALStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALFull",
+            "x": 1269,
+            "y": 151,
+            "size": 24
+          }
+        ]
+      }
+    ]
   }
 ]

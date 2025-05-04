@@ -893,5 +893,157 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Alcamoth H2H",
+    "chest_unopened_img": "images/mapicons/HeartToHeart.png",
+    "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
+    "access_rules": ["AreaKeys:10"],
+    "children": [
+      {
+        "name": "The Forefathers",
+        "sections": [
+        {
+          "name": "Riki & Seven",
+          "access_rules": [
+          "RikiAffinity2,SevenAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "ALH2H",
+            "x": 907,
+            "y": 449,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 907,
+            "y": 449,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "So Close, Yet So Far",
+        "sections": [
+        {
+          "name": "Shulk & Melia",
+          "access_rules": [
+          "ShulkAffinity4,MeliaAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "ALH2H",
+            "x": 1506,
+            "y": 486,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 1506,
+            "y": 486,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Melia's Imperial Villa",
+        "sections": [
+        {
+          "name": "Melia & Seven",
+          "access_rules": [
+          "MeliaAffinity2,SevenAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "ALH2H",
+            "x": 1475,
+            "y": 268,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Brother and Sister",
+        "sections": [
+        {
+          "name": "Dunban & Seven",
+          "access_rules": [
+          "DunbanAffinity2,SevenAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "ALH2H",
+            "x": 415,
+            "y": 763,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 415,
+            "y": 763,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ancient Astrology",
+        "sections": [
+        {
+          "name": "Sharla & Melia",
+          "access_rules": [
+          "SharlaAffinity4,MeliaAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "ALH2H",
+            "x": 532,
+            "y": 486,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 532,
+            "y": 486,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "A Breathtaking Sight",
+        "sections": [
+        {
+          "name": "Reyn & Melia",
+          "access_rules": [
+          "ReynAffinity5,MeliaAffinity5"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "ALH2H",
+            "x": 1398,
+            "y": 497,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 1398,
+            "y": 497,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

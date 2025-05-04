@@ -1943,15 +1943,6 @@
                   }
                 },
                 {
-                 "title": "Unique Monsters & Bosses",
-                  "content": {
-                   "type": "map",
-                   "maps": [
-                     "ALUM"
-                   ]
-                  }
-                },
-                {
                   "title": "Quests",
                   "content": {
                     "type": "map",

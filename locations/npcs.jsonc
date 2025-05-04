@@ -1179,5 +1179,611 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Alcamoth NPCs",
+    "chest_unopened_img": "images/npcs/MetNPC.png",
+    "access_rules": ["AreaKeys:10"],
+    "children": [
+      {
+        "name": "Arielle",
+        "sections": [
+          {
+            "name": "Arielle",
+            "chest_opened_img": "images/npcs/Arielle.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 186,
+            "y": 306,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kiddos",
+        "sections": [
+          {
+            "name": "Atael",
+            "chest_opened_img": "images/npcs/Atael.png"
+          },
+          {
+            "name": "Cian",
+            "chest_opened_img": "images/npcs/Cian.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 305,
+            "y": 730,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 305,
+            "y": 730,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Baroba",
+        "sections": [
+          {
+            "name": "Baroba",
+            "chest_opened_img": "images/npcs/Baroba.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 93,
+            "y": 473,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Caul",
+        "sections": [
+          {
+            "name": "Caul",
+            "chest_opened_img": "images/npcs/Caul.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 810,
+            "y": 317,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 810,
+            "y": 317,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Don Argentis",
+        "sections": [
+          {
+            "name": "Don Argentis",
+            "chest_opened_img": "images/npcs/Don Argentis.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 263,
+            "y": 304,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ascension Hall",
+        "sections": [
+          {
+            "name": "Donnis",
+            "chest_opened_img": "images/npcs/Donnis.png"
+          },
+          {
+            "name": "Kaelin",
+            "chest_opened_img": "images/npcs/Kaelin.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 1103,
+            "y": 490,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Elior",
+        "sections": [
+          {
+            "name": "Elior",
+            "chest_opened_img": "images/npcs/Elior.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 430,
+            "y": 210,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "En Argentis",
+        "sections": [
+          {
+            "name": "En Argentis",
+            "chest_opened_img": "images/npcs/En Argentis.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 268,
+            "y": 753,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 268,
+            "y": 753,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Great Hall Guards",
+        "sections": [
+          {
+            "name": "Galdo",
+            "chest_opened_img": "images/npcs/Galdo.png"
+          },
+          {
+            "name": "Galvin",
+            "chest_opened_img": "images/npcs/Galvin.png"
+          },
+          {
+            "name": "Lar'shen",
+            "chest_opened_img": "images/npcs/Lar'shen.png"
+          },
+          {
+            "name": "Lecrough",
+            "chest_opened_img": "images/npcs/Lecrough.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 997,
+            "y": 486,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Jer'ell & Scarlen",
+        "sections": [
+          {
+            "name": "Jer'ell",
+            "chest_opened_img": "images/npcs/Jer'ell.png"
+          },
+          {
+            "name": "Scarlen",
+            "chest_opened_img": "images/npcs/Scarlen.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 184,
+            "y": 487,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kaleka",
+        "sections": [
+          {
+            "name": "Kaleka",
+            "chest_opened_img": "images/npcs/Kaleka.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 811,
+            "y": 414,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 811,
+            "y": 414,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kurralth, Ricoth, Rozeal, & Zain",
+        "sections": [
+          {
+            "name": "Kurralth",
+            "chest_opened_img": "images/npcs/Kurralth.png"
+          },
+          {
+            "name": "Ricoth",
+            "chest_opened_img": "images/npcs/Ricoth.png"
+          },
+          {
+            "name": "Rozeal",
+            "chest_opened_img": "images/npcs/Rozeal.png"
+          },
+          {
+            "name": "Zain",
+            "chest_opened_img": "images/npcs/Zain.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 318,
+            "y": 222,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Lesunia",
+        "sections": [
+          {
+            "name": "Lesunia",
+            "chest_opened_img": "images/npcs/Lesunia.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 742,
+            "y": 591,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 742,
+            "y": 591,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Lunara & Yura",
+        "sections": [
+          {
+            "name": "Lunara",
+            "chest_opened_img": "images/npcs/Lunara.png"
+          },
+          {
+            "name": "Yura",
+            "chest_opened_img": "images/npcs/Yura.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 130,
+            "y": 487,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ma'crish",
+        "sections": [
+          {
+            "name": "Ma'crish",
+            "chest_opened_img": "images/npcs/Ma'crish.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 764,
+            "y": 452,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 764,
+            "y": 452,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Merisa",
+        "sections": [
+          {
+            "name": "Merisa",
+            "chest_opened_img": "images/npcs/Merisa.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 844,
+            "y": 196,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Miriall",
+        "sections": [
+          {
+            "name": "Miriall",
+            "chest_opened_img": "images/npcs/Miriall.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 799,
+            "y": 547,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 799,
+            "y": 547,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Mir'leiz",
+        "sections": [
+          {
+            "name": "Mir'leiz",
+            "chest_opened_img": "images/npcs/Mir'leiz.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 752,
+            "y": 616,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Naroth",
+        "sections": [
+          {
+            "name": "Naroth",
+            "chest_opened_img": "images/npcs/Naroth.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 766,
+            "y": 415,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nelo",
+        "sections": [
+          {
+            "name": "Nelo",
+            "chest_opened_img": "images/npcs/Nelo.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 319,
+            "y": 752,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Piko",
+        "sections": [
+          {
+            "name": "Piko",
+            "chest_opened_img": "images/npcs/Piko.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 416,
+            "y": 182,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 416,
+            "y": 182,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Popipo",
+        "sections": [
+          {
+            "name": "Popipo",
+            "chest_opened_img": "images/npcs/Popipo.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 113,
+            "y": 454,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ruthan",
+        "sections": [
+          {
+            "name": "Ruthan",
+            "chest_opened_img": "images/npcs/Ruthan.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 837,
+            "y": 648,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Talia",
+        "sections": [
+          {
+            "name": "Talia",
+            "chest_opened_img": "images/npcs/Talia.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 789,
+            "y": 513,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 789,
+            "y": 513,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Talonyth",
+        "sections": [
+          {
+            "name": "Talonyth",
+            "chest_opened_img": "images/npcs/Talonyth.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 156,
+            "y": 588,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 156,
+            "y": 588,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Teelan",
+        "sections": [
+          {
+            "name": "Teelan",
+            "chest_opened_img": "images/npcs/Teelan.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 697,
+            "y": 522,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Vidian",
+        "sections": [
+          {
+            "name": "Vidian",
+            "chest_opened_img": "images/npcs/Vidian.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 715,
+            "y": 806,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Vol'aren",
+        "sections": [
+          {
+            "name": "Vol'aren",
+            "chest_opened_img": "images/npcs/Vol'aren.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 405,
+            "y": 674,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Zel Argentis",
+        "sections": [
+          {
+            "name": "Zel Argentis",
+            "chest_opened_img": "images/npcs/Zel Argentis.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALNPC",
+            "x": 306,
+            "y": 774,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 306,
+            "y": 774,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

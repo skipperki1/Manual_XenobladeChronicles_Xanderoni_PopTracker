@@ -1703,5 +1703,410 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Alcamoth Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "access_rules": ["AreaKeys:10"],
+    "children": [
+      {
+        "name": "The Deciphering Machine",
+        "sections": [
+          {
+            "name": "The Deciphering Machine (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 837,
+            "y": 648,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "A Necessary Upgrade",
+        "sections": [
+          {
+            "name": "A Necessary Upgrade (MISSABLE)",
+            "access_rules": ["AreaKeys:11"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 766,
+            "y": 415,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bring Back My Son!",
+        "sections": [
+          {
+            "name": "Bring Back My Son! (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 844,
+            "y": 196,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Mir'leiz",
+        "sections": [
+          {
+            "name": "Teaching Materials (MISSABLE)"
+          },
+          {
+            "name": "Brave Actions (MISSABLE)"
+          },
+          {
+            "name": "Protect the Capital! (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 752,
+            "y": 616,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Scarlen",
+        "sections": [
+          {
+            "name": "How Do They Feel? (MISSABLE)"
+          },
+          {
+            "name": "How Do I Feel? (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 184,
+            "y": 487,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Great Hall Guards",
+        "sections": [
+          {
+            "name": "A Friend in Need (MISSABLE)"
+          },
+          {
+            "name": "Back Pain (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 997,
+            "y": 486,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kurralth & Zain",
+        "sections": [
+          {
+            "name": "Preparing for Adventure (MISSABLE)"
+          },
+          {
+            "name": "Preparing for Adventure 2 (MISSABLE)"
+          },
+          {
+            "name": "Preparing for Adventure 3 (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 318,
+            "y": 222,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Building Bridges",
+        "sections": [
+          {
+            "name": "Building Bridges (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 186,
+            "y": 306,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Believing Again",
+        "sections": [
+          {
+            "name": "Believing Again (MISSABLE)",
+            "access_rules": ["AreaKeys:12"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 715,
+            "y": 806,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Elior",
+        "sections": [
+          {
+            "name": "Starlight Seeker (MISSABLE)"
+          },
+          {
+            "name": "Starlight Gazer (MISSABLE)",
+            "access_rules": ["AreaKeys:11"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 430,
+            "y": 210,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Looking for Gold Bugs",
+        "sections": [
+          {
+            "name": "Looking for Gold Bugs (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 697,
+            "y": 522,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Losing the Taste for Alcohol",
+        "sections": [
+          {
+            "name": "Losing the Taste for Alcohol (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 319,
+            "y": 752,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Vol'aren",
+        "sections": [
+          {
+            "name": "Looking for a Lost Son (MISSABLE)"
+          },
+          {
+            "name": "Looking for a Lost Daughter (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 405,
+            "y": 674,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Going Out to Play",
+        "sections": [
+          {
+            "name": "Going Out to Play (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 113,
+            "y": 454,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Main Entrance (Surprise)",
+        "sections": [
+          {
+            "name": "Getting a Member's Card (MISSABLE)"
+          },
+          {
+            "name": "Vidian Rescue Operation (MISSABLE)",
+            "access_rules": ["AreaKeys:20"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 43,
+            "y": 490,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Generic Quests 1 (ALL MISSABLE)",
+        "sections": [
+          {
+            "name": "Monster Quest 1 - Part 1"
+          },
+          {
+            "name": "Monster Quest 1 - Part 2"
+          },
+          {
+            "name": "Monster Quest 1 - Part 3"
+          },
+          {
+            "name": "Monster Quest 2 - Part 1"
+          },
+          {
+            "name": "Monster Quest 2 - Part 2"
+          },
+          {
+            "name": "Monster Quest 2 - Part 3"
+          },
+          {
+            "name": "Monster Quest 3 - Part 1"
+          },
+          {
+            "name": "Monster Quest 3 - Part 2"
+          },
+          {
+            "name": "Monster Quest 3 - Part 3"
+          },
+          {
+            "name": "Monster Quest 4 - Part 1"
+          },
+          {
+            "name": "Monster Quest 4 - Part 2"
+          },
+          {
+            "name": "Monster Quest 4 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 1221,
+            "y": 319,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 1221,
+            "y": 319,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Generic Quests 2 (ALL MISSABLE)",
+        "sections": [
+          {
+            "name": "Challenge 1",
+            "access_rules": ["ESHunt"]
+          },
+          {
+            "name": "Challenge 2",
+            "access_rules": ["ESHunt"]
+          },
+          {
+            "name": "Challenge 3",
+            "access_rules": ["ESHunt"]
+          },
+          {
+            "name": "Challenge 4",
+            "access_rules": ["ESHunt"]
+          },
+          {
+            "name": "Material Quest 1"
+          },
+          {
+            "name": "Material Quest 2"
+          },
+          {
+            "name": "Material Quest 3"
+          },
+          {
+            "name": "Material Quest 4"
+          },
+          {
+            "name": "Collection Quest 1"
+          },
+          {
+            "name": "Collection Quest 2"
+          },
+          {
+            "name": "Collection Quest 3"
+          },
+          {
+            "name": "Collection Quest 4"
+          },
+          {
+            "name": "Search Quest 1"
+          },
+          {
+            "name": "Search Quest 2"
+          },
+          {
+            "name": "Search Quest 3"
+          },
+          {
+            "name": "Search Quest 4"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALQ",
+            "x": 1337,
+            "y": 319,
+            "size": 16
+          },
+          {
+            "map": "ALFull",
+            "x": 1337,
+            "y": 319,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]
