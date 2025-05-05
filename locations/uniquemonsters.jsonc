@@ -2091,5 +2091,29 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Prison Island 1 Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "access_rules": ["AreaKeys:12"],
+    "children": [
+      {
+        "name": "Metal Face",
+        "sections": [
+          {
+            "name": "Boss: Metal Face"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIFull",
+            "x": 453,
+            "y": 712,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

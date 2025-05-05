@@ -649,36 +649,6 @@
     "img": "images/maps/PrisonIsland.png"
   },
   {
-    "name": "PILM",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/PrisonIsland.png"
-  },
-  {
-    "name": "PIUM",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/PrisonIsland.png"
-  },
-  {
-    "name": "PIQ",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/PrisonIsland.png"
-  },
-  {
-    "name": "PINPC",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/PrisonIsland.png"
-  },
-  {
-    "name": "PIH2H",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/PrisonIsland.png"
-  },
-  {
     "name": "PIFull2",
     "location_size": 48,
     "location_border_thickness": 4,

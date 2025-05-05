@@ -2029,52 +2029,7 @@
                       "PIFull"
                     ]
                   }
-                },
-                {
-                  "title": "Landmarks",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "PILM"
-                    ]
-                  }
-                },
-                {
-                 "title": "Unique Monsters & Bosses",
-                  "content": {
-                   "type": "map",
-                   "maps": [
-                     "PIUM"
-                   ]
-                  }
-                },
-                {
-                  "title": "Quests",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "PIQ"
-                    ]
-                 }
-                },
-                {
-                  "title": "NPC's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "PINPC"
-                     ]
-                    }
-                },
-                  {
-                  "title": "Heart-to-Heart's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "PIH2H"
-                      ]
-                    }
-                  }
+                }
                 ]
               }
             },

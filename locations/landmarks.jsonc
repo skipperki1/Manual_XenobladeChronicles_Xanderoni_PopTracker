@@ -2068,5 +2068,64 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Prison Island 1 Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:12"],
+    "children": [
+      {
+        "name": "High Entia Transporter",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIFull",
+            "x": 870,
+            "y": 159,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Prison Gate",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIFull",
+            "x": 543,
+            "y": 462,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Prison Terrace",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIFull",
+            "x": 511,
+            "y": 712,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -827,4 +827,8 @@ sectionIDToAPID =
     ["High Entia Tomb/Collectopaedia/Bug Completion"] = 465,
     ["High Entia Tomb/Collectopaedia/Parts Completion"] = 466,
     ["High Entia Tomb/Collectopaedia/Strange Completion"] = 467,
+    ["Prison Island 1 Landmarks/High Entia Transporter/Landmark"] = 468,
+	["Prison Island 1 Landmarks/Prison Gate/Landmark"] = 469,
+	["Prison Island 1 Landmarks/Prison Terrace/Landmark"] = 470,
+	["Prison Island 1 Bosses/Metal Face/Boss: Metal Face"] =  471,
 }
