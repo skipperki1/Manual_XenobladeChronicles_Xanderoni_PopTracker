@@ -2127,5 +2127,230 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Valak Mountain Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:13"],
+    "children": [
+      {
+        "name": "Zokhed Pass",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 442,
+            "y": 516,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Mechonis Wound",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 265,
+            "y": 488,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 265,
+            "y": 488,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hollow Bone",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 148,
+            "y": 279,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Befalgar Pedestal",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 415,
+            "y": 546,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 415,
+            "y": 546,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Three Sage Summit",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 113,
+            "y": 170,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nopon Camp",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 776,
+            "y": 666,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Harict Chapel",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 524,
+            "y": 676,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Lava Cave",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 694,
+            "y": 544,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "La Luz Church",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 543,
+            "y": 884,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 543,
+            "y": 884,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nofol Tower",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 297,
+            "y": 819,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 297,
+            "y": 819,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bionis' Wrist",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 81,
+            "y": 775,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 81,
+            "y": 775,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

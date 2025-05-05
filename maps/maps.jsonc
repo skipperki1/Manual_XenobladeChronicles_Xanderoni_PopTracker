@@ -379,12 +379,6 @@
     "img": "images/maps/ValakMountain.png"
   },
   {
-    "name": "VMNPC",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/ValakMountain.png"
-  },
-  {
     "name": "VMH2H",
     "location_size": 48,
     "location_border_thickness": 4,

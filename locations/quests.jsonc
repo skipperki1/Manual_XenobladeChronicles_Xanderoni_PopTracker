@@ -2108,5 +2108,125 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Valak Mountain Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "access_rules": ["AreaKeys:13"],
+    "children": [
+      {
+        "name": "Zokhed Pass",
+        "sections": [
+          {
+            "name": "Monster Quest 1"
+          },
+          {
+            "name": "Monster Quest 2"
+          },
+          {
+            "name": "Monster Quest 3"
+          },
+          {
+            "name": "Monster Quest 4"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMQ",
+            "x": 442,
+            "y": 516,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nopon Camp",
+        "sections": [
+          {
+            "name": "Chilkins and Antols"
+          },
+          {
+            "name": "Valak Mountain Research"
+          },
+          {
+            "name": "Chilkin Changes"
+          },
+          {
+            "name": "The Balance of Power"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMQ",
+            "x": 776,
+            "y": 666,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "The Freezing Nopon",
+        "sections": [
+          {
+            "name": "The Freezing Nopon"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMQ",
+            "x": 148,
+            "y": 279,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Harict Chapel",
+        "sections": [
+          {
+            "name": "The Magma Rock (Story)"
+          },
+          {
+            "name": "The Final Giants' Ruins",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "The Giants' Treasures",
+            "access_rules": ["AreaKeys:20"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMQ",
+            "x": 524,
+            "y": 676,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bad Timing",
+        "sections": [
+          {
+            "name": "Bad Timing"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMQ",
+            "x": 255,
+            "y": 698,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 255,
+            "y": 698,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

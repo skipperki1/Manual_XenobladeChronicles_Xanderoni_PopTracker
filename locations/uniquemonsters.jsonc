@@ -1200,7 +1200,7 @@
         ]
       },
       {
-        "name": "UM: Despotic Arsene (Superboss)",
+        "name": "Superboss: Despotic Arsene",
         "sections": [
           {
             "name": "Lv.108"
@@ -2110,6 +2110,271 @@
             "map": "PIFull",
             "x": 453,
             "y": 712,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Valak Mountain Unique Monsters",
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "access_rules": ["VMHunt,AreaKeys:13"],
+    "children": [
+      {
+        "name": "UM: Agile Barbatos",
+        "sections": [
+          {
+            "name": "Lv.47 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMUM",
+            "x": 387,
+            "y": 656,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 387,
+            "y": 656,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Superboss: Avalanche Abaasy",
+        "sections": [
+          {
+            "name": "Lv.120 (Night, Blizzard)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMUM",
+            "x": 100,
+            "y": 170,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Antol Den",
+        "sections": [
+          {
+            "name": "UM: Barbaric Sitri (Lv.47)"
+          },
+          {
+            "name": "UM: Banquet Vassago (Lv.48)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMUM",
+            "x": 796,
+            "y": 668,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Superboss: Blizzard Belgazas",
+        "sections": [
+          {
+            "name": "Lv.114"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMUM",
+            "x": 161,
+            "y": 774,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 161,
+            "y": 774,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Lava Cave",
+        "sections": [
+          {
+            "name": "UM: Conflagrant Raxeal (Lv.45)"
+          },
+          {
+            "name": "UM: Moonlight Paimon (Lv.46)"
+          },
+          {
+            "name": "UM: Exposure Wolfol (Lv.97)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMUM",
+            "x": 757,
+            "y": 490,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Superboss: Final Marcus",
+        "sections": [
+          {
+            "name": "Lv.100 (Night, Not Blizzard)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMUM",
+            "x": 125,
+            "y": 170,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Glorious Buer",
+        "sections": [
+          {
+            "name": "Lv.45"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMUM",
+            "x": 505,
+            "y": 784,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 505,
+            "y": 784,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Hidden Gamigin",
+        "sections": [
+          {
+            "name": "Lv.49 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMUM",
+            "x": 430,
+            "y": 741,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 430,
+            "y": 741,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: North Star Gusion",
+        "sections": [
+          {
+            "name": "Lv.50 (Night, Not Clear)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMUM",
+            "x": 72,
+            "y": 298,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 72,
+            "y": 298,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Vague Barbas",
+        "sections": [
+          {
+            "name": "Lv.46"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMUM",
+            "x": 337,
+            "y": 593,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 337,
+            "y": 593,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Wandering Amon",
+        "sections": [
+          {
+            "name": "Lv.98 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMUM",
+            "x": 243,
+            "y": 158,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 243,
+            "y": 158,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Valak Mountain Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "access_rules": ["AreaKeys:13"],
+    "children": [
+      {
+        "name": "Mumkhar",
+        "sections": [
+          {
+            "name": "Boss: Mumkhar"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMUM",
+            "x": 186,
+            "y": 752,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 186,
+            "y": 752,
             "size": 16
           }
         ]

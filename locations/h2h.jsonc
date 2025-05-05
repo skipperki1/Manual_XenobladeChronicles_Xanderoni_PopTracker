@@ -1103,5 +1103,82 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Valak Mountain H2H",
+    "chest_unopened_img": "images/mapicons/HeartToHeart.png",
+    "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
+    "access_rules": ["AreaKeys:13"],
+    "children": [
+      {
+        "name": "A Snowy Hot Spring",
+        "sections": [
+        {
+          "name": "Shulk & Riki",
+          "access_rules": [
+          "ShulkAffinity4,RikiAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "VMH2H",
+            "x": 656,
+            "y": 641,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 656,
+            "y": 641,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "First Sight of Snow",
+        "sections": [
+        {
+          "name": "Reyn & Seven",
+          "access_rules": [
+          "ReynAffinity4,SevenAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "VMH2H",
+            "x": 472,
+            "y": 822,
+            "size": 16
+          },
+          {
+            "map": "VMFull",
+            "x": 472,
+            "y": 822,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "In Ose Tower",
+        "sections": [
+        {
+          "name": "Dunban & Riki",
+          "access_rules": [
+          "DunbanAffinity2,RikiAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "VMH2H",
+            "x": 524,
+            "y": 676,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

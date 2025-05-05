@@ -3467,5 +3467,254 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Valak Mountain",
+    "access_rules": ["AreaKeys:13"],
+    "children":[
+      {
+        "name": "Nopon Camp & Antol Den",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Valak Mountain Landmarks/Nopon Camp/Landmark"
+          },
+          {
+            "name": "Dakuku",
+            "chest_unopened_img": "images/npcs/MetNPC.png",
+            "chest_opened_img": "images/npcs/Dakuku.png"
+          },
+          {
+            "name": "UM: Barbaric Sitri (Lv.47)",
+            "ref": "Valak Mountain Unique Monsters/Antol Den/UM: Barbaric Sitri (Lv.47)"
+          },
+          {
+            "name": "UM: Banquet Vassago (Lv.48)",
+            "ref": "Valak Mountain Unique Monsters/Antol Den/UM: Banquet Vassago (Lv.48)"
+          },
+          {
+            "name": "Chilkins and Antols",
+            "ref": "Valak Mountain Quests/Nopon Camp/Chilkins and Antols"
+          },
+          {
+            "name": "Valak Mountain Research",
+            "ref": "Valak Mountain Quests/Nopon Camp/Valak Mountain Research"
+          },
+          {
+            "name": "Chilkin Changes",
+            "ref": "Valak Mountain Quests/Nopon Camp/Chilkin Changes"
+          },
+          {
+            "name": "The Balance of Power",
+            "ref": "Valak Mountain Quests/Nopon Camp/The Balance of Power"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMFull",
+            "x": 776,
+            "y": 666,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Harict Chapel",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Valak Mountain Landmarks/Harict Chapel/Landmark"
+          },
+          {
+            "name": "The Magma Rock (Story)",
+            "ref": "Valak Mountain Quests/Harict Chapel/The Magma Rock (Story)"
+          },
+          {
+            "name": "The Final Giants' Ruins",
+            "ref": "Valak Mountain Quests/Harict Chapel/The Final Giants' Ruins"
+          },
+          {
+            "name": "The Giants' Treasures",
+            "ref": "Valak Mountain Quests/Harict Chapel/The Giants' Treasures"
+          },
+          {
+            "name": "In Ose Tower",
+            "ref": "Valak Mountain H2H/In Ose Tower/Dunban & Riki"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMFull",
+            "x": 524,
+            "y": 676,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Lava Cave",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Valak Mountain Landmarks/Lava Cave/Landmark"
+          },
+          {
+            "name": "UM: Conflagrant Raxeal (Lv.45)",
+            "ref": "Valak Mountain Unique Monsters/Lava Cave/UM: Conflagrant Raxeal (Lv.45)"
+          },
+          {
+            "name": "UM: Moonlight Paimon (Lv.46)",
+            "ref": "Valak Mountain Unique Monsters/Lava Cave/UM: Moonlight Paimon (Lv.46)"
+          },
+          {
+            "name": "UM: Exposure Wolfol (Lv.97)",
+            "ref": "Valak Mountain Unique Monsters/Lava Cave/UM: Exposure Wolfol (Lv.97)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMFull",
+            "x": 694,
+            "y": 544,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Three Sage Summit",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Valak Mountain Landmarks/Three Sage Summit/Landmark"
+          },
+          {
+            "name": "Superboss: Final Marcus (Lv.100|Night, Not Blizzard)",
+            "ref": "Valak Mountain Unique Monsters/Superboss: Final Marcus/Lv.100 (Night, Not Blizzard)"
+          },
+          {
+            "name": "Superboss: Avalanche Abaasy (Lv.120|Night, Blizzard)",
+            "ref": "Valak Mountain Unique Monsters/Superboss: Avalanche Abaasy/Lv.120 (Night, Blizzard)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMFull",
+            "x": 113,
+            "y": 170,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Zokhed Pass",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Valak Mountain Landmarks/Zokhed Pass/Landmark"
+          },
+          {
+            "name": "Monster Quest 1",
+            "ref": "Valak Mountain Quests/Zokhed Pass/Monster Quest 1"
+          },
+          {
+            "name": "Monster Quest 2",
+            "ref": "Valak Mountain Quests/Zokhed Pass/Monster Quest 2"
+          },
+          {
+            "name": "Monster Quest 3",
+            "ref": "Valak Mountain Quests/Zokhed Pass/Monster Quest 3"
+          },
+          {
+            "name": "Monster Quest 4",
+            "ref": "Valak Mountain Quests/Zokhed Pass/Monster Quest 4"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMFull",
+            "x": 442,
+            "y": 516,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hollow Bone",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Valak Mountain Landmarks/Hollow Bone/Landmark"
+          },
+          {
+            "name": "The Freezing Nopon",
+            "ref": "Valak Mountain Quests/The Freezing Nopon/The Freezing Nopon"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMFull",
+            "x": 148,
+            "y": 279,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:13"],
+        "sections": [
+          {
+            "name": "Veg Completion",
+            "access_rules": ["VMVeg"],
+            "chest_unopened_img": "images/items/Veg.png",
+            "chest_opened_img": "images/items/VegDone.png"
+          },
+          {
+            "name": "Fruit Completion",
+            "access_rules": ["VMFruit"],
+            "chest_unopened_img": "images/items/Fruit.png",
+            "chest_opened_img": "images/items/FruitDone.png"
+          },
+          {
+            "name": "Flower Completion",
+            "access_rules": ["VMFlower"],
+            "chest_unopened_img": "images/items/Flower.png",
+            "chest_opened_img": "images/items/FlowerDone.png"
+          },
+          {
+            "name": "Animal Completion",
+            "access_rules": ["VMAnimal"],
+            "chest_unopened_img": "images/items/Animal.png",
+            "chest_opened_img": "images/items/AnimalDone.png"
+          },
+          {
+            "name": "Nature Completion",
+            "access_rules": ["VMNature"],
+            "chest_unopened_img": "images/items/Nature.png",
+            "chest_opened_img": "images/items/NatureDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["VMStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["VMVeg,VMFruit,VMFlower,VMAnimal,VMNature,VMStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMFull",
+            "x": 775,
+            "y": 167,
+            "size": 24
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -2074,15 +2074,6 @@
                     ]
                  }
                 },
-                {
-                  "title": "NPC's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "VMNPC"
-                     ]
-                    }
-                },
                   {
                   "title": "Heart-to-Heart's",
                   "content": {
