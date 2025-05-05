@@ -1928,5 +1928,145 @@
         ]
       }
     ]
+  },
+  {
+    "name": "High Entia Tomb Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:11"],
+    "children": [
+      {
+        "name": "Ceremony Hall",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTLM",
+            "x": 832,
+            "y": 515,
+            "size": 16
+          },
+          {
+            "map": "HTFull",
+            "x": 832,
+            "y": 515,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sealed Chamber",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTLM",
+            "x": 198,
+            "y": 217,
+            "size": 16
+          },
+          {
+            "map": "HTFull",
+            "x": 198,
+            "y": 217,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Tomb Approach",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTLM",
+            "x": 115,
+            "y": 217,
+            "size": 16
+          },
+          {
+            "map": "HTFull",
+            "x": 115,
+            "y": 217,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Tomb Robber Pool",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTLM",
+            "x": 202,
+            "y": 515,
+            "size": 16
+          },
+          {
+            "map": "HTFull",
+            "x": 202,
+            "y": 515,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Tower of Trials - Bridge",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTLM",
+            "x": 608,
+            "y": 825,
+            "size": 16
+          },
+          {
+            "map": "HTFull",
+            "x": 608,
+            "y": 825,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Valley of Emperors",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTLM",
+            "x": 412,
+            "y": 825,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

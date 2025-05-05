@@ -3403,5 +3403,69 @@
         ]
       }
     ]
+  },
+  {
+    "name": "High Entia Tomb",
+    "children":[
+      {
+        "name": "Valley of Emperors",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "High Entia Tomb Landmarks/Valley of Emperors/Landmark"
+          },
+          {
+            "name": "Boss: Orluga Rufus",
+            "ref": "High Entia Tomb Bosses/Orluga Rufus/Boss: Orluga Rufus"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTFull",
+            "x": 412,
+            "y": 825,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:11"],
+        "sections": [
+          {
+            "name": "Bug Completion",
+            "access_rules": ["HTBug"],
+            "chest_unopened_img": "images/items/Bug.png",
+            "chest_opened_img": "images/items/BugDone.png"
+          },
+          {
+            "name": "Parts Completion",
+            "access_rules": ["HTParts"],
+            "chest_unopened_img": "images/items/Parts.png",
+            "chest_opened_img": "images/items/PartsDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["HTStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["HTBug,HTParts,HTStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTFull",
+            "x": 872,
+            "y": 620,
+            "size": 24
+          }
+        ]
+      }
+    ]
   }
 ]

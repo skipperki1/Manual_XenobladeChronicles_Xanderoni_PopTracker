@@ -1993,5 +1993,103 @@
         ]
       }
     ]
+  },
+  {
+    "name": "High Entia Tomb Unique Monsters",
+    "access_rules": ["HTHunt,AreaKeys:11"],
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "children": [
+      {
+        "name": "UM: Calm Anzabi",
+        "sections": [
+          {
+            "name": "Lv.38"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTUM",
+            "x": 519,
+            "y": 728,
+            "size": 16
+          },
+          {
+            "map": "HTFull",
+            "x": 519,
+            "y": 728,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Furious Jozan",
+        "sections": [
+          {
+            "name": "Lv.96"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTUM",
+            "x": 939,
+            "y": 212,
+            "size": 16
+          },
+          {
+            "map": "HTFull",
+            "x": 939,
+            "y": 212,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "High Entia Tomb Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "access_rules": ["AreaKeys:11"],
+    "children": [
+      {
+        "name": "Orluga Rufus",
+        "sections": [
+          {
+            "name": "Boss: Orluga Rufus"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTUM",
+            "x": 412,
+            "y": 825,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Solidum Telethia and Tyrea",
+        "sections": [
+          {
+            "name": "Boss: Solidum Telethia and Tyrea"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTUM",
+            "x": 830,
+            "y": 212,
+            "size": 16
+          },
+          {
+            "map": "HTFull",
+            "x": 830,
+            "y": 212,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

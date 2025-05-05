@@ -2005,32 +2005,14 @@
                   }
                 },
                 {
-                  "title": "Quests",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "HTQ"
-                    ]
-                 }
-                },
-                {
-                  "title": "NPC's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "HTNPC"
-                     ]
-                    }
-                },
-                  {
-                  "title": "Heart-to-Heart's",
+                 "title": "Heart-to-Heart's",
                   "content": {
                     "type": "map",
                     "maps": [
                       "HTH2H"
-                      ]
-                    }
+                   ]
                   }
+                 }
                 ]
               }
             },

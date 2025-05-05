@@ -349,18 +349,6 @@
     "img": "images/maps/HighEntiaTomb.png"
   },
   {
-    "name": "HTQ",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/HighEntiaTomb.png"
-  },
-  {
-    "name": "HTNPC",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/HighEntiaTomb.png"
-  },
-  {
     "name": "HTH2H",
     "location_size": 48,
     "location_border_thickness": 4,

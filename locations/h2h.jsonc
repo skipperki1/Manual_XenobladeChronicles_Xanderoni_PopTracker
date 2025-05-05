@@ -1045,5 +1045,63 @@
         ]
       }
     ]
+  },
+  {
+    "name": "High Entia Tomb H2H",
+    "chest_unopened_img": "images/mapicons/HeartToHeart.png",
+    "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
+    "access_rules": ["AreaKeys:11"],
+    "children": [
+      {
+        "name": "Echoes of Ancient Times",
+        "sections": [
+        {
+          "name": "Reyn & Melia",
+          "access_rules": [
+          "ReynAffinity2,MeliaAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "HTH2H",
+            "x": 416,
+            "y": 905,
+            "size": 16
+          },
+          {
+            "map": "HTFull",
+            "x": 416,
+            "y": 905,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hopes and Plans",
+        "sections": [
+        {
+          "name": "Shulk & Melia",
+          "access_rules": [
+          "AreaKeys:20,ShulkAffinity5,MeliaAffinity5"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "HTH2H",
+            "x": 658,
+            "y": 280,
+            "size": 16
+          },
+          {
+            "map": "HTFull",
+            "x": 658,
+            "y": 280,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]
