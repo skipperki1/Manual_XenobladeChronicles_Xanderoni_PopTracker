@@ -2228,5 +2228,83 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Sword Valley Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "access_rules": ["AreaKeys:14"],
+    "children": [
+      {
+        "name": "Secure Dolgan Outpost (MISSABLE)",
+        "sections": [
+          {
+            "name": "Secure Dolgan Outpost (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVQ",
+            "x": 630,
+            "y": 392,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Secure Enalda Control Base (MISSABLE)",
+        "sections": [
+          {
+            "name": "Secure Enalda Control Base (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVQ",
+            "x": 473,
+            "y": 464,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "3rd Gate Front Line (MISSABLE)",
+        "sections": [
+          {
+            "name": "3rd Gate Front Line (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVQ",
+            "x": 455,
+            "y": 279,
+            "size": 16
+          },
+          {
+            "map": "SVFull",
+            "x": 455,
+            "y": 279,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Secure the Radio Tower (MISSABLE)",
+        "sections": [
+          {
+            "name": "Secure the Radio Tower (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVQ",
+            "x": 122,
+            "y": 675,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

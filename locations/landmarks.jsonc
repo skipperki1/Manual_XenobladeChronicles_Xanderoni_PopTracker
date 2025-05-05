@@ -2352,5 +2352,213 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Sword Valley Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:14"],
+    "children": [
+      {
+        "name": "Bionis' Thumb",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 1050,
+            "y": 112,
+            "size": 16
+          },
+          {
+            "map": "SVFull",
+            "x": 1050,
+            "y": 112,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Supply Convoy",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 965,
+            "y": 234,
+            "size": 16
+          },
+          {
+            "map": "SVFull",
+            "x": 965,
+            "y": 234,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ged Fortress",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 818,
+            "y": 279,
+            "size": 16
+          },
+          {
+            "map": "SVFull",
+            "x": 818,
+            "y": 279,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Dolgan Outpost",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 630,
+            "y": 392,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Enalda Control Base",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 473,
+            "y": 464,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Heavy Machine Depot",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 287,
+            "y": 553,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Control Tower",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 244,
+            "y": 627,
+            "size": 16
+          },
+          {
+            "map": "SVFull",
+            "x": 244,
+            "y": 627,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Radio Tower",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 122,
+            "y": 675,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Fortress Rear Entrance",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 241,
+            "y": 486,
+            "size": 16
+          },
+          {
+            "map": "SVFull",
+            "x": 241,
+            "y": 486,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Monado Wound",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 302,
+            "y": 394,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

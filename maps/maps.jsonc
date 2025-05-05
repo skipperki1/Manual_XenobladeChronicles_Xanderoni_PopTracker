@@ -409,18 +409,6 @@
     "img": "images/maps/SwordValley.png"
   },
   {
-    "name": "SVNPC",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/SwordValley.png"
-  },
-  {
-    "name": "SVH2H",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/SwordValley.png"
-  },
-  {
     "name": "GFFull",
     "location_size": 48,
     "location_border_thickness": 4,

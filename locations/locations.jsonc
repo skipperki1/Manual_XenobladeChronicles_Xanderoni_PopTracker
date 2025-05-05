@@ -3716,5 +3716,178 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Sword Valley",
+    "access_rules": ["AreaKeys:14"],
+    "children":[
+      {
+        "name": "Dolgan Outpost",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Sword Valley Landmarks/Dolgan Outpost/Landmark"
+          },
+          {
+            "name": "UM: Prudent Purson (Lv.49)",
+            "ref": "Sword Valley Unique Monsters/UM: Prudent Purson/Lv.49"
+          },
+          {
+            "name": "Secure Dolgan Outpost (MISSABLE)",
+            "ref": "Sword Valley Quests/Secure Dolgan Outpost (MISSABLE)/Secure Dolgan Outpost (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVFull",
+            "x": 630,
+            "y": 392,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Enalda Control Base",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Sword Valley Landmarks/Enalda Control Base/Landmark"
+          },
+          {
+            "name": "UM: Tranquil Morax (Lv.50)",
+            "ref": "Sword Valley Unique Monsters/UM: Tranquil Morax/Lv.50"
+          },
+          {
+            "name": "Secure Enalda Control Base (MISSABLE)",
+            "ref": "Sword Valley Quests/Secure Enalda Control Base (MISSABLE)/Secure Enalda Control Base (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVFull",
+            "x": 473,
+            "y": 464,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Monado Wound",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Sword Valley Landmarks/Monado Wound/Landmark"
+          },
+          {
+            "name": "UM: Benevolent Aim (Lv.51)",
+            "ref": "Sword Valley Unique Monsters/UM: Benevolent Aim/Lv.51"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVFull",
+            "x": 302,
+            "y": 394,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Heavy Machine Depot",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Sword Valley Landmarks/Heavy Machine Depot/Landmark"
+          },
+          {
+            "name": "Boss: Mumkhar",
+            "ref": "Sword Valley Bosses/Mumkhar/Boss: Mumkhar"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVFull",
+            "x": 287,
+            "y": 553,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Radio Tower",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Sword Valley Landmarks/Radio Tower/Landmark"
+          },
+          {
+            "name": "UM: Lightning Ronove (Lv.55)",
+            "ref": "Sword Valley Unique Monsters/UM: Lightning Ronove/Lv.55"
+          },
+          {
+            "name": "Secure the Radio Tower (MISSABLE)",
+            "ref": "Sword Valley Quests/Secure the Radio Tower (MISSABLE)/Secure the Radio Tower (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVFull",
+            "x": 122,
+            "y": 675,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:14"],
+        "sections": [
+          {
+            "name": "Veg Completion",
+            "access_rules": ["SVVeg"],
+            "chest_unopened_img": "images/items/Veg.png",
+            "chest_opened_img": "images/items/VegDone.png"
+          },
+          {
+            "name": "Fruit Completion",
+            "access_rules": ["SVFruit"],
+            "chest_unopened_img": "images/items/Fruit.png",
+            "chest_opened_img": "images/items/FruitDone.png"
+          },
+          {
+            "name": "Flower Completion",
+            "access_rules": ["SVFlower"],
+            "chest_unopened_img": "images/items/Flower.png",
+            "chest_opened_img": "images/items/FlowerDone.png"
+          },
+          {
+            "name": "Parts Completion",
+            "access_rules": ["SVParts"],
+            "chest_unopened_img": "images/items/Parts.png",
+            "chest_opened_img": "images/items/PartsDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["SVStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["SVVeg,SVFruit,SVFlower,SVParts,SVStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVFull",
+            "x": 793,
+            "y": 551,
+            "size": 24
+          }
+        ]
+      }
+    ]
   }
 ]
