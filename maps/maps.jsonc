@@ -433,18 +433,6 @@
     "img": "images/maps/GalahadFortress.png"
   },
   {
-    "name": "GFNPC",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/GalahadFortress.png"
-  },
-  {
-    "name": "GFH2H",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/GalahadFortress.png"
-  },
-  {
     "name": "FAFull",
     "location_size": 48,
     "location_border_thickness": 4,

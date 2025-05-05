@@ -2170,25 +2170,7 @@
                       "GFQ"
                     ]
                  }
-                },
-                {
-                  "title": "NPC's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "GFNPC"
-                     ]
-                    }
-                },
-                  {
-                  "title": "Heart-to-Heart's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "GFH2H"
-                      ]
-                    }
-                  }
+                }
                 ]
               }
             },

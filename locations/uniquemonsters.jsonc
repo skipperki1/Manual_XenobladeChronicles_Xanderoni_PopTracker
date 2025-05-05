@@ -2564,5 +2564,91 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Galahad Fortress Unique Monsters",
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "access_rules": ["GFHunt,AreaKeys:15"],
+    "children": [
+      {
+        "name": "UM: Glacier Acon",
+        "sections": [
+          {
+            "name": "Lv.52"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFUM",
+            "x": 581,
+            "y": 247,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Glorious Jurom",
+        "sections": [
+          {
+            "name": "Lv.55"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFUM",
+            "x": 154,
+            "y": 541,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Precious Retrato",
+        "sections": [
+          {
+            "name": "Lv.53"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFUM",
+            "x": 151,
+            "y": 356,
+            "size": 16
+          },
+          {
+            "map": "GFFull",
+            "x": 151,
+            "y": 356,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Galahad Fortress Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "access_rules": ["AreaKeys:14"],
+    "children": [
+      {
+        "name": "Gold Face",
+        "sections": [
+          {
+            "name": "Boss: Gold Face"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFUM",
+            "x": 360,
+            "y": 912,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

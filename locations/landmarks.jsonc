@@ -2560,5 +2560,104 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Galahad Fortress Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:15"],
+    "children": [
+      {
+        "name": "Ether Influx Conduit",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 352,
+            "y": 250,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Main Control Room",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 581,
+            "y": 247,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ether Blast Furnace",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 154,
+            "y": 541,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Preparation Bay",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 48,
+            "y": 541,
+            "size": 16
+          },
+          {
+            "map": "GFFull",
+            "x": 48,
+            "y": 541,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Fortress Depths",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 360,
+            "y": 912,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

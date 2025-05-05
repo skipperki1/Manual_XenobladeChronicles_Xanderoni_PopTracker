@@ -2306,5 +2306,83 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Galahad Fortress Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "access_rules": ["AreaKeys:15"],
+    "children": [
+      {
+        "name": "Lift Battle (MISSABLE)",
+        "sections": [
+          {
+            "name": "Lift Battle (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFQ",
+            "x": 352,
+            "y": 250,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Supply Station Battle (MISSABLE)",
+        "sections": [
+          {
+            "name": "Supply Station Battle (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFQ",
+            "x": 502,
+            "y": 247,
+            "size": 16
+          },
+          {
+            "map": "GFFull",
+            "x": 502,
+            "y": 247,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Turbine Battle (MISSABLE)",
+        "sections": [
+          {
+            "name": "Turbine Battle (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFQ",
+            "x": 581,
+            "y": 247,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Fiora's Conviction (MISSABLE)",
+        "sections": [
+          {
+            "name": "Fiora's Conviction (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFQ",
+            "x": 360,
+            "y": 912,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -32,37 +32,27 @@
           {
             "name": "Level 1",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 1,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 2",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 2,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 3",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 3,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 4",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 4,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 5",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 5,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           }
         ],
         "map_locations": [
@@ -81,37 +71,27 @@
           {
             "name": "Level 1",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 1,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 2",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 2,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 3",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 3,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 4",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 4,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 5",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 5,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           }
         ],
         "map_locations": [
@@ -130,37 +110,27 @@
           {
             "name": "Level 1",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 1,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 2",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 2,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 3",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 3,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 4",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 4,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 5",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 5,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           }
         ],
         "map_locations": [
@@ -179,37 +149,27 @@
           {
             "name": "Level 1",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 1,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 2",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 2,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 3",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 3,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 4",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 4,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 5",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 5,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           }
         ],
         "map_locations": [
@@ -228,37 +188,27 @@
           {
             "name": "Level 1",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 1,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 2",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 2,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 3",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 3,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 4",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 4,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           },
           {
             "name": "Level 5",
             "chest_unopened_img": "images/mapicons/UM.png",
-            "chest_opened_img": "images/mapicons/DeadUM.png",
-            "item_count": 5,
-            "clear_as_group": true
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           }
         ],
         "map_locations": [
@@ -3884,6 +3834,142 @@
             "map": "SVFull",
             "x": 793,
             "y": 551,
+            "size": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Galahad Fortress",
+    "access_rules": ["AreaKeys:15"],
+    "children":[
+      {
+        "name": "Ether Influx Conduit",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Galahad Fortress Landmarks/Ether Influx Conduit/Landmark"
+          },
+          {
+            "name": "Lift Battle (MISSABLE)",
+            "ref": "Galahad Fortress Quests/Lift Battle (MISSABLE)/Lift Battle (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFFull",
+            "x": 352,
+            "y": 250,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Main Control Room",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Galahad Fortress Landmarks/Main Control Room/Landmark"
+          },
+          {
+            "name": "UM: Glacier Acon (Lv.52)",
+            "ref": "Galahad Fortress Unique Monsters/UM: Glacier Acon/Lv.52"
+          },
+          {
+            "name": "Turbine Battle (MISSABLE)",
+            "ref": "Galahad Fortress Quests/Turbine Battle (MISSABLE)/Turbine Battle (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFFull",
+            "x": 581,
+            "y": 247,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ether Blast Furnace",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Galahad Fortress Landmarks/Ether Blast Furnace/Landmark"
+          },
+          {
+            "name": "UM: Glorious Jurom (Lv.55)",
+            "ref": "Galahad Fortress Unique Monsters/UM: Glorious Jurom/Lv.55"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFFull",
+            "x": 154,
+            "y": 541,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Fortress Depths",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Galahad Fortress Landmarks/Fortress Depths/Landmark"
+          },
+          {
+            "name": "Boss: Gold Face",
+            "ref": "Galahad Fortress Bosses/Gold Face/Boss: Gold Face"
+          },
+          {
+            "name": "Fiora's Conviction (MISSABLE)",
+            "ref": "Galahad Fortress Quests/Fiora's Conviction (MISSABLE)/Fiora's Conviction (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFFull",
+            "x": 360,
+            "y": 912,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:15"],
+        "sections": [
+          {
+            "name": "Bug Completion",
+            "access_rules": ["GFBug"],
+            "chest_unopened_img": "images/items/Bug.png",
+            "chest_opened_img": "images/items/BugDone.png"
+          },
+          {
+            "name": "Parts Completion",
+            "access_rules": ["GFParts"],
+            "chest_unopened_img": "images/items/Parts.png",
+            "chest_opened_img": "images/items/PartsDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["GFStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["GFBug,GFParts,GFStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFFull",
+            "x": 701,
+            "y": 751,
             "size": 24
           }
         ]
