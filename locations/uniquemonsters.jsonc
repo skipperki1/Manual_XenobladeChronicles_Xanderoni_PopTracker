@@ -2631,7 +2631,7 @@
     "name": "Galahad Fortress Bosses",
     "chest_unopened_img": "images/mapicons/Boss.png",
     "chest_opened_img": "images/mapicons/DeadBoss.png",
-    "access_rules": ["AreaKeys:14"],
+    "access_rules": ["AreaKeys:15"],
     "children": [
       {
         "name": "Gold Face",
@@ -2645,6 +2645,142 @@
             "map": "GFUM",
             "x": 360,
             "y": 912,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fallen Arm Unique Monsters",
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "access_rules": ["FAHunt,AreaKeys:16"],
+    "children": [
+      {
+        "name": "UM: Aged Leraje",
+        "sections": [
+          {
+            "name": "Lv.56 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAUM",
+            "x": 585,
+            "y": 496,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Affluent Beleth",
+        "sections": [
+          {
+            "name": "Lv.57"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAUM",
+            "x": 703,
+            "y": 430,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Superboss: Ancient Daedala",
+        "sections": [
+          {
+            "name": "Lv.105"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAUM",
+            "x": 818,
+            "y": 242,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Evil Bathin",
+        "sections": [
+          {
+            "name": "Lv.54"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAUM",
+            "x": 512,
+            "y": 349,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Powerful Eligos",
+        "sections": [
+          {
+            "name": "Lv.80"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAUM",
+            "x": 461,
+            "y": 602,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Prosperous Zepar",
+        "sections": [
+          {
+            "name": "Lv.56 (Evening)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAUM",
+            "x": 830,
+            "y": 210,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Splendid Botis",
+        "sections": [
+          {
+            "name": "Lv.58"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAUM",
+            "x": 474,
+            "y": 270,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Wicked Sallos",
+        "sections": [
+          {
+            "name": "Lv.95"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAUM",
+            "x": 360,
+            "y": 886,
             "size": 16
           }
         ]

@@ -1180,5 +1180,146 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Fallen Arm H2H",
+    "chest_unopened_img": "images/mapicons/HeartToHeart.png",
+    "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
+    "access_rules": ["AreaKeys:16"],
+    "children": [
+      {
+        "name": "A Family of Two",
+        "sections": [
+        {
+          "name": "Dunban & Seven",
+          "access_rules": [
+          "DunbanAffinity5,SevenAffinity5"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "FAH2H",
+            "x": 458,
+            "y": 414,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "A Night-time Chat",
+        "sections": [
+        {
+          "name": "Sharla & Seven",
+          "access_rules": [
+          "SharlaAffinity2,SevenAffinity2"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "FAH2H",
+            "x": 490,
+            "y": 420,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Camping Spot",
+        "sections": [
+        {
+          "name": "Melia & Riki",
+          "access_rules": [
+          "MeliaAffinity4,RikiAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "FAH2H",
+            "x": 605,
+            "y": 373,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Eternal Scars",
+        "sections": [
+        {
+          "name": "Dunban & Melia",
+          "access_rules": [
+          "DunbanAffinity5,MeliaAffinity5"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "FAH2H",
+            "x": 424,
+            "y": 308,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Just Like Old Times",
+        "sections": [
+        {
+          "name": "Shulk & Seven",
+          "access_rules": [
+          "ShulkAffinity4,SevenAffinity4"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "FAH2H",
+            "x": 747,
+            "y": 242,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Overcoming the Pain",
+        "sections": [
+        {
+          "name": "Melia & Seven",
+          "access_rules": [
+          "MeliaAffinity5,SevenAffinity5"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "FAH2H",
+            "x": 458,
+            "y": 557,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Those Waiting For You",
+        "sections": [
+        {
+          "name": "Shulk & Riki",
+          "access_rules": [
+          "ShulkAffinity5,RikiAffinity5"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "FAH2H",
+            "x": 360,
+            "y": 886,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

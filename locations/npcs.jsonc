@@ -1785,5 +1785,127 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Fallen Arm NPCs",
+    "chest_unopened_img": "images/npcs/MetNPC.png",
+    "access_rules": ["AreaKeys:16"],
+    "children": [
+      {
+        "name": "Fallen Arm NPCs 1",
+        "sections": [
+          {
+            "name": "Eiz",
+            "chest_opened_img": "images/npcs/Eiz.png"
+          },
+          {
+            "name": "Eleqa",
+            "chest_opened_img": "images/npcs/Eleqa.png"
+          },
+          {
+            "name": "Karlos",
+            "chest_opened_img": "images/npcs/Karlos.png"
+          },
+          {
+            "name": "Kazat",
+            "chest_opened_img": "images/npcs/Kazat.png"
+          },
+          {
+            "name": "Mixik",
+            "chest_opened_img": "images/npcs/Mixik.png"
+          },
+          {
+            "name": "Natalia",
+            "chest_opened_img": "images/npcs/Natalia.png"
+          },
+          {
+            "name": "Neonik",
+            "chest_opened_img": "images/npcs/Neonik.png"
+          },
+          {
+            "name": "Orkatix",
+            "chest_opened_img": "images/npcs/Orkatix.png"
+          },
+          {
+            "name": "Prox",
+            "chest_opened_img": "images/npcs/Prox.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FANPC",
+            "x": 444,
+            "y": 440,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Fallen Arm NPCs 2",
+        "sections": [
+          {
+            "name": "Qofaria",
+            "chest_opened_img": "images/npcs/Qofaria.png"
+          },
+          {
+            "name": "Rakzet",
+            "chest_opened_img": "images/npcs/Rakzet.png"
+          },
+          {
+            "name": "Rizaka",
+            "chest_opened_img": "images/npcs/Rizaka.png"
+          },
+          {
+            "name": "Shilx",
+            "chest_opened_img": "images/npcs/Shilx.png"
+          },
+          {
+            "name": "Voltak",
+            "chest_opened_img": "images/npcs/Voltak.png"
+          },
+          {
+            "name": "Vronik",
+            "chest_opened_img": "images/npcs/Vronik.png"
+          },
+          {
+            "name": "Xekit",
+            "chest_opened_img": "images/npcs/Xekit.png"
+          },
+          {
+            "name": "Zilex",
+            "chest_opened_img": "images/npcs/Zilex.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FANPC",
+            "x": 476,
+            "y": 440,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Theo & Zarkort",
+        "sections": [
+          {
+            "name": "Theo",
+            "chest_opened_img": "images/npcs/Theo.png"
+          },
+          {
+            "name": "Zarkort",
+            "chest_opened_img": "images/npcs/Zarkort.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FANPC",
+            "x": 238,
+            "y": 540,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]
