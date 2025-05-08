@@ -2276,25 +2276,7 @@
                       "MeFiQ"
                     ]
                  }
-                },
-                {
-                  "title": "NPC's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "MeFiNPC"
-                     ]
-                    }
-                },
-                  {
-                  "title": "Heart-to-Heart's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "MeFiH2H"
-                      ]
-                    }
-                  }
+                }
                 ]
               }
             },

@@ -2890,5 +2890,254 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Mechonis Field Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:17"],
+    "children": [
+      {
+        "name": "Left Leg Cooling Outlet",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 660,
+            "y": 169,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 660,
+            "y": 169,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "GF Main Power Switch",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 459,
+            "y": 368,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 459,
+            "y": 368,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "1F Main Power Switch",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 717,
+            "y": 364,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 717,
+            "y": 364,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "3F Main Power Switch",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 380,
+            "y": 677,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Lower Bulkhead Bridge",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 471,
+            "y": 677,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 471,
+            "y": 677,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Upper Bulkhead Bridge",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 429,
+            "y": 1061,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 429,
+            "y": 1061,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "4F Main Power Switch",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 223,
+            "y": 1061,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 223,
+            "y": 1061,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Great Battle Scar",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 424,
+            "y": 944,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 424,
+            "y": 944,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Machina Refuge",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 381,
+            "y": 869,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "1st Zebrai Bulkhead",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 808,
+            "y": 617,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 808,
+            "y": 617,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "2nd Gamalt Bulkhead",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 808,
+            "y": 1131,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 808,
+            "y": 1131,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

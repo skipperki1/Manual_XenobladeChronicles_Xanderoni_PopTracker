@@ -2456,37 +2456,48 @@
             "name": "Scheduled Inspection"
           },
           {
-            "name": "The History of Mechonis (MISSABLE)"
+            "name": "The History of Mechonis (MISSABLE)",
+            "access_rules": ["AreaKeys:17"]
           },
           {
-            "name": "Mending Memories"
+            "name": "Mending Memories",
+            "access_rules": ["AreaKeys:17"]
           },
           {
-            "name": "Resolution - Father"
+            "name": "Resolution - Father",
+            "access_rules": ["AreaKeys:17"]
           },
           {
-            "name": "Resolution - Mother"
+            "name": "Resolution - Mother",
+            "access_rules": ["AreaKeys:17"]
           },
           {
-            "name": "The Oath Sword"
+            "name": "The Oath Sword",
+            "access_rules": ["AreaKeys:17"]
           },
           {
-            "name": "A Weapon Just For Me (MISSABLE)"
+            "name": "A Weapon Just For Me (MISSABLE)",
+            "access_rules": ["AreaKeys:17"]
           },
           {
-            "name": "The History of the Capital (MISSABLE)"
+            "name": "The History of the Capital (MISSABLE)",
+            "access_rules": ["AreaKeys:19"]
           },
           {
-            "name": "Stunted Growth"
+            "name": "Stunted Growth",
+            "access_rules": ["AreaKeys:20"]
           },
           {
-            "name": "The Exhaust Pump"
+            "name": "The Exhaust Pump",
+            "access_rules": ["AreaKeys:20"]
           },
           {
-            "name": "The Mini Reactor"
+            "name": "The Mini Reactor",
+            "access_rules": ["AreaKeys:20"]
           },
           {
-            "name": "Transmission Bypass"
+            "name": "Transmission Bypass",
+            "access_rules": ["AreaKeys:20"]
           }
         ],
         "map_locations": [
@@ -2541,6 +2552,73 @@
             "map": "FAQ",
             "x": 716,
             "y": 273,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mechonis Field Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "access_rules": ["AreaKeys:17"],
+    "children": [
+      {
+        "name": "Machina Refuge",
+        "sections": [
+          {
+            "name": "Best Boots (MISSABLE)"
+          },
+          {
+            "name": "Monster Quest (MISSABLE)"
+          },
+          {
+            "name": "Challenge Quest 1 (MISSABLE)"
+          },
+          {
+            "name": "Challenge Quest 2 (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiQ",
+            "x": 381,
+            "y": 869,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Story Quests",
+        "sections": [
+          {
+            "name": "Aiming for the Top"
+          },
+          {
+            "name": "Get the 3rd Lift Moving"
+          },
+          {
+            "name": "Opening the Bulkhead"
+          },
+          {
+            "name": "The High-Velocity Lift"
+          },
+          {
+            "name": "Need Power!"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiQ",
+            "x": 529,
+            "y": 508,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 529,
+            "y": 508,
             "size": 16
           }
         ]

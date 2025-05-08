@@ -4187,5 +4187,126 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Mechonis Field",
+    "access_rules": ["AreaKeys:17"],
+    "children":[
+      {
+        "name": "Machina Refuge",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Mechonis Field Landmarks/Machina Refuge/Landmark"
+          },
+          {
+            "name": "Bozatrox",
+            "chest_opened_img": "images/npcs/Bozatrox.png",
+            "chest_unopened_img": "images/npcs/MetNPC.png"
+          },
+          {
+            "name": "Best Boots (MISSABLE)",
+            "ref": "Mechonis Field Quests/Machina Refuge/Best Boots (MISSABLE)"
+          },
+          {
+            "name": "Monster Quest (MISSABLE)",
+            "ref": "Mechonis Field Quests/Machina Refuge/Monster Quest (MISSABLE)"
+          },
+          {
+            "name": "Challenge Quest 1 (MISSABLE)",
+            "ref": "Mechonis Field Quests/Machina Refuge/Challenge Quest 1 (MISSABLE)"
+          },
+          {
+            "name": "Challenge Quest 2 (MISSABLE)",
+            "ref": "Mechonis Field Quests/Machina Refuge/Challenge Quest 2 (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiFull",
+            "x": 381,
+            "y": 869,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "3F Main Power Switch",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Mechonis Field Landmarks/3F Main Power Switch/Landmark"
+          },
+          {
+            "name": "UM: Amorous Arca (Lv.57)",
+            "ref": "Mechonis Field Unique Monsters/UM: Amorous Arca/Lv.57"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiFull",
+            "x": 380,
+            "y": 677,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:17"],
+        "sections": [
+          {
+            "name": "Veg Completion",
+            "access_rules": ["MeFiVeg"],
+            "chest_unopened_img": "images/items/Veg.png",
+            "chest_opened_img": "images/items/VegDone.png"
+          },
+          {
+            "name": "Flower Completion",
+            "access_rules": ["MeFiFlower"],
+            "chest_unopened_img": "images/items/Flower.png",
+            "chest_opened_img": "images/items/FlowerDone.png"
+          },
+          {
+            "name": "Bug Completion",
+            "access_rules": ["MeFiBug"],
+            "chest_unopened_img": "images/items/Bug.png",
+            "chest_opened_img": "images/items/BugDone.png"
+          },
+          {
+            "name": "Nature Completion",
+            "access_rules": ["MeFiNature"],
+            "chest_unopened_img": "images/items/Nature.png",
+            "chest_opened_img": "images/items/NatureDone.png"
+          },
+          {
+            "name": "Parts Completion",
+            "access_rules": ["MeFiParts"],
+            "chest_unopened_img": "images/items/Parts.png",
+            "chest_opened_img": "images/items/PartsDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["MeFiStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["MeFiVeg,MeFiFlower,MeFiBug,MeFiNature,MeFiParts,MeFiStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiFull",
+            "x": 639,
+            "y": 1125,
+            "size": 24
+          }
+        ]
+      }
+    ]
   }
 ]

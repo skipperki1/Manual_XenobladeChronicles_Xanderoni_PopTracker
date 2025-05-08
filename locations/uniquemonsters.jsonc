@@ -2828,5 +2828,147 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Mechonis Field Unique Monsters",
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "access_rules": ["MeFiHunt,AreaKeys:17"],
+    "children": [
+      {
+        "name": "UM: Amorous Arca",
+        "sections": [
+          {
+            "name": "Lv.57"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiUM",
+            "x": 380,
+            "y": 677,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Commander Oracion",
+        "sections": [
+          {
+            "name": "Lv.61"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiUM",
+            "x": 173,
+            "y": 460,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 173,
+            "y": 460,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Destroyer Salvacion",
+        "sections": [
+          {
+            "name": "Lv.59"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiUM",
+            "x": 160,
+            "y": 659,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 160,
+            "y": 659,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Infernal Crocell",
+        "sections": [
+          {
+            "name": "Lv.58"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiUM",
+            "x": 323,
+            "y": 1087,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 323,
+            "y": 1087,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Revolutionary Bifrons",
+        "sections": [
+          {
+            "name": "Lv.60"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiUM",
+            "x": 257,
+            "y": 1036,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 257,
+            "y": 1036,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mechonis Field Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "access_rules": ["AreaKeys:17"],
+    "children": [
+      {
+        "name": "Jade Face",
+        "sections": [
+          {
+            "name": "Boss: Jade Face"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiUM",
+            "x": 806,
+            "y": 899,
+            "size": 16
+          },
+          {
+            "map": "MeFiFull",
+            "x": 806,
+            "y": 899,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]
