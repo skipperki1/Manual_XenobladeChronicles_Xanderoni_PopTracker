@@ -4308,5 +4308,92 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Central Factory",
+    "access_rules": ["AreaKeys:18"],
+    "children":[
+      {
+        "name": "Control Tower",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Central Factory Landmarks/Control Tower/Landmark"
+          },
+          {
+            "name": "UM: Faithful Lancelot (Lv.59)",
+            "ref": "Central Factory Unique Monsters/UM: Faithful Lancelot/Lv.59"
+          },
+          {
+            "name": "UM: Temporal Gawain (Lv.65)",
+            "ref": "Central Factory Unique Monsters/UM: Temporal Gawain/Lv.65"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFFull",
+            "x": 180,
+            "y": 493,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:17"],
+        "sections": [
+          {
+            "name": "Veg Completion",
+            "access_rules": ["CFVeg"],
+            "chest_unopened_img": "images/items/Veg.png",
+            "chest_opened_img": "images/items/VegDone.png"
+          },
+          {
+            "name": "Animal Completion",
+            "access_rules": ["CFAnimal"],
+            "chest_unopened_img": "images/items/Animal.png",
+            "chest_opened_img": "images/items/AnimalDone.png"
+          },
+          {
+            "name": "Bug Completion",
+            "access_rules": ["CFBug"],
+            "chest_unopened_img": "images/items/Bug.png",
+            "chest_opened_img": "images/items/BugDone.png"
+          },
+          {
+            "name": "Nature Completion",
+            "access_rules": ["CFNature"],
+            "chest_unopened_img": "images/items/Nature.png",
+            "chest_opened_img": "images/items/NatureDone.png"
+          },
+          {
+            "name": "Parts Completion",
+            "access_rules": ["CFParts"],
+            "chest_unopened_img": "images/items/Parts.png",
+            "chest_opened_img": "images/items/PartsDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["CFStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["CFVeg,CFAnimal,CFBug,CFNature,CFParts,CFStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFFull",
+            "x": 1122,
+            "y": 935,
+            "size": 24
+          }
+        ]
+      }
+    ]
   }
 ]

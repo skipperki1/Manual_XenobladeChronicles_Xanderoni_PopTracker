@@ -3139,5 +3139,214 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Central Factory Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:18"],
+    "children": [
+      {
+        "name": "Port Terminal",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 570,
+            "y": 312,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 570,
+            "y": 312,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Control Tower",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 180,
+            "y": 493,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Warehouse Lift",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 1354,
+            "y": 245,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 1354,
+            "y": 245,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Factory Vent",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 1170,
+            "y": 443,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 1170,
+            "y": 443,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Tower Boarding Gate",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 294,
+            "y": 985,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 294,
+            "y": 985,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Regeneration Control",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 250,
+            "y": 833,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 250,
+            "y": 833,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Agniratha Transporter",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 515,
+            "y": 623,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 515,
+            "y": 623,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ventilation Conduit",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 704,
+            "y": 1189,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 704,
+            "y": 1189,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bridge to Apocrypha",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 696,
+            "y": 760,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 696,
+            "y": 760,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

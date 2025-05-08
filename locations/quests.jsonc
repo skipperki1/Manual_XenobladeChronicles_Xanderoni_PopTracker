@@ -2624,5 +2624,53 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Central Factory Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "access_rules": ["AreaKeys:18"],
+    "children": [
+      {
+        "name": "Quests",
+        "sections": [
+          {
+            "name": "To the Central Tower"
+          },
+          {
+            "name": "Maintenance Wing Escape"
+          },
+          {
+            "name": "Find a Path to the Top"
+          },
+          {
+            "name": "Materials for a Bomb"
+          },
+          {
+            "name": "The Central Tower Barrier"
+          },
+          {
+            "name": "Eliminate the Backup! (MISSABLE)"
+          },
+          {
+            "name": "Roof Battle (MISSABLE)"
+          },
+          {
+            "name": "Daring Assault (MISSABLE)"
+          },
+          {
+            "name": "New Weapon for Fiora"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFFull",
+            "x": 1120,
+            "y": 1058,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

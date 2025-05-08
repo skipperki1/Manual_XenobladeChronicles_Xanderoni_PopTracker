@@ -511,24 +511,6 @@
     "img": "images/maps/CentralFactory.png"
   },
   {
-    "name": "CFQ",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/CentralFactory.png"
-  },
-  {
-    "name": "CFNPC",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/CentralFactory.png"
-  },
-  {
-    "name": "CFH2H",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/CentralFactory.png"
-  },
-  {
     "name": "AGFull",
     "location_size": 48,
     "location_border_thickness": 4,
@@ -641,6 +623,12 @@
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/PrisonIslandEndGame.png"
+  },
+  {
+    "name": "MSFull",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/MemorySpace.png"
   },
   {
     "name": "MISC",

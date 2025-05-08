@@ -2970,5 +2970,229 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Central Factory Unique Monsters",
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "access_rules": ["CFHunt,AreaKeys:18"],
+    "children": [
+      {
+        "name": "UM: Balanced Palamedes",
+        "sections": [
+          {
+            "name": "Lv.62"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFUM",
+            "x": 201,
+            "y": 930,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 201,
+            "y": 930,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Beautiful Vagul",
+        "sections": [
+          {
+            "name": "Lv.60"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFUM",
+            "x": 74,
+            "y": 386,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 74,
+            "y": 386,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Faithful Lancelot",
+        "sections": [
+          {
+            "name": "Lv.59"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFUM",
+            "x": 180,
+            "y": 493,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Magestic Mordred",
+        "sections": [
+          {
+            "name": "Lv.70"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFUM",
+            "x": 339,
+            "y": 651,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 339,
+            "y": 651,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Mild Florence",
+        "sections": [
+          {
+            "name": "Lv.58"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFUM",
+            "x": 952,
+            "y": 266,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 952,
+            "y": 266,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Sinful Lamorak",
+        "sections": [
+          {
+            "name": "Lv.63"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFUM",
+            "x": 266,
+            "y": 1011,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 266,
+            "y": 1011,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Synchronised Gaheris",
+        "sections": [
+          {
+            "name": "Lv.61"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFUM",
+            "x": 1295,
+            "y": 239,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 1295,
+            "y": 239,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Temporal Gawain",
+        "sections": [
+          {
+            "name": "Lv.65"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFUM",
+            "x": 180,
+            "y": 525,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Venerable Focalor",
+        "sections": [
+          {
+            "name": "Lv.64"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFUM",
+            "x": 1336,
+            "y": 130,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 1336,
+            "y": 130,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Central Factory Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "access_rules": ["AreaKeys:18"],
+    "children": [
+      {
+        "name": "Apocrypha Generator",
+        "sections": [
+          {
+            "name": "Boss: Apocrypha Generator"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFUM",
+            "x": 944,
+            "y": 760,
+            "size": 16
+          },
+          {
+            "map": "CFFull",
+            "x": 944,
+            "y": 760,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

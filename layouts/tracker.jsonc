@@ -2311,34 +2311,7 @@
                      "CFUM"
                    ]
                   }
-                },
-                {
-                  "title": "Quests",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "CFQ"
-                    ]
-                 }
-                },
-                {
-                  "title": "NPC's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "CFNPC"
-                     ]
-                    }
-                },
-                  {
-                  "title": "Heart-to-Heart's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "CFH2H"
-                      ]
-                    }
-                  }
+                }
                 ]
               }
             },
@@ -2525,6 +2498,23 @@
                       ]
                     }
                   }
+                ]
+              }
+            },
+            {
+              "title": "Memory Space",
+              "content": {
+               "type": "tabbed",
+               "tabs": [
+                {
+                 "title": "Full",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "MSFull"
+                    ]
+                  }
+                }
                 ]
               }
             },
