@@ -3975,5 +3975,217 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Fallen Arm",
+    "access_rules": ["AreaKeys:16"],
+    "children":[
+      {
+        "name": "Junks",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Fallen Arm Landmarks/Junks/Landmark"
+          },
+          {
+            "name": "A Family of Two",
+            "ref": "Fallen Arm H2H/A Family of Two/Dunban & Seven"
+          },
+          {
+            "name": "A Night-time Chat",
+            "ref": "Fallen Arm H2H/A Night-time Chat/Sharla & Seven"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAFull",
+            "x": 460,
+            "y": 408,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Theo & Zarkort",
+        "sections": [
+          {
+            "name": "Theo",
+            "ref": "Fallen Arm NPCs/Theo & Zarkort/Theo"
+          },
+          {
+            "name": "Zarkort",
+            "ref": "Fallen Arm NPCs/Theo & Zarkort/Zarkort"
+          },
+          {
+            "name": "For My Loved One... (MISSABLE)",
+            "ref": "Fallen Arm Quests/Zarkort/For My Loved One... (MISSABLE)"
+          },
+          {
+            "name": "To My Loved One... (MISSABLE)",
+            "ref": "Fallen Arm Quests/Zarkort/To My Loved One... (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAFull",
+            "x": 238,
+            "y": 540,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Distant Fingertip",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Fallen Arm Landmarks/Distant Fingertip/Landmark"
+          },
+          {
+            "name": "UM: Wicked Sallos (Lv.95)",
+            "ref": "Fallen Arm Unique Monsters/UM: Wicked Sallos/Lv.95"
+          },
+          {
+            "name": "Those Waiting For You",
+            "ref": "Fallen Arm H2H/Those Waiting For You/Shulk & Riki"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAFull",
+            "x": 360,
+            "y": 886,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Inlet Beach",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Fallen Arm Landmarks/Inlet Beach/Landmark"
+          },
+          {
+            "name": "Camping Spot",
+            "ref": "Fallen Arm H2H/Camping Spot/Melia & Riki"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAFull",
+            "x": 605,
+            "y": 373,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Black Wreckage",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Fallen Arm Landmarks/Black Wreckage/Landmark"
+          },
+          {
+            "name": "Eternal Scars",
+            "ref": "Fallen Arm H2H/Eternal Scars/Dunban & Melia"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAFull",
+            "x": 424,
+            "y": 308,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Wreckage Beach",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Fallen Arm Landmarks/Wreckage Beach/Landmark"
+          },
+          {
+            "name": "Reunion with Fiora",
+            "ref": "Fallen Arm Quests/Wreckage Beach/Reunion with Fiora"
+          },
+          {
+            "name": "We Made It",
+            "ref": "Fallen Arm Quests/Wreckage Beach/We Made It"
+          },
+          {
+            "name": "Fiora's Treatment",
+            "ref": "Fallen Arm Quests/Wreckage Beach/Fiora's Treatment"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAFull",
+            "x": 716,
+            "y": 273,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:16"],
+        "sections": [
+          {
+            "name": "Veg Completion",
+            "access_rules": ["FAVeg"],
+            "chest_unopened_img": "images/items/Veg.png",
+            "chest_opened_img": "images/items/VegDone.png"
+          },
+          {
+            "name": "Fruit Completion",
+            "access_rules": ["FAFruit"],
+            "chest_unopened_img": "images/items/Fruit.png",
+            "chest_opened_img": "images/items/FruitDone.png"
+          },
+          {
+            "name": "Animal Completion",
+            "access_rules": ["FAAnimal"],
+            "chest_unopened_img": "images/items/Animal.png",
+            "chest_opened_img": "images/items/AnimalDone.png"
+          },
+          {
+            "name": "Nature Completion",
+            "access_rules": ["FANature"],
+            "chest_unopened_img": "images/items/Nature.png",
+            "chest_opened_img": "images/items/NatureDone.png"
+          },
+          {
+            "name": "Parts Completion",
+            "access_rules": ["FAParts"],
+            "chest_unopened_img": "images/items/Parts.png",
+            "chest_opened_img": "images/items/PartsDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["FAStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["FAVeg,FAFruit,FAAnimal,FANature,FAParts,FAStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAFull",
+            "x": 897,
+            "y": 439,
+            "size": 24
+          }
+        ]
+      }
+    ]
   }
 ]

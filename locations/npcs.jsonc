@@ -1834,7 +1834,13 @@
         "map_locations": [
           {
             "map": "FANPC",
-            "x": 444,
+            "x": 428,
+            "y": 440,
+            "size": 16
+          },
+          {
+            "map": "FAFull",
+            "x": 428,
             "y": 440,
             "size": 16
           }
@@ -1879,7 +1885,13 @@
         "map_locations": [
           {
             "map": "FANPC",
-            "x": 476,
+            "x": 492,
+            "y": 440,
+            "size": 16
+          },
+          {
+            "map": "FAFull",
+            "x": 492,
             "y": 440,
             "size": 16
           }

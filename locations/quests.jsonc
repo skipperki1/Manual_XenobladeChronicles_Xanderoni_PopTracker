@@ -2384,5 +2384,167 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Fallen Arm Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "access_rules": ["AreaKeys:16"],
+    "children": [
+      {
+        "name": "Hidden Village Quests 1",
+        "sections": [
+          {
+            "name": "Fixing a Broken Door!"
+          },
+          {
+            "name": "Food Delivery"
+          },
+          {
+            "name": "I Want to be a Homs!"
+          },
+          {
+            "name": "Mysterious Noises"
+          },
+          {
+            "name": "Save the Machina!"
+          },
+          {
+            "name": "Protect the Village"
+          },
+          {
+            "name": "Eliminate the Threat"
+          },
+          {
+            "name": "Powerless"
+          },
+          {
+            "name": "Stop the Mechon Rampage!"
+          },
+          {
+            "name": "The Wilted Flower"
+          },
+          {
+            "name": "A Tough Battle"
+          },
+          {
+            "name": "Power Up!"
+          },
+          {
+            "name": "Therapy"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAQ",
+            "x": 428,
+            "y": 376,
+            "size": 16
+          },
+          {
+            "map": "FAFull",
+            "x": 428,
+            "y": 376,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hidden Village Quests 2",
+        "sections": [
+          {
+            "name": "Scheduled Inspection"
+          },
+          {
+            "name": "The History of Mechonis (MISSABLE)"
+          },
+          {
+            "name": "Mending Memories"
+          },
+          {
+            "name": "Resolution - Father"
+          },
+          {
+            "name": "Resolution - Mother"
+          },
+          {
+            "name": "The Oath Sword"
+          },
+          {
+            "name": "A Weapon Just For Me (MISSABLE)"
+          },
+          {
+            "name": "The History of the Capital (MISSABLE)"
+          },
+          {
+            "name": "Stunted Growth"
+          },
+          {
+            "name": "The Exhaust Pump"
+          },
+          {
+            "name": "The Mini Reactor"
+          },
+          {
+            "name": "Transmission Bypass"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAQ",
+            "x": 492,
+            "y": 376,
+            "size": 16
+          },
+          {
+            "map": "FAFull",
+            "x": 492,
+            "y": 376,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Zarkort",
+        "sections": [
+          {
+            "name": "For My Loved One... (MISSABLE)"
+          },
+          {
+            "name": "To My Loved One... (MISSABLE)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAQ",
+            "x": 238,
+            "y": 540,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Wreckage Beach",
+        "sections": [
+          {
+            "name": "Reunion with Fiora"
+          },
+          {
+            "name": "We Made It"
+          },
+          {
+            "name": "Fiora's Treatment"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FAQ",
+            "x": 716,
+            "y": 273,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]
