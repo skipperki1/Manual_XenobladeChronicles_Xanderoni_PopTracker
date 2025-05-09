@@ -3194,5 +3194,232 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Agniratha Unique Monsters",
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "access_rules": ["AGHunt,AreaKeys:19"],
+    "children": [
+      {
+        "name": "UM: Vagabond Allocer",
+        "sections": [
+          {
+            "name": "Lv.63"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGUM",
+            "x": 838,
+            "y": 163,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 838,
+            "y": 163,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Experienced Tristan",
+        "sections": [
+          {
+            "name": "Lv.64"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGUM",
+            "x": 390,
+            "y": 907,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 390,
+            "y": 907,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Destructive Bors",
+        "sections": [
+          {
+            "name": "Lv.64"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGUM",
+            "x": 388,
+            "y": 1191,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 388,
+            "y": 1191,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Soothed Aglovale",
+        "sections": [
+          {
+            "name": "Lv.65"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGUM",
+            "x": 1391,
+            "y": 946,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 1391,
+            "y": 946,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Meditative Varla",
+        "sections": [
+          {
+            "name": "Lv.65"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGUM",
+            "x": 338,
+            "y": 1091,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 338,
+            "y": 1091,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Sentimental Flamral",
+        "sections": [
+          {
+            "name": "Lv.66"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGUM",
+            "x": 1381,
+            "y": 1135,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 1381,
+            "y": 1135,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Wrathful Orobas",
+        "sections": [
+          {
+            "name": "Lv.67"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGUM",
+            "x": 860,
+            "y": 665,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 860,
+            "y": 665,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Wise Gremory",
+        "sections": [
+          {
+            "name": "Lv.68"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGUM",
+            "x": 294,
+            "y": 1054,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 294,
+            "y": 1054,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Agniratha Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "access_rules": ["AreaKeys:19"],
+    "children": [
+      {
+        "name": "Meyneth Shrine",
+        "sections": [
+          {
+            "name": "Boss: Egil"
+          },
+          {
+            "name": "Boss: Yaldabaoth"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGUM",
+            "x": 692,
+            "y": 1060,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Gadolt",
+        "sections": [
+          {
+            "name": "Boss: Gadolt"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGUM",
+            "x": 1368,
+            "y": 1060,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

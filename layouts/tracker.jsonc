@@ -2355,25 +2355,7 @@
                       "AGQ"
                     ]
                  }
-                },
-                {
-                  "title": "NPC's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "AGNPC"
-                     ]
-                    }
-                },
-                  {
-                  "title": "Heart-to-Heart's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "AGH2H"
-                      ]
-                    }
-                  }
+                }
                 ]
               }
             },

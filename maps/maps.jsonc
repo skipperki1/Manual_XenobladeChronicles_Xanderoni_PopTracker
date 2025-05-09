@@ -535,18 +535,6 @@
     "img": "images/maps/Agniratha.png"
   },
   {
-    "name": "AGNPC",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/Agniratha.png"
-  },
-  {
-    "name": "AGH2H",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/Agniratha.png"
-  },
-  {
     "name": "BIFull",
     "location_size": 48,
     "location_border_thickness": 4,

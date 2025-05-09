@@ -2672,5 +2672,113 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Agniratha Quests",
+    "chest_unopened_img": "images/mapicons/QuestMarker.png",
+    "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "access_rules": ["AreaKeys:19"],
+    "children": [
+      {
+        "name": "Terminal Quests",
+        "sections": [
+          {
+            "name": "Shrine Transport"
+          },
+          {
+            "name": "Pillar Verification Devices"
+          },
+          {
+            "name": "Agniratha Beautification 1"
+          },
+          {
+            "name": "Agniratha Beautification 2"
+          },
+          {
+            "name": "Civil Protection 1 - 1"
+          },
+          {
+            "name": "Civil Protection 1 - 2"
+          },
+          {
+            "name": "Civil Protection 1 - 3"
+          },
+          {
+            "name": "Civil Protection 2 - 1"
+          },
+          {
+            "name": "Civil Protection 2 - 2"
+          },
+          {
+            "name": "Civil Protection 2 - 3"
+          },
+          {
+            "name": "Military Status 1 - 1",
+            "access_rules": ["AGHunt"]
+          },
+          {
+            "name": "Military Status 1 - 2",
+            "access_rules": ["AGHunt"]
+          },
+          {
+            "name": "Military Status 2 - 1",
+            "access_rules": ["AGHunt"]
+          },
+          {
+            "name": "Military Status 2 - 2",
+            "access_rules": ["AGHunt"]
+          },
+          {
+            "name": "Telethia Investigation 1"
+          },
+          {
+            "name": "Telethia Investigation 2"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGQ",
+            "x": 486,
+            "y": 423,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Mechonis Core",
+        "sections": [
+          {
+            "name": "Save Bionis",
+            "access_rules": ["AreaKeys:20"]
+          },
+          {
+            "name": "Boss: Yaldabaoth",
+            "access_rules": ["AreaKeys:20"],
+            "chest_unopened_img": "images/mapicons/Boss.png",
+            "chest_opened_img": "images/mapicons/DeadBoss.png"
+          },
+          {
+            "name": "Boss: Zanza",
+            "access_rules": ["AreaKeys:20"],
+            "chest_unopened_img": "images/mapicons/Boss.png",
+            "chest_opened_img": "images/mapicons/DeadBoss.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGQ",
+            "x": 1457,
+            "y": 290,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 1457,
+            "y": 290,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

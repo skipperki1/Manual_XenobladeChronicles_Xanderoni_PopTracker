@@ -3348,5 +3348,225 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Agniratha Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:19"],
+    "children": [
+      {
+        "name": "Factory Transporter",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 330,
+            "y": 658,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 330,
+            "y": 658,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Tower",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 486,
+            "y": 423,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "1st Control Platform",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 494,
+            "y": 809,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 494,
+            "y": 809,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "4th Control Platform",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 494,
+            "y": 1307,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 494,
+            "y": 1307,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Meyneth Statue",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 396,
+            "y": 1058,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 396,
+            "y": 1058,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "2nd Control Platform",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 1446,
+            "y": 972,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 1446,
+            "y": 972,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "3rd Control Platform",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 1446,
+            "y": 1147,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 1446,
+            "y": 1147,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Shrine Transporter",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 1368,
+            "y": 1060,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Meyneth Shrine",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 692,
+            "y": 1060,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Seven Sage Cloister",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 1616,
+            "y": 1060,
+            "size": 16
+          },
+          {
+            "map": "AGFull",
+            "x": 1616,
+            "y": 1060,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]
