@@ -4584,5 +4584,70 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Bionis' Interior Second",
+    "access_rules": ["AreaKeys:21"],
+    "children":[
+      {
+        "name": "Pars Sympathica Tower",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Bionis' Interior Second Landmarks/Pars Sympathica Tower/Landmark"
+          },
+          {
+            "name": "UM: Victorious Gross (Lv.73)",
+            "ref": "Bionis' Interior Second Unique Monsters/UM: Victorious Gross/Lv.73"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BIFull",
+            "x": 353,
+            "y": 299,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:21"],
+        "sections": [
+          {
+            "name": "Veg Completion",
+            "access_rules": ["BIVeg"],
+            "chest_unopened_img": "images/items/Veg.png",
+            "chest_opened_img": "images/items/VegDone.png"
+          },
+          {
+            "name": "Animal Completion",
+            "access_rules": ["BIAnimal"],
+            "chest_unopened_img": "images/items/Animal.png",
+            "chest_opened_img": "images/items/AnimalDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["BIStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["BIVeg,BIAnimal,BIStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BIFull",
+            "x": 812,
+            "y": 132,
+            "size": 24
+          }
+        ]
+      }
+    ]
   }
 ]

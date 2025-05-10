@@ -3421,5 +3421,183 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Bionis' Interior Second Unique Monsters",
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "access_rules": ["BIHunt,AreaKeys:21"],
+    "children": [
+      {
+        "name": "UM: Active Impulso",
+        "sections": [
+          {
+            "name": "Lv.72"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BIUM",
+            "x": 113,
+            "y": 438,
+            "size": 16
+          },
+          {
+            "map": "BIFull",
+            "x": 113,
+            "y": 438,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Clandestine Apety",
+        "sections": [
+          {
+            "name": "Lv.74"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BIUM",
+            "x": 106,
+            "y": 400,
+            "size": 16
+          },
+          {
+            "map": "BIFull",
+            "x": 106,
+            "y": 400,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Dark King Barbarus",
+        "sections": [
+          {
+            "name": "Lv.77"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BIUM",
+            "x": 205,
+            "y": 476,
+            "size": 16
+          },
+          {
+            "map": "BIFull",
+            "x": 205,
+            "y": 476,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Ghostly Mahatos",
+        "sections": [
+          {
+            "name": "Lv.76"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BIUM",
+            "x": 229,
+            "y": 459,
+            "size": 16
+          },
+          {
+            "map": "BIFull",
+            "x": 229,
+            "y": 459,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Mystical Klesida",
+        "sections": [
+          {
+            "name": "Lv.72"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BIUM",
+            "x": 282,
+            "y": 589,
+            "size": 16
+          },
+          {
+            "map": "BIFull",
+            "x": 282,
+            "y": 589,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Officer Robusto",
+        "sections": [
+          {
+            "name": "Lv.75"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BIUM",
+            "x": 384,
+            "y": 387,
+            "size": 16
+          },
+          {
+            "map": "BIFull",
+            "x": 384,
+            "y": 387,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Victorious Gross",
+        "sections": [
+          {
+            "name": "Lv.73"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BIUM",
+            "x": 353,
+            "y": 299,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Vivid Anstan",
+        "sections": [
+          {
+            "name": "Lv.75"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BIUM",
+            "x": 298,
+            "y": 577,
+            "size": 16
+          },
+          {
+            "map": "BIFull",
+            "x": 298,
+            "y": 577,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

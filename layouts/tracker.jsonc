@@ -2391,24 +2391,6 @@
                    ]
                   }
                 },
-                {
-                  "title": "Quests",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "BIQ"
-                    ]
-                 }
-                },
-                {
-                  "title": "NPC's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "BINPC"
-                     ]
-                    }
-                },
                   {
                   "title": "Heart-to-Heart's",
                   "content": {
@@ -2452,24 +2434,6 @@
                      "PIUM2"
                    ]
                   }
-                },
-                {
-                  "title": "Quests",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "PIQ2"
-                    ]
-                 }
-                },
-                {
-                  "title": "NPC's",
-                  "content": {
-                    "type": "map",
-                    "maps": [
-                      "PINPC2"
-                     ]
-                    }
                 },
                   {
                   "title": "Heart-to-Heart's",

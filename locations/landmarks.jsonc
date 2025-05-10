@@ -3568,5 +3568,122 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Bionis' Interior Second Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:21"],
+    "children": [
+      {
+        "name": "Interior Landing Site",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BILM",
+            "x": 75,
+            "y": 209,
+            "size": 16
+          },
+          {
+            "map": "BIFull",
+            "x": 75,
+            "y": 209,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Spinal Nerve Tower",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BILM",
+            "x": 171,
+            "y": 379,
+            "size": 16
+          },
+          {
+            "map": "BIFull",
+            "x": 171,
+            "y": 379,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Pars Sympathica Tower",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BILM",
+            "x": 353,
+            "y": 299,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Terminal Nerve Tower",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BILM",
+            "x": 318,
+            "y": 483,
+            "size": 16
+          },
+          {
+            "map": "BIFull",
+            "x": 318,
+            "y": 483,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Heart Entrance",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BILM",
+            "x": 657,
+            "y": 276,
+            "size": 16
+          },
+          {
+            "map": "BIFull",
+            "x": 657,
+            "y": 276,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

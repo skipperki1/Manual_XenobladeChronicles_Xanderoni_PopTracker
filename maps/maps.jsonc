@@ -553,18 +553,6 @@
     "img": "images/maps/BionisInterior.png"
   },
   {
-    "name": "BIQ",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/BionisInterior.png"
-  },
-  {
-    "name": "BINPC",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/BionisInterior.png"
-  },
-  {
     "name": "BIH2H",
     "location_size": 48,
     "location_border_thickness": 4,
@@ -590,12 +578,6 @@
   },
   {
     "name": "PIUM2",
-    "location_size": 48,
-    "location_border_thickness": 4,
-    "img": "images/maps/PrisonIslandEndGame.png"
-  },
-  {
-    "name": "PIQ2",
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/PrisonIslandEndGame.png"
