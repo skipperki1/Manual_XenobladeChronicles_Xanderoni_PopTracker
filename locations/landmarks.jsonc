@@ -3685,5 +3685,209 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Prison Island 2 Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:22"],
+    "children": [
+      {
+        "name": "Bridge of Grief",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 381,
+            "y": 291,
+            "size": 16
+          },
+          {
+            "map": "PIFull2",
+            "x": 381,
+            "y": 291,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Prison Gate",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 286,
+            "y": 289,
+            "size": 16
+          },
+          {
+            "map": "PIFull2",
+            "x": 286,
+            "y": 289,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Empty Throne",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 144,
+            "y": 540,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Gondorl Cathedral",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 966,
+            "y": 486,
+            "size": 16
+          },
+          {
+            "map": "PIFull2",
+            "x": 966,
+            "y": 486,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Prison Terrace",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 210,
+            "y": 819,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Memory Space Landmarks",
+    "chest_unopened_img": "images/mapicons/Landmark.png",
+    "chest_opened_img": "images/mapicons/LandmarkGray.png",
+    "access_rules": ["AreaKeys:22,MemoryFragments:20"],
+    "children": [
+      {
+        "name": "Saturn",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MSFull",
+            "x": 150,
+            "y": 282,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Jupiter",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MSFull",
+            "x": 134,
+            "y": 243,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Mars",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MSFull",
+            "x": 210,
+            "y": 285,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Moon",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MSFull",
+            "x": 128,
+            "y": 147,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sentient Genesis",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MSFull",
+            "x": 179,
+            "y": 195,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

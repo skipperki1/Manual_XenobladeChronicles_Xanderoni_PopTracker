@@ -3599,5 +3599,263 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Prison Island 2 Unique Monsters",
+    "chest_unopened_img": "images/mapicons/UM.png",
+    "chest_opened_img": "images/mapicons/DeadUM.png",
+    "access_rules": ["PIHunt,AreaKeys:22"],
+    "children": [
+      {
+        "name": "UM: Abnormal Clone Barg",
+        "sections": [
+          {
+            "name": "Lv.77"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIUM2",
+            "x": 147,
+            "y": 357,
+            "size": 16
+          },
+          {
+            "map": "PIFull2",
+            "x": 147,
+            "y": 357,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Ageless Moabit",
+        "sections": [
+          {
+            "name": "Lv.75"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIUM2",
+            "x": 448,
+            "y": 146,
+            "size": 16
+          },
+          {
+            "map": "PIFull2",
+            "x": 448,
+            "y": 146,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Cold Ageshu",
+        "sections": [
+          {
+            "name": "Lv.77"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIUM2",
+            "x": 662,
+            "y": 297,
+            "size": 16
+          },
+          {
+            "map": "PIFull2",
+            "x": 662,
+            "y": 297,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Fiendish Auburn",
+        "sections": [
+          {
+            "name": "Lv.78"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIUM2",
+            "x": 576,
+            "y": 782,
+            "size": 16
+          },
+          {
+            "map": "PIFull2",
+            "x": 576,
+            "y": 782,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Inferno Heinrich",
+        "sections": [
+          {
+            "name": "Lv.76"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIUM2",
+            "x": 662,
+            "y": 224,
+            "size": 16
+          },
+          {
+            "map": "PIFull2",
+            "x": 662,
+            "y": 224,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Majestic Clone Barg",
+        "sections": [
+          {
+            "name": "Lv.77"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIUM2",
+            "x": 232,
+            "y": 221,
+            "size": 16
+          },
+          {
+            "map": "PIFull2",
+            "x": 232,
+            "y": 221,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Masterful Gigapur",
+        "sections": [
+          {
+            "name": "Lv.77"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIUM2",
+            "x": 779,
+            "y": 765,
+            "size": 16
+          },
+          {
+            "map": "PIFull2",
+            "x": 779,
+            "y": 765,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "UM: Serene Imlaly",
+        "sections": [
+          {
+            "name": "Lv.76"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIUM2",
+            "x": 596,
+            "y": 266,
+            "size": 16
+          },
+          {
+            "map": "PIFull2",
+            "x": 596,
+            "y": 266,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Prison Island 2 Bosses",
+    "chest_unopened_img": "images/mapicons/Boss.png",
+    "chest_opened_img": "images/mapicons/DeadBoss.png",
+    "access_rules": ["AreaKeys:22"],
+    "children": [
+      {
+        "name": "Arena",
+        "sections": [
+          {
+            "name": "Boss: Demon Pavlovsk"
+          },
+          {
+            "name": "Boss: Obelis Obart"
+          },
+          {
+            "name": "Boss: Master Obart"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIUM2",
+            "x": 880,
+            "y": 257,
+            "size": 16
+          },
+          {
+            "map": "PIFull2",
+            "x": 880,
+            "y": 257,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Disciple Dickson",
+        "sections": [
+          {
+            "name": "Boss: Disciple Dickson"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIUM2",
+            "x": 210,
+            "y": 819,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Dragon King Alcar",
+        "sections": [
+          {
+            "name": "Boss: Dragon King Alcar"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIUM2",
+            "x": 781,
+            "y": 484,
+            "size": 16
+          },
+          {
+            "map": "PIFull2",
+            "x": 781,
+            "y": 484,
+            "size": 16
+          }
+        ]
+      }
+    ]
   }
 ]

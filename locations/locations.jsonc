@@ -4649,5 +4649,132 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Prison Island 2",
+    "access_rules": ["AreaKeys:22"],
+    "children":[
+      {
+        "name": "Empty Throne",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Prison Island 2 Landmarks/Empty Throne/Landmark"
+          },
+          {
+            "name": "Journey's End",
+            "ref": "Prison Island Second H2H/Journey's End/Reyn & Riki"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIFull2",
+            "x": 144,
+            "y": 540,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Prison Terrace",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Prison Island 2 Landmarks/Prison Terrace/Landmark"
+          },
+          {
+            "name": "Boss: Disciple Dickson",
+            "ref": "Prison Island 2 Bosses/Disciple Dickson/Boss: Disciple Dickson"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIFull2",
+            "x": 210,
+            "y": 819,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Quests",
+        "sections": [
+          {
+            "name": "Chase Dickson",
+            "chest_unopened_img": "images/mapicons/QuestMarker.png",
+            "chest_opened_img": "images/mapicons/QuestMarkerGray.png"
+          },
+          {
+            "name": "Path to the Top",
+            "chest_unopened_img": "images/mapicons/QuestMarker.png",
+            "chest_opened_img": "images/mapicons/QuestMarkerGray.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIFull2",
+            "x": 918,
+            "y": 736,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Collectopaedia",
+        "access_rules": ["AreaKeys:22"],
+        "sections": [
+          {
+            "name": "Fruit Completion",
+            "access_rules": ["PIFruit"],
+            "chest_unopened_img": "images/items/Fruit.png",
+            "chest_opened_img": "images/items/FruitDone.png"
+          },
+          {
+            "name": "Animal Completion",
+            "access_rules": ["PIAnimal"],
+            "chest_unopened_img": "images/items/Animal.png",
+            "chest_opened_img": "images/items/AnimalDone.png"
+          },
+          {
+            "name": "Bug Completion",
+            "access_rules": ["PIBug"],
+            "chest_unopened_img": "images/items/Bug.png",
+            "chest_opened_img": "images/items/BugDone.png"
+          },
+          {
+            "name": "Nature Completion",
+            "access_rules": ["PINature"],
+            "chest_unopened_img": "images/items/Nature.png",
+            "chest_opened_img": "images/items/NatureDone.png"
+          },
+          {
+            "name": "Parts Completion",
+            "access_rules": ["PIParts"],
+            "chest_unopened_img": "images/items/Parts.png",
+            "chest_opened_img": "images/items/PartsDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["PIStrange"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["PIFruit,PIAnimal,PIBug,PINature,PIParts,PIStrange"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIFull2",
+            "x": 632,
+            "y": 388,
+            "size": 24
+          }
+        ]
+      }
+    ]
   }
 ]
