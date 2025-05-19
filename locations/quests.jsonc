@@ -587,19 +587,19 @@
           },
           {
             "name": "Challenge 1 - Part 1 (MISSABLE)",
-            "access_rules": []
+            "access_rules": ["BLHunt"]
           },
           {
             "name": "Challenge 1 - Part 2 (MISSABLE)",
-            "access_rules": []
+            "access_rules": ["BLHunt"]
           },
           {
             "name": "Challenge 2 - Part 1 (MISSABLE)",
-            "access_rules": []
+            "access_rules": ["BLHunt"]
           },
           {
             "name": "Challenge 2 - Part 2 (MISSABLE)",
-            "access_rules": []
+            "access_rules": ["BLHunt"]
           },
           {
             "name": "Material Quest 1 (MISSABLE)",
