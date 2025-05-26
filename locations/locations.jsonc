@@ -338,11 +338,11 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Tranquil Square",
+            "name": "Landmark",
             "ref": "Colony 9 Landmarks/Central Plaza/Landmark"
           },
           {
-            "name": "Central Plaza",
+            "name": "Search Quest 1",
             "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
           }
         ],
