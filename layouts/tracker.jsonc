@@ -55,6 +55,23 @@
           "type": "tabbed",
           "tabs": [
             {
+              "title": "Summary",
+              "content": {
+               "type": "tabbed",
+               "tabs": [
+                {
+                 "title": "Summary",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "Summary"
+                    ]
+                  }
+                }
+                ]
+              }
+            },
+            {
               "title": "Colony 9",
               "content": {
                "type": "tabbed",
@@ -1389,6 +1406,23 @@
         {
           "type": "tabbed",
           "tabs": [
+            {
+              "title": "Summary",
+              "content": {
+               "type": "tabbed",
+               "tabs": [
+                {
+                 "title": "Summary",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "Summary"
+                    ]
+                  }
+                }
+                ]
+              }
+            },
             {
               "title": "Colony 9",
               "content": {

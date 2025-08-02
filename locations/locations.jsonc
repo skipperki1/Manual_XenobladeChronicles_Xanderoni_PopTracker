@@ -18,6 +18,12 @@
             "x": 200,
             "y": 206,
             "size": 32
+          },
+          {
+            "map": "Summary",
+            "x": 331,
+            "y": 16,
+            "size": 8
           }
         ]
       }
@@ -61,6 +67,12 @@
             "x": 95,
             "y": 170,
             "size": 16
+          },
+          {
+            "map": "Summary",
+            "x": 107,
+            "y": 391,
+            "size": 8
           }
         ]
       },
@@ -100,6 +112,12 @@
             "x": 199,
             "y": 89,
             "size": 16
+          },
+          {
+            "map": "Summary",
+            "x": 159,
+            "y": 391,
+            "size": 8
           }
         ]
       },
@@ -139,6 +157,12 @@
             "x": 136,
             "y": 284,
             "size": 16
+          },
+          {
+            "map": "Summary",
+            "x": 212,
+            "y": 391,
+            "size": 8
           }
         ]
       },
@@ -178,6 +202,12 @@
             "x": 264,
             "y": 284,
             "size": 16
+          },
+          {
+            "map": "Summary",
+            "x": 264,
+            "y": 391,
+            "size": 8
           }
         ]
       },
@@ -217,6 +247,12 @@
             "x": 305,
             "y": 174,
             "size": 16
+          },
+          {
+            "map": "Summary",
+            "x": 316,
+            "y": 391,
+            "size": 8
           }
         ]
       }
@@ -4772,6 +4808,495 @@
             "x": 632,
             "y": 388,
             "size": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Summary",
+    "children":[
+      {
+        "name": "C9 Quests 1",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Prison Island 2 Landmarks/Prison Terrace/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 55,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C9 Quests 2",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Prison Island 2 Landmarks/Prison Terrace/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 55,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C9 Quests 3",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Prison Island 2 Landmarks/Prison Terrace/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 55,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C9 Quests 4",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Prison Island 2 Landmarks/Prison Terrace/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 55,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C9 Quests 5",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Prison Island 2 Landmarks/Prison Terrace/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 55,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C9 NPCs A-Ji",
+        "sections": [
+          {
+            "name": "Andreas",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+          },
+          {
+            "name": "Arnaut",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Arnaut"
+          },
+          {
+            "name": "Betty",
+            "ref": "Colony 9 NPCs/Tranquil Square/Betty"
+          },
+          {
+            "name": "Cheryl",
+            "ref": "Colony 9 NPCs/Ether Light/Cheryl"
+          },
+          {
+            "name": "Dean",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Dean"
+          },
+          {
+            "name": "Desiree",
+            "ref": "Colony 9 NPCs/Ether Light/Desiree"
+          },
+          {
+            "name": "Dionysis",
+            "ref": "Colony 9 NPCs/Residential District (South)/Dionysis"
+          },
+          {
+            "name": "Dorothy",
+            "ref": "Colony 9 NPCs/Dunban's House/Dorothy"
+          },
+          {
+            "name": "Emmy Leater",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Emmy Leater"
+          },
+          {
+            "name": "Erik",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Erik"
+          },
+          {
+            "name": "Francoise",
+            "ref": "Colony 9 NPCs/Tranquil Square/Francoise"
+          },
+          {
+            "name": "Giorgio",
+            "ref": "Colony 9 NPCs/Ether Light/Giorgio"
+          },
+          {
+            "name": "Jackson",
+            "ref": "Colony 9 NPCs/Residential District (West)/Jackson"
+          },
+          {
+            "name": "Jan",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Jan"
+          },
+          {
+            "name": "Jiroque",
+            "ref": "Colony 9 NPCs/Residential District (South)/Jiroque"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 148,
+            "y": 55,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C9 NPCs Jo-Ni",
+        "sections": [
+          {
+            "name": "Jolele",
+            "ref": "Colony 9 NPCs/Residential District (South)/Jolele"
+          },
+          {
+            "name": "Kantz",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Kantz"
+          },
+          {
+            "name": "Kenny Rohan",
+            "ref": "Colony 9 NPCs/Tranquil Square/Kenny Rohan"
+          },
+          {
+            "name": "King Squeeze",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/King Squeeze"
+          },
+          {
+            "name": "Leopold",
+            "ref": "Colony 9 NPCs/Ether Light/Leopold"
+          },
+          {
+            "name": "Liliana",
+            "ref": "Colony 9 NPCs/Dunban's House/Liliana"
+          },
+          {
+            "name": "Lukas",
+            "ref": "Colony 9 NPCs/Residential District (West)/Lukas"
+          },
+          {
+            "name": "Marcia",
+            "ref": "Colony 9 NPCs/Ether Light/Marcia"
+          },
+          {
+            "name": "Mefimefi",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Mefimefi"
+          },
+          {
+            "name": "Miller",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Miller"
+          },
+          {
+            "name": "Minnie",
+            "ref": "Colony 9 NPCs/Residential District (West)/Minnie"
+          },
+          {
+            "name": "Monica",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Monica"
+          },
+          {
+            "name": "Moritz",
+            "ref": "Colony 9 NPCs/Residential District (West)/Moritz"
+          },
+          {
+            "name": "Narine",
+            "ref": "Colony 9 NPCs/Residential District (West)/Narine"
+          },
+          {
+            "name": "Nic",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Nic"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 163,
+            "y": 55,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C9 NPCs Ni-Z",
+        "sections": [
+          {
+            "name": "Niranira",
+            "ref": "Colony 9 NPCs/Residential District (West)/Niranira"
+          },
+          {
+            "name": "Oleksiy",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Oleksiy"
+          },
+          {
+            "name": "Paola",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Paola"
+          },
+          {
+            "name": "Peppino",
+            "ref": "Colony 9 NPCs/Residential District (South)/Peppino"
+          },
+          {
+            "name": "Perrine",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Perrine"
+          },
+          {
+            "name": "Raoul",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Raoul"
+          },
+          {
+            "name": "Rocco",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Rocco"
+          },
+          {
+            "name": "Rosemary",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Rosemary"
+          },
+          {
+            "name": "Sesame",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Sesame"
+          },
+          {
+            "name": "Shura",
+            "ref": "Colony 9 NPCs/Ether Light/Shura"
+          },
+          {
+            "name": "Sonia",
+            "ref": "Colony 9 NPCs/Ether Light/Sonia"
+          },
+          {
+            "name": "Suzanna",
+            "ref": "Colony 9 NPCs/Residential District (West)/Suzanna"
+          },
+          {
+            "name": "Sylviane",
+            "ref": "Colony 9 NPCs/Ether Light/Sylviane"
+          },
+          {
+            "name": "Werner",
+            "ref": "Colony 9 NPCs/Mechon Wreckage Site/Werner"
+          },
+          {
+            "name": "Zukazu",
+            "ref": "Colony 9 NPCs/Residential District (West)/Zukazu"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 178,
+            "y": 55,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C9 Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          },
+          {
+            "name": "Mechon Wreckage Site",
+            "ref": "Colony 9 Landmarks/Mechon Wreckage Site/Landmark"
+          },
+          {
+            "name": "Main Entrance",
+            "ref": "Colony 9 Landmarks/Main Entrance (Colony 9)/Landmark"
+          },
+          {
+            "name": "Ether Light",
+            "ref": "Colony 9 Landmarks/Ether Light/Landmark"
+          },
+          {
+            "name": "Central Plaza",
+            "ref": "Colony 9 Landmarks/Central Plaza/Landmark"
+          },
+          {
+            "name": "Fortress Entrance",
+            "ref": "Colony 9 Landmarks/Fortress Entrance/Landmark"
+          },
+          {
+            "name": "Tranquil Square",
+            "ref": "Colony 9 Landmarks/Tranquil Square/Landmark"
+          },
+          {
+            "name": "Outlook Park",
+            "ref": "Colony 9 Landmarks/Outlook Park/Landmark"
+          },
+          {
+            "name": "Tephra Cave Entrance",
+            "ref": "Colony 9 Landmarks/Tephra Cave Entrance/Landmark"
+          },
+          {
+            "name": "Cylinder Hanger",
+            "ref": "Colony 9 Landmarks/Cylinder Hanger/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 55,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C9 Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          },
+          {
+            "name": "Itinerant Dorothea (Lv.6 (Day))",
+            "ref": "Colony 9 Unique Monsters/UM: Itinerant Dorothea/Lv.6 (Day)"
+          },
+          {
+            "name": "Evil Rhangrot (Lv.6)",
+            "ref": "Colony 9 Unique Monsters/Evil Rhangrot/Lv.6"
+          },
+          {
+            "name": "Lake Magdalena (Lv.6 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Lake Magdalena/Lv.6 (Night)"
+          },
+          {
+            "name": "Speedy Ramshyde (Lv.10)",
+            "ref": "Colony 9 Unique Monsters/UM: Speedy Ramshyde/Lv.10"
+          },
+          {
+            "name": "Enchanting Grune (Lv.13)",
+            "ref": "Colony 9 Unique Monsters/UM: Enchanting Grune/Lv.13"
+          },
+          {
+            "name": "Dark Murkamor (Lv.18 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Dark Murkamor/Lv.18 (Night)"
+          },
+          {
+            "name": "Landmark",
+            "ref": "Colony 9 Unique Monsters/UM: /Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 55,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C9 Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Landmark",
+            "ref": "Colony 9 Unique Monsters/UM: /Landmark"
+          },
+          {
+            "name": "Landmark",
+            "ref": "Colony 9 Unique Monsters/UM: /Landmark"
+          },
+          {
+            "name": "Landmark",
+            "ref": "Colony 9 Unique Monsters/UM: /Landmark"
+          },
+          {
+            "name": "Landmark",
+            "ref": "Colony 9 Unique Monsters/UM: /Landmark"
+          },
+          {
+            "name": "Landmark",
+            "ref": "Colony 9 Unique Monsters/UM: /Landmark"
+          },
+          {
+            "name": "Landmark",
+            "ref": "Colony 9 Unique Monsters/UM: /Landmark"
+          },
+          {
+            "name": "Landmark",
+            "ref": "Colony 9 Unique Monsters/UM: /Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 55,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C9 Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          },
+          {
+            "name": "Ancient Wreckage (Reyn/Melia)",
+            "ref": "Colony 9 H2H/Ancient Wreckage/Reyn & Melia"
+          },
+          {
+            "name": "A Heropon's Perspective (Sharla/Riki)",
+            "ref": "Colony 9 H2H/A Heropon's Perspective/Sharla & Riki"
+          },
+          {
+            "name": "Sunrise in the Park (Shulk/Fiora)",
+            "ref": "Colony 9 H2H/Sunrise in the Park/Shulk & Fiora"
+          },
+          {
+            "name": "Fiora's Cooking (Reyn/Fiora)",
+            "ref": "Colony 9 H2H/Fiora's Cooking/Reyn & Fiora"
+          },
+          {
+            "name": "Enduring Friendship (Shulk/Reyn)",
+            "ref": "Colony 9 H2H/Enduring Friendship/Shulk & Reyn"
+          },
+          {
+            "name": "Overlooking the Colony (Reyn/Sharla)",
+            "ref": "Colony 9 H2H/Overlooking the Colony/Reyn & Sharla"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 55,
+            "size": 8
           }
         ]
       }

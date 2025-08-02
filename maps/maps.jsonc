@@ -1,6 +1,12 @@
 [
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
   {
+    "name": "Summary",
+    "location_size": 48,
+    "location_border_thickness": 2,
+    "img": "images/maps/Summary.png"
+  },
+  {
     "name": "C9Full",
     "location_size": 48,
     "location_border_thickness": 4,

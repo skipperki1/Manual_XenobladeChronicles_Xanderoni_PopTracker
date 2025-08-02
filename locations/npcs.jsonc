@@ -26,35 +26,35 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Jackson (AM)",
+            "name": "Jackson",
             "chest_opened_img": "images/npcs/Jackson.png"
           },
           {
-            "name": "Lukas (AM)",
+            "name": "Lukas",
             "chest_opened_img": "images/npcs/Lukas.png"
           },
           {
-            "name": "Minnie (PM)",
+            "name": "Minnie",
             "chest_opened_img": "images/npcs/Minnie.png"
           },
           {
-            "name": "Moritz (AM)",
+            "name": "Moritz",
             "chest_opened_img": "images/npcs/Moritz.png"
           },
           {
-            "name": "Narine (AM)",
+            "name": "Narine",
             "chest_opened_img": "images/npcs/Narine.png"
           },
           {
-            "name": "Niranira (AM)",
+            "name": "Niranira",
             "chest_opened_img": "images/npcs/Niranira.png"
           },
           {
-            "name": "Suzanna (AM)",
+            "name": "Suzanna",
             "chest_opened_img": "images/npcs/Suzanna.png"
           },
           {
-            "name": "Zukazu (PM)",
+            "name": "Zukazu",
             "chest_opened_img": "images/npcs/Zukazu.png"
           }
         ],
@@ -72,19 +72,19 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Dionysis (AM)",
+            "name": "Dionysis",
             "chest_opened_img": "images/npcs/Dionysis.png"
           },
           {
-            "name": "Jolele (PM)",
+            "name": "Jolele",
             "chest_opened_img": "images/npcs/Jolele.png"
           },
           {
-            "name": "Jiroque (PM)",
+            "name": "Jiroque",
             "chest_opened_img": "images/npcs/Jiroque.png"
           },
           {
-            "name": "Peppino (PM)",
+            "name": "Peppino",
             "chest_opened_img": "images/npcs/Peppino.png"
           }
         ],
@@ -102,15 +102,15 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Kenny Rohan (AM)",
+            "name": "Kenny Rohan",
             "chest_opened_img": "images/npcs/KennyRohan.png"
           },
           {
-            "name": "Betty (AM)",
+            "name": "Betty",
             "chest_opened_img": "images/npcs/Betty.png"
           },
           {
-            "name": "Francoise (AM)",
+            "name": "Francoise",
             "chest_opened_img": "images/npcs/Francoise.png"
           }
         ],
@@ -128,27 +128,27 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Paola (AM)",
+            "name": "Paola",
             "chest_opened_img": "images/npcs/Paola.png"
           },
           {
-            "name": "Rocco (AM)",
+            "name": "Rocco",
             "chest_opened_img": "images/npcs/Rocco.png"
           },
           {
-            "name": "Oleksiy (PM)",
+            "name": "Oleksiy",
             "chest_opened_img": "images/npcs/Oleksiy.png"
           },
           {
-            "name": "Rosemary (PM)",
+            "name": "Rosemary",
             "chest_opened_img": "images/npcs/Rosemary.png"
           },
           {
-            "name": "Sesame (PM)",
+            "name": "Sesame",
             "chest_opened_img": "images/npcs/Sesame.png"
           },
           {
-            "name": "King Squeeze (PM)",
+            "name": "King Squeeze",
             "chest_opened_img": "images/npcs/KingSqueeze.png"
           }
         ],
@@ -166,35 +166,35 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Cheryl (AM)",
+            "name": "Cheryl",
             "chest_opened_img": "images/npcs/Cheryl.png"
           },
           {
-            "name": "Marcia (AM)",
+            "name": "Marcia",
             "chest_opened_img": "images/npcs/Marcia.png"
           },
           {
-            "name": "Sonia (AM)",
+            "name": "Sonia",
             "chest_opened_img": "images/npcs/Sonia.png"
           },
           {
-            "name": "Giorgio (AM)",
+            "name": "Giorgio",
             "chest_opened_img": "images/npcs/Giorgio.png"
           },
           {
-            "name": "Desiree (PM)",
+            "name": "Desiree",
             "chest_opened_img": "images/npcs/Desiree.png"
           },
           {
-            "name": "Shura (PM)",
+            "name": "Shura",
             "chest_opened_img": "images/npcs/Shura.png"
           },
           {
-            "name": "Leopold (PM)",
+            "name": "Leopold",
             "chest_opened_img": "images/npcs/Leopold.png"
           },
           {
-            "name": "Sylviane (PM)",
+            "name": "Sylviane",
             "chest_opened_img": "images/npcs/Sylviane.png"
           }
         ],
@@ -212,11 +212,11 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Dorothy (AM)",
+            "name": "Dorothy",
             "chest_opened_img": "images/npcs/Dorothy.png"
           },
           {
-            "name": "Liliana (AM)",
+            "name": "Liliana",
             "chest_opened_img": "images/npcs/Liliana.png"
           }
         ],
@@ -234,35 +234,35 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Raoul (AM)",
+            "name": "Raoul",
             "chest_opened_img": "images/npcs/Raoul.png"
           },
           {
-            "name": "Jan (AM)",
+            "name": "Jan",
             "chest_opened_img": "images/npcs/Jan.png"
           },
           {
-            "name": "Miller (AM)",
+            "name": "Miller",
             "chest_opened_img": "images/npcs/Miller.png"
           },
           {
-            "name": "Dean (AM)",
+            "name": "Dean",
             "chest_opened_img": "images/npcs/Dean.png"
           },
           {
-            "name": "Mefimefi (PM)",
+            "name": "Mefimefi",
             "chest_opened_img": "images/npcs/Mefimefi.png"
           },
           {
-            "name": "Arnaut (PM)",
+            "name": "Arnaut",
             "chest_opened_img": "images/npcs/Arnaut.png"
           },
           {
-            "name": "Erik (20:00)",
+            "name": "Erik",
             "chest_opened_img": "images/npcs/Erik.png"
           },
           {
-            "name": "Perrine (20:00)",
+            "name": "Perrine",
             "chest_opened_img": "images/npcs/Perrine.png"
           }
         ],
@@ -280,23 +280,23 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Emmy Leater (AM)",
+            "name": "Emmy Leater",
             "chest_opened_img": "images/npcs/EmmyLeater.png"
           },
           {
-            "name": "Kantz (AM)",
+            "name": "Kantz",
             "chest_opened_img": "images/npcs/Kantz.png"
           },
           {
-            "name": "Monica (PM)",
+            "name": "Monica",
             "chest_opened_img": "images/npcs/Monica.png"
           },
           {
-            "name": "Andreas (PM)",
+            "name": "Andreas",
             "chest_opened_img": "images/npcs/Andreas.png"
           },
           {
-            "name": "Nic (PM)",
+            "name": "Nic",
             "chest_opened_img": "images/npcs/Nic.png"
           }
         ],
@@ -320,7 +320,7 @@
         "access_rules": ["AreaKeys:2"],
         "sections": [
           {
-            "name": "Anna (AM)",
+            "name": "Anna",
             "chest_opened_img": "images/npcs/Anna.png"
           },
           {
@@ -336,7 +336,7 @@
             "chest_opened_img": "images/npcs/Ewan.png"
           },
           {
-            "name": "Gorman (PM)",
+            "name": "Gorman",
             "chest_opened_img": "images/npcs/Gorman.png"
           },
           {
@@ -344,19 +344,19 @@
             "chest_opened_img": "images/npcs/Juju.png"
           },
           {
-            "name": "Kiroki (AM)",
+            "name": "Kiroki",
             "chest_opened_img": "images/npcs/Kiroki.png"
           },
           {
-            "name": "Matryona (AM)",
+            "name": "Matryona",
             "chest_opened_img": "images/npcs/Matryona.png"
           },
           {
-            "name": "Nikita (AM)",
+            "name": "Nikita",
             "chest_opened_img": "images/npcs/Nikita.png"
           },
           {
-            "name": "Olga (AM)",
+            "name": "Olga",
             "chest_opened_img": "images/npcs/Olga.png"
           },
           {
@@ -364,7 +364,7 @@
             "chest_opened_img": "images/npcs/Pama.png"
           },
           {
-            "name": "Satata (AM)",
+            "name": "Satata",
             "chest_opened_img": "images/npcs/Satata.png"
           }
         ],
@@ -410,40 +410,40 @@
         "access_rules": ["AreaKeys:3"],
         "sections": [
           {
-            "name": "Anna (AM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Anna (AM)"
+            "name": "Anna",
+            "ref": "Colony 6 NPCs/Refugee Camp/Anna"
           },
           {
-            "name": "Arda (AM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Arda (AM)"
+            "name": "Arda",
+            "ref": "Colony 6 NPCs/Refugee Camp/Arda"
           },
           {
-            "name": "Ewan (PM)",
+            "name": "Ewan",
             "ref": "Colony 6 NPCs/Refugee Camp/Ewan"
           },
           {
-            "name": "Gorman (PM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Gorman (PM)"
+            "name": "Gorman",
+            "ref": "Colony 6 NPCs/Refugee Camp/Gorman"
           },
           {
             "name": "Juju",
             "ref": "Colony 6 NPCs/Refugee Camp/Juju"
           },
           {
-            "name": "Kiroki (AM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Kiroki (AM)"
+            "name": "Kiroki",
+            "ref": "Colony 6 NPCs/Refugee Camp/Kiroki"
           },
           {
-            "name": "Matryona (PM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Matryona (AM)"
+            "name": "Matryona",
+            "ref": "Colony 6 NPCs/Refugee Camp/Matryona"
           },
           {
-            "name": "Nikita (AM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Nikita (AM)"
+            "name": "Nikita",
+            "ref": "Colony 6 NPCs/Refugee Camp/Nikita"
           },
           {
-            "name": "Olga (PM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Olga (AM)"
+            "name": "Olga",
+            "ref": "Colony 6 NPCs/Refugee Camp/Olga"
           },
           {
             "name": "Otharon",
@@ -451,12 +451,12 @@
             "access_rules": ["AreaKeys:4"]
           },
           {
-            "name": "Pama (AM)",
+            "name": "Pama",
             "ref": "Colony 6 NPCs/Refugee Camp/Pama"
           },
           {
-            "name": "Satata (AM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Satata (AM)"
+            "name": "Satata",
+            "ref": "Colony 6 NPCs/Refugee Camp/Satata"
           }
         ],
         "map_locations": [
