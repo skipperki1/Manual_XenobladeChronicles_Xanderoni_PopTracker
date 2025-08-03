@@ -5077,15 +5077,15 @@
         ]
       },
       {
-        "name": "C9 Quests 5",
+        "name": "C9 Quests S-T",
         "sections": [
           {
             "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/PrisonTerrace/Search Quest 1"
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
           },
           {
             "name": "Search Quest 2",
-            "ref": "Colony 9 Quests/PrisonTerrace/Search Quest 2"
+            "ref": "Colony 9 Quests/Tranquil Square/Search Quest 2"
           },
           {
             "name": "Search Quest 3",
@@ -5093,43 +5093,43 @@
           },
           {
             "name": "Search Quest 4",
-            "ref": "Colony 9 Quests/PrisonTerrace/Search Quest 4"
+            "ref": "Colony 9 Quests/Tranquil Square/Search Quest 4"
           },
           {
-            "name": "Landmark",
-            "ref": "Colony 9 Quests/PrisonTerrace/Landmark"
+            "name": "The Broken Watch",
+            "ref": "Colony 9 Quests/Ether Light 2/The Broken Watch"
           },
           {
-            "name": "Landmark",
-            "ref": "Colony 9 Quests/PrisonTerrace/Landmark"
+            "name": "The Elite Captain's Anguish",
+            "ref": "Colony 9 Quests/Fortress Entrance/The Elite Captain's Anguish"
           },
           {
-            "name": "Landmark",
-            "ref": "Colony 9 Quests/PrisonTerrace/Landmark"
+            "name": "The Gem Man's Invention",
+            "ref": "Colony 9 Quests/Gem Man's Stall/The Gem Man's Invention"
           },
           {
-            "name": "Landmark",
-            "ref": "Colony 9 Quests/PrisonTerrace/Landmark"
+            "name": "The Key to a Long Life",
+            "ref": "Colony 9 Quests/Tranquil Square/The Key to a Long Life"
           },
           {
-            "name": "Landmark",
-            "ref": "Colony 9 Quests/PrisonTerrace/Landmark"
+            "name": "The Lost Pendant",
+            "ref": "Colony 9 Quests/Cylinder Hangar/The Lost Pendant"
           },
           {
-            "name": "Landmark",
-            "ref": "Colony 9 Quests/PrisonTerrace/Landmark"
+            "name": "The Old Soldier's Test",
+            "ref": "Colony 9 Quests/Fortress Entrance/The Old Soldier's Test"
           },
           {
-            "name": "Landmark",
-            "ref": "Colony 9 Quests/PrisonTerrace/Landmark"
+            "name": "The Plan - Preparation",
+            "ref": "Colony 9 Quests/Ether Light 2/The Plan - Preparation"
           },
           {
-            "name": "Landmark",
-            "ref": "Colony 9 Quests/PrisonTerrace/Landmark"
+            "name": "The Plan - The Night Before",
+            "ref": "Colony 9 Quests/Ether Light 2/The Plan - The Night Before"
           },
           {
-            "name": "Landmark",
-            "ref": "Colony 9 Quests/PrisonTerrace/Landmark"
+            "name": "The Plan - Execution",
+            "ref": "Colony 9 Quests/Ether Light 2/The Plan - Execution"
           }
         ],
         "map_locations": [
@@ -5536,6 +5536,3287 @@
             "map": "Summary",
             "x": 308,
             "y": 55,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "TC Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 71,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "TC Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 71,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "TC Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 71,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "TC Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 71,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "TC Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 71,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "TC Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 71,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "TC Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 71,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "TC Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 71,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "TC Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 71,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BL Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 87,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BL Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 87,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BL Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 87,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BL Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 87,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BL Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 87,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BL NPCs 1",
+        "sections": [
+          {
+            "name": "Andreas",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 148,
+            "y": 87,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BL NPCs 2",
+        "sections": [
+          {
+            "name": "Jolele",
+            "ref": "Colony 9 NPCs/Residential District (South)/Jolele"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 163,
+            "y": 87,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BL NPCs 3",
+        "sections": [
+          {
+            "name": "Niranira",
+            "ref": "Colony 9 NPCs/Residential District (West)/Niranira"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 178,
+            "y": 87,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BL Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 87,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BL Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 87,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BL Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 87,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BL Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 87,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C6 Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 103,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C6 Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 103,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C6 Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 103,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C6 Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 103,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C6 Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 103,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C6 NPCs 1",
+        "sections": [
+          {
+            "name": "Andreas",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 148,
+            "y": 103,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C6 NPCs 2",
+        "sections": [
+          {
+            "name": "Jolele",
+            "ref": "Colony 9 NPCs/Residential District (South)/Jolele"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 163,
+            "y": 103,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C6 NPCs 3",
+        "sections": [
+          {
+            "name": "Niranira",
+            "ref": "Colony 9 NPCs/Residential District (West)/Niranira"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 178,
+            "y": 103,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C6 Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 103,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C6 Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 103,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C6 Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 103,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "C6 Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 103,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "EM Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 119,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "EM Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 119,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "EM Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 119,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "EM Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 119,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "EM Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 119,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "EM Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 119,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "EM Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 119,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "EM Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 119,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "EM Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 119,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SM Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 135,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SM Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 135,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SM Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 135,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SM Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 135,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SM Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 135,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SM NPCs 1",
+        "sections": [
+          {
+            "name": "Andreas",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 148,
+            "y": 135,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SM Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 135,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SM Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 135,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SM Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 135,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SM Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 135,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MaFo Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 151,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MaFo Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 151,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MaFo Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 151,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MaFo Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 151,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MaFo Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 151,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MaFo NPCs 1",
+        "sections": [
+          {
+            "name": "Andreas",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 148,
+            "y": 151,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MaFo Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 151,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MaFo Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 151,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MaFo Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 151,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MaFo Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 151,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FV Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 167,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FV Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 167,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FV Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 167,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FV Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 167,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FV Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 167,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FV NPCs 1",
+        "sections": [
+          {
+            "name": "Andreas",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 148,
+            "y": 167,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FV NPCs 2",
+        "sections": [
+          {
+            "name": "Jolele",
+            "ref": "Colony 9 NPCs/Residential District (South)/Jolele"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 163,
+            "y": 167,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FV NPCs 3",
+        "sections": [
+          {
+            "name": "Niranira",
+            "ref": "Colony 9 NPCs/Residential District (West)/Niranira"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 178,
+            "y": 167,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FV Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 167,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FV Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 167,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "ES Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 183,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "ES Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 183,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "ES Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 183,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "ES Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 183,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "ES Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 183,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "ES NPCs 1",
+        "sections": [
+          {
+            "name": "Andreas",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 148,
+            "y": 183,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "ES Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 183,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "ES Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 183,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "ES Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 183,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "ES Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 183,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AL Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 199,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AL Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 199,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AL Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 199,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AL Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 199,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AL Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 199,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AL NPCs 1",
+        "sections": [
+          {
+            "name": "Andreas",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 148,
+            "y": 199,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AL NPCs 2",
+        "sections": [
+          {
+            "name": "Jolele",
+            "ref": "Colony 9 NPCs/Residential District (South)/Jolele"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 163,
+            "y": 199,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AL NPCs 3",
+        "sections": [
+          {
+            "name": "Niranira",
+            "ref": "Colony 9 NPCs/Residential District (West)/Niranira"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 178,
+            "y": 199,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AL Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 199,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AL Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 199,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "HT Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 215,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "HT Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 215,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "HT Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 215,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "HT Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 215,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "HT Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 215,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "HT NPCs 1",
+        "sections": [
+          {
+            "name": "Andreas",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 148,
+            "y": 215,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "HT Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 215,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "HT Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 215,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "HT Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 215,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "HT Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 215,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "VM Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 231,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "VM Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 231,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "VM Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 231,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "VM Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 231,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "VM Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 231,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "VM NPCs 1",
+        "sections": [
+          {
+            "name": "Andreas",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 148,
+            "y": 231,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "VM Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 231,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "VM Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 231,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "VM Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 231,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "VM Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 231,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SV Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 247,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SV Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 247,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SV Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 247,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SV Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 247,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SV Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 247,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SV Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 247,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SV Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 247,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SV Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 247,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "SV Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 247,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "GF Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 263,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "GF Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 263,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "GF Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 263,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "GF Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 263,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "GF Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 263,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "GF Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 263,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "GF Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 263,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "GF Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 263,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "GF Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 263,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FA Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 279,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FA Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 279,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FA Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 279,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FA Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 279,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FA Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 279,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FA NPCs 1",
+        "sections": [
+          {
+            "name": "Andreas",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 148,
+            "y": 279,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FA NPCs 2",
+        "sections": [
+          {
+            "name": "Jolele",
+            "ref": "Colony 9 NPCs/Residential District (South)/Jolele"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 163,
+            "y": 279,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FA NPCs 3",
+        "sections": [
+          {
+            "name": "Niranira",
+            "ref": "Colony 9 NPCs/Residential District (West)/Niranira"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 178,
+            "y": 279,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FA Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 279,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FA Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 279,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FA Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 279,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "FA Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 279,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MeFi Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 295,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MeFi Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 295,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MeFi Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 295,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MeFi Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 295,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MeFi Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 295,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MeFi Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 295,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MeFi Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 295,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MeFi Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 295,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MeFi Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 295,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "CF Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 311,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "CF Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 311,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "CF Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 311,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "CF Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 311,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "CF Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 311,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "CF Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 311,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "CF Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 311,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "CF Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 311,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "CF Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 311,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AG Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 327,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AG Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 327,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AG Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 327,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AG Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 327,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AG Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 327,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AG Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 327,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AG Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 327,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AG Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 327,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "AG Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 327,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BI Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 343,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BI Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 343,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BI Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 343,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BI Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 343,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BI Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 343,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BI Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 343,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BI Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 343,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BI Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 343,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "BI Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 343,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "PI Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 359,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "PI Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 359,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "PI Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 359,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "PI Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 359,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "PI Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 359,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "PI Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 359,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "PI Unique Monsters 1",
+        "sections": [
+          {
+            "name": "Verdant Bluchal (Lv.5)",
+            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 245,
+            "y": 359,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "PI Unique Monsters 2",
+        "sections": [
+          {
+            "name": "Impenetrable Redrob (Lv.38 (Night))",
+            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 260,
+            "y": 359,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "PI Heart-to-Hearts",
+        "sections": [
+          {
+            "name": "Watching Over Them (Reyn/Dunban)",
+            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 308,
+            "y": 359,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MS Quests 1",
+        "sections": [
+          {
+            "name": "A Curry Conundrum",
+            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 55,
+            "y": 375,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MS Quests 2",
+        "sections": [
+          {
+            "name": "Collection Quest 1",
+            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 70,
+            "y": 375,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MS Quests 3",
+        "sections": [
+          {
+            "name": "Jackson's Awakening",
+            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 85,
+            "y": 375,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MS Quests 4",
+        "sections": [
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 100,
+            "y": 375,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MS Quests 5",
+        "sections": [
+          {
+            "name": "Search Quest 1",
+            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 115,
+            "y": 375,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "MS Landmarks",
+        "sections": [
+          {
+            "name": "Gem Man's Stall",
+            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Summary",
+            "x": 213,
+            "y": 375,
             "size": 8
           }
         ]
