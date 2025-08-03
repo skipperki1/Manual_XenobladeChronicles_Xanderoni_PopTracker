@@ -5541,11 +5541,39 @@
         ]
       },
       {
-        "name": "TC Quests 1",
+        "name": "TC Mag Mell Ruins Quests",
         "sections": [
           {
-            "name": "A Curry Conundrum",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+            "name": "A Thank You",
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/A Thank You"
+          },
+          {
+            "name": "Arachno Silk Fundraising",
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/Arachno Silk Fundraising"
+          },
+          {
+            "name": "Clearing Obstructions",
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/Clearing Obstructions"
+          },
+          {
+            "name": "Collection Quest 1",
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/Collection Quest 1"
+          },
+          {
+            "name": "Collection Quest 2",
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/Collection Quest 2"
+          },
+          {
+            "name": "Material Quest 1",
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/Material Quest 1"
+          },
+          {
+            "name": "Material Quest 2",
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/Material Quest 2"
+          },
+          {
+            "name": "Missing in Action",
+            "ref": "Tephra Cave Quests/Mag Mell Ruins/Missing in Action"
           }
         ],
         "map_locations": [
@@ -5558,11 +5586,27 @@
         ]
       },
       {
-        "name": "TC Quests 2",
+        "name": "TC Bafalgar Tomb Quests",
         "sections": [
           {
-            "name": "Collection Quest 1",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+            "name": "The Book of Bafalgar",
+            "ref": "Tephra Cave Quests/Bafalgar Tomb/The Book of Bafalgar"
+          },
+          {
+            "name": "The Blood of Bafalgar",
+            "ref": "Tephra Cave Quests/Bafalgar Tomb/The Blood of Bafalgar"
+          },
+          {
+            "name": "The Path of Bafalgar",
+            "ref": "Tephra Cave Quests/Bafalgar Tomb/The Path of Bafalgar"
+          },
+          {
+            "name": "The Coffin of Bafalgar",
+            "ref": "Tephra Cave Quests/Bafalgar Tomb/The Coffin of Bafalgar"
+          },
+          {
+            "name": "The Gratitude of Bafalgar",
+            "ref": "Tephra Cave Quests/Bafalgar Tomb/The Gratitude of Bafalgar"
           }
         ],
         "map_locations": [
@@ -5575,62 +5619,39 @@
         ]
       },
       {
-        "name": "TC Quests 3",
-        "sections": [
-          {
-            "name": "Jackson's Awakening",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 85,
-            "y": 71,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "TC Quests 4",
-        "sections": [
-          {
-            "name": "Monster Quest 2 - Part 3",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 100,
-            "y": 71,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "TC Quests 5",
-        "sections": [
-          {
-            "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 115,
-            "y": 71,
-            "size": 8
-          }
-        ]
-      },
-      {
         "name": "TC Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Mag Mell Ruins",
+            "ref": "Tephra Cave Landmarks/Mag Mell Ruins/Landmark"
+          },
+          {
+            "name": "Rear Entrance",
+            "ref": "Tephra Cave Landmarks/Rear Entrance/Landmark"
+          },
+          {
+            "name": "Spring of Grief",
+            "ref": "Tephra Cave Landmarks/Spring of Grief/Landmark"
+          },
+          {
+            "name": "Tephra Path",
+            "ref": "Tephra Cave Landmarks/Tephra Path/Landmark"
+          },
+          {
+            "name": "Villa Lake",
+            "ref": "Tephra Cave Landmarks/Villa Lake/Landmark"
+          },
+          {
+            "name": "Leg Pass",
+            "ref": "Tephra Cave Landmarks/Leg Pass/Landmark"
+          },
+          {
+            "name": "Bafalgar Tomb",
+            "ref": "Tephra Cave Landmarks/Bafalgar Tomb/Landmark"
+          },
+          {
+            "name": "Heavenly Window",
+            "ref": "Tephra Cave Landmarks/Heavenly Window/Landmark"
           }
         ],
         "map_locations": [
@@ -5646,8 +5667,36 @@
         "name": "TC Unique Monsters 1",
         "sections": [
           {
-            "name": "Verdant Bluchal (Lv.5)",
-            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+            "name": "Mining Patrichev (Lv.8)",
+            "ref": "Tephra Cave Unique Monsters/UM: Mining Patrichev/Lv.8"
+          },
+          {
+            "name": "Wallslide Gwynry (Lv.9)",
+            "ref": "Tephra Cave Unique Monsters/UM: Wallslide Gwynry/Lv.9"
+          },
+          {
+            "name": "Cellar Bugworm (Lv.10)",
+            "ref": "Tephra Cave Unique Monsters/UM: Cellar Bugworm/Lv.10"
+          },
+          {
+            "name": "Solid Konev (Lv.10 (Night))",
+            "ref": "Tephra Cave Unique Monsters/UM: Solid Konev/Lv.10 (Night)"
+          },
+          {
+            "name": "Gluttonous Eugen (Lv.11)",
+            "ref": "Tephra Cave Unique Monsters/UM: Gluttonous Eugen/Lv.11"
+          },
+          {
+            "name": "Arachno Queen (Lv.12)",
+            "ref": "Tephra Cave Bosses/Arachno Queen/Boss: Arachno Queen"
+          },
+          {
+            "name": "Plump Sprahda (Lv.92)",
+            "ref": "Tephra Cave Unique Monsters/UM: Plump Sprahda/Lv.92"
+          },
+          {
+            "name": "Musical Vanflare (Lv.93)",
+            "ref": "Tephra Cave Unique Monsters/UM: Musical Vanflare/Lv.93"
           }
         ],
         "map_locations": [
@@ -5663,8 +5712,32 @@
         "name": "TC Unique Monsters 2",
         "sections": [
           {
-            "name": "Impenetrable Redrob (Lv.38 (Night))",
-            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+            "name": "Judicious Bunnitzol (Lv.94)",
+            "ref": "Tephra Cave Unique Monsters/UM: Judicious Bunnitzol/Lv.94"
+          },
+          {
+            "name": "Reckless Galdon (Lv.95)",
+            "ref": "Tephra Cave Unique Monsters/UM: Reckless Galdon/Lv.95"
+          },
+          {
+            "name": "Protective Torquidon (Lv.96)",
+            "ref": "Tephra Cave Unique Monsters/UM: Protective Torquidon/Lv.96"
+          },
+          {
+            "name": "Erratic Goliante (Lv.97)",
+            "ref": "Tephra Cave Unique Monsters/UM: Erratic Goliante/Lv.97"
+          },
+          {
+            "name": "Dazzling Tolosnia (Lv.97)",
+            "ref": "Tephra Cave Unique Monsters/UM: Dazzling Tolosnia/Lv.97"
+          },
+          {
+            "name": "Firework Geldesia (Lv.98)",
+            "ref": "Tephra Cave Unique Monsters/UM: Firework Geldesia/Lv.98"
+          },
+          {
+            "name": "Reckless Zanden (Lv.98)",
+            "ref": "Tephra Cave Unique Monsters/UM: Reckless Zanden/Lv.98"
           }
         ],
         "map_locations": [
@@ -5680,8 +5753,16 @@
         "name": "TC Heart-to-Hearts",
         "sections": [
           {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+            "name": "A Scene Revisited (Reyn/Seven)",
+            "ref": "Tephra Cave H2H/A Scene Revisited/Reyn & Seven"
+          },
+          {
+            "name": "Glowing in the Night (Dunban/Riki)",
+            "ref": "Tephra Cave H2H/Glowing in the Night/Dunban & Riki"
+          },
+          {
+            "name": "The Legend of the Spider (Shulk/Reyn)",
+            "ref": "Tephra Cave H2H/The Legend of the Spider/Shulk & Reyn"
           }
         ],
         "map_locations": [
@@ -5694,11 +5775,47 @@
         ]
       },
       {
-        "name": "BL Quests 1",
+        "name": "BL Quests A-Co",
         "sections": [
           {
-            "name": "A Curry Conundrum",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+            "name": "A Dash of Colour",
+            "ref": "Bionis' Leg Quests/Refugee Camp/A Dash of Colour (MISSABLE)"
+          },
+          {
+            "name": "A Flower for a Rose",
+            "ref": "Bionis' Leg Quests/Refugee Camp/A Flower for a Rose"
+          },
+          {
+            "name": "A Thoughtful Idea",
+            "ref": "Bionis' Leg Quests/Refugee Camp/A Thoughtful Idea (MISSABLE)"
+          },
+          {
+            "name": "Battling Brutes",
+            "ref": "Bionis' Leg Quests/Refugee Camp/Battling Brutes"
+          },
+          {
+            "name": "Being a Good Grandfather",
+            "ref": "Bionis' Leg Quests/Refugee Camp/Being a Good Grandfather (MISSABLE)"
+          },
+          {
+            "name": "Challenge 1 - Part 1",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Challenge 1 - Part 1 (MISSABLE)"
+          },
+          {
+            "name": "Challenge 1 - Part 2",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Challenge 1 - Part 2 (MISSABLE)"
+          },
+          {
+            "name": "Challenge 2 - Part 1",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Challenge 2 - Part 1 (MISSABLE)"
+          },
+          {
+            "name": "Challenge 2 - Part 2",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Challenge 2 - Part 2 (MISSABLE)"
+          },
+          {
+            "name": "Collection Quest 1",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Collection Quest 1 (MISSABLE)"
           }
         ],
         "map_locations": [
@@ -5711,11 +5828,47 @@
         ]
       },
       {
-        "name": "BL Quests 2",
+        "name": "BL Quests Co-Ma",
         "sections": [
           {
-            "name": "Collection Quest 1",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+            "name": "Collection Quest 2",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Collection Quest 2 (MISSABLE)"
+          },
+          {
+            "name": "Earnest's Fibs",
+            "ref": "Bionis' Leg Quests/Refugee Camp/Earnest's Fibs"
+          },
+          {
+            "name": "Earnest's Mischief",
+            "ref": "Bionis' Leg Quests/Refugee Camp/Earnest's Mischief"
+          },
+          {
+            "name": "Earnest's Solitude",
+            "ref": "Bionis' Leg Quests/Refugee Camp/Earnest's Solitude"
+          },
+          {
+            "name": "Emergency Treatment",
+            "ref": "Bionis' Leg Quests/Refugee Camp/Emergency Treatment (MISSABLE)"
+          },
+          {
+            "name": "Legend of Mythical Empress",
+            "ref": "Bionis' Leg Quests/Traveller's Rest/Legend of Mythical Empress"
+          },
+          {
+            "name": "Material Quest 1",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Material Quest 1 (MISSABLE)"
+          },
+          {
+            "name": "Material Quest 2",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Material Quest 2 (MISSABLE)"
+          },
+          {
+            "name": "Material Quest 3",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Material Quest 3 (MISSABLE)"
+          },
+          {
+            "name": "Material Quest 4",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Material Quest 4 (MISSABLE)"
           }
         ],
         "map_locations": [
@@ -5728,11 +5881,47 @@
         ]
       },
       {
-        "name": "BL Quests 3",
+        "name": "BL Quests Mo-Se",
         "sections": [
           {
-            "name": "Jackson's Awakening",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+            "name": "Monster Quest 1 - Part 1",
+            "ref": "Bionis' Leg Quests/Ragrinar Canyon Path/Monster Quest 1 - Part 1"
+          },
+          {
+            "name": "Monster Quest 1 - Part 2",
+            "ref": "Bionis' Leg Quests/Ragrinar Canyon Path/Monster Quest 1 - Part 2"
+          },
+          {
+            "name": "Monster Quest 1 - Part 3",
+            "ref": "Bionis' Leg Quests/Ragrinar Canyon Path/Monster Quest 1 - Part 3"
+          },
+          {
+            "name": "Monster Quest 1 - Part 4",
+            "ref": "Bionis' Leg Quests/Ragrinar Canyon Path/Monster Quest 1 - Part 4"
+          },
+          {
+            "name": "Monster Quest 2",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Monster Quest 2 (MISSABLE)"
+          },
+          {
+            "name": "Monster Quest 3 - Part 1",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Monster Quest 3 - Part 1 (MISSABLE)"
+          },
+          {
+            "name": "Monster Quest 3 - Part 2",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Monster Quest 3 - Part 2 (MISSABLE)"
+          },
+          {
+            "name": "Save the Girl!",
+            "ref": "Bionis' Leg Quests/Surprise!/Save the Girl! (MISSABLE)"
+          },
+          {
+            "name": "Search Quest 1",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Search Quest 1 (MISSABLE)"
+          },
+          {
+            "name": "Search Quest 2",
+            "ref": "Bionis' Leg Quests/Refugee Camp (Generic)/Search Quest 2 (MISSABLE)"
           }
         ],
         "map_locations": [
@@ -5745,11 +5934,31 @@
         ]
       },
       {
-        "name": "BL Quests 4",
+        "name": "BL Quests Su-W",
         "sections": [
           {
-            "name": "Monster Quest 2 - Part 3",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+            "name": "Supplies for Satorl",
+            "ref": "Bionis' Leg Quests/Refugee Camp/Supplies for Satorl"
+          },
+          {
+            "name": "The Greedy Monster",
+            "ref": "Bionis' Leg Quests/Refugee Camp/The Greedy Monster (MISSABLE)"
+          },
+          {
+            "name": "The Lost Nopon",
+            "ref": "Bionis' Leg Quests/Traveller's Rest/The Lost Nopon"
+          },
+          {
+            "name": "Thieving Monsters",
+            "ref": "Bionis' Leg Quests/Refugee Camp/Thieving Monsters (MISSABLE)"
+          },
+          {
+            "name": "With Much Gratitude",
+            "ref": "Bionis' Leg Quests/Traveller's Rest/With Much Gratitude"
+          },
+          {
+            "name": "With Even More Gratitude",
+            "ref": "Bionis' Leg Quests/Traveller's Rest/With Even More Gratitude"
           }
         ],
         "map_locations": [
@@ -5762,28 +5971,35 @@
         ]
       },
       {
-        "name": "BL Quests 5",
+        "name": "BL NPCs A-G",
         "sections": [
           {
-            "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
-          }
-        ],
-        "map_locations": [
+            "name": "Anna",
+            "ref": "Colony 6 NPCs/Refugee Camp/Anna"
+          },
           {
-            "map": "Summary",
-            "x": 115,
-            "y": 87,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "BL NPCs 1",
-        "sections": [
+            "name": "Arda",
+            "ref": "Colony 6 NPCs/Refugee Camp/Arda"
+          },
           {
-            "name": "Andreas",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+            "name": "Batubatu",
+            "ref": "Colony 6 NPCs/Traveller's Rest/Batubatu"
+          },
+          {
+            "name": "Earnest",
+            "ref": "Colony 6 NPCs/Refugee Camp/Earnest"
+          },
+          {
+            "name": "Ewan",
+            "ref": "Colony 6 NPCs/Refugee Camp/Ewan"
+          },
+          {
+            "name": "Gerugu",
+            "ref": "Colony 6 NPCs/Traveller's Rest/Gerugu"
+          },
+          {
+            "name": "Gorman",
+            "ref": "Colony 6 NPCs/Refugee Camp/Gorman"
           }
         ],
         "map_locations": [
@@ -5796,11 +6012,35 @@
         ]
       },
       {
-        "name": "BL NPCs 2",
+        "name": "BL NPCs J-S",
         "sections": [
           {
-            "name": "Jolele",
-            "ref": "Colony 9 NPCs/Residential District (South)/Jolele"
+            "name": "Juju",
+            "ref": "Colony 6 NPCs/Refugee Camp/Juju"
+          },
+          {
+            "name": "Kiroki",
+            "ref": "Colony 6 NPCs/Refugee Camp/Kiroki"
+          },
+          {
+            "name": "Matryona",
+            "ref": "Colony 6 NPCs/Refugee Camp/Matryona"
+          },
+          {
+            "name": "Nikita",
+            "ref": "Colony 6 NPCs/Refugee Camp/Nikita"
+          },
+          {
+            "name": "Olga",
+            "ref": "Colony 6 NPCs/Refugee Camp/Olga"
+          },
+          {
+            "name": "Pama",
+            "ref": "Colony 6 NPCs/Refugee Camp/Pama"
+          },
+          {
+            "name": "Satata",
+            "ref": "Colony 6 NPCs/Refugee Camp/Satata"
           }
         ],
         "map_locations": [
@@ -5813,28 +6053,51 @@
         ]
       },
       {
-        "name": "BL NPCs 3",
-        "sections": [
-          {
-            "name": "Niranira",
-            "ref": "Colony 9 NPCs/Residential District (West)/Niranira"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 178,
-            "y": 87,
-            "size": 8
-          }
-        ]
-      },
-      {
         "name": "BL Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Ragrinar Canyon Path",
+            "ref": "Bionis' Leg Landmarks/Ragrinar Canyon Path/Landmark"
+          },
+          {
+            "name": "Jabos Rock Rest Area",
+            "ref": "Bionis' Leg Landmarks/Jabos Rock Rest Area/Landmark"
+          },
+          {
+            "name": "Kamos Guidepost",
+            "ref": "Bionis' Leg Landmarks/Kamos Guidepost/Landmark"
+          },
+          {
+            "name": "Refugee Camp",
+            "ref": "Bionis' Leg Landmarks/Refugee Camp/Landmark"
+          },
+          {
+            "name": "Raguel Bridge - South",
+            "ref": "Bionis' Leg Landmarks/Raguel Bridge - South/Landmark"
+          },
+          {
+            "name": "Raguel Bridge - North",
+            "ref": "Bionis' Leg Landmarks/Raguel Bridge - North/Landmark"
+          },
+          {
+            "name": "Spiral Valley",
+            "ref": "Bionis' Leg Landmarks/Spiral Valley/Landmark"
+          },
+          {
+            "name": "Zax Guidepost",
+            "ref": "Bionis' Leg Landmarks/Zax Guidepost/Landmark"
+          },
+          {
+            "name": "Bask Cave Passage",
+            "ref": "Bionis' Leg Landmarks/Bask Cave Passage/Landmark"
+          },
+          {
+            "name": "Believer's Paradise",
+            "ref": "Bionis' Leg Landmarks/Believer's Paradise/Landmark"
+          },
+          {
+            "name": "Observation Platform",
+            "ref": "Bionis' Leg Landmarks/Observation Platform/Landmark"
           }
         ],
         "map_locations": [
@@ -5850,8 +6113,36 @@
         "name": "BL Unique Monsters 1",
         "sections": [
           {
-            "name": "Verdant Bluchal (Lv.5)",
-            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+            "name": "Sniper Paramecia (Lv.15)",
+            "ref": "Bionis' Leg Unique Monsters/UM: Sniper Paramecia/Lv.15"
+          },
+          {
+            "name": "Trainer Harmelon (Lv.15)",
+            "ref": "Bionis' Leg Unique Monsters/UM: Trainer Harmelon/Lv.15"
+          },
+          {
+            "name": "Vagrant Alfead (Lv.16)",
+            "ref": "Bionis' Leg Unique Monsters/UM: Vagrant Alfead/Lv.16"
+          },
+          {
+            "name": "Violent Andante (Lv.16)",
+            "ref": "Bionis' Leg Unique Monsters/UM: Violent Andante/Lv.16"
+          },
+          {
+            "name": "Napping Volfen (Lv.17 (Rain))",
+            "ref": "Bionis' Leg Unique Monsters/UM: Napping Volfen/Lv.17 (Rain)"
+          },
+          {
+            "name": "White Eduardo (Lv.17 (Thunder))",
+            "ref": "Bionis' Leg Unique Monsters/UM: White Eduardo/Lv.17 (Thunder)"
+          },
+          {
+            "name": "Night Cardamon (Lv.18 (Clear Night))",
+            "ref": "Bionis' Leg Unique Monsters/UM: Night Cardamon/Lv.18 (Clear Night)"
+          },
+          {
+            "name": "Mechon M71 (Lv.18)",
+            "ref": "Bionis' Leg Bosses/Spiral Valley/Boss: Mechon M71"
           }
         ],
         "map_locations": [
@@ -5867,8 +6158,36 @@
         "name": "BL Unique Monsters 2",
         "sections": [
           {
-            "name": "Impenetrable Redrob (Lv.38 (Night))",
-            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+            "name": "Mysterious Face (Lv.25)",
+            "ref": "Bionis' Leg Bosses/Spiral Valley/Boss: Mysterious Face"
+          },
+          {
+            "name": "Clifftop Bayern (Lv.32)",
+            "ref": "Bionis' Leg Unique Monsters/UM: Clifftop Bayern/Lv.32"
+          },
+          {
+            "name": "Mysterious Barnaby (Lv.75)",
+            "ref": "Bionis' Leg Unique Monsters/UM: Mysterious Barnaby/Lv.75"
+          },
+          {
+            "name": "Field Altrich (Lv.76)",
+            "ref": "Bionis' Leg Unique Monsters/UM: Field Altrich/Lv.76"
+          },
+          {
+            "name": "Canyon Valencia (Lv.78 (Clear))",
+            "ref": "Bionis' Leg Unique Monsters/UM: Canyon Valencia/Lv.78 (Clear)"
+          },
+          {
+            "name": "Territorial Rotbart (Lv.81)",
+            "ref": "Bionis' Leg Unique Monsters/UM: Territorial Rotbart/Lv.81"
+          },
+          {
+            "name": "Armoured Rockwell (Lv.82 (Rain))",
+            "ref": "Bionis' Leg Unique Monsters/UM: Armoured Rockwell/Lv.82 (Rain)"
+          },
+          {
+            "name": "Immovable Gonzalez (Lv.90)",
+            "ref": "Bionis' Leg Bosses/Spiral Valley/UM: Immovable Gonzalez (Lv.90)"
           }
         ],
         "map_locations": [
@@ -5884,8 +6203,24 @@
         "name": "BL Heart-to-Hearts",
         "sections": [
           {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+            "name": "Geography Lesson (Shulk/Dunban)",
+            "ref": "Bionis' Leg H2H/Geography Lesson/Shulk & Dunban"
+          },
+          {
+            "name": "Heir to the Monado (Reyn/Dunban)",
+            "ref": "Bionis' Leg H2H/Heir to the Monado/Reyn & Dunban"
+          },
+          {
+            "name": "Revisiting the Past (Sharla/Dunban)",
+            "ref": "Bionis' Leg H2H/Revisiting the Past/Sharla & Dunban"
+          },
+          {
+            "name": "What's on Reyn's Mind (Reyn/Sharla)",
+            "ref": "Bionis' Leg H2H/What's on Reyn's Mind/Reyn & Sharla"
+          },
+          {
+            "name": "What Visions May Bring (Shulk/Sharla)",
+            "ref": "Bionis' Leg H2H/What Visions May Bring/Shulk & Sharla"
           }
         ],
         "map_locations": [
@@ -5983,11 +6318,35 @@
         ]
       },
       {
-        "name": "C6 NPCs 1",
+        "name": "C6 NPCs A-K",
         "sections": [
           {
-            "name": "Andreas",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+            "name": "Anna",
+            "ref": "Colony 6 NPCs/Refugee Camp/Anna"
+          },
+          {
+            "name": "Arda",
+            "ref": "Colony 6 NPCs/Refugee Camp/Arda"
+          },
+          {
+            "name": "Daza",
+            "ref": "Colony 6 NPCs/Watchpoint Junction/Daza"
+          },
+          {
+            "name": "Ewan",
+            "ref": "Colony 6 NPCs/Refugee Camp/Ewan"
+          },
+          {
+            "name": "Gorman",
+            "ref": "Colony 6 NPCs/Refugee Camp/Gorman"
+          },
+          {
+            "name": "Juju",
+            "ref": "Colony 6 NPCs/Refugee Camp/Juju"
+          },
+          {
+            "name": "Kiroki",
+            "ref": "Colony 6 NPCs/Refugee Camp/Kiroki"
           }
         ],
         "map_locations": [
@@ -6000,11 +6359,31 @@
         ]
       },
       {
-        "name": "C6 NPCs 2",
+        "name": "C6 NPCs M-S",
         "sections": [
           {
-            "name": "Jolele",
-            "ref": "Colony 9 NPCs/Residential District (South)/Jolele"
+            "name": "Matryona",
+            "ref": "Colony 6 NPCs/Refugee Camp/Matryona"
+          },
+          {
+            "name": "Nikita",
+            "ref": "Colony 6 NPCs/Refugee Camp/Nikita"
+          },
+          {
+            "name": "Olga",
+            "ref": "Colony 6 NPCs/Refugee Camp/Olga"
+          },
+          {
+            "name": "Otharon",
+            "ref": "Colony 6 NPCs/Reconstruction HQ/Otharon"
+          },
+          {
+            "name": "Pama",
+            "ref": "Colony 6 NPCs/Refugee Camp/Pama"
+          },
+          {
+            "name": "Satata",
+            "ref": "Colony 6 NPCs/Refugee Camp/Satata"
           }
         ],
         "map_locations": [
@@ -6017,28 +6396,35 @@
         ]
       },
       {
-        "name": "C6 NPCs 3",
-        "sections": [
-          {
-            "name": "Niranira",
-            "ref": "Colony 9 NPCs/Residential District (West)/Niranira"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 178,
-            "y": 103,
-            "size": 8
-          }
-        ]
-      },
-      {
         "name": "C6 Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Drainage Outlet",
+            "ref": "Colony 6 Landmarks/Drainage Outlet/Landmark"
+          },
+          {
+            "name": "Freight Road",
+            "ref": "Colony 6 Landmarks/Freight Road/Landmark"
+          },
+          {
+            "name": "Main Entrance",
+            "ref": "Colony 6 Landmarks/Main Entrance/Landmark"
+          },
+          {
+            "name": "Misty Path",
+            "ref": "Colony 6 Landmarks/Misty Path/Landmark"
+          },
+          {
+            "name": "Reconstruction HQ",
+            "ref": "Colony 6 Landmarks/Reconstruction HQ/Landmark"
+          },
+          {
+            "name": "Supply Road",
+            "ref": "Colony 6 Landmarks/Supply Road/Landmark"
+          },
+          {
+            "name": "Watchpoint Junction",
+            "ref": "Colony 6 Landmarks/Watchpoint Junction/Landmark"
           }
         ],
         "map_locations": [
@@ -6051,11 +6437,23 @@
         ]
       },
       {
-        "name": "C6 Unique Monsters 1",
+        "name": "C6 Unique Monsters",
         "sections": [
           {
-            "name": "Verdant Bluchal (Lv.5)",
-            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+            "name": "Graceful Holand (Lv.19)",
+            "ref": "Colony 6 Unique Monsters/UM: Graceful Holand/Lv.19"
+          },
+          {
+            "name": "Drifter Jutard (Lv.25)",
+            "ref": "Colony 6 Unique Monsters/UM: Drifter Jutard/Lv.25"
+          },
+          {
+            "name": "Sureny Telethia (Lv.70)",
+            "ref": "Colony 6 Bosses/Bosses/Boss: Sureny Telethia"
+          },
+          {
+            "name": "Sani Telethia (Lv.72)",
+            "ref": "Colony 6 Bosses/Bosses/Boss: Sani Telethia"
           }
         ],
         "map_locations": [
@@ -6068,28 +6466,35 @@
         ]
       },
       {
-        "name": "C6 Unique Monsters 2",
-        "sections": [
-          {
-            "name": "Impenetrable Redrob (Lv.38 (Night))",
-            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 260,
-            "y": 103,
-            "size": 8
-          }
-        ]
-      },
-      {
         "name": "C6 Heart-to-Hearts",
         "sections": [
           {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+            "name": "Dunban's Right Arm (Sharla/Dunban)",
+            "ref": "Colony 6 H2H/Dunban's Right Arm/Sharla & Dunban"
+          },
+          {
+            "name": "One Year On (Reyn/Dunban)",
+            "ref": "Colony 6 H2H/One Year On/Reyn & Dunban"
+          },
+          {
+            "name": "Quiet Time (Riki/Seven)",
+            "ref": "Colony 6 H2H/Quiet Time/Riki & Seven"
+          },
+          {
+            "name": "Recovery and Reflection (Dunban/Seven)",
+            "ref": "Colony 6 H2H/Recovery and Reflection/Dunban & Seven"
+          },
+          {
+            "name": "Renewed Determination (Shulk/Reyn)",
+            "ref": "Colony 6 H2H/Renewed Determination/Shulk & Reyn"
+          },
+          {
+            "name": "Strength of Heart (Shulk/Dunban)",
+            "ref": "Colony 6 H2H/Strength of Heart/Shulk & Dunban"
+          },
+          {
+            "name": "The Colony Reborn (Shulk/Sharla)",
+            "ref": "Colony 6 H2H/The Colony Reborn/Shulk & Sharla"
           }
         ],
         "map_locations": [
@@ -7581,23 +7986,6 @@
         ]
       },
       {
-        "name": "SV Heart-to-Hearts",
-        "sections": [
-          {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 308,
-            "y": 247,
-            "size": 8
-          }
-        ]
-      },
-      {
         "name": "GF Quests 1",
         "sections": [
           {
@@ -7728,23 +8116,6 @@
           {
             "map": "Summary",
             "x": 260,
-            "y": 263,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "GF Heart-to-Hearts",
-        "sections": [
-          {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 308,
             "y": 263,
             "size": 8
           }
@@ -8091,23 +8462,6 @@
         ]
       },
       {
-        "name": "MeFi Heart-to-Hearts",
-        "sections": [
-          {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 308,
-            "y": 295,
-            "size": 8
-          }
-        ]
-      },
-      {
         "name": "CF Quests 1",
         "sections": [
           {
@@ -8244,23 +8598,6 @@
         ]
       },
       {
-        "name": "CF Heart-to-Hearts",
-        "sections": [
-          {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 308,
-            "y": 311,
-            "size": 8
-          }
-        ]
-      },
-      {
         "name": "AG Quests 1",
         "sections": [
           {
@@ -8391,23 +8728,6 @@
           {
             "map": "Summary",
             "x": 260,
-            "y": 327,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "AG Heart-to-Hearts",
-        "sections": [
-          {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 308,
             "y": 327,
             "size": 8
           }
