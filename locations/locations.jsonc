@@ -6233,7 +6233,7 @@
         ]
       },
       {
-        "name": "C6 Quests 1",
+        "name": "C6 Quests A-Co",
         "sections": [
           {
             "name": "A Dauntless Trader",
@@ -6256,24 +6256,24 @@
             "ref": "Colony 6 Quests/Quests FO-PO/A Poet's Concerns"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "A Selfish Girl's Mistake",
+            "ref": "Colony 6 Quests/Quests PR-U/A Selfish Girl's Mistake"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "A Tantalising Treat",
+            "ref": "Colony 6 Quests/Quests PR-U/A Tantalising Treat"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Chemist's Reopening",
+            "ref": "Colony 6 Quests/Quests A-FI/Chemist's Reopening"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Cook-Off Counter Attack!",
+            "ref": "Colony 6 Quests/Quests A-FI/Cook-Off Counter Attack!"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Cook-Off Comeback?",
+            "ref": "Colony 6 Quests/Quests A-FI/Cook-Off Comeback?"
           }
         ],
         "map_locations": [
@@ -6286,47 +6286,47 @@
         ]
       },
       {
-        "name": "C6 Quests 2",
+        "name": "C6 Quests Co-F",
         "sections": [
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Cook-Off Final Blow?!",
+            "ref": "Colony 6 Quests/Quests A-FI/Cook-Off Final Blow?!"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Cook-Off Showdown!",
+            "ref": "Colony 6 Quests/Quests A-FI/Cook-Off Showdown!"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Defend Colony 6 - Mechon",
+            "ref": "Colony 6 Quests/Quests A-FI/Defend Colony 6 - Mechon (15% Reconstruction)"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Defend Colony 6 - Reptile",
+            "ref": "Colony 6 Quests/Quests A-FI/Defend Colony 6 - Reptile (35% Reconstruction)"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Defend Colony 6 - Elite",
+            "ref": "Colony 6 Quests/Quests A-FI/Defend Colony 6 - Elite (55% Reconstruction)"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Defend Colony 6 - Ancient",
+            "ref": "Colony 6 Quests/Quests A-FI/Defend Colony 6 - Ancient (75% Reconstruction)"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Defend Colony 6 - Demon",
+            "ref": "Colony 6 Quests/Quests A-FI/Defend Colony 6 - Demon (95% Reconstruction)"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Delivering the Undeliverable",
+            "ref": "Colony 6 Quests/Quests A-FI/Delivering the Undeliverable"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Finding the Unfindable",
+            "ref": "Colony 6 Quests/Quests A-FI/Finding the Unfindable"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "For the Restoration",
+            "ref": "Colony 6 Quests/Quests FO-PO/For the Restoration (MISSABLE)"
           }
         ],
         "map_locations": [
@@ -6339,47 +6339,47 @@
         ]
       },
       {
-        "name": "C6 Quests 3",
+        "name": "C6 Quests I-Ob",
         "sections": [
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "In Pursuit of Love",
+            "ref": "Colony 6 Quests/Quests FO-PO/In Pursuit of Love"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Lifespan of a Machina",
+            "ref": "Colony 6 Quests/Quests FO-PO/Lifespan of a Machina"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Looking for Freedom",
+            "ref": "Colony 6 Quests/Quests FO-PO/Looking for Freedom"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Making a New Path",
+            "ref": "Colony 6 Quests/Quests FO-PO/Making a New Path (MISSABLE)"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Matryona's Answer",
+            "ref": "Colony 6 Quests/Quests FO-PO/Matryona's Answer"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Melancholy Tyrea",
+            "ref": "Colony 6 Quests/Quests FO-PO/Melancholy Tyrea"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Missing Lodger",
+            "ref": "Colony 6 Quests/Quests FO-PO/Missing Lodger"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Nic's Training",
+            "ref": "Colony 6 Quests/Quests FO-PO/Nic's Training"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Nic's Final Test",
+            "ref": "Colony 6 Quests/Quests FO-PO/Nic's Final Test"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Obstinate Berryjammy",
+            "ref": "Colony 6 Quests/Quests FO-PO/Obstinate Berryjammy"
           }
         ],
         "map_locations": [
@@ -6392,47 +6392,47 @@
         ]
       },
       {
-        "name": "C6 Quests 4",
+        "name": "C6 Quests Od-Sa",
         "sections": [
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Odd Smoke - Investigation",
+            "ref": "Colony 6 Quests/Quests FO-PO/Odd Smoke - Investigation"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Odd Smoke - Resolution",
+            "ref": "Colony 6 Quests/Quests FO-PO/Odd Smoke - Resolution"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Proof of Status",
+            "ref": "Colony 6 Quests/Quests PR-U/Proof of Status"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Replica Monado 1",
+            "ref": "Colony 6 Quests/Quests PR-U/Replica Monado 1"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Replica Monado 2",
+            "ref": "Colony 6 Quests/Quests PR-U/Replica Monado 2"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Replica Monado 3",
+            "ref": "Colony 6 Quests/Quests PR-U/Replica Monado 3"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Replica Monado 4",
+            "ref": "Colony 6 Quests/Quests PR-U/Replica Monado 4"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Replica Monado 5",
+            "ref": "Colony 6 Quests/Quests PR-U/Replica Monado 5"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Rest in Peace",
+            "ref": "Colony 6 Quests/Quests PR-U/Rest in Peace"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Safety First",
+            "ref": "Colony 6 Quests/Quests PR-U/Safety First"
           }
         ],
         "map_locations": [
@@ -6445,35 +6445,27 @@
         ]
       },
       {
-        "name": "C6 Quests 5",
+        "name": "C6 Quests Sa-U",
         "sections": [
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Satata's Younger Brother",
+            "ref": "Colony 6 Quests/Quests PR-U/Satata's Younger Brother"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Secret Mission",
+            "ref": "Colony 6 Quests/Quests PR-U/A Secret Mission"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Securing Provisions",
+            "ref": "Colony 6 Quests/Quests PR-U/Securing Provisions"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "The Most Transparent Thing",
+            "ref": "Colony 6 Quests/Quests PR-U/The Most Transparent Thing"
           },
           {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
-          },
-          {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
-          },
-          {
-            "name": "ACurryConundrum",
-            "ref": "Colony 6 Quests/EtherLight1/ACurryConundrum"
+            "name": "Unstoppable Berryjammy",
+            "ref": "Colony 6 Quests/Quests PR-U/Unstoppable Berryjammy"
           }
         ],
         "map_locations": [
@@ -6675,96 +6667,47 @@
         ]
       },
       {
-        "name": "EM Quests 1",
-        "sections": [
-          {
-            "name": "A Curry Conundrum",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 55,
-            "y": 119,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "EM Quests 2",
-        "sections": [
-          {
-            "name": "Collection Quest 1",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 70,
-            "y": 119,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "EM Quests 3",
-        "sections": [
-          {
-            "name": "Jackson's Awakening",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 85,
-            "y": 119,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "EM Quests 4",
-        "sections": [
-          {
-            "name": "Monster Quest 2 - Part 3",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 100,
-            "y": 119,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "EM Quests 5",
-        "sections": [
-          {
-            "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 115,
-            "y": 119,
-            "size": 8
-          }
-        ]
-      },
-      {
         "name": "EM Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Drainage Tunnel",
+            "ref": "Ether Mine Landmarks/Drainage Tunnel/Landmark"
+          },
+          {
+            "name": "Drainage Control Room",
+            "ref": "Ether Mine Landmarks/Drainage Control Room/Landmark"
+          },
+          {
+            "name": "Freight Elevator",
+            "ref": "Ether Mine Landmarks/Freight Elevator/Landmark"
+          },
+          {
+            "name": "Central Pit - Entrance",
+            "ref": "Ether Mine Landmarks/Central Pit - Entrance/Landmark"
+          },
+          {
+            "name": "Mining Base",
+            "ref": "Ether Mine Landmarks/Mining Base/Landmark"
+          },
+          {
+            "name": "Personnel Lift 2",
+            "ref": "Ether Mine Landmarks/Personnel Lift 2/Landmark"
+          },
+          {
+            "name": "Regulation Piston",
+            "ref": "Ether Mine Landmarks/Regulation Piston/Landmark"
+          },
+          {
+            "name": "Personnel Lift 3",
+            "ref": "Ether Mine Landmarks/Personnel Lift 3/Landmark"
+          },
+          {
+            "name": "Central Pit - Base Level",
+            "ref": "Ether Mine Landmarks/Central Pit - Base Level/Landmark"
+          },
+          {
+            "name": "Glowmoss Lake",
+            "ref": "Ether Mine Landmarks/Glowmoss Lake/Landmark"
           }
         ],
         "map_locations": [
@@ -6780,31 +6723,26 @@
         "name": "EM Unique Monsters 1",
         "sections": [
           {
-            "name": "Verdant Bluchal (Lv.5)",
-            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+            "name": "Dark Kisling (Lv.20)",
+            "ref": "Ether Mine Unique Monsters/UM: Dark Kisling/Lv.20"
+          },
+          {
+            "name": "Vengeful Daulton (Lv.22)",
+            "ref": "Ether Mine Unique Monsters/UM: Vengeful Daulton/Lv.22"
+          },
+          {
+            "name": "Elegant Marin (Lv.29)",
+            "ref": "Ether Mine Unique Monsters/UM: Elegant Marin/Lv.29"
+          },
+          {
+            "name": "Xord (Lv.25)",
+            "ref": "Ether Mine Bosses/Bosses/Boss: Xord"
           }
         ],
         "map_locations": [
           {
             "map": "Summary",
             "x": 245,
-            "y": 119,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "EM Unique Monsters 2",
-        "sections": [
-          {
-            "name": "Impenetrable Redrob (Lv.38 (Night))",
-            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 260,
             "y": 119,
             "size": 8
           }
