@@ -6752,8 +6752,12 @@
         "name": "EM Heart-to-Hearts",
         "sections": [
           {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+            "name": "A Broken Watch (Shulk/Sharla)",
+            "ref": "Ether Mine H2H/A Broken Watch/Shulk & Sharla"
+          },
+          {
+            "name": "A Wistful Glow (Reyn/Sharla)",
+            "ref": "Ether Mine H2H/A Wistful Glow/Reyn & Sharla"
           }
         ],
         "map_locations": [
@@ -6766,11 +6770,39 @@
         ]
       },
       {
-        "name": "SM Quests 1",
+        "name": "SM Quests A-G",
         "sections": [
           {
-            "name": "A Curry Conundrum",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+            "name": "A Gift?",
+            "ref": "Satorl Marsh Quests/Nopon Refuge/A Gift?"
+          },
+          {
+            "name": "A Merciful End",
+            "ref": "Satorl Marsh Quests/Sororal Statues/A Merciful End"
+          },
+          {
+            "name": "A Mysterious Delicacy",
+            "ref": "Satorl Marsh Quests/Nopon Refuge/A Mysterious Delicacy"
+          },
+          {
+            "name": "A Release from Duty",
+            "ref": "Satorl Marsh Quests/Sororal Statues/A Release from Duty"
+          },
+          {
+            "name": "Ancient Ceremony Offerings",
+            "ref": "Satorl Marsh Quests/Kelsher Wetland/Ancient Ceremony Offerings"
+          },
+          {
+            "name": "Challenge",
+            "ref": "Satorl Marsh Quests/Sororal Statues/Challenge"
+          },
+          {
+            "name": "For a Friend",
+            "ref": "Satorl Marsh Quests/Sororal Statues/For a Friend"
+          },
+          {
+            "name": "Gather Information",
+            "ref": "Satorl Marsh Quests/Nopon Refuge/Gather Information"
           }
         ],
         "map_locations": [
@@ -6783,11 +6815,39 @@
         ]
       },
       {
-        "name": "SM Quests 2",
+        "name": "SM Quests I-M",
         "sections": [
           {
-            "name": "Collection Quest 1",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+            "name": "Imperial Ceremony Offerings",
+            "ref": "Satorl Marsh Quests/Sororal Statues/Imperial Ceremony Offerings"
+          },
+          {
+            "name": "It's All in the Mind",
+            "ref": "Satorl Marsh Quests/Nopon Refuge/It's All in the Mind"
+          },
+          {
+            "name": "Kacha's Kidnapping",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/Kacha's Kidnapping"
+          },
+          {
+            "name": "Making Camp",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/Making Camp"
+          },
+          {
+            "name": "Monster Quest 1",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/Monster Quest 1"
+          },
+          {
+            "name": "Monster Quest 2",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/Monster Quest 2"
+          },
+          {
+            "name": "Monster Quest 3",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/Monster Quest 3"
+          },
+          {
+            "name": "Monster Quest 4",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/Monster Quest 4"
           }
         ],
         "map_locations": [
@@ -6800,11 +6860,31 @@
         ]
       },
       {
-        "name": "SM Quests 3",
+        "name": "SM Quests P-Z",
         "sections": [
           {
-            "name": "Jackson's Awakening",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+            "name": "Preventing Starvation",
+            "ref": "Satorl Marsh Quests/Nopon Refuge/Preventing Starvation"
+          },
+          {
+            "name": "The Ancient Ceremony",
+            "ref": "Satorl Marsh Quests/Kelsher Wetland/The Ancient Ceremony"
+          },
+          {
+            "name": "The Giants' Key",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/The Giants' Key"
+          },
+          {
+            "name": "The Giants' Treasure",
+            "ref": "Satorl Marsh Quests/Nopon Merchant Camp/The Giants' Treasure"
+          },
+          {
+            "name": "The Imperial Ceremony",
+            "ref": "Satorl Marsh Quests/Sororal Statues/The Imperial Ceremony"
+          },
+          {
+            "name": "Zazadan in Danger",
+            "ref": "Satorl Marsh Quests/Nopon Refuge/Zazadan in Danger"
           }
         ],
         "map_locations": [
@@ -6817,45 +6897,19 @@
         ]
       },
       {
-        "name": "SM Quests 4",
+        "name": "SM NPCs",
         "sections": [
           {
-            "name": "Monster Quest 2 - Part 3",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
-          }
-        ],
-        "map_locations": [
+            "name": "Bokoko",
+            "ref": "Satorl Marsh NPCs/Nopon Merchant Camp/Bokoko"
+          },
           {
-            "map": "Summary",
-            "x": 100,
-            "y": 135,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "SM Quests 5",
-        "sections": [
+            "name": "Kacha",
+            "ref": "Satorl Marsh NPCs/Nopon Merchant Camp/Kacha"
+          },
           {
-            "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 115,
-            "y": 135,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "SM NPCs 1",
-        "sections": [
-          {
-            "name": "Andreas",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+            "name": "Zazadan",
+            "ref": "Satorl Marsh NPCs/Nopon Refuge/Zazadan"
           }
         ],
         "map_locations": [
@@ -6871,8 +6925,36 @@
         "name": "SM Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Crown Tree",
+            "ref": "Satorl Marsh Landmarks/Crown Tree/Landmark"
+          },
+          {
+            "name": "Glowing Obelisk",
+            "ref": "Satorl Marsh Landmarks/Glowing Obelisk/Landmark"
+          },
+          {
+            "name": "Kelsher Wetland",
+            "ref": "Satorl Marsh Landmarks/Kelsher Wetland/Landmark"
+          },
+          {
+            "name": "Nopon Merchant Camp",
+            "ref": "Satorl Marsh Landmarks/Nopon Merchant Camp/Landmark"
+          },
+          {
+            "name": "Silent Obelisk",
+            "ref": "Satorl Marsh Landmarks/Silent Obelisk/Landmark"
+          },
+          {
+            "name": "Sororal Statues",
+            "ref": "Satorl Marsh Landmarks/Sororal Statues/Landmark"
+          },
+          {
+            "name": "Statue Summit",
+            "ref": "Satorl Marsh Landmarks/Statue Summit/Landmark"
+          },
+          {
+            "name": "Shining Pond",
+            "ref": "Satorl Marsh Landmarks/Shining Pond/Landmark"
           }
         ],
         "map_locations": [
@@ -6888,8 +6970,32 @@
         "name": "SM Unique Monsters 1",
         "sections": [
           {
-            "name": "Verdant Bluchal (Lv.5)",
-            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+            "name": "Stormy Widardun (Lv.25)",
+            "ref": "Satorl Marsh Unique Monsters/UM: Stormy Widardun/Lv.25"
+          },
+          {
+            "name": "Cautious Balteid (Lv.26)",
+            "ref": "Satorl Marsh Unique Monsters/UM: Cautious Balteid/Lv.26"
+          },
+          {
+            "name": "Amber Fischer (Lv.27)",
+            "ref": "Satorl Marsh Unique Monsters/UM: Amber Fischer/Lv.27"
+          },
+          {
+            "name": "Tumultuous Felix (Lv.27)",
+            "ref": "Satorl Marsh Unique Monsters/UM: Tumultuous Felix/Lv.27"
+          },
+          {
+            "name": "Aggressive Cornelius (Lv.28)",
+            "ref": "Satorl Marsh Unique Monsters/UM: Aggressive Cornelius/Lv.28"
+          },
+          {
+            "name": "Swift Zektol (Lv.28)",
+            "ref": "Satorl Marsh Unique Monsters/UM: Swift Zektol/Lv.28"
+          },
+          {
+            "name": "Satorl Guardian (Lv.28)",
+            "ref": "Satorl Marsh Bosses/Bosses/Boss: Satorl Guardian"
           }
         ],
         "map_locations": [
@@ -6905,8 +7011,28 @@
         "name": "SM Unique Monsters 2",
         "sections": [
           {
-            "name": "Impenetrable Redrob (Lv.38 (Night))",
-            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+            "name": "Sunlight Schvaik (Lv.30)",
+            "ref": "Satorl Marsh Unique Monsters/UM: Sunlight Schvaik/Lv.30"
+          },
+          {
+            "name": "Reckless Godwin (Lv.31)",
+            "ref": "Satorl Marsh Unique Monsters/UM: Reckless Godwin/Lv.31"
+          },
+          {
+            "name": "Veteran Yozel (Lv.83)",
+            "ref": "Satorl Marsh Unique Monsters/UM: Veteran Yozel/Lv.83"
+          },
+          {
+            "name": "Indomitable Daulton (Lv.85)",
+            "ref": "Satorl Marsh Unique Monsters/UM: Indomitable Daulton/Lv.85"
+          },
+          {
+            "name": "Eternal Palsadia (Lv.91)",
+            "ref": "Satorl Marsh Unique Monsters/UM: Eternal Palsadia/Lv.91"
+          },
+          {
+            "name": "Despotic Arsene (Lv.108)",
+            "ref": "Satorl Marsh Unique Monsters/Superboss: Despotic Arsene/Lv.108"
           }
         ],
         "map_locations": [
@@ -6922,8 +7048,16 @@
         "name": "SM Heart-to-Hearts",
         "sections": [
           {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+            "name": "Atop the Crown Tree (Sharla/Riki)",
+            "ref": "Satorl Marsh H2H/Atop the Crown Tree/Sharla & Riki"
+          },
+          {
+            "name": "High Entia History (Dunban/Melia)",
+            "ref": "Satorl Marsh H2H/High Entia History/Dunban & Melia"
+          },
+          {
+            "name": "The Shimmering Marsh (Shulk/Dunban)",
+            "ref": "Satorl Marsh H2H/The Shimmering Marsh/Shulk & Dunban"
           }
         ],
         "map_locations": [
@@ -6936,11 +7070,47 @@
         ]
       },
       {
-        "name": "MaFo Quests 1",
+        "name": "MaFo Quests",
         "sections": [
           {
-            "name": "A Curry Conundrum",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+            "name": "Bridge Repair",
+            "ref": "Makna Forest Quests/Pod Landing Site/Bridge Repair"
+          },
+          {
+            "name": "Challenge",
+            "ref": "Makna Forest Quests/Agni Tablet/Challenge"
+          },
+          {
+            "name": "Legend of the Sage",
+            "ref": "Makna Forest Quests/Divine Sanctuary/Legend of the Sage"
+          },
+          {
+            "name": "Challenge of the Sage",
+            "ref": "Makna Forest Quests/Divine Sanctuary/Challenge of the Sage"
+          },
+          {
+            "name": "Final Challenge of the Sage",
+            "ref": "Makna Forest Quests/Divine Sanctuary/Final Challenge of the Sage"
+          },
+          {
+            "name": "Monster Quest 1",
+            "ref": "Makna Forest Quests/Agni Tablet/Monster Quest 1"
+          },
+          {
+            "name": "Monster Quest 2",
+            "ref": "Makna Forest Quests/Agni Tablet/Monster Quest 2"
+          },
+          {
+            "name": "Monster Quest 3",
+            "ref": "Makna Forest Quests/Agni Tablet/Monster Quest 3"
+          },
+          {
+            "name": "Monster Quest 4",
+            "ref": "Makna Forest Quests/Agni Tablet/Monster Quest 4"
+          },
+          {
+            "name": "Mystery Girl Rescue",
+            "ref": "Makna Forest Quests/Makna Path/Mystery Girl Rescue"
           }
         ],
         "map_locations": [
@@ -6953,79 +7123,11 @@
         ]
       },
       {
-        "name": "MaFo Quests 2",
+        "name": "MaFo NPC",
         "sections": [
           {
-            "name": "Collection Quest 1",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 70,
-            "y": 151,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "MaFo Quests 3",
-        "sections": [
-          {
-            "name": "Jackson's Awakening",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 85,
-            "y": 151,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "MaFo Quests 4",
-        "sections": [
-          {
-            "name": "Monster Quest 2 - Part 3",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 100,
-            "y": 151,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "MaFo Quests 5",
-        "sections": [
-          {
-            "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 115,
-            "y": 151,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "MaFo NPCs 1",
-        "sections": [
-          {
-            "name": "Andreas",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+            "name": "Nopon Sage",
+            "ref": "Makna Forest NPCs/Divine Sanctuary/Nopon Sage"
           }
         ],
         "map_locations": [
@@ -7041,8 +7143,64 @@
         "name": "MaFo Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Agni Tablet",
+            "ref": "Makna Forest Landmarks/Agni Tablet/Landmark"
+          },
+          {
+            "name": "Glowmoss Trihenge",
+            "ref": "Makna Forest Landmarks/Glowmoss Trihenge/Landmark"
+          },
+          {
+            "name": "Lakeside",
+            "ref": "Makna Forest Landmarks/Lakeside/Landmark"
+          },
+          {
+            "name": "Makna Path",
+            "ref": "Makna Forest Landmarks/Makna Path/Landmark"
+          },
+          {
+            "name": "Nopon Arch",
+            "ref": "Makna Forest Landmarks/Nopon Arch/Landmark"
+          },
+          {
+            "name": "Pod Landing Site",
+            "ref": "Makna Forest Landmarks/Pod Landing Site/Landmark"
+          },
+          {
+            "name": "Twisted Tree Gate",
+            "ref": "Makna Forest Landmarks/Twisted Tree Gate/Landmark"
+          },
+          {
+            "name": "Valak Pass",
+            "ref": "Makna Forest Landmarks/Valak Pass/Landmark"
+          },
+          {
+            "name": "Village Entrance",
+            "ref": "Makna Forest Landmarks/Village Entrance/Landmark"
+          },
+          {
+            "name": "Waypoint Beacon",
+            "ref": "Makna Forest Landmarks/Waypoint Beacon/Landmark"
+          },
+          {
+            "name": "Windmill Pavilion",
+            "ref": "Makna Forest Landmarks/Windmill Pavilion/Landmark"
+          },
+          {
+            "name": "Divine Sanctuary",
+            "ref": "Makna Forest Landmarks/Divine Sanctuary/Landmark"
+          },
+          {
+            "name": "Seahorse Islet",
+            "ref": "Makna Forest Landmarks/Seahorse Islet/Landmark"
+          },
+          {
+            "name": "Sparkling Pool",
+            "ref": "Makna Forest Landmarks/Sparkling Pool/Landmark"
+          },
+          {
+            "name": "King Agni's Tomb",
+            "ref": "Makna Forest Landmarks/King Agni's Tomb/Landmark"
           }
         ],
         "map_locations": [
@@ -7058,8 +7216,32 @@
         "name": "MaFo Unique Monsters 1",
         "sections": [
           {
-            "name": "Verdant Bluchal (Lv.5)",
-            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+            "name": "Puera Telethia (Lv.28)",
+            "ref": "Makna Forest Bosses/Puera Telethia/Boss: Puera Telethia"
+          },
+          {
+            "name": "Agile Albatro (Lv.33)",
+            "ref": "Makna Forest Unique Monsters/UM: Agile Albatro/Lv.33"
+          },
+          {
+            "name": "Shimmering Forte (Lv.33)",
+            "ref": "Makna Forest Unique Monsters/UM: Shimmering Forte/Lv.33"
+          },
+          {
+            "name": "Elder Gragus (Lv.34)",
+            "ref": "Makna Forest Unique Monsters/UM: Elder Gragus/Lv.34"
+          },
+          {
+            "name": "Lazy Bluco (Lv.34)",
+            "ref": "Makna Forest Unique Monsters/UM: Lazy Bluco/Lv.34"
+          },
+          {
+            "name": "Obsessive Galgaron (Lv.35)",
+            "ref": "Makna Forest Unique Monsters/UM: Obsessive Galgaron/Lv.35"
+          },
+          {
+            "name": "Leone Telethia (Lv.36)",
+            "ref": "Makna Forest Bosses/Leone Telethia/Boss: Leone Telethia"
           }
         ],
         "map_locations": [
@@ -7075,8 +7257,24 @@
         "name": "MaFo Unique Monsters 2",
         "sections": [
           {
-            "name": "Impenetrable Redrob (Lv.38 (Night))",
-            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+            "name": "Breezy Zolos (Lv.37)",
+            "ref": "Makna Forest Unique Monsters/UM: Breezy Zolos/Lv.37"
+          },
+          {
+            "name": "Brutal Gravar (Lv.46)",
+            "ref": "Makna Forest Unique Monsters/UM: Brutal Gravar/Lv.46"
+          },
+          {
+            "name": "Unreliable Rezno (Lv.96)",
+            "ref": "Makna Forest Unique Monsters/UM: Unreliable Rezno/Lv.96 (Quest)"
+          },
+          {
+            "name": "Illustrious Golteus (Lv.98)",
+            "ref": "Makna Forest Unique Monsters/UM: Illustrious Golteus/Lv.98"
+          },
+          {
+            "name": "Magnificent Digalus (Lv.99)",
+            "ref": "Makna Forest Unique Monsters/UM: Magnificent Digalus/Lv.99"
           }
         ],
         "map_locations": [
@@ -7092,8 +7290,16 @@
         "name": "MaFo Heart-to-Hearts",
         "sections": [
           {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+            "name": "Fallen Brethren (Shulk/Melia)",
+            "ref": "Makna Forest H2H/Fallen Brethren/Shulk & Melia"
+          },
+          {
+            "name": "Riki's Crazy Crystal Plan (Reyn/Riki)",
+            "ref": "Makna Forest H2H/Riki's Crazy Crystal Plan/Reyn & Riki"
+          },
+          {
+            "name": "No Boys Allowed (Sharla/Melia)",
+            "ref": "Makna Forest H2H/No Boys Allowed/Sharla & Melia"
           }
         ],
         "map_locations": [
@@ -7106,11 +7312,67 @@
         ]
       },
       {
-        "name": "FV Quests 1",
+        "name": "FV Quests A-Ch",
         "sections": [
           {
-            "name": "A Curry Conundrum",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+            "name": "A Gift For Miko",
+            "ref": "Frontier Village Quests/Quests FI-IN/A Gift For Miko"
+          },
+          {
+            "name": "A Memento of Daddy",
+            "ref": "Frontier Village Quests/Quests ME-MU/A Memento of Daddy"
+          },
+          {
+            "name": "A Tormented Bug-Lover",
+            "ref": "Frontier Village Quests/Quests SEC-WO/A Tormented Bug-Lover"
+          },
+          {
+            "name": "A Worried Bug-Lover",
+            "ref": "Frontier Village Quests/Quests SEC-WO/A Worried Bug-Lover"
+          },
+          {
+            "name": "Adviser Hunt",
+            "ref": "Frontier Village Quests/Quests A-CH/Adviser Hunt"
+          },
+          {
+            "name": "An Errand for the Heropon",
+            "ref": "Frontier Village Quests/Quests A-CH/An Errand for the Heropon (Story)"
+          },
+          {
+            "name": "Avenge a Mamapon's Death",
+            "ref": "Frontier Village Quests/Quests A-CH/Avenge a Mamapon's Death"
+          },
+          {
+            "name": "Bana the Betrayer",
+            "ref": "Frontier Village Quests/Quests A-CH/Bana the Betrayer"
+          },
+          {
+            "name": "Beat Kilaki to it!",
+            "ref": "Frontier Village Quests/Quests A-CH/Beat Kilaki to it!"
+          },
+          {
+            "name": "Bored Pelupelu",
+            "ref": "Frontier Village Quests/Quests A-CH/Bored Pelupelu"
+          },
+          {
+            "name": "Broken Ether Furnace",
+            "ref": "Frontier Village Quests/Quests A-CH/Broken Ether Furnace"
+          },
+          {
+            "name": "Broken Ether Furnace 2",
+            "ref": "Frontier Village Quests/Quests A-CH/Broken Ether Furnace 2"
+          },
+          {
+            "name": "Challenge 1",
+            "ref": "Frontier Village Quests/Quests A-CH/Challenge 1"
+          },
+          {
+            "name": "Challenge 2",
+            "ref": "Frontier Village Quests/Quests A-CH/Challenge 2"
+          },
+          {
+            "name": "Challenge 3",
+            "ref": "Frontier Village Quests/Quests A-CH/Challenge 3"
           }
         ],
         "map_locations": [
@@ -7123,11 +7385,71 @@
         ]
       },
       {
-        "name": "FV Quests 2",
+        "name": "FV Quests Co-He",
         "sections": [
           {
             "name": "Collection Quest 1",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+            "ref": "Frontier Village Quests/Quests CO-EV/Collection Quest 1"
+          },
+          {
+            "name": "Collection Quest 2",
+            "ref": "Frontier Village Quests/Quests CO-EV/Collection Quest 2"
+          },
+          {
+            "name": "Collection Quest 3",
+            "ref": "Frontier Village Quests/Quests CO-EV/Collection Quest 3"
+          },
+          {
+            "name": "Collection Quest 4",
+            "ref": "Frontier Village Quests/Quests CO-EV/Collection Quest 4"
+          },
+          {
+            "name": "Dadapon In Trouble",
+            "ref": "Frontier Village Quests/Quests CO-EV/Dadapon In Trouble"
+          },
+          {
+            "name": "Dangerous Ambition",
+            "ref": "Frontier Village Quests/Quests CO-EV/Dangerous Ambition (MISSABLE)"
+          },
+          {
+            "name": "Decoration Makeover",
+            "ref": "Frontier Village Quests/Quests CO-EV/Decoration Makeover"
+          },
+          {
+            "name": "Destroying the City Trade",
+            "ref": "Frontier Village Quests/Quests CO-EV/Destroying the City Trade (MISSABLE)"
+          },
+          {
+            "name": "Even In the Chief's Absence",
+            "ref": "Frontier Village Quests/Quests CO-EV/Even In the Chief's Absence"
+          },
+          {
+            "name": "Evidence Collection",
+            "ref": "Frontier Village Quests/Quests CO-EV/Evidence Collection (MISSABLE)"
+          },
+          {
+            "name": "Find the Kingpin",
+            "ref": "Frontier Village Quests/Quests FI-IN/Find the Kingpin (MISSABLE)"
+          },
+          {
+            "name": "Fixing Time Mushrooms",
+            "ref": "Frontier Village Quests/Quests FI-IN/Fixing Time Mushrooms"
+          },
+          {
+            "name": "Getting Bigger!",
+            "ref": "Frontier Village Quests/Quests FI-IN/Getting Bigger!"
+          },
+          {
+            "name": "Giant Attack!",
+            "ref": "Frontier Village Quests/Quests FI-IN/Giant Attack!"
+          },
+          {
+            "name": "Healing the Healer",
+            "ref": "Frontier Village Quests/Quests FI-IN/Healing the Healer"
+          },
+          {
+            "name": "Heropon's Spirit",
+            "ref": "Frontier Village Quests/Quests FI-IN/Heropon's Spirit"
           }
         ],
         "map_locations": [
@@ -7140,11 +7462,71 @@
         ]
       },
       {
-        "name": "FV Quests 3",
+        "name": "FV Quests Ho-Me",
         "sections": [
           {
-            "name": "Jackson's Awakening",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+            "name": "Honouring the Nopon Sage",
+            "ref": "Frontier Village Quests/Quests FI-IN/Honouring the Nopon Sage"
+          },
+          {
+            "name": "Hunt for a Patron",
+            "ref": "Frontier Village Quests/Quests FI-IN/Hunt for a Patron"
+          },
+          {
+            "name": "Hunt for Bug-Loving Friend",
+            "ref": "Frontier Village Quests/Quests FI-IN/Hunt for Bug-Loving Friend"
+          },
+          {
+            "name": "Ingredients for a Brew",
+            "ref": "Frontier Village Quests/Quests FI-IN/Ingredients for a Brew"
+          },
+          {
+            "name": "It Definitely Exist!",
+            "ref": "Frontier Village Quests/Quests IT-MA/It Definitely Exist!"
+          },
+          {
+            "name": "Kind Lupa's Grampypon",
+            "ref": "Frontier Village Quests/Quests IT-MA/Kind Lupa's Grampypon"
+          },
+          {
+            "name": "Legendary Nopon Charm",
+            "ref": "Frontier Village Quests/Quests IT-MA/Legendary Nopon Charm"
+          },
+          {
+            "name": "Leku's Food Crisis",
+            "ref": "Frontier Village Quests/Quests IT-MA/Leku's Food Crisis"
+          },
+          {
+            "name": "Lousy Lizards",
+            "ref": "Frontier Village Quests/Quests IT-MA/Lousy Lizards"
+          },
+          {
+            "name": "Making a Mixer",
+            "ref": "Frontier Village Quests/Quests IT-MA/Making a Mixer"
+          },
+          {
+            "name": "Material Quest 1",
+            "ref": "Frontier Village Quests/Quests IT-MA/Material Quest 1"
+          },
+          {
+            "name": "Material Quest 2",
+            "ref": "Frontier Village Quests/Quests IT-MA/Material Quest 2"
+          },
+          {
+            "name": "Material Quest 3",
+            "ref": "Frontier Village Quests/Quests IT-MA/Material Quest 3"
+          },
+          {
+            "name": "Material Quest 4",
+            "ref": "Frontier Village Quests/Quests IT-MA/Material Quest 4"
+          },
+          {
+            "name": "Materials for a Mixer",
+            "ref": "Frontier Village Quests/Quests IT-MA/Materials for a Mixer"
+          },
+          {
+            "name": "Meeting the Nopon Sage",
+            "ref": "Frontier Village Quests/Quests ME-MU/Meeting the Nopon Sage"
           }
         ],
         "map_locations": [
@@ -7157,11 +7539,67 @@
         ]
       },
       {
-        "name": "FV Quests 4",
+        "name": "FV Quests Mi-Po",
         "sections": [
           {
+            "name": "Mislabelling Problem",
+            "ref": "Frontier Village Quests/Quests ME-MU/Mislabelling Problem"
+          },
+          {
+            "name": "Monster Quest 1 - Part 1",
+            "ref": "Frontier Village Quests/Quests ME-MU/Monster Quest 1 - Part 1"
+          },
+          {
+            "name": "Monster Quest 1 - Part 2",
+            "ref": "Frontier Village Quests/Quests ME-MU/Monster Quest 1 - Part 2"
+          },
+          {
+            "name": "Monster Quest 1 - Part 3",
+            "ref": "Frontier Village Quests/Quests ME-MU/Monster Quest 1 - Part 3"
+          },
+          {
+            "name": "Monster Quest 2 - Part 1",
+            "ref": "Frontier Village Quests/Quests ME-MU/Monster Quest 2 - Part 1"
+          },
+          {
+            "name": "Monster Quest 2 - Part 2",
+            "ref": "Frontier Village Quests/Quests ME-MU/Monster Quest 2 - Part 2"
+          },
+          {
             "name": "Monster Quest 2 - Part 3",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+            "ref": "Frontier Village Quests/Quests ME-MU/Monster Quest 2 - Part 3"
+          },
+          {
+            "name": "Mushy Mushrooms",
+            "ref": "Frontier Village Quests/Quests ME-MU/Mushy Mushrooms"
+          },
+          {
+            "name": "Musical Genius",
+            "ref": "Frontier Village Quests/Quests ME-MU/Musical Genius"
+          },
+          {
+            "name": "Mystery of Makna Ruins 1",
+            "ref": "Frontier Village Quests/Quests MY-SEA/Mystery of Makna Ruins 1"
+          },
+          {
+            "name": "Mystery of Makna Ruins 2",
+            "ref": "Frontier Village Quests/Quests MY-SEA/Mystery of Makna Ruins 2"
+          },
+          {
+            "name": "Mystery of Makna Ruins 3",
+            "ref": "Frontier Village Quests/Quests MY-SEA/Mystery of Makna Ruins 3"
+          },
+          {
+            "name": "Mystery of Makna Ruins 4",
+            "ref": "Frontier Village Quests/Quests MY-SEA/Mystery of Makna Ruins 4"
+          },
+          {
+            "name": "Pollen Orb Ingredients",
+            "ref": "Frontier Village Quests/Quests MY-SEA/Pollen Orb Ingredients"
+          },
+          {
+            "name": "Popularity Premonition",
+            "ref": "Frontier Village Quests/Quests MY-SEA/Popularity Premonition"
           }
         ],
         "map_locations": [
@@ -7174,11 +7612,67 @@
         ]
       },
       {
-        "name": "FV Quests 5",
+        "name": "FV Quests Pr-W",
         "sections": [
           {
+            "name": "Presents for Priceless Pupils",
+            "ref": "Frontier Village Quests/Quests MY-SEA/Presents for Priceless Pupils"
+          },
+          {
+            "name": "Restoring the Capital",
+            "ref": "Frontier Village Quests/Quests MY-SEA/Restoring the Capital"
+          },
+          {
+            "name": "Restoring the Capital 2",
+            "ref": "Frontier Village Quests/Quests MY-SEA/Restoring the Capital 2"
+          },
+          {
             "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+            "ref": "Frontier Village Quests/Quests MY-SEA/Search Quest 1"
+          },
+          {
+            "name": "Search Quest 2",
+            "ref": "Frontier Village Quests/Quests MY-SEA/Search Quest 2"
+          },
+          {
+            "name": "Search Quest 3",
+            "ref": "Frontier Village Quests/Quests MY-SEA/Search Quest 3"
+          },
+          {
+            "name": "Secret Elixir Ingredients",
+            "ref": "Frontier Village Quests/Quests SEC-WO/Secret Elixir Ingredients"
+          },
+          {
+            "name": "Secret Ingredient Hunt",
+            "ref": "Frontier Village Quests/Quests SEC-WO/Secret Ingredient Hunt"
+          },
+          {
+            "name": "Secret Innovation",
+            "ref": "Frontier Village Quests/Quests SEC-WO/Secret Innovation"
+          },
+          {
+            "name": "Strange Noises from Below",
+            "ref": "Frontier Village Quests/Quests SEC-WO/Strange Noises from Below"
+          },
+          {
+            "name": "Sweet Seduction",
+            "ref": "Frontier Village Quests/Quests SEC-WO/Sweet Seduction"
+          },
+          {
+            "name": "The Master's Successor",
+            "ref": "Frontier Village Quests/Quests SEC-WO/The Master's Successor"
+          },
+          {
+            "name": "Things that Hum",
+            "ref": "Frontier Village Quests/Quests SEC-WO/Things that Hum"
+          },
+          {
+            "name": "Things that Rumble",
+            "ref": "Frontier Village Quests/Quests SEC-WO/Things that Rumble"
+          },
+          {
+            "name": "Who is Bigger?",
+            "ref": "Frontier Village Quests/Quests SEC-WO/Who is Bigger?"
           }
         ],
         "map_locations": [
@@ -7194,8 +7688,56 @@
         "name": "FV NPCs 1",
         "sections": [
           {
-            "name": "Andreas",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+            "name": "Ababa",
+            "ref": "Frontier Village NPCs/Ababa/Ababa"
+          },
+          {
+            "name": "Adidi",
+            "ref": "Frontier Village NPCs/Adidi/Adidi"
+          },
+          {
+            "name": "Bana",
+            "ref": "Frontier Village NPCs/Bana/Bana"
+          },
+          {
+            "name": "Berryjammy",
+            "ref": "Frontier Village NPCs/Berryjammy/Berryjammy"
+          },
+          {
+            "name": "Cherri",
+            "ref": "Frontier Village NPCs/Pollen Orb Storehouse/Cherri"
+          },
+          {
+            "name": "Dabidabi",
+            "ref": "Frontier Village NPCs/Dabidabi/Dabidabi"
+          },
+          {
+            "name": "Dedeba",
+            "ref": "Frontier Village NPCs/Pollen Orb Storehouse/Dedeba"
+          },
+          {
+            "name": "Deki",
+            "ref": "Frontier Village NPCs/Deki/Deki"
+          },
+          {
+            "name": "Dobadoba",
+            "ref": "Frontier Village NPCs/Dobadoba/Dobadoba"
+          },
+          {
+            "name": "Gadada",
+            "ref": "Frontier Village NPCs/Pollen Works/Gadada"
+          },
+          {
+            "name": "Gowago",
+            "ref": "Frontier Village NPCs/Gowago/Gowago"
+          },
+          {
+            "name": "Hoko",
+            "ref": "Frontier Village NPCs/Hoko/Hoko"
+          },
+          {
+            "name": "Kilaki",
+            "ref": "Frontier Village NPCs/Archaeology Level/Kilaki"
           }
         ],
         "map_locations": [
@@ -7211,8 +7753,52 @@
         "name": "FV NPCs 2",
         "sections": [
           {
-            "name": "Jolele",
-            "ref": "Colony 9 NPCs/Residential District (South)/Jolele"
+            "name": "Kofuko",
+            "ref": "Frontier Village NPCs/Central Plaza/Kofuko"
+          },
+          {
+            "name": "Kokora",
+            "ref": "Frontier Village NPCs/Kokora/Kokora"
+          },
+          {
+            "name": "Kuriku",
+            "ref": "Frontier Village NPCs/Central Plaza/Kuriku"
+          },
+          {
+            "name": "Lalapa",
+            "ref": "Frontier Village NPCs/Lalapa/Lalapa"
+          },
+          {
+            "name": "Leku",
+            "ref": "Frontier Village NPCs/Archaeology Level/Leku"
+          },
+          {
+            "name": "Lupa",
+            "ref": "Frontier Village NPCs/Archaeology Centre/Lupa"
+          },
+          {
+            "name": "Medi",
+            "ref": "Frontier Village NPCs/Kyn Shopping Street/Medi"
+          },
+          {
+            "name": "Migaga",
+            "ref": "Frontier Village NPCs/Central Plaza/Migaga"
+          },
+          {
+            "name": "Miko",
+            "ref": "Frontier Village NPCs/Miko/Miko"
+          },
+          {
+            "name": "Minana",
+            "ref": "Frontier Village NPCs/Kyn Shopping Street/Minana"
+          },
+          {
+            "name": "Modamo",
+            "ref": "Frontier Village NPCs/Modamo/Modamo"
+          },
+          {
+            "name": "Norara",
+            "ref": "Frontier Village NPCs/Norara/Norara"
           }
         ],
         "map_locations": [
@@ -7228,8 +7814,56 @@
         "name": "FV NPCs 3",
         "sections": [
           {
-            "name": "Niranira",
-            "ref": "Colony 9 NPCs/Residential District (West)/Niranira"
+            "name": "Npa",
+            "ref": "Frontier Village NPCs/Npa/Npa"
+          },
+          {
+            "name": "Pachipa",
+            "ref": "Frontier Village NPCs/Archaeology Centre/Pachipa"
+          },
+          {
+            "name": "Pelupelu",
+            "ref": "Frontier Village NPCs/Pelupelu/Pelupelu"
+          },
+          {
+            "name": "Pepa",
+            "ref": "Frontier Village NPCs/Pepa/Pepa"
+          },
+          {
+            "name": "Pipiki",
+            "ref": "Frontier Village NPCs/Central Plaza/Pipiki"
+          },
+          {
+            "name": "Pokapoka",
+            "ref": "Frontier Village NPCs/Central Plaza/Pokapoka"
+          },
+          {
+            "name": "Popipo",
+            "ref": "Frontier Village NPCs/Popipo/Popipo"
+          },
+          {
+            "name": "Puko",
+            "ref": "Frontier Village NPCs/Kyn Shopping Street/Puko"
+          },
+          {
+            "name": "Rasha",
+            "ref": "Frontier Village NPCs/Central Plaza/Rasha"
+          },
+          {
+            "name": "Rono",
+            "ref": "Frontier Village NPCs/Pollen Works/Rono"
+          },
+          {
+            "name": "Tati",
+            "ref": "Frontier Village NPCs/Underground Store/Tati"
+          },
+          {
+            "name": "Tuzu",
+            "ref": "Frontier Village NPCs/Archaeology Centre/Tuzu"
+          },
+          {
+            "name": "Yusa",
+            "ref": "Frontier Village NPCs/Underground Store/Yusa"
           }
         ],
         "map_locations": [
@@ -7245,8 +7879,36 @@
         "name": "FV Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Entry Bridge",
+            "ref": "Frontier Village Landmarks/Entry Bridge/Landmark"
+          },
+          {
+            "name": "Nopon Tower",
+            "ref": "Frontier Village Landmarks/Nopon Tower/Landmark"
+          },
+          {
+            "name": "Sacred Altar",
+            "ref": "Frontier Village Landmarks/Sacred Altar/Landmark"
+          },
+          {
+            "name": "Pollen Works",
+            "ref": "Frontier Village Landmarks/Pollen Works/Landmark"
+          },
+          {
+            "name": "Riki's House",
+            "ref": "Frontier Village Landmarks/Riki's House/Landmark"
+          },
+          {
+            "name": "Chief's Residence",
+            "ref": "Frontier Village Landmarks/Chief's Residence/Landmark"
+          },
+          {
+            "name": "Prophecy Hut",
+            "ref": "Frontier Village Landmarks/Prophecy Hut/Landmark"
+          },
+          {
+            "name": "Contemplation Terrace",
+            "ref": "Frontier Village Landmarks/Contemplation Terrace/Landmark"
           }
         ],
         "map_locations": [
@@ -7262,8 +7924,28 @@
         "name": "FV Heart-to-Hearts",
         "sections": [
           {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+            "name": "A Day Like Any Other (Melia/Seven)",
+            "ref": "Frontier Village H2H/A Day Like Any Other/Melia & Seven"
+          },
+          {
+            "name": "A Mysterious Sanctuary (Melia/Riki)",
+            "ref": "Frontier Village H2H/A Mysterious Sanctuary/Melia & Riki"
+          },
+          {
+            "name": "At the Pollen Works (Shulk/Riki)",
+            "ref": "Frontier Village H2H/At the Pollen Works/Shulk & Riki"
+          },
+          {
+            "name": "Life's Hard for a Heropon (Dunban/Riki)",
+            "ref": "Frontier Village H2H/Life's Hard for a Heropon/Dunban & Riki"
+          },
+          {
+            "name": "Reawakened Memories (Sharla/Seven)",
+            "ref": "Frontier Village H2H/Reawakened Memories/Sharla & Seven"
+          },
+          {
+            "name": "True Natures (Dunban/Melia)",
+            "ref": "Frontier Village H2H/True Natures/Dunban & Melia"
           }
         ],
         "map_locations": [
@@ -7276,11 +7958,39 @@
         ]
       },
       {
-        "name": "ES Quests 1",
+        "name": "ES Quests A-M",
         "sections": [
           {
-            "name": "A Curry Conundrum",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+            "name": "Ancient High Entia Mystery",
+            "ref": "Eryth Sea Quests/Ether Plant/Ancient High Entia Mystery"
+          },
+          {
+            "name": "Challenge",
+            "ref": "Eryth Sea Quests/Syrath Lighthouse/Challenge"
+          },
+          {
+            "name": "Collection Quest 1",
+            "ref": "Eryth Sea Quests/Syrath Lighthouse/Collect Quest 1"
+          },
+          {
+            "name": "Collection Quest 2",
+            "ref": "Eryth Sea Quests/Syrath Lighthouse/Collect Quest 2"
+          },
+          {
+            "name": "Hode Attack",
+            "ref": "Eryth Sea Quests/Ether Plant/Hode Attack"
+          },
+          {
+            "name": "Mend the Plant",
+            "ref": "Eryth Sea Quests/Ether Plant/Mend the Plant"
+          },
+          {
+            "name": "Monster Quest 1",
+            "ref": "Eryth Sea Quests/Syrath Lighthouse/Monster Quest 1"
+          },
+          {
+            "name": "Monster Quest 2",
+            "ref": "Eryth Sea Quests/Syrath Lighthouse/Monster Quest 2"
           }
         ],
         "map_locations": [
@@ -7293,11 +8003,39 @@
         ]
       },
       {
-        "name": "ES Quests 2",
+        "name": "ES Quests P-T",
         "sections": [
           {
-            "name": "Collection Quest 1",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+            "name": "Path to Prison Island",
+            "ref": "Eryth Sea Quests/Latael Shore/Path to Prison Island"
+          },
+          {
+            "name": "Punish the Hodes",
+            "ref": "Eryth Sea Quests/Ether Plant/Punish the Hodes"
+          },
+          {
+            "name": "Save the Worker",
+            "ref": "Eryth Sea Quests/Latael Shore/Save the Worker"
+          },
+          {
+            "name": "Secret Research",
+            "ref": "Eryth Sea Quests/Ether Plant/Secret Research"
+          },
+          {
+            "name": "Sister Seals",
+            "ref": "Eryth Sea Quests/Latael Shore/Sister Seals"
+          },
+          {
+            "name": "The Missing Boy",
+            "ref": "Eryth Sea Quests/Ether Plant/The Missing Boy"
+          },
+          {
+            "name": "Trouble at the Lighthouse",
+            "ref": "Eryth Sea Quests/Syrath Lighthouse/Trouble at the Lighthouse"
+          },
+          {
+            "name": "Trouble at the Plant",
+            "ref": "Eryth Sea Quests/Ether Plant/Trouble at the Plant"
           }
         ],
         "map_locations": [
@@ -7310,62 +8048,15 @@
         ]
       },
       {
-        "name": "ES Quests 3",
+        "name": "ES NPCs",
         "sections": [
           {
-            "name": "Jackson's Awakening",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
-          }
-        ],
-        "map_locations": [
+            "name": "Jarack",
+            "ref": "Eryth Sea NPCs/Jarack/Jarack"
+          },
           {
-            "map": "Summary",
-            "x": 85,
-            "y": 183,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "ES Quests 4",
-        "sections": [
-          {
-            "name": "Monster Quest 2 - Part 3",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 100,
-            "y": 183,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "ES Quests 5",
-        "sections": [
-          {
-            "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 115,
-            "y": 183,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "ES NPCs 1",
-        "sections": [
-          {
-            "name": "Andreas",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+            "name": "Shalen",
+            "ref": "Eryth Sea NPCs/Shalen/Shalen"
           }
         ],
         "map_locations": [
@@ -7381,8 +8072,40 @@
         "name": "ES Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Central Seal Island",
+            "ref": "Eryth Sea Landmarks/Central Seal Island/Landmark"
+          },
+          {
+            "name": "Centre Gate",
+            "ref": "Eryth Sea Landmarks/Centre Gate/Landmark"
+          },
+          {
+            "name": "Ether Plant",
+            "ref": "Eryth Sea Landmarks/Ether Plant/Landmark"
+          },
+          {
+            "name": "High Entia Tomb",
+            "ref": "Eryth Sea Landmarks/High Entia Tomb/Landmark"
+          },
+          {
+            "name": "Khatorl Seal Island",
+            "ref": "Eryth Sea Landmarks/Khatorl Seal Island/Landmark"
+          },
+          {
+            "name": "Latael Shore",
+            "ref": "Eryth Sea Landmarks/Latael Shore/Landmark"
+          },
+          {
+            "name": "Soltnar Seal Island",
+            "ref": "Eryth Sea Landmarks/Soltnar Seal Island/Landmark"
+          },
+          {
+            "name": "Syrath Lighthouse",
+            "ref": "Eryth Sea Landmarks/Syrath Lighthouse/Landmark"
+          },
+          {
+            "name": "Faras Cave",
+            "ref": "Eryth Sea Landmarks/Faras Cave/Landmark"
           }
         ],
         "map_locations": [
@@ -7398,8 +8121,36 @@
         "name": "ES Unique Monsters 1",
         "sections": [
           {
-            "name": "Verdant Bluchal (Lv.5)",
-            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+            "name": "Turbulent Belmo (Lv.36 (Clear))",
+            "ref": "Eryth Sea Unique Monsters/UM: Turbulent Belmo/Lv.36 (Clear)"
+          },
+          {
+            "name": "Flabbergasted Jerome (Lv.38 (Clear))",
+            "ref": "Eryth Sea Unique Monsters/UM: Flabbergasted Jerome/Lv.38 (Clear)"
+          },
+          {
+            "name": "Peeling Kircheis (Lv.38)",
+            "ref": "Eryth Sea Unique Monsters/UM: Peeling Kircheis/Lv.38"
+          },
+          {
+            "name": "Proper Bandaz (Lv.39 (Shooting Stars))",
+            "ref": "Eryth Sea Unique Monsters/UM: Proper Bandaz/Lv.39 (Shooting Stars)"
+          },
+          {
+            "name": "Tempestuous Edegia (Lv.39 (Night))",
+            "ref": "Eryth Sea Unique Monsters/UM: Tempestuous Edegia/Lv.39 (Night)"
+          },
+          {
+            "name": "Subterranean Zomar (Lv.40)",
+            "ref": "Eryth Sea Unique Monsters/UM: Subterranean Zomar/Lv.40"
+          },
+          {
+            "name": "Skyray (Lv.40)",
+            "ref": "Eryth Sea Bosses/Skyray/Boss: Skyray"
+          },
+          {
+            "name": "Cumulus Danaemos (Lv.41)",
+            "ref": "Eryth Sea Unique Monsters/UM: Cumulus Danaemos/Lv.41"
           }
         ],
         "map_locations": [
@@ -7415,8 +8166,32 @@
         "name": "ES Unique Monsters 2",
         "sections": [
           {
-            "name": "Impenetrable Redrob (Lv.38 (Night))",
-            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+            "name": "Funeral Gozra (Lv.42)",
+            "ref": "Eryth Sea Unique Monsters/UM: Funeral Gozra/Lv.42"
+          },
+          {
+            "name": "Lightspeed Sonid (Lv.44)",
+            "ref": "Eryth Sea Unique Monsters/UM: Lightspeed Sonid/Lv.44"
+          },
+          {
+            "name": "Stormy Belagon (Lv.87)",
+            "ref": "Eryth Sea Unique Monsters/UM: Stormy Belagon/Lv.87"
+          },
+          {
+            "name": "Bizarre Ragoel (Lv.88)",
+            "ref": "Eryth Sea Unique Monsters/UM: Bizarre Ragoel/Lv.88"
+          },
+          {
+            "name": "Sacred Zagamei (Lv.89)",
+            "ref": "Eryth Sea Unique Monsters/UM: Sacred Zagamei/Lv.89"
+          },
+          {
+            "name": "Clamorous Dablon (Lv.92 (Thunder))",
+            "ref": "Eryth Sea Unique Monsters/UM: Clamorous Dablon/Lv.92 (Thunder)"
+          },
+          {
+            "name": "Deadly Medorlo (Lv.93)",
+            "ref": "Eryth Sea Unique Monsters/UM: Deadly Medorlo/Lv.93"
           }
         ],
         "map_locations": [
@@ -7432,8 +8207,20 @@
         "name": "ES Heart-to-Hearts",
         "sections": [
           {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+            "name": "A Gift for a Loved One (Sharla/Dunban)",
+            "ref": "Eryth Sea H2H/A Gift for a Loved One/Sharla & Dunban"
+          },
+          {
+            "name": "Fish Fly! Fish Fly! (Reyn/Riki)",
+            "ref": "Eryth Sea H2H/Fish Fly! Fish Fly!/Reyn & Riki"
+          },
+          {
+            "name": "Flowers of Eryth Sea (Sharla/Riki)",
+            "ref": "Eryth Sea H2H/Flowers of Eryth Sea/Sharla & Riki"
+          },
+          {
+            "name": "Riki Have Question (Riki/Seven)",
+            "ref": "Eryth Sea H2H/Riki Have Question/Riki & Seven"
           }
         ],
         "map_locations": [
@@ -7446,11 +8233,51 @@
         ]
       },
       {
-        "name": "AL Quests 1",
+        "name": "AL Quests A-Ch",
         "sections": [
           {
-            "name": "A Curry Conundrum",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+            "name": "A Friend in Need",
+            "ref": "Alcamoth Quests/Great Hall Guards/A Friend in Need (MISSABLE)"
+          },
+          {
+            "name": "A Necessary Upgrade",
+            "ref": "Alcamoth Quests/A Necessary Upgrade/A Necessary Upgrade (MISSABLE)"
+          },
+          {
+            "name": "Back Pain",
+            "ref": "Alcamoth Quests/Great Hall Guards/Back Pain (MISSABLE)"
+          },
+          {
+            "name": "Believing Again",
+            "ref": "Alcamoth Quests/Believing Again/Believing Again (MISSABLE)"
+          },
+          {
+            "name": "Brave Actions",
+            "ref": "Alcamoth Quests/Mir'leiz/Brave Actions (MISSABLE)"
+          },
+          {
+            "name": "Bring Back My Son!",
+            "ref": "Alcamoth Quests/Bring Back My Son!/Bring Back My Son! (MISSABLE)"
+          },
+          {
+            "name": "Building Bridges",
+            "ref": "Alcamoth Quests/Building Bridges/Building Bridges (MISSABLE)"
+          },
+          {
+            "name": "Challenge 1",
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Challenge 1"
+          },
+          {
+            "name": "Challenge 2",
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Challenge 2"
+          },
+          {
+            "name": "Challenge 3",
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Challenge 3"
+          },
+          {
+            "name": "Challenge 4",
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Challenge 4"
           }
         ],
         "map_locations": [
@@ -7463,11 +8290,51 @@
         ]
       },
       {
-        "name": "AL Quests 2",
+        "name": "AL Quests Co-Lo",
         "sections": [
           {
             "name": "Collection Quest 1",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Collection Quest 1"
+          },
+          {
+            "name": "Collection Quest 2",
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Collection Quest 2"
+          },
+          {
+            "name": "Collection Quest 3",
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Collection Quest 3"
+          },
+          {
+            "name": "Collection Quest 4",
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Collection Quest 4"
+          },
+          {
+            "name": "Getting a Member's Card",
+            "ref": "Alcamoth Quests/Main Entrance (Surprise)/Getting a Member's Card (MISSABLE)"
+          },
+          {
+            "name": "Going Out to Play",
+            "ref": "Alcamoth Quests/Going Out to Play/Going Out to Play (MISSABLE)"
+          },
+          {
+            "name": "How Do They Feel?",
+            "ref": "Alcamoth Quests/Scarlen/How Do They Feel? (MISSABLE)"
+          },
+          {
+            "name": "How Do I Feel?",
+            "ref": "Alcamoth Quests/Scarlen/How Do I Feel? (MISSABLE)"
+          },
+          {
+            "name": "Looking for a Lost Son",
+            "ref": "Alcamoth Quests/Vol'aren/Looking for a Lost Son (MISSABLE)"
+          },
+          {
+            "name": "Looking for a Lost Daughter",
+            "ref": "Alcamoth Quests/Vol'aren/Looking for a Lost Daughter (MISSABLE)"
+          },
+          {
+            "name": "Looking for Gold Bugs",
+            "ref": "Alcamoth Quests/Looking for Gold Bugs/Looking for Gold Bugs (MISSABLE)"
           }
         ],
         "map_locations": [
@@ -7480,11 +8347,51 @@
         ]
       },
       {
-        "name": "AL Quests 3",
+        "name": "AL Quests Lo-Mo",
         "sections": [
           {
-            "name": "Jackson's Awakening",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+            "name": "Losing the Taste for Alcohol",
+            "ref": "Alcamoth Quests/Losing the Taste for Alcohol/Losing the Taste for Alcohol (MISSABLE)"
+          },
+          {
+            "name": "Material Quest 1",
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Material Quest 1"
+          },
+          {
+            "name": "Material Quest 2",
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Material Quest 2"
+          },
+          {
+            "name": "Material Quest 3",
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Material Quest 3"
+          },
+          {
+            "name": "Material Quest 4",
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Material Quest 4"
+          },
+          {
+            "name": "Monster Quest 1 - Part 1",
+            "ref": "Alcamoth Quests/Generic Quests 1 (ALL MISSABLE)/Monster Quest 1 - Part 1"
+          },
+          {
+            "name": "Monster Quest 1 - Part 2",
+            "ref": "Alcamoth Quests/Generic Quests 1 (ALL MISSABLE)/Monster Quest 1 - Part 2"
+          },
+          {
+            "name": "Monster Quest 1 - Part 3",
+            "ref": "Alcamoth Quests/Generic Quests 1 (ALL MISSABLE)/Monster Quest 1 - Part 3"
+          },
+          {
+            "name": "Monster Quest 2 - Part 1",
+            "ref": "Alcamoth Quests/Generic Quests 1 (ALL MISSABLE)/Monster Quest 2 - Part 1"
+          },
+          {
+            "name": "Monster Quest 2 - Part 2",
+            "ref": "Alcamoth Quests/Generic Quests 1 (ALL MISSABLE)/Monster Quest 2 - Part 2"
+          },
+          {
+            "name": "Monster Quest 2 - Part 3",
+            "ref": "Alcamoth Quests/Generic Quests 1 (ALL MISSABLE)/Monster Quest 2 - Part 3"
           }
         ],
         "map_locations": [
@@ -7497,11 +8404,47 @@
         ]
       },
       {
-        "name": "AL Quests 4",
+        "name": "AL Quests Mo-P",
         "sections": [
           {
-            "name": "Monster Quest 2 - Part 3",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
+            "name": "Monster Quest 3 - Part 1",
+            "ref": "Alcamoth Quests/Generic Quests 1 (ALL MISSABLE)/Monster Quest 3 - Part 1"
+          },
+          {
+            "name": "Monster Quest 3 - Part 2",
+            "ref": "Alcamoth Quests/Generic Quests 1 (ALL MISSABLE)/Monster Quest 3 - Part 2"
+          },
+          {
+            "name": "Monster Quest 3 - Part 3",
+            "ref": "Alcamoth Quests/Generic Quests 1 (ALL MISSABLE)/Monster Quest 3 - Part 3"
+          },
+          {
+            "name": "Monster Quest 4 - Part 1",
+            "ref": "Alcamoth Quests/Generic Quests 1 (ALL MISSABLE)/Monster Quest 4 - Part 1"
+          },
+          {
+            "name": "Monster Quest 4 - Part 2",
+            "ref": "Alcamoth Quests/Generic Quests 1 (ALL MISSABLE)/Monster Quest 4 - Part 2"
+          },
+          {
+            "name": "Monster Quest 4 - Part 3",
+            "ref": "Alcamoth Quests/Generic Quests 1 (ALL MISSABLE)/Monster Quest 4 - Part 3"
+          },
+          {
+            "name": "Preparing for Adventure",
+            "ref": "Alcamoth Quests/Kurralth & Zain/Preparing for Adventure (MISSABLE)"
+          },
+          {
+            "name": "Preparing for Adventure 2",
+            "ref": "Alcamoth Quests/Kurralth & Zain/Preparing for Adventure 2 (MISSABLE)"
+          },
+          {
+            "name": "Preparing for Adventure 3",
+            "ref": "Alcamoth Quests/Kurralth & Zain/Preparing for Adventure 3 (MISSABLE)"
+          },
+          {
+            "name": "Protect the Capital!",
+            "ref": "Alcamoth Quests/Mir'leiz/Protect the Capital! (MISSABLE)"
           }
         ],
         "map_locations": [
@@ -7514,11 +8457,43 @@
         ]
       },
       {
-        "name": "AL Quests 5",
+        "name": "AL Quests S-V",
         "sections": [
           {
             "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Search Quest 1"
+          },
+          {
+            "name": "Search Quest 2",
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Search Quest 2"
+          },
+          {
+            "name": "Search Quest 3",
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Search Quest 3"
+          },
+          {
+            "name": "Search Quest 4",
+            "ref": "Alcamoth Quests/Generic Quests 2 (ALL MISSABLE)/Search Quest 4"
+          },
+          {
+            "name": "Starlight Seeker",
+            "ref": "Alcamoth Quests/Elior/Starlight Seeker (MISSABLE)"
+          },
+          {
+            "name": "Starlight Gazer",
+            "ref": "Alcamoth Quests/Elior/Starlight Gazer (MISSABLE)"
+          },
+          {
+            "name": "Teaching Materials",
+            "ref": "Alcamoth Quests/Mir'leiz/Teaching Materials (MISSABLE)"
+          },
+          {
+            "name": "The Deciphering Machine",
+            "ref": "Alcamoth Quests/The Deciphering Machine/The Deciphering Machine (MISSABLE)"
+          },
+          {
+            "name": "Vidian Rescue Operation",
+            "ref": "Alcamoth Quests/Main Entrance (Surprise)/Vidian Rescue Operation (MISSABLE)"
           }
         ],
         "map_locations": [
@@ -7531,11 +8506,59 @@
         ]
       },
       {
-        "name": "AL NPCs 1",
+        "name": "AL NPCs A-Ka",
         "sections": [
           {
-            "name": "Andreas",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+            "name": "Arielle",
+            "ref": "Alcamoth NPCs/Arielle/Arielle"
+          },
+          {
+            "name": "Atael",
+            "ref": "Alcamoth NPCs/Kiddos/Atael"
+          },
+          {
+            "name": "Baroba",
+            "ref": "Alcamoth NPCs/Baroba/Baroba"
+          },
+          {
+            "name": "Caul",
+            "ref": "Alcamoth NPCs/Caul/Caul"
+          },
+          {
+            "name": "Cian",
+            "ref": "Alcamoth NPCs/Kiddos/Cian"
+          },
+          {
+            "name": "Don Argentis",
+            "ref": "Alcamoth NPCs/Don Argentis/Don Argentis"
+          },
+          {
+            "name": "Donnis",
+            "ref": "Alcamoth NPCs/Ascension Hall/Donnis"
+          },
+          {
+            "name": "Elior",
+            "ref": "Alcamoth NPCs/Elior/Elior"
+          },
+          {
+            "name": "En Argentis",
+            "ref": "Alcamoth NPCs/En Argentis/En Argentis"
+          },
+          {
+            "name": "Galdo",
+            "ref": "Alcamoth NPCs/Great Hall Guards/Galdo"
+          },
+          {
+            "name": "Galvin",
+            "ref": "Alcamoth NPCs/Great Hall Guards/Galvin"
+          },
+          {
+            "name": "Jer'ell",
+            "ref": "Alcamoth NPCs/Jer'ell & Scarlen/Jer'ell"
+          },
+          {
+            "name": "Kaleka",
+            "ref": "Alcamoth NPCs/Kaleka/Kaleka"
           }
         ],
         "map_locations": [
@@ -7548,11 +8571,59 @@
         ]
       },
       {
-        "name": "AL NPCs 2",
+        "name": "AL NPCs Ka-Pi",
         "sections": [
           {
-            "name": "Jolele",
-            "ref": "Colony 9 NPCs/Residential District (South)/Jolele"
+            "name": "Kaelin",
+            "ref": "Alcamoth NPCs/Ascension Hall/Kaelin"
+          },
+          {
+            "name": "Kurralth",
+            "ref": "Alcamoth NPCs/Kurralth, Ricoth, Rozeal, & Zain/Kurralth"
+          },
+          {
+            "name": "Lar'shen",
+            "ref": "Alcamoth NPCs/Great Hall Guards/Lar'shen"
+          },
+          {
+            "name": "Lecrough",
+            "ref": "Alcamoth NPCs/Great Hall Guards/Lecrough"
+          },
+          {
+            "name": "Lesunia",
+            "ref": "Alcamoth NPCs/Lesunia/Lesunia"
+          },
+          {
+            "name": "Lunara",
+            "ref": "Alcamoth NPCs/Lunara & Yura/Lunara"
+          },
+          {
+            "name": "Ma'crish",
+            "ref": "Alcamoth NPCs/Ma'crish/Ma'crish"
+          },
+          {
+            "name": "Merisa",
+            "ref": "Alcamoth NPCs/Merisa/Merisa"
+          },
+          {
+            "name": "Miriall",
+            "ref": "Alcamoth NPCs/Miriall/Miriall"
+          },
+          {
+            "name": "Mir'leiz",
+            "ref": "Alcamoth NPCs/Mir'leiz/Mir'leiz"
+          },
+          {
+            "name": "Naroth",
+            "ref": "Alcamoth NPCs/Naroth/Naroth"
+          },
+          {
+            "name": "Nelo",
+            "ref": "Alcamoth NPCs/Nelo/Nelo"
+          },
+          {
+            "name": "Piko",
+            "ref": "Alcamoth NPCs/Piko/Piko"
           }
         ],
         "map_locations": [
@@ -7565,11 +8636,59 @@
         ]
       },
       {
-        "name": "AL NPCs 3",
+        "name": "AL NPCs Po-Z",
         "sections": [
           {
-            "name": "Niranira",
-            "ref": "Colony 9 NPCs/Residential District (West)/Niranira"
+            "name": "Popipo",
+            "ref": "Alcamoth NPCs/Popipo/Popipo"
+          },
+          {
+            "name": "Ricoth",
+            "ref": "Alcamoth NPCs/Kurralth, Ricoth, Rozeal, & Zain/Ricoth"
+          },
+          {
+            "name": "Rozeal",
+            "ref": "Alcamoth NPCs/Kurralth, Ricoth, Rozeal, & Zain/Rozeal"
+          },
+          {
+            "name": "Ruthan",
+            "ref": "Alcamoth NPCs/Ruthan/Ruthan"
+          },
+          {
+            "name": "Scarlen",
+            "ref": "Alcamoth NPCs/Jer'ell & Scarlen/Scarlen"
+          },
+          {
+            "name": "Talia",
+            "ref": "Alcamoth NPCs/Talia/Talia"
+          },
+          {
+            "name": "Talonyth",
+            "ref": "Alcamoth NPCs/Talonyth/Talonyth"
+          },
+          {
+            "name": "Teelan",
+            "ref": "Alcamoth NPCs/Teelan/Teelan"
+          },
+          {
+            "name": "Vidian",
+            "ref": "Alcamoth NPCs/Vidian/Vidian"
+          },
+          {
+            "name": "Vol'aren",
+            "ref": "Alcamoth NPCs/Vol'aren/Vol'aren"
+          },
+          {
+            "name": "Yura",
+            "ref": "Alcamoth NPCs/Lunara & Yura/Yura"
+          },
+          {
+            "name": "Zain",
+            "ref": "Alcamoth NPCs/Kurralth, Ricoth, Rozeal, & Zain/Zain"
+          },
+          {
+            "name": "Zel Argentis",
+            "ref": "Alcamoth NPCs/Zel Argentis/Zel Argentis"
           }
         ],
         "map_locations": [
@@ -7585,8 +8704,32 @@
         "name": "AL Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Fountain of Eternity",
+            "ref": "Alcamoth Landmarks/Fountain of Eternity/Landmark"
+          },
+          {
+            "name": "Fountain of Hope",
+            "ref": "Alcamoth Landmarks/Fountain of Hope/Landmark"
+          },
+          {
+            "name": "Main Entrance",
+            "ref": "Alcamoth Landmarks/Main Entrance/Landmark"
+          },
+          {
+            "name": "Ascension Hall",
+            "ref": "Alcamoth Landmarks/Ascension Hall/Landmark"
+          },
+          {
+            "name": "Imperial Palace",
+            "ref": "Alcamoth Landmarks/Imperial Palace/Landmark"
+          },
+          {
+            "name": "Imperial Villa",
+            "ref": "Alcamoth Landmarks/Imperial Villa/Landmark"
+          },
+          {
+            "name": "Whitewing Palace",
+            "ref": "Alcamoth Landmarks/Whitewing Palace/Landmark"
           }
         ],
         "map_locations": [
@@ -7602,8 +8745,28 @@
         "name": "AL Heart-to-Hearts",
         "sections": [
           {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+            "name": "The Forefathers (Riki/Seven)",
+            "ref": "Alcamoth H2H/The Forefathers/Riki & Seven"
+          },
+          {
+            "name": "So Close, Yet So Far (Shulk/Melia)",
+            "ref": "Alcamoth H2H/So Close, Yet So Far/Shulk & Melia"
+          },
+          {
+            "name": "Melia's Imperial Villa (Melia/Seven)",
+            "ref": "Alcamoth H2H/Melia's Imperial Villa/Melia & Seven"
+          },
+          {
+            "name": "Brother and Sister (Dunban/Seven)",
+            "ref": "Alcamoth H2H/Brother and Sister/Dunban & Seven"
+          },
+          {
+            "name": "Ancient Astrology (Sharla/Melia)",
+            "ref": "Alcamoth H2H/Ancient Astrology/Sharla & Melia"
+          },
+          {
+            "name": "A Breathtaking Sight (Reyn/Melia)",
+            "ref": "Alcamoth H2H/A Breathtaking Sight/Reyn & Melia"
           }
         ],
         "map_locations": [
@@ -7616,113 +8779,31 @@
         ]
       },
       {
-        "name": "HT Quests 1",
-        "sections": [
-          {
-            "name": "A Curry Conundrum",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 55,
-            "y": 215,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "HT Quests 2",
-        "sections": [
-          {
-            "name": "Collection Quest 1",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 70,
-            "y": 215,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "HT Quests 3",
-        "sections": [
-          {
-            "name": "Jackson's Awakening",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 85,
-            "y": 215,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "HT Quests 4",
-        "sections": [
-          {
-            "name": "Monster Quest 2 - Part 3",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 100,
-            "y": 215,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "HT Quests 5",
-        "sections": [
-          {
-            "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 115,
-            "y": 215,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "HT NPCs 1",
-        "sections": [
-          {
-            "name": "Andreas",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 148,
-            "y": 215,
-            "size": 8
-          }
-        ]
-      },
-      {
         "name": "HT Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Ceremony Hall",
+            "ref": "High Entia Tomb Landmarks/Ceremony Hall/Landmark"
+          },
+          {
+            "name": "Sealed Chamber",
+            "ref": "High Entia Tomb Landmarks/Sealed Chamber/Landmark"
+          },
+          {
+            "name": "Tomb Approach",
+            "ref": "High Entia Tomb Landmarks/Tomb Approach/Landmark"
+          },
+          {
+            "name": "Tomb Robber Pool",
+            "ref": "High Entia Tomb Landmarks/Tomb Robber Pool/Landmark"
+          },
+          {
+            "name": "Tower of Trials - Bridge",
+            "ref": "High Entia Tomb Landmarks/Tower of Trials - Bridge/Landmark"
+          },
+          {
+            "name": "Valley of Emperors",
+            "ref": "High Entia Tomb Landmarks/Valley of Emperors/Landmark"
           }
         ],
         "map_locations": [
@@ -7735,11 +8816,23 @@
         ]
       },
       {
-        "name": "HT Unique Monsters 1",
+        "name": "HT Unique Monsters",
         "sections": [
           {
-            "name": "Verdant Bluchal (Lv.5)",
-            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+            "name": "Orluga Rufus (Lv.36)",
+            "ref": "High Entia Tomb Bosses/Orluga Rufus/Boss: Orluga Rufus"
+          },
+          {
+            "name": "Calm Anzabi (Lv.38)",
+            "ref": "High Entia Tomb Unique Monsters/UM: Calm Anzabi/Lv.38"
+          },
+          {
+            "name": "Solidum Telethia and Tyrea (Lv.38)",
+            "ref": "High Entia Tomb Bosses/Solidum Telethia and Tyrea/Boss: Solidum Telethia and Tyrea"
+          },
+          {
+            "name": "Furious Jozan (Lv.96)",
+            "ref": "High Entia Tomb Unique Monsters/UM: Furious Jozan/Lv.96"
           }
         ],
         "map_locations": [
@@ -7752,28 +8845,15 @@
         ]
       },
       {
-        "name": "HT Unique Monsters 2",
-        "sections": [
-          {
-            "name": "Impenetrable Redrob (Lv.38 (Night))",
-            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 260,
-            "y": 215,
-            "size": 8
-          }
-        ]
-      },
-      {
         "name": "HT Heart-to-Hearts",
         "sections": [
           {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+            "name": "Echoes of Ancient Times (Reyn/Melia)",
+            "ref": "High Entia Tomb H2H/Echoes of Ancient Times/Reyn & Melia"
+          },
+          {
+            "name": "Hopes and Plans (Shulk/Melia)",
+            "ref": "High Entia Tomb H2H/Hopes and Plans/Shulk & Melia"
           }
         ],
         "map_locations": [
@@ -7786,11 +8866,35 @@
         ]
       },
       {
-        "name": "VM Quests 1",
+        "name": "VM Quests B-M",
         "sections": [
           {
-            "name": "A Curry Conundrum",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+            "name": "Bad Timing",
+            "ref": "Valak Mountain Quests/Bad Timing/Bad Timing"
+          },
+          {
+            "name": "Chilkins and Antols",
+            "ref": "Valak Mountain Quests/Nopon Camp/Chilkins and Antols"
+          },
+          {
+            "name": "Chilkin Changes",
+            "ref": "Valak Mountain Quests/Nopon Camp/Chilkin Changes"
+          },
+          {
+            "name": "Monster Quest 1",
+            "ref": "Valak Mountain Quests/Zokhed Pass/Monster Quest 1"
+          },
+          {
+            "name": "Monster Quest 2",
+            "ref": "Valak Mountain Quests/Zokhed Pass/Monster Quest 2"
+          },
+          {
+            "name": "Monster Quest 3",
+            "ref": "Valak Mountain Quests/Zokhed Pass/Monster Quest 3"
+          },
+          {
+            "name": "Monster Quest 4",
+            "ref": "Valak Mountain Quests/Zokhed Pass/Monster Quest 4"
           }
         ],
         "map_locations": [
@@ -7803,11 +8907,31 @@
         ]
       },
       {
-        "name": "VM Quests 2",
+        "name": "VM Quests T-V",
         "sections": [
           {
-            "name": "Collection Quest 1",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+            "name": "The Balance of Power",
+            "ref": "Valak Mountain Quests/Nopon Camp/The Balance of Power"
+          },
+          {
+            "name": "The Final Giants' Ruins",
+            "ref": "Valak Mountain Quests/Harict Chapel/The Final Giants' Ruins"
+          },
+          {
+            "name": "The Freezing Nopon",
+            "ref": "Valak Mountain Quests/The Freezing Nopon/The Freezing Nopon"
+          },
+          {
+            "name": "The Giants' Treasures",
+            "ref": "Valak Mountain Quests/Harict Chapel/The Giants' Treasures"
+          },
+          {
+            "name": "The Magma Rock",
+            "ref": "Valak Mountain Quests/Harict Chapel/The Magma Rock (Story)"
+          },
+          {
+            "name": "Valak Mountain Research",
+            "ref": "Valak Mountain Quests/Nopon Camp/Valak Mountain Research"
           }
         ],
         "map_locations": [
@@ -7820,62 +8944,11 @@
         ]
       },
       {
-        "name": "VM Quests 3",
+        "name": "VM NPC",
         "sections": [
           {
-            "name": "Jackson's Awakening",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 85,
-            "y": 231,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "VM Quests 4",
-        "sections": [
-          {
-            "name": "Monster Quest 2 - Part 3",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 100,
-            "y": 231,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "VM Quests 5",
-        "sections": [
-          {
-            "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 115,
-            "y": 231,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "VM NPCs 1",
-        "sections": [
-          {
-            "name": "Andreas",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+            "name": "Dakuku",
+            "ref": "Valak Mountain/Nopon Camp & Antol Den/Dakuku"
           }
         ],
         "map_locations": [
@@ -7891,8 +8964,48 @@
         "name": "VM Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Zokhed Pass",
+            "ref": "Valak Mountain Landmarks/Zokhed Pass/Landmark"
+          },
+          {
+            "name": "Mechonis Wound",
+            "ref": "Valak Mountain Landmarks/Mechonis Wound/Landmark"
+          },
+          {
+            "name": "Hollow Bone",
+            "ref": "Valak Mountain Landmarks/Hollow Bone/Landmark"
+          },
+          {
+            "name": "Befalgar Pedestal",
+            "ref": "Valak Mountain Landmarks/Befalgar Pedestal/Landmark"
+          },
+          {
+            "name": "Three Sage Summit",
+            "ref": "Valak Mountain Landmarks/Three Sage Summit/Landmark"
+          },
+          {
+            "name": "Nopon Camp",
+            "ref": "Valak Mountain Landmarks/Nopon Camp/Landmark"
+          },
+          {
+            "name": "Harict Chapel",
+            "ref": "Valak Mountain Landmarks/Harict Chapel/Landmark"
+          },
+          {
+            "name": "Lava Cave",
+            "ref": "Valak Mountain Landmarks/Lava Cave/Landmark"
+          },
+          {
+            "name": "La Luz Church",
+            "ref": "Valak Mountain Landmarks/La Luz Church/Landmark"
+          },
+          {
+            "name": "Nofol Tower",
+            "ref": "Valak Mountain Landmarks/Nofol Tower/Landmark"
+          },
+          {
+            "name": "Bionis' Wrist",
+            "ref": "Valak Mountain Landmarks/Bionis' Wrist/Landmark"
           }
         ],
         "map_locations": [
@@ -7908,8 +9021,36 @@
         "name": "VM Unique Monsters 1",
         "sections": [
           {
-            "name": "Verdant Bluchal (Lv.5)",
-            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+            "name": "Glorious Buer (Lv.45)",
+            "ref": "Valak Mountain Unique Monsters/UM: Glorious Buer/Lv.45"
+          },
+          {
+            "name": "Conflagrant Raxeal (Lv.45)",
+            "ref": "Valak Mountain Unique Monsters/Lava Cave/UM: Conflagrant Raxeal (Lv.45)"
+          },
+          {
+            "name": "Moonlight Paimon (Lv.46)",
+            "ref": "Valak Mountain Unique Monsters/UM: Moonlight Paimon/Lv.46"
+          },
+          {
+            "name": "Vague Barbas (Lv.46)",
+            "ref": "Valak Mountain Unique Monsters/UM: Vague Barbas/Lv.46"
+          },
+          {
+            "name": "Agile Barbatos (Lv.47 (Night))",
+            "ref": "Valak Mountain Unique Monsters/UM: Agile Barbatos/Lv.47 (Night)"
+          },
+          {
+            "name": "Barbaric Sitri (Lv.47)",
+            "ref": "Valak Mountain Unique Monsters/Antol Den/UM: Barbaric Sitri (Lv.47)"
+          },
+          {
+            "name": "Banquet Vassago (Lv.48)",
+            "ref": "Valak Mountain Unique Monsters/Antol Den/UM: Banquet Vassago (Lv.48)"
+          },
+          {
+            "name": "Mumkhar (Lv.48)",
+            "ref": "Valak Mountain Bosses/Mumkhar/Boss: Mumkhar"
           }
         ],
         "map_locations": [
@@ -7925,8 +9066,32 @@
         "name": "VM Unique Monsters 2",
         "sections": [
           {
-            "name": "Impenetrable Redrob (Lv.38 (Night))",
-            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
+            "name": "Hidden Gamigin (Lv.49 (Night))",
+            "ref": "Valak Mountain Unique Monsters/UM: Hidden Gamigin/Lv.49 (Night)"
+          },
+          {
+            "name": "North Star Gusion (Lv.50 (Night, Not Clear))",
+            "ref": "Valak Mountain Unique Monsters/UM: North Star Gusion/Lv.50 (Night, Not Clear)"
+          },
+          {
+            "name": "Exposure Wolfol (Lv.97)",
+            "ref": "Valak Mountain Unique Monsters/Lava Cave/UM: Exposure Wolfol (Lv.97)"
+          },
+          {
+            "name": "Wandering Amon (Lv.98 (Night))",
+            "ref": "Valak Mountain Unique Monsters/UM: Wandering Amon/Lv.98 (Night)"
+          },
+          {
+            "name": "Final Marcus (Lv.100 (Night, Not Blizzard))",
+            "ref": "Valak Mountain Unique Monsters/Superboss: Final Marcus/Lv.100 (Night, Not Blizzard)"
+          },
+          {
+            "name": "Blizzard Belgazas (Lv.114)",
+            "ref": "Valak Mountain Unique Monsters/Superboss: Blizzard Belgazas/Lv.114"
+          },
+          {
+            "name": "Avalanche Abaasy (Lv.120 (Night, Blizzard))",
+            "ref": "Valak Mountain Unique Monsters/Superboss: Avalanche Abaasy/Lv.120 (Night, Blizzard)"
           }
         ],
         "map_locations": [
@@ -7942,8 +9107,16 @@
         "name": "VM Heart-to-Hearts",
         "sections": [
           {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+            "name": "A Snowy Hot Spring (Shulk/Riki)",
+            "ref": "Valak Mountain H2H/A Snowy Hot Spring/Shulk & Riki"
+          },
+          {
+            "name": "First Sight of Snow (Reyn/Seven)",
+            "ref": "Valak Mountain H2H/First Sight of Snow/Reyn & Seven"
+          },
+          {
+            "name": "In Ose Tower (Dunban/Riki)",
+            "ref": "Valak Mountain H2H/In Ose Tower/Dunban & Riki"
           }
         ],
         "map_locations": [
@@ -7956,85 +9129,29 @@
         ]
       },
       {
-        "name": "SV Quests 1",
+        "name": "SV Quests",
         "sections": [
           {
-            "name": "A Curry Conundrum",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+            "name": "Secure Dolgan Outpost",
+            "ref": "Sword Valley Quests/Secure Dolgan Outpost (MISSABLE)/Secure Dolgan Outpost (MISSABLE)"
+          },
+          {
+            "name": "Secure Enalda Control Base",
+            "ref": "Sword Valley Quests/Secure Enalda Control Base (MISSABLE)/Secure Enalda Control Base (MISSABLE)"
+          },
+          {
+            "name": "3rd Gate Front Line",
+            "ref": "Sword Valley Quests/3rd Gate Front Line (MISSABLE)/3rd Gate Front Line (MISSABLE)"
+          },
+          {
+            "name": "Secure the Radio Tower",
+            "ref": "Sword Valley Quests/Secure the Radio Tower (MISSABLE)/Secure the Radio Tower (MISSABLE)"
           }
         ],
         "map_locations": [
           {
             "map": "Summary",
             "x": 55,
-            "y": 247,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "SV Quests 2",
-        "sections": [
-          {
-            "name": "Collection Quest 1",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 70,
-            "y": 247,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "SV Quests 3",
-        "sections": [
-          {
-            "name": "Jackson's Awakening",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 85,
-            "y": 247,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "SV Quests 4",
-        "sections": [
-          {
-            "name": "Monster Quest 2 - Part 3",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 100,
-            "y": 247,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "SV Quests 5",
-        "sections": [
-          {
-            "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 115,
             "y": 247,
             "size": 8
           }
@@ -8044,8 +9161,44 @@
         "name": "SV Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Bionis' Thumb",
+            "ref": "Sword Valley Landmarks/Bionis' Thumb/Landmark"
+          },
+          {
+            "name": "Supply Convoy",
+            "ref": "Sword Valley Landmarks/Supply Convoy/Landmark"
+          },
+          {
+            "name": "Ged Fortress",
+            "ref": "Sword Valley Landmarks/Ged Fortress/Landmark"
+          },
+          {
+            "name": "Dolgan Outpost",
+            "ref": "Sword Valley Landmarks/Dolgan Outpost/Landmark"
+          },
+          {
+            "name": "Enalda Control Base",
+            "ref": "Sword Valley Landmarks/Enalda Control Base/Landmark"
+          },
+          {
+            "name": "Heavy Machine Depot",
+            "ref": "Sword Valley Landmarks/Heavy Machine Depot/Landmark"
+          },
+          {
+            "name": "Control Tower",
+            "ref": "Sword Valley Landmarks/Control Tower/Landmark"
+          },
+          {
+            "name": "Radio Tower",
+            "ref": "Sword Valley Landmarks/Radio Tower/Landmark"
+          },
+          {
+            "name": "Fortress Rear Entrance",
+            "ref": "Sword Valley Landmarks/Fortress Rear Entrance/Landmark"
+          },
+          {
+            "name": "Monado Wound",
+            "ref": "Sword Valley Landmarks/Monado Wound/Landmark"
           }
         ],
         "map_locations": [
@@ -8058,11 +9211,43 @@
         ]
       },
       {
-        "name": "SV Unique Monsters 1",
+        "name": "SV Unique Monsters",
         "sections": [
           {
-            "name": "Verdant Bluchal (Lv.5)",
-            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+            "name": "Prudent Purson (Lv.49)",
+            "ref": "Sword Valley Unique Monsters/UM: Prudent Purson/Lv.49"
+          },
+          {
+            "name": "Defective Ipos (Lv.50)",
+            "ref": "Sword Valley Unique Monsters/UM: Defective Ipos/Lv.50"
+          },
+          {
+            "name": "Tranquil Morax (Lv.50)",
+            "ref": "Sword Valley Unique Monsters/UM: Tranquil Morax/Lv.50"
+          },
+          {
+            "name": "Benevolent Aim (Lv.51)",
+            "ref": "Sword Valley Unique Monsters/UM: Benevolent Aim/Lv.51"
+          },
+          {
+            "name": "Fate Labolas (Lv.51)",
+            "ref": "Sword Valley Unique Monsters/UM: Fate Labolas/Lv.51"
+          },
+          {
+            "name": "Mumkhar (Lv.52)",
+            "ref": "Sword Valley Bosses/Mumkhar/Boss: Mumkhar"
+          },
+          {
+            "name": "Kamikaze Bune (Lv.53)",
+            "ref": "Sword Valley Unique Monsters/UM: Kamikaze Bune/Lv.53"
+          },
+          {
+            "name": "Lightning Ronove (Lv.55)",
+            "ref": "Sword Valley Unique Monsters/UM: Lightning Ronove/Lv.55"
+          },
+          {
+            "name": "Mischievious Naberius (Lv.57)",
+            "ref": "Sword Valley Unique Monsters/UM: Mischievious Naberius/Lv.57"
           }
         ],
         "map_locations": [
@@ -8075,102 +9260,29 @@
         ]
       },
       {
-        "name": "SV Unique Monsters 2",
+        "name": "GF Quests",
         "sections": [
           {
-            "name": "Impenetrable Redrob (Lv.38 (Night))",
-            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
-          }
-        ],
-        "map_locations": [
+            "name": "Lift Battle",
+            "ref": "Galahad Fortress Quests/Lift Battle (MISSABLE)/Lift Battle (MISSABLE)"
+          },
           {
-            "map": "Summary",
-            "x": 260,
-            "y": 247,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "GF Quests 1",
-        "sections": [
+            "name": "Supply Station Battle",
+            "ref": "Galahad Fortress Quests/Supply Station Battle (MISSABLE)/Supply Station Battle (MISSABLE)"
+          },
           {
-            "name": "A Curry Conundrum",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+            "name": "Turbine Battle",
+            "ref": "Galahad Fortress Quests/Turbine Battle (MISSABLE)/Turbine Battle (MISSABLE)"
+          },
+          {
+            "name": "Fiora's Conviction",
+            "ref": "Galahad Fortress Quests/Fiora's Conviction (MISSABLE)/Fiora's Conviction (MISSABLE)"
           }
         ],
         "map_locations": [
           {
             "map": "Summary",
             "x": 55,
-            "y": 263,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "GF Quests 2",
-        "sections": [
-          {
-            "name": "Collection Quest 1",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 70,
-            "y": 263,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "GF Quests 3",
-        "sections": [
-          {
-            "name": "Jackson's Awakening",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 85,
-            "y": 263,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "GF Quests 4",
-        "sections": [
-          {
-            "name": "Monster Quest 2 - Part 3",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 100,
-            "y": 263,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "GF Quests 5",
-        "sections": [
-          {
-            "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 115,
             "y": 263,
             "size": 8
           }
@@ -8180,8 +9292,24 @@
         "name": "GF Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Ether Influx Conduit",
+            "ref": "Galahad Fortress Landmarks/Ether Influx Conduit/Landmark"
+          },
+          {
+            "name": "Main Control Room",
+            "ref": "Galahad Fortress Landmarks/Main Control Room/Landmark"
+          },
+          {
+            "name": "Ether Blast Furnace",
+            "ref": "Galahad Fortress Landmarks/Ether Blast Furnace/Landmark"
+          },
+          {
+            "name": "Preparation Bay",
+            "ref": "Galahad Fortress Landmarks/Preparation Bay/Landmark"
+          },
+          {
+            "name": "Fortress Depths",
+            "ref": "Galahad Fortress Landmarks/Fortress Depths/Landmark"
           }
         ],
         "map_locations": [
@@ -8194,11 +9322,23 @@
         ]
       },
       {
-        "name": "GF Unique Monsters 1",
+        "name": "GF Unique Monsters",
         "sections": [
           {
-            "name": "Verdant Bluchal (Lv.5)",
-            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+            "name": "Glacier Acon (Lv.52)",
+            "ref": "Galahad Fortress Unique Monsters/UM: Glacier Acon/Lv.52"
+          },
+          {
+            "name": "Precious Retrato (Lv.53)",
+            "ref": "Galahad Fortress Unique Monsters/UM: Precious Retrato/Lv.53"
+          },
+          {
+            "name": "Glorious Jurom (Lv.55)",
+            "ref": "Galahad Fortress Unique Monsters/UM: Glorious Jurom/Lv.55"
+          },
+          {
+            "name": "Gold Face (Lv.60)",
+            "ref": "Galahad Fortress Bosses/Gold Face/Boss: Gold Face"
           }
         ],
         "map_locations": [
@@ -8211,28 +9351,47 @@
         ]
       },
       {
-        "name": "GF Unique Monsters 2",
+        "name": "FA Quests A-M",
         "sections": [
           {
-            "name": "Impenetrable Redrob (Lv.38 (Night))",
-            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
-          }
-        ],
-        "map_locations": [
+            "name": "A Tough Battle",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 1/A Tough Battle"
+          },
           {
-            "map": "Summary",
-            "x": 260,
-            "y": 263,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "FA Quests 1",
-        "sections": [
+            "name": "A Weapon Just For Me",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 2/A Weapon Just For Me (MISSABLE)"
+          },
           {
-            "name": "A Curry Conundrum",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+            "name": "Eliminate the Threat",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 1/Eliminate the Threat"
+          },
+          {
+            "name": "Fiora's Treatment",
+            "ref": "Fallen Arm Quests/Wreckage Beach/Fiora's Treatment"
+          },
+          {
+            "name": "Fixing a Broken Door",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 1/Fixing a Broken Door"
+          },
+          {
+            "name": "Food Delivery",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 1/Food Delivery"
+          },
+          {
+            "name": "For My Loved One...",
+            "ref": "Fallen Arm Quests/Zarkort/For My Loved One... (MISSABLE)"
+          },
+          {
+            "name": "I Want to be a Homs!",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 1/I Want to be a Homs!"
+          },
+          {
+            "name": "Mending Memories",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 2/Mending Memories"
+          },
+          {
+            "name": "Mysterious Noises",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 1/Mysterious Noises"
           }
         ],
         "map_locations": [
@@ -8245,11 +9404,47 @@
         ]
       },
       {
-        "name": "FA Quests 2",
+        "name": "FA Quests P-S",
         "sections": [
           {
-            "name": "Collection Quest 1",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+            "name": "Power Up!",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 1/Power Up!"
+          },
+          {
+            "name": "Powerless",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 1/Powerless"
+          },
+          {
+            "name": "Protect the Village",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 1/Protect the Village"
+          },
+          {
+            "name": "Resolution - Father",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 2/Resolution - Father"
+          },
+          {
+            "name": "Resolution - Mother",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 2/Resolution - Mother"
+          },
+          {
+            "name": "Reunion with Fiora",
+            "ref": "Fallen Arm Quests/Wreckage Beach/Reunion with Fiora"
+          },
+          {
+            "name": "Save the Machina!",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 1/Save the Machina!"
+          },
+          {
+            "name": "Scheduled Inspection",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 2/Scheduled Inspection"
+          },
+          {
+            "name": "Stop the Mechon Rampage!",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 1/Stop the Mechon Rampage!"
+          },
+          {
+            "name": "Stunted Growth",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 2/Stunted Growth"
           }
         ],
         "map_locations": [
@@ -8262,11 +9457,47 @@
         ]
       },
       {
-        "name": "FA Quests 3",
+        "name": "FA Quests T-W",
         "sections": [
           {
-            "name": "Jackson's Awakening",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
+            "name": "The Exhaust Pump",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 2/The Exhaust Pump"
+          },
+          {
+            "name": "The History of Mechonis",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 2/The History of Mechonis (MISSABLE)"
+          },
+          {
+            "name": "The History of the Capital",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 2/The History of the Capital (MISSABLE)"
+          },
+          {
+            "name": "The Mini Reactor",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 2/The Mini Reactor"
+          },
+          {
+            "name": "The Oath Sword",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 2/The Oath Sword"
+          },
+          {
+            "name": "The Wilted Flower",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 1/The Wilted Flower"
+          },
+          {
+            "name": "Therapy",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 1/Therapy"
+          },
+          {
+            "name": "To My Loved One...",
+            "ref": "Fallen Arm Quests/Zarkort/To My Loved One... (MISSABLE)"
+          },
+          {
+            "name": "Transmission Bypass",
+            "ref": "Fallen Arm Quests/Hidden Village Quests 2/Transmission Bypass"
+          },
+          {
+            "name": "We Made It",
+            "ref": "Fallen Arm Quests/Wreckage Beach/We Made It"
           }
         ],
         "map_locations": [
@@ -8279,45 +9510,47 @@
         ]
       },
       {
-        "name": "FA Quests 4",
+        "name": "FA NPCs E-Q",
         "sections": [
           {
-            "name": "Monster Quest 2 - Part 3",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
-          }
-        ],
-        "map_locations": [
+            "name": "Eiz",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 1/Eiz"
+          },
           {
-            "map": "Summary",
-            "x": 100,
-            "y": 279,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "FA Quests 5",
-        "sections": [
+            "name": "Eleqa",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 1/Eleqa"
+          },
           {
-            "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
-          }
-        ],
-        "map_locations": [
+            "name": "Karlos",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 1/Karlos"
+          },
           {
-            "map": "Summary",
-            "x": 115,
-            "y": 279,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "FA NPCs 1",
-        "sections": [
+            "name": "Kazat",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 1/Kazat"
+          },
           {
-            "name": "Andreas",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
+            "name": "Mixik",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 1/Mixik"
+          },
+          {
+            "name": "Natalia",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 1/Natalia"
+          },
+          {
+            "name": "Neonik",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 1/Neonik"
+          },
+          {
+            "name": "Orkatix",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 1/Orkatix"
+          },
+          {
+            "name": "Prox",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 1/Prox"
+          },
+          {
+            "name": "Qofaria",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 1/Qofaria"
           }
         ],
         "map_locations": [
@@ -8330,11 +9563,43 @@
         ]
       },
       {
-        "name": "FA NPCs 2",
+        "name": "FA NPCs R-Z",
         "sections": [
           {
-            "name": "Jolele",
-            "ref": "Colony 9 NPCs/Residential District (South)/Jolele"
+            "name": "Rakzet",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 2/Rakzet"
+          },
+          {
+            "name": "Rizaka",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 2/Rizaka"
+          },
+          {
+            "name": "Shilx",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 2/Shilx"
+          },
+          {
+            "name": "Theo",
+            "ref": "Fallen Arm NPCs/Theo & Zarkort/Theo"
+          },
+          {
+            "name": "Voltak",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 2/Voltak"
+          },
+          {
+            "name": "Vronik",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 2/Vronik"
+          },
+          {
+            "name": "Xekit",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 2/Xekit"
+          },
+          {
+            "name": "Zarkort",
+            "ref": "Fallen Arm NPCs/Theo & Zarkort/Zarkort"
+          },
+          {
+            "name": "Zilex",
+            "ref": "Fallen Arm NPCs/Fallen Arm NPCs 2/Zilex"
           }
         ],
         "map_locations": [
@@ -8347,28 +9612,51 @@
         ]
       },
       {
-        "name": "FA NPCs 3",
-        "sections": [
-          {
-            "name": "Niranira",
-            "ref": "Colony 9 NPCs/Residential District (West)/Niranira"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 178,
-            "y": 279,
-            "size": 8
-          }
-        ]
-      },
-      {
         "name": "FA Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Wreckage Beach",
+            "ref": "Fallen Arm Landmarks/Wreckage Beach/Landmark"
+          },
+          {
+            "name": "Ulna Passage",
+            "ref": "Fallen Arm Landmarks/Ulna Passage/Landmark"
+          },
+          {
+            "name": "Inlet Beach",
+            "ref": "Fallen Arm Landmarks/Inlet Beach/Landmark"
+          },
+          {
+            "name": "Junks",
+            "ref": "Fallen Arm Landmarks/Junks/Landmark"
+          },
+          {
+            "name": "Giant Mechon Debris",
+            "ref": "Fallen Arm Landmarks/Giant Mechon Debris/Landmark"
+          },
+          {
+            "name": "Black Wreckage",
+            "ref": "Fallen Arm Landmarks/Black Wreckage/Landmark"
+          },
+          {
+            "name": "Connecting Bridge",
+            "ref": "Fallen Arm Landmarks/Connecting Bridge/Landmark"
+          },
+          {
+            "name": "Digit 2 Plain",
+            "ref": "Fallen Arm Landmarks/Digit 2 Plain/Landmark"
+          },
+          {
+            "name": "Radiocarpea",
+            "ref": "Fallen Arm Landmarks/Radiocarpea/Landmark"
+          },
+          {
+            "name": "Rotating Bulkhead",
+            "ref": "Fallen Arm Landmarks/Rotating Bulkhead/Landmark"
+          },
+          {
+            "name": "Distant Fingertip",
+            "ref": "Fallen Arm Landmarks/Distant Fingertip/Landmark"
           }
         ],
         "map_locations": [
@@ -8384,8 +9672,36 @@
         "name": "FA Unique Monsters 1",
         "sections": [
           {
-            "name": "Verdant Bluchal (Lv.5)",
-            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+            "name": "Evil Bathin (Lv.54)",
+            "ref": "Fallen Arm Unique Monsters/UM: Evil Bathin/Lv.54"
+          },
+          {
+            "name": "Aged Leraje (Lv.56 (Night))",
+            "ref": "Fallen Arm Unique Monsters/UM: Aged Leraje/Lv.56 (Night)"
+          },
+          {
+            "name": "Prosperous Zepar (Lv.56 (Evening))",
+            "ref": "Fallen Arm Unique Monsters/UM: Prosperous Zepar/Lv.56 (Evening)"
+          },
+          {
+            "name": "Affluent Beleth (Lv.57)",
+            "ref": "Fallen Arm Unique Monsters/UM: Affluent Beleth/Lv.57"
+          },
+          {
+            "name": "Splendid Botis (Lv.58)",
+            "ref": "Fallen Arm Unique Monsters/UM: Splendid Botis/Lv.58"
+          },
+          {
+            "name": "Powerful Eligos (Lv.80)",
+            "ref": "Fallen Arm Unique Monsters/UM: Powerful Eligos/Lv.80"
+          },
+          {
+            "name": "Wicked Sallos (Lv.95)",
+            "ref": "Fallen Arm Unique Monsters/UM: Wicked Sallos/Lv.95"
+          },
+          {
+            "name": "Ancient Daedala (Lv.105)",
+            "ref": "Fallen Arm Unique Monsters/Superboss: Ancient Daedala/Lv.105"
           }
         ],
         "map_locations": [
@@ -8398,28 +9714,35 @@
         ]
       },
       {
-        "name": "FA Unique Monsters 2",
-        "sections": [
-          {
-            "name": "Impenetrable Redrob (Lv.38 (Night))",
-            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 260,
-            "y": 279,
-            "size": 8
-          }
-        ]
-      },
-      {
         "name": "FA Heart-to-Hearts",
         "sections": [
           {
-            "name": "Watching Over Them (Reyn/Dunban)",
-            "ref": "Colony 9 H2H/Watching Over Them/Reyn & Dunban"
+            "name": "A Family of Two (Dunban/Seven)",
+            "ref": "Fallen Arm H2H/A Family of Two/Dunban & Seven"
+          },
+          {
+            "name": "A Night-time Chat (Sharla/Seven)",
+            "ref": "Fallen Arm H2H/A Night-time Chat/Sharla & Seven"
+          },
+          {
+            "name": "Camping Spot (Melia/Dunban)",
+            "ref": "Fallen Arm H2H/Camping Spot/Melia & Riki"
+          },
+          {
+            "name": "Eternal Scars (Dunban/Melia)",
+            "ref": "Fallen Arm H2H/Eternal Scars/Dunban & Melia"
+          },
+          {
+            "name": "WatchinOeJust Like Old TimesrThem (Shulk/Seven)",
+            "ref": "Fallen Arm H2H/Just Like Old Times/Shulk & Seven"
+          },
+          {
+            "name": "Overcoming the Pain (Melia/Seven)",
+            "ref": "Fallen Arm H2H/Overcoming the Pain/Melia & Seven"
+          },
+          {
+            "name": "Those Waiting For You (Shulk/Riki)",
+            "ref": "Fallen Arm H2H/Those Waiting For You/Shulk & Riki"
           }
         ],
         "map_locations": [
@@ -8435,8 +9758,40 @@
         "name": "MeFi Quests 1",
         "sections": [
           {
-            "name": "A Curry Conundrum",
-            "ref": "Colony 9 Quests/Ether Light 1/A Curry Conundrum"
+            "name": "Aiming for the Top",
+            "ref": "Mechonis Field Quests/Story Quests/Aiming for the Top"
+          },
+          {
+            "name": "Best Boots",
+            "ref": "Mechonis Field Quests/Machina Refuge/Best Boots (MISSABLE)"
+          },
+          {
+            "name": "Challenge Quest 1",
+            "ref": "Mechonis Field Quests/Machina Refuge/Challenge Quest 1 (MISSABLE)"
+          },
+          {
+            "name": "Challenge Quest 2",
+            "ref": "Mechonis Field Quests/Machina Refuge/Challenge Quest 2 (MISSABLE)"
+          },
+          {
+            "name": "Get the 3rd Lift Moving",
+            "ref": "Mechonis Field Quests/Story Quests/Get the 3rd Lift Moving"
+          },
+          {
+            "name": "Monster Quest",
+            "ref": "Mechonis Field Quests/Machina Refuge/Monster Quest (MISSABLE)"
+          },
+          {
+            "name": "Need Power!",
+            "ref": "Mechonis Field Quests/Story Quests/Need Power!"
+          },
+          {
+            "name": "Opening the Bulkhead",
+            "ref": "Mechonis Field Quests/Story Quests/Opening the Bulkhead"
+          },
+          {
+            "name": "The High-Velocity Lift",
+            "ref": "Mechonis Field Quests/Story Quests/The High-Velocity Lift"
           }
         ],
         "map_locations": [
@@ -8449,68 +9804,17 @@
         ]
       },
       {
-        "name": "MeFi Quests 2",
+        "name": "MeFi NPC",
         "sections": [
           {
-            "name": "Collection Quest 1",
-            "ref": "Colony 9 Quests/Ether Light 1/Collection Quest 1"
+            "name": "Bozatrox",
+            "ref": "Mechonis Field/Machina Refuge/Bozatrox"
           }
         ],
         "map_locations": [
           {
             "map": "Summary",
-            "x": 70,
-            "y": 295,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "MeFi Quests 3",
-        "sections": [
-          {
-            "name": "Jackson's Awakening",
-            "ref": "Colony 9 Quests/Tranquil Square/Jackson's Awakening"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 85,
-            "y": 295,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "MeFi Quests 4",
-        "sections": [
-          {
-            "name": "Monster Quest 2 - Part 3",
-            "ref": "Colony 9 Quests/Fortress Entrance/Monster Quest 2 - Part 3"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 100,
-            "y": 295,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "MeFi Quests 5",
-        "sections": [
-          {
-            "name": "Search Quest 1",
-            "ref": "Colony 9 Quests/Central Plaza/Search Quest 1"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 115,
+            "x": 148,
             "y": 295,
             "size": 8
           }
@@ -8520,8 +9824,48 @@
         "name": "MeFi Landmarks",
         "sections": [
           {
-            "name": "Gem Man's Stall",
-            "ref": "Colony 9 Landmarks/Gem Man's Stall/Landmark"
+            "name": "Left Leg Cooling Outlet",
+            "ref": "Mechonis Field Landmarks/Left Leg Cooling Outlet/Landmark"
+          },
+          {
+            "name": "GF Main Power Switch",
+            "ref": "Mechonis Field Landmarks/GF Main Power Switch/Landmark"
+          },
+          {
+            "name": "1F Main Power Switch",
+            "ref": "Mechonis Field Landmarks/1F Main Power Switch/Landmark"
+          },
+          {
+            "name": "3F Main Power Switch",
+            "ref": "Mechonis Field Landmarks/3F Main Power Switch/Landmark"
+          },
+          {
+            "name": "Lower Bulkhead Bridge",
+            "ref": "Mechonis Field Landmarks/Lower Bulkhead Bridge/Landmark"
+          },
+          {
+            "name": "Upper Bulkhead Bridge",
+            "ref": "Mechonis Field Landmarks/Upper Bulkhead Bridge/Landmark"
+          },
+          {
+            "name": "4F Main Power Switch",
+            "ref": "Mechonis Field Landmarks/4F Main Power Switch/Landmark"
+          },
+          {
+            "name": "Great Battle Scar",
+            "ref": "Mechonis Field Landmarks/Great Battle Scar/Landmark"
+          },
+          {
+            "name": "Machina Refuge",
+            "ref": "Mechonis Field Landmarks/Machina Refuge/Landmark"
+          },
+          {
+            "name": "1st Zebrai Bulkhead",
+            "ref": "Mechonis Field Landmarks/1st Zebrai Bulkhead/Landmark"
+          },
+          {
+            "name": "2nd Gamalt Bulkhead",
+            "ref": "Mechonis Field Landmarks/2nd Gamalt Bulkhead/Landmark"
           }
         ],
         "map_locations": [
@@ -8537,31 +9881,34 @@
         "name": "MeFi Unique Monsters 1",
         "sections": [
           {
-            "name": "Verdant Bluchal (Lv.5)",
-            "ref": "Colony 9 Unique Monsters/UM: Verdant Bluchal/Lv.5"
+            "name": "Amorous Arca (Lv.57)",
+            "ref": "Mechonis Field Unique Monsters/UM: Amorous Arca/Lv.57"
+          },
+          {
+            "name": "Infernal Crocell (Lv.58)",
+            "ref": "Mechonis Field Unique Monsters/UM: Infernal Crocell/Lv.58"
+          },
+          {
+            "name": "Destroyer Salvacion (Lv.58)",
+            "ref": "Mechonis Field Unique Monsters/UM: Destroyer Salvacion/Lv.58"
+          },
+          {
+            "name": "Revolutionary Bifrons (Lv.60)",
+            "ref": "Mechonis Field Unique Monsters/UM: Revolutionary Bifrons/Lv.60"
+          },
+          {
+            "name": "Jade Face (Lv.60)",
+            "ref": "Mechonis Field Bosses/Jade Face/Boss: Jade Face"
+          },
+          {
+            "name": "Commander Oracion (Lv.61)",
+            "ref": "Mechonis Field Unique Monsters/UM: Commander Oracion/Lv.61"
           }
         ],
         "map_locations": [
           {
             "map": "Summary",
             "x": 245,
-            "y": 295,
-            "size": 8
-          }
-        ]
-      },
-      {
-        "name": "MeFi Unique Monsters 2",
-        "sections": [
-          {
-            "name": "Impenetrable Redrob (Lv.38 (Night))",
-            "ref": "Colony 9 Unique Monsters/UM: Impenetrable Redrob/Lv.38 (Night)"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Summary",
-            "x": 260,
             "y": 295,
             "size": 8
           }
