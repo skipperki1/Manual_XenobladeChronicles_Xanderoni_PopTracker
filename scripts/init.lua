@@ -5,12 +5,16 @@ ENABLE_DEBUG_LOG = true
 local variant = Tracker.ActiveVariantUID
 -- check variant info
 IS_ITEMS_ONLY = variant:find("itemsonly")
+SUMMARY = variant:find("summary")
+SUMMARYARTS = (variant:find("summaryartsanity") == 5)
 ARTSANITY = (variant:find("artsanity") == 5)
 
 print("-- Example Tracker --")
 print("Loaded variant: ", variant)
 print("IS_ITEMS_ONLY: ", IS_ITEMS_ONLY)
 print("ARTSANITY: ", ARTSANITY)
+print("SUMMARY: ",SUMMARY)
+print("SUMMARYARTS",SUMMARYARTS)
 if ENABLE_DEBUG_LOG then
     print("Debug logging is enabled!")
 end
@@ -27,29 +31,40 @@ ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlus.lua")
 ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlusWrapper.lua")
 
 -- Items
-if not ARTSANITY then
-    Tracker:AddItems("items/items.jsonc")
-    print("Normal Items loaded!")
-else
+if ARTSANITY then
     Tracker:AddItems("items/itemsArtsanity.jsonc")
     print("Artsanity Items loaded!")
+elseif SUMMARYARTS then
+    Tracker:AddItems("items/itemsArtsanity.jsonc")
+else
+    Tracker:AddItems("items/items.jsonc")
+    print("Normal Items loaded!")
 end
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Maps
-    Tracker:AddMaps("maps/maps.jsonc")
-    -- Locations
+    if SUMMARY then
+        Tracker:AddMaps("maps/mapssummary.jsonc")
+    else
+        Tracker:AddMaps("maps/maps.jsonc")
+    end
+end
+
+-- Locations
     Tracker:AddLocations("locations/landmarks.jsonc")
     Tracker:AddLocations("locations/npcs.jsonc")
     Tracker:AddLocations("locations/quests.jsonc")
     Tracker:AddLocations("locations/uniquemonsters.jsonc")
     Tracker:AddLocations("locations/h2h.jsonc")
     Tracker:AddLocations("locations/locations.jsonc")
-end
 
 -- Layout
 Tracker:AddLayouts("layouts/items.jsonc")
-Tracker:AddLayouts("layouts/tracker.jsonc")
+if SUMMARY then
+    Tracker:AddLayouts("var_summary/layouts/tracker.jsonc")
+else
+    Tracker:AddLayouts("layouts/tracker.jsonc")
+end
 Tracker:AddLayouts("layouts/broadcast.jsonc")
 
 -- AutoTracking for Poptracker

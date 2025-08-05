@@ -16,6 +16,18 @@
       "flags": [
         "apmanual"
       ]
+    },
+    "var_summary": {
+      "display_name": "Summary & Items only",
+      "flags": [
+        "apmanual"
+      ]
+    },
+    "var_summaryartsanity": {
+      "display_name": "Summary & Items only (Artsanity)",
+      "flags": [
+        "apmanual"
+      ]
     }
   }
 }
