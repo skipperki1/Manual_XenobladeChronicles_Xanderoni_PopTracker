@@ -165,7 +165,7 @@
       },
       {
         "name": "Cylinder Hanger",
-        "access_rules": [],
+        "access_rules": ["TephKeys:3"],
         "sections": [
           {
             "name": "Landmark"
@@ -186,7 +186,7 @@
     "name": "Tephra Cave Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:1"],
+    "access_rules": ["TephKeys:3"],
     "children": [
       {
         "name": "Mag Mell Ruins",
@@ -310,7 +310,7 @@
       },
       {
         "name": "Bafalgar Tomb",
-        "access_rules": ["AreaKeys:20"],
+        "access_rules": ["CoreKeys:3"],
         "sections": [
           {
             "name": "Landmark"
@@ -327,7 +327,7 @@
       },
       {
         "name": "Heavenly Window",
-        "access_rules": ["AreaKeys:20"],
+        "access_rules": ["CoreKeys:3"],
         "sections": [
           {
             "name": "Landmark"
@@ -348,7 +348,7 @@
     "name": "Bionis' Leg Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:2"],
+    "access_rules": ["LegKeys:3"],
     "children": [
       {
         "name": "Ragrinar Canyon Path",
@@ -573,7 +573,7 @@
     "name": "Colony 6 Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:3"],
+    "access_rules": ["Col6Keys:3"],
     "children": [
       {
         "name": "Drainage Outlet",
@@ -730,7 +730,7 @@
     "name": "Ether Mine Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:4"],
+    "access_rules": ["MineKeys:3"],
     "children": [
       {
         "name": "Drainage Tunnel",
@@ -950,7 +950,7 @@
     "name": "Satorl Marsh Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:5"],
+    "access_rules": ["MarshKeys:3"],
     "children": [
       {
         "name": "Crown Tree",
@@ -1118,7 +1118,7 @@
     "name": "Bionis' Interior First Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:6"],
+    "access_rules": ["Int1Keys:3"],
     "children": [
       {
         "name": "Terminal Trachea",
@@ -1160,7 +1160,7 @@
     "name": "Makna Forest Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:7"],
+    "access_rules": ["ForestKeys:3"],
     "children": [
       {
         "name": "Agni Tablet",
@@ -1459,7 +1459,7 @@
     "name": "Frontier Village Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:8"],
+    "access_rules": ["VillageKeys:3"],
     "children": [
       {
         "name": "Entry Bridge",
@@ -1609,7 +1609,7 @@
     "name": "Eryth Sea Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:9"],
+    "access_rules": ["SeaKeys:3"],
     "children": [
       {
         "name": "Central Seal Island",
@@ -1788,7 +1788,7 @@
     "name": "Alcamoth Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:10"],
+    "access_rules": ["AlcaKeys:3"],
     "children": [
       {
         "name": "Fountain of Eternity",
@@ -1933,7 +1933,7 @@
     "name": "High Entia Tomb Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:11"],
+    "access_rules": ["TombKeys:3"],
     "children": [
       {
         "name": "Ceremony Hall",
@@ -2073,7 +2073,7 @@
     "name": "Prison Island 1 Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:12"],
+    "access_rules": ["Pris1Keys:3"],
     "children": [
       {
         "name": "High Entia Transporter",
@@ -2132,7 +2132,7 @@
     "name": "Valak Mountain Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:13"],
+    "access_rules": ["MountKeys:3"],
     "children": [
       {
         "name": "Zokhed Pass",
@@ -2357,7 +2357,7 @@
     "name": "Sword Valley Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:14"],
+    "access_rules": ["ValleyKeys:3"],
     "children": [
       {
         "name": "Bionis' Thumb",
@@ -2565,7 +2565,7 @@
     "name": "Galahad Fortress Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:15"],
+    "access_rules": ["FortKeys:3"],
     "children": [
       {
         "name": "Ether Influx Conduit",
@@ -2664,7 +2664,7 @@
     "name": "Fallen Arm Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:16"],
+    "access_rules": ["ArmKeys:3"],
     "children": [
       {
         "name": "Wreckage Beach",
@@ -2895,7 +2895,7 @@
     "name": "Mechonis Field Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:17"],
+    "access_rules": ["FieldKeys:3"],
     "children": [
       {
         "name": "Left Leg Cooling Outlet",
@@ -3144,7 +3144,7 @@
     "name": "Central Factory Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:18"],
+    "access_rules": ["FactKeys:3"],
     "children": [
       {
         "name": "Port Terminal",
@@ -3353,7 +3353,7 @@
     "name": "Agniratha Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:19"],
+    "access_rules": ["AgniKeys:3"],
     "children": [
       {
         "name": "Factory Transporter",
@@ -3573,7 +3573,7 @@
     "name": "Bionis' Interior Second Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:21"],
+    "access_rules": ["Int2Keys:3"],
     "children": [
       {
         "name": "Interior Landing Site",
@@ -3690,7 +3690,7 @@
     "name": "Prison Island 2 Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:22"],
+    "access_rules": ["Pris2Keys:3"],
     "children": [
       {
         "name": "Bridge of Grief",
@@ -3801,7 +3801,7 @@
     "name": "Memory Space Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AreaKeys:22,MemoryFragments:20"],
+    "access_rules": ["Pris2Keys:3,MemoryFragments:20"],
     "children": [
       {
         "name": "Saturn",

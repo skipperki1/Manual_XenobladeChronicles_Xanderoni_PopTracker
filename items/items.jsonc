@@ -12,18 +12,6 @@
     "codes": "consumable,junk,Lobster"
   },
   {
-    "name": "Area Keys",
-    "type": "consumable",
-    "img": "images/items/key.png",
-    "max_quantity": 22,
-    "increment": 1,
-    "decrement": 1,
-    "initial_quantity": 0,
-    "overlay_background": "#000000",
-    "overlay_font_size": 8,
-    "codes": "consumable,required,AreaKeys"
-  },
-  {
     "name": "Memory Fragments",
     "type": "consumable",
     "img": "images/items/MemoryFragment.png",
@@ -1947,758 +1935,1158 @@
   },
   {
     "name": "Hunting License",
-    "type": "static",
+    "type": "consumable",
     "img": "images/items/HuntingLicense.png",
-    "codes": "static,Hunt"
+    "max_quantity": 18,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 10,
+    "codes": "HuntLicense"
   },
   {
-    "name": "Colony 9 Hunting License",
-    "type": "toggle",
-    "img": "images/items/C9.png",
-    "codes": "toggle,Hunt,Colony9,C9Hunt"
-  },
-  {
-    "name": "Tephra Cave Hunting License",
-    "type": "toggle",
-    "img": "images/items/TC.png",
-    "codes": "toggle,Hunt,TephraCave,TCHunt"
-  },
-  {
-    "name": "Bionis' Leg Hunting License",
-    "type": "toggle",
-    "img": "images/items/BL.png",
-    "codes": "toggle,Hunt,BionisLeg,BLHunt"
-  },
-  {
-    "name": "Colony 6 Hunting License",
-    "type": "toggle",
-    "img": "images/items/C6.png",
-    "codes": "toggle,Hunt,Colony6,C6Hunt"
-  },
-  {
-    "name": "Ether Mine Hunting License",
-    "type": "toggle",
-    "img": "images/items/EM.png",
-    "codes": "toggle,Hunt,EtherMine,EMHunt"
-  },
-  {
-    "name": "Satorl Marsh Hunting License",
-    "type": "toggle",
-    "img": "images/items/SM.png",
-    "codes": "toggle,Hunt,SatorlMarsh,SMHunt"
-  },
-  {
-    "name": "Makna Forest Hunting License",
-    "type": "toggle",
-    "img": "images/items/MF.png",
-    "codes": "toggle,Hunt,MaknaForest,MaFoHunt"
-  },
-  {
-    "name": "Eryth Sea Hunting License",
-    "type": "toggle",
-    "img": "images/items/ES.png",
-    "codes": "toggle,Hunt,ErythSea,ESHunt"
-  },
-  {
-    "name": "High Entia Tomb Hunting License",
-    "type": "toggle",
-    "img": "images/items/HT.PNG",
-    "codes": "toggle,Hunt,HighEntiaTomb,HTHunt"
-  },
-  {
-    "name": "Valak Mountain Hunting License",
-    "type": "toggle",
-    "img": "images/items/VM.png",
-    "codes": "toggle,Hunt,ValakMountain,VMHunt"
-  },
-  {
-    "name": "Sword Valley Hunting License",
-    "type": "toggle",
-    "img": "images/items/SV.png",
-    "codes": "toggle,Hunt,Sword Valley,SVHunt"
-  },
-  {
-    "name": "Galahad Fortress Hunting License",
-    "type": "toggle",
-    "img": "images/items/GF.png",
-    "codes": "toggle,Hunt,GalahadFortress,GFHunt"
-  },
-  {
-    "name": "Fallen Arm Hunting License",
-    "type": "toggle",
-    "img": "images/items/FA.png",
-    "codes": "toggle,Hunt,FallenArm,FAHunt"
-  },
-  {
-    "name": "Mechonis Field Hunting License",
-    "type": "toggle",
-    "img": "images/items/MF.png",
-    "codes": "toggle,Hunt,MechonisField,MeFiHunt"
-  },
-  {
-    "name": "Central Factory Hunting License",
-    "type": "toggle",
-    "img": "images/items/CF.png",
-    "codes": "toggle,Hunt,CentralFactory,CFHunt"
-  },
-  {
-    "name": "Agniratha Hunting License",
-    "type": "toggle",
-    "img": "images/items/AG.png",
-    "codes": "toggle,Hunt,Agniratha,AGHunt"
-  },
-  {
-    "name": "Bionis' Interior Hunting License",
-    "type": "toggle",
-    "img": "images/items/BI.png",
-    "codes": "toggle,Hunt,BionisInterior,BIHunt"
-  },
-  {
-    "name": "Prison Island Hunting License",
-    "type": "toggle",
-    "img": "images/items/PI.png",
-    "codes": "toggle,Hunt,PrisonIsland,PIHunt"
+    "name": "Progressive Hunting License",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/C9.png",
+        "codes": "HuntLicense,HuntLicense1"
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "HuntLicense,HuntLicense2",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/BL.png",
+        "codes": "HuntLicense,HuntLicense3",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/C6.png",
+        "codes": "HuntLicense,HuntLicense4",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/EM.png",
+        "codes": "HuntLicense,HuntLicense5",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/SM.png",
+        "codes": "HuntLicense,HuntLicense6",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/MF.png",
+        "codes": "HuntLicense,HuntLicense7",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/ES.png",
+        "codes": "HuntLicense,HuntLicense8",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/HT.PNG",
+        "codes": "HuntLicense,HuntLicense9",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/VM.png",
+        "codes": "HuntLicense,HuntLicense10",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/SV.png",
+        "codes": "HuntLicense,HuntLicense11",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/GF.png",
+        "codes": "HuntLicense,HuntLicense12",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/FA.png",
+        "codes": "HuntLicense,HuntLicense13",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/MF.png",
+        "codes": "HuntLicense,HuntLicense14",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/CF.png",
+        "codes": "HuntLicense,HuntLicense15",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/AG.png",
+        "codes": "HuntLicense,HuntLicense16",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/BI.png",
+        "codes": "HuntLicense,HuntLicense17",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/PI.png",
+        "codes": "HuntLicense,HuntLicense18",
+        "inherit_codes": true
+      }
+    ]
   },
   {
     "name": "Veg Collectopaedia",
-    "type": "static",
+    "type": "consumable",
     "img": "images/items/Veg.png",
-    "codes": "static,Veg"
+    "max_quantity": 11,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 10,
+    "codes": "ProgVeg"
   },
   {
-    "name": "Colony 9 Veg",
-    "type": "toggle",
-    "img": "images/items/C9.png",
-    "codes": "toggle,Veg,Colony9,C9Veg"
-  },
-  {
-    "name": "Bionis' Leg Veg",
-    "type": "toggle",
-    "img": "images/items/BL.png",
-    "codes": "toggle,Veg,BionisLeg,BLVeg"
-  },
-  {
-    "name": "Satorl Marsh Veg",
-    "type": "toggle",
-    "img": "images/items/SM.png",
-    "codes": "toggle,Veg,SatorlMarsh,SMVeg"
-  },
-  {
-    "name": "Makna Forest Veg",
-    "type": "toggle",
-    "img": "images/items/MF.png",
-    "codes": "toggle,Veg,MaknaForest,MaFoVeg"
-  },
-  {
-    "name": "Eryth Sea Veg",
-    "type": "toggle",
-    "img": "images/items/ES.png",
-    "codes": "toggle,Veg,ErythSea,ESVeg"
-  },
-  {
-    "name": "Valak Mountain Veg",
-    "type": "toggle",
-    "img": "images/items/VM.png",
-    "codes": "toggle,Veg,ValakMountain,VMVeg"
-  },
-  {
-    "name": "Sword Valley Veg",
-    "type": "toggle",
-    "img": "images/items/SV.png",
-    "codes": "toggle,Veg,Sword Valley,SVVeg"
-  },
-  {
-    "name": "Fallen Arm Veg",
-    "type": "toggle",
-    "img": "images/items/FA.png",
-    "codes": "toggle,Veg,FallenArm,FAVeg"
-  },
-  {
-    "name": "Mechonis Field Veg",
-    "type": "toggle",
-    "img": "images/items/MF.png",
-    "codes": "toggle,Veg,MechonisField,MeFiVeg"
-  },
-  {
-    "name": "Central Factory Veg",
-    "type": "toggle",
-    "img": "images/items/CF.png",
-    "codes": "toggle,Veg,CentralFactory,CFVeg"
-  },
-  {
-    "name": "Bionis' Interior Veg",
-    "type": "toggle",
-    "img": "images/items/BI.png",
-    "codes": "toggle,Veg,BionisInterior,BIVeg"
+    "name": "Progressive Veg",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/C9.png",
+        "codes": "ProgVeg,ProgVeg1"
+      },
+      {
+        "img": "images/items/BL.png",
+        "codes": "ProgVeg,ProgVeg2",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/SM.png",
+        "codes": "ProgVeg,ProgVeg3",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/MF.png",
+        "codes": "ProgVeg,ProgVeg4",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/ES.png",
+        "codes": "ProgVeg,ProgVeg5",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/VM.png",
+        "codes": "ProgVeg,ProgVeg6",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/SV.png",
+        "codes": "ProgVeg,ProgVeg7",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/FA.png",
+        "codes": "ProgVeg,ProgVeg8",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/MF.png",
+        "codes": "ProgVeg,ProgVeg9",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/CF.png",
+        "codes": "ProgVeg,ProgVeg10",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/BI.png",
+        "codes": "ProgVeg,ProgVeg11",
+        "inherit_codes": true
+      }
+    ]
   },
   {
     "name": "Fruit Collectopaedia",
-    "type": "static",
+    "type": "consumable",
     "img": "images/items/Fruit.png",
-    "codes": "static,Fruit"
+    "max_quantity": 11,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 10,
+    "codes": "ProgFruit"
   },
   {
-    "name": "Colony 9 Fruit",
-    "type": "toggle",
-    "img": "images/items/C9.png",
-    "codes": "toggle,Fruit,Colony9,C9Fruit"
-  },
-  {
-    "name": "Tephra Cave Fruit",
-    "type": "toggle",
-    "img": "images/items/TC.png",
-    "codes": "toggle,Fruit,TephraCave,TCFruit"
-  },
-  {
-    "name": "Bionis' Leg Fruit",
-    "type": "toggle",
-    "img": "images/items/BL.png",
-    "codes": "toggle,Fruit,BionisLeg,BLFruit"
-  },
-  {
-    "name": "Makna Forest Fruit",
-    "type": "toggle",
-    "img": "images/items/MF.png",
-    "codes": "toggle,Fruit,MaknaForest,MaFoFruit"
-  },
-  {
-    "name": "Frontier Village Fruit",
-    "type": "toggle",
-    "img": "images/items/FV.png",
-    "codes": "toggle,Fruit,FrontierVillage,FVFruit"
-  },
-  {
-    "name": "Alcamoth Fruit",
-    "type": "toggle",
-    "img": "images/items/AL.png",
-    "codes": "toggle,Fruit,Alcamoth,ALFruit"
-  },
-  {
-    "name": "Valak Mountain Fruit",
-    "type": "toggle",
-    "img": "images/items/VM.png",
-    "codes": "toggle,Fruit,ValakMountain,VMFruit"
-  },
-  {
-    "name": "Sword Valley Fruit",
-    "type": "toggle",
-    "img": "images/items/SV.png",
-    "codes": "toggle,Fruit,Sword Valley,SVFruit"
-  },
-  {
-    "name": "Fallen Arm Fruit",
-    "type": "toggle",
-    "img": "images/items/FA.png",
-    "codes": "toggle,Fruit,FallenArm,FAFruit"
-  },
-  {
-    "name": "Agniratha Fruit",
-    "type": "toggle",
-    "img": "images/items/AG.png",
-    "codes": "toggle,Fruit,Agniratha,AGFruit"
-  },
-  {
-    "name": "Prison Island Fruit",
-    "type": "toggle",
-    "img": "images/items/PI.png",
-    "codes": "toggle,Fruit,PrisonIsland,PIFruit"
+    "name": "Progressive Fruit",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/C9.png",
+        "codes": "ProgFruit,ProgFruit1"
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgFruit,ProgFruit2",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/BL.png",
+        "codes": "ProgFruit,ProgFruit3",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/MF.png",
+        "codes": "ProgFruit,ProgFruit4",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/FV.png",
+        "codes": "ProgFruit,ProgFruit5",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/AL.png",
+        "codes": "ProgFruit,ProgFruit6",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/VM.png",
+        "codes": "ProgFruit,ProgFruit7",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/SV.png",
+        "codes": "ProgFruit,ProgFruit8",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/AG.png",
+        "codes": "ProgFruit,ProgFruit9",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/PI.png",
+        "codes": "ProgFruit,ProgFruit10",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/Strange.png",
+        "codes": "ProgFruit,ProgFruit10",
+        "inherit_codes": true
+      }
+    ]
   },
   {
     "name": "Flower Collectopaedia",
-    "type": "static",
+    "type": "consumable",
     "img": "images/items/Flower.png",
-    "codes": "static,Flower"
+    "max_quantity": 11,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 10,
+    "codes": "ProgFlower"
   },
   {
-    "name": "Colony 9 Flower",
-    "type": "toggle",
-    "img": "images/items/C9.png",
-    "codes": "toggle,Flower,Colony9,C9Flower"
-  },
-  {
-    "name": "Tephra Cave Flower",
-    "type": "toggle",
-    "img": "images/items/TC.png",
-    "codes": "toggle,Flower,TephraCave,TCFlower"
-  },
-  {
-    "name": "Colony 6 Flower",
-    "type": "toggle",
-    "img": "images/items/C6.png",
-    "codes": "toggle,Flower,Colony6,C6Flower"
-  },
-  {
-    "name": "Satorl Marsh Flower",
-    "type": "toggle",
-    "img": "images/items/SM.png",
-    "codes": "toggle,Flower,SatorlMarsh,SMFlower"
-  },
-  {
-    "name": "Makna Forest Flower",
-    "type": "toggle",
-    "img": "images/items/MF.png",
-    "codes": "toggle,Flower,MaknaForest,MaFoFlower"
-  },
-  {
-    "name": "Eryth Sea Flower",
-    "type": "toggle",
-    "img": "images/items/ES.png",
-    "codes": "toggle,Flower,ErythSea,ESFlower"
-  },
-  {
-    "name": "Alcamoth Flower",
-    "type": "toggle",
-    "img": "images/items/AL.png",
-    "codes": "toggle,Flower,Alcamoth,ALFlower"
-  },
-  {
-    "name": "Valak Mountain Flower",
-    "type": "toggle",
-    "img": "images/items/VM.png",
-    "codes": "toggle,Flower,ValakMountain,VMFlower"
-  },
-  {
-    "name": "Sword Valley Flower",
-    "type": "toggle",
-    "img": "images/items/SV.png",
-    "codes": "toggle,Flower,Sword Valley,SVFlower"
-  },
-  {
-    "name": "Mechonis Field Flower",
-    "type": "toggle",
-    "img": "images/items/MF.png",
-    "codes": "toggle,Flower,MechonisField,MeFiFlower"
-  },
-  {
-    "name": "Agniratha Flower",
-    "type": "toggle",
-    "img": "images/items/AG.png",
-    "codes": "toggle,Flower,Agniratha,AGFlower"
+    "name": "Progressive Flower",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/C9.png",
+        "codes": "ProgFlower,ProgFlower1"
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgFlower,ProgFlower2",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/C6.png",
+        "codes": "ProgFlower,ProgFlower3",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/SM.png",
+        "codes": "ProgFlower,ProgFlower4",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/MF.png",
+        "codes": "ProgFlower,ProgFlower5",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/ES.png",
+        "codes": "ProgFlower,ProgFlower6",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/AL.png",
+        "codes": "ProgFlower,ProgFlower7",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/VM.png",
+        "codes": "ProgFlower,ProgFlower8",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/SV.png",
+        "codes": "ProgFlower,ProgFlower9",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/MF.png",
+        "codes": "ProgFlower,ProgFlower10",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/AG.png",
+        "codes": "ProgFlower,ProgFlower11",
+        "inherit_codes": true
+      }
+    ]
   },
   {
     "name": "Animal Collectopaedia",
-    "type": "static",
+    "type": "consumable",
     "img": "images/items/Animal.png",
-    "codes": "static,Animal"
+    "max_quantity": 11,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 10,
+    "codes": "ProgAnimal"
   },
   {
-    "name": "Tephra Cave Animal",
-    "type": "toggle",
-    "img": "images/items/TC.png",
-    "codes": "toggle,Animal,TephraCave,TCAnimal"
-  },
-  {
-    "name": "Colony 6 Animal",
-    "type": "toggle",
-    "img": "images/items/C6.png",
-    "codes": "toggle,Animal,Colony6,C6Animal"
-  },
-  {
-    "name": "Ether Mine Animal",
-    "type": "toggle",
-    "img": "images/items/EM.png",
-    "codes": "toggle,Animal,EtherMine,EMAnimal"
-  },
-  {
-    "name": "Satorl Marsh Animal",
-    "type": "toggle",
-    "img": "images/items/SM.png",
-    "codes": "toggle,Animal,SatorlMarsh,SMAnimal"
-  },
-  {
-    "name": "Makna Forest Animal",
-    "type": "toggle",
-    "img": "images/items/MF.png",
-    "codes": "toggle,Animal,MaknaForest,MaFoAnimal"
-  },
-  {
-    "name": "Eryth Sea Animal",
-    "type": "toggle",
-    "img": "images/items/ES.png",
-    "codes": "toggle,Animal,ErythSea,ESAnimal"
-  },
-  {
-    "name": "Valak Mountain Animal",
-    "type": "toggle",
-    "img": "images/items/VM.png",
-    "codes": "toggle,Animal,ValakMountain,VMAnimal"
-  },
-  {
-    "name": "Fallen Arm Animal",
-    "type": "toggle",
-    "img": "images/items/FA.png",
-    "codes": "toggle,Animal,FallenArm,FAAnimal"
-  },
-  {
-    "name": "Central Factory Animal",
-    "type": "toggle",
-    "img": "images/items/CF.png",
-    "codes": "toggle,Animal,CentralFactory,CFAnimal"
-  },
-  {
-    "name": "Bionis' Interior Animal",
-    "type": "toggle",
-    "img": "images/items/BI.png",
-    "codes": "toggle,Animal,BionisInterior,BIAnimal"
-  },
-  {
-    "name": "Prison Island Animal",
-    "type": "toggle",
-    "img": "images/items/PI.png",
-    "codes": "toggle,Animal,PrisonIsland,PIAnimal"
+    "name": "Progressive Animal",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgAnimal,ProgAnimal1"
+      },
+      {
+        "img": "images/items/C6.png",
+        "codes": "ProgAnimal,ProgAnimal2",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/EM.png",
+        "codes": "ProgAnimal,ProgAnimal3",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/SM.png",
+        "codes": "ProgAnimal,ProgAnimal4",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/MF.png",
+        "codes": "ProgAnimal,ProgAnimal5",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/ES.png",
+        "codes": "ProgAnimal,ProgAnimal6",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/VM.png",
+        "codes": "ProgAnimal,ProgAnimal7",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/FA.png",
+        "codes": "ProgAnimal,ProgAnimal8",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/CF.png",
+        "codes": "ProgAnimal,ProgAnimal9",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/BI.png",
+        "codes": "ProgAnimal,ProgAnimal10",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/PI.png",
+        "codes": "ProgAnimal,ProgAnimal11",
+        "inherit_codes": true
+      }
+    ]
   },
   {
     "name": "Bug Collectopaedia",
-    "type": "static",
+    "type": "consumable",
     "img": "images/items/Bug.png",
-    "codes": "static,Bug"
+    "max_quantity": 13,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 10,
+    "codes": "ProgBug"
   },
   {
-    "name": "Colony 9 Bug",
-    "type": "toggle",
-    "img": "images/items/C9.png",
-    "codes": "toggle,Bug,Colony9,C9Bug"
-  },
-  {
-    "name": "Tephra Cave Bug",
-    "type": "toggle",
-    "img": "images/items/TC.png",
-    "codes": "toggle,Bug,TephraCave,TCBug"
-  },
-  {
-    "name": "Bionis' Leg Bug",
-    "type": "toggle",
-    "img": "images/items/BL.png",
-    "codes": "toggle,Bug,BionisLeg,BLBug"
-  },
-  {
-    "name": "Ether Mine Bug",
-    "type": "toggle",
-    "img": "images/items/EM.png",
-    "codes": "toggle,Bug,EtherMine,EMBug"
-  },
-  {
-    "name": "Makna Forest Bug",
-    "type": "toggle",
-    "img": "images/items/MF.png",
-    "codes": "toggle,Bug,MaknaForest,MaFoBug"
-  },
-  {
-    "name": "Frontier Village Bug",
-    "type": "toggle",
-    "img": "images/items/FV.png",
-    "codes": "toggle,Bug,FrontierVillage,FVBug"
-  },
-  {
-    "name": "High Entia Tomb Bug",
-    "type": "toggle",
-    "img": "images/items/HT.PNG",
-    "codes": "toggle,Bug,HighEntiaTomb,HTBug"
-  },
-  {
-    "name": "Galahad Fortress Bug",
-    "type": "toggle",
-    "img": "images/items/GF.png",
-    "codes": "toggle,Bug,GalahadFortress,GFBug"
-  },
-  {
-    "name": "Mechonis Field Bug",
-    "type": "toggle",
-    "img": "images/items/MF.png",
-    "codes": "toggle,Bug,MechonisField,MeFiBug"
-  },
-  {
-    "name": "Central Factory Bug",
-    "type": "toggle",
-    "img": "images/items/CF.png",
-    "codes": "toggle,Bug,CentralFactory,CFBug"
-  },
-  {
-    "name": "Agniratha Bug",
-    "type": "toggle",
-    "img": "images/items/AG.png",
-    "codes": "toggle,Bug,Agniratha,AGBug"
-  },
-  {
-    "name": "Prison Island Bug",
-    "type": "toggle",
-    "img": "images/items/PI.png",
-    "codes": "toggle,Bug,PrisonIsland,PIBug"
+    "name": "Progressive Bug",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/C9.png",
+        "codes": "ProgBug,ProgBug1"
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgBug,ProgBug2",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgBug,ProgBug3",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgBug,ProgBug4",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgBug,ProgBug5",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgBug,ProgBug6",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgBug,ProgBug7",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgBug,ProgBug8",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgBug,ProgBug9",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgBug,ProgBug10",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgBug,ProgBug11",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgBug,ProgBug12",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgBug,ProgBug13",
+        "inherit_codes": true
+      }
+    ]
   },
   {
     "name": "Nature Collectopaedia",
-    "type": "static",
+    "type": "consumable",
     "img": "images/items/Nature.png",
-    "codes": "static,Nature"
+    "max_quantity": 11,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 10,
+    "codes": "ProgNature"
   },
   {
-    "name": "Tephra Cave Nature",
-    "type": "toggle",
-    "img": "images/items/TC.png",
-    "codes": "toggle,Nature,TephraCave,TCNature"
-  },
-  {
-    "name": "Bionis' Leg Nature",
-    "type": "toggle",
-    "img": "images/items/BL.png",
-    "codes": "toggle,Nature,BionisLeg,BLNature"
-  },
-  {
-    "name": "Ether Mine Nature",
-    "type": "toggle",
-    "img": "images/items/EM.png",
-    "codes": "toggle,Nature,EtherMine,EMNature"
-  },
-  {
-    "name": "Satorl Marsh Nature",
-    "type": "toggle",
-    "img": "images/items/SM.png",
-    "codes": "toggle,Nature,SatorlMarsh,SMNature"
-  },
-  {
-    "name": "Eryth Sea Nature",
-    "type": "toggle",
-    "img": "images/items/ES.png",
-    "codes": "toggle,Nature,ErythSea,ESNature"
-  },
-  {
-    "name": "Valak Mountain Nature",
-    "type": "toggle",
-    "img": "images/items/VM.png",
-    "codes": "toggle,Nature,ValakMountain,VMNature"
-  },
-  {
-    "name": "Fallen Arm Nature",
-    "type": "toggle",
-    "img": "images/items/FA.png",
-    "codes": "toggle,Nature,FallenArm,FANature"
-  },
-  {
-    "name": "Mechonis Field Nature",
-    "type": "toggle",
-    "img": "images/items/MF.png",
-    "codes": "toggle,Nature,MechonisField,MeFiNature"
-  },
-  {
-    "name": "Central Factory Nature",
-    "type": "toggle",
-    "img": "images/items/CF.png",
-    "codes": "toggle,Nature,CentralFactory,CFNature"
-  },
-  {
-    "name": "Agniratha Nature",
-    "type": "toggle",
-    "img": "images/items/AG.png",
-    "codes": "toggle,Nature,Agniratha,AGNature"
-  },
-  {
-    "name": "Prison Island Nature",
-    "type": "toggle",
-    "img": "images/items/PI.png",
-    "codes": "toggle,Nature,PrisonIsland,PINature"
+    "name": "Progressive Nature",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgNature,ProgNature1"
+      },
+      {
+        "img": "images/items/BL.png",
+        "codes": "ProgNature,ProgNature2",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/EM.png",
+        "codes": "ProgNature,ProgNature3",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/SM.png",
+        "codes": "ProgNature,ProgNature4",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/ES.png",
+        "codes": "ProgNature,ProgNature5",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/FA.png",
+        "codes": "ProgNature,ProgNature6",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/MF.png",
+        "codes": "ProgNature,ProgNature7",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/CF.png",
+        "codes": "ProgNature,ProgNature8",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/AG.png",
+        "codes": "ProgNature,ProgNature9",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/PI.png",
+        "codes": "ProgNature,ProgNature10",
+        "inherit_codes": true
+      }
+    ]
   },
   {
     "name": "Parts Collectopaedia",
-    "type": "static",
+    "type": "consumable",
     "img": "images/items/Parts.png",
-    "codes": "static,Parts"
+    "max_quantity": 13,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 10,
+    "codes": "ProgParts"
   },
   {
-    "name": "Colony 9 Parts",
-    "type": "toggle",
-    "img": "images/items/C9.png",
-    "codes": "toggle,Parts,Colony9,C9Parts"
-  },
-  {
-    "name": "Bionis' Leg Parts",
-    "type": "toggle",
-    "img": "images/items/BL.png",
-    "codes": "toggle,Parts,BionisLeg,BLParts"
-  },
-  {
-    "name": "Ether Mine Parts",
-    "type": "toggle",
-    "img": "images/items/EM.png",
-    "codes": "toggle,Parts,EtherMine,EMParts"
-  },
-  {
-    "name": "Satorl Marsh Parts",
-    "type": "toggle",
-    "img": "images/items/SM.png",
-    "codes": "toggle,Parts,SatorlMarsh,SMParts"
-  },
-  {
-    "name": "High Entia Tomb Parts",
-    "type": "toggle",
-    "img": "images/items/HT.PNG",
-    "codes": "toggle,Parts,HighEntiaTomb,HTParts"
-  },
-  {
-    "name": "Sword Valley Parts",
-    "type": "toggle",
-    "img": "images/items/SV.png",
-    "codes": "toggle,Parts,Sword Valley,SVParts"
-  },
-  {
-    "name": "Galahad Fortress Parts",
-    "type": "toggle",
-    "img": "images/items/GF.png",
-    "codes": "toggle,Parts,GalahadFortress,GFParts"
-  },
-  {
-    "name": "Fallen Arm Parts",
-    "type": "toggle",
-    "img": "images/items/FA.png",
-    "codes": "toggle,Parts,FallenArm,FAParts"
-  },
-  {
-    "name": "Mechonis Field Parts",
-    "type": "toggle",
-    "img": "images/items/MF.png",
-    "codes": "toggle,Parts,MechonisField,MeFiParts"
-  },
-  {
-    "name": "Central Factory Parts",
-    "type": "toggle",
-    "img": "images/items/CF.png",
-    "codes": "toggle,Parts,CentralFactory,CFParts"
-  },
-  {
-    "name": "Agniratha Parts",
-    "type": "toggle",
-    "img": "images/items/AG.png",
-    "codes": "toggle,Parts,Agniratha,AGParts"
-  },
-  {
-    "name": "Prison Island Parts",
-    "type": "toggle",
-    "img": "images/items/PI.png",
-    "codes": "toggle,Parts,PrisonIsland,PIParts"
+    "name": "Progressive Parts",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/C9.png",
+        "codes": "ProgParts,ProgParts1"
+      },
+      {
+        "img": "images/items/BL.png",
+        "codes": "ProgParts,ProgParts2",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/EM.png",
+        "codes": "ProgParts,ProgParts3",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/SM.png",
+        "codes": "ProgParts,ProgParts4",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/HT.png",
+        "codes": "ProgParts,ProgParts5",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/SV.png",
+        "codes": "ProgParts,ProgParts6",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/GF.png",
+        "codes": "ProgParts,ProgParts7",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/FA.png",
+        "codes": "ProgParts,ProgParts8",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/MF.png",
+        "codes": "ProgParts,ProgParts9",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/CF.png",
+        "codes": "ProgParts,ProgParts10",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/AG.png",
+        "codes": "ProgParts,ProgParts11",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/PI.png",
+        "codes": "ProgParts,ProgParts12",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/Strange.png",
+        "codes": "ProgParts,ProgParts13",
+        "inherit_codes": true
+      }
+    ]
   },
   {
     "name": "Strange Collectopaedia",
-    "type": "static",
+    "type": "consumable",
     "img": "images/items/Strange.png",
-    "codes": "static,Strange"
+    "max_quantity": 21,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 10,
+    "codes": "ProgStrange"
   },
   {
-    "name": "Colony 9 Strange",
-    "type": "toggle",
-    "img": "images/items/C9.png",
-    "codes": "toggle,Strange,Colony9,C9Strange"
+    "name": "Progressive Strange",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/C9.png",
+        "codes": "ProgStrange,ProgStrange1"
+      },
+      {
+        "img": "images/items/TC.png",
+        "codes": "ProgStrange,ProgStrange2",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/BL.png",
+        "codes": "ProgStrange,ProgStrange3",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/C6.png",
+        "codes": "ProgStrange,ProgStrange4",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/EM.png",
+        "codes": "ProgStrange,ProgStrange5",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/SM.png",
+        "codes": "ProgStrange,ProgStrange6",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/MF.png",
+        "codes": "ProgStrange,ProgStrange7",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/FV.png",
+        "codes": "ProgStrange,ProgStrange8",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/ES.png",
+        "codes": "ProgStrange,ProgStrange9",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/AL.png",
+        "codes": "ProgStrange,ProgStrange10",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/HT.png",
+        "codes": "ProgStrange,ProgStrange11",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/VM.png",
+        "codes": "ProgStrange,ProgStrange12",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/SV.png",
+        "codes": "ProgStrange,ProgStrange13",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/GF.png",
+        "codes": "ProgStrange,ProgStrange14",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/FA.png",
+        "codes": "ProgStrange,ProgStrange15",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/MF.png",
+        "codes": "ProgStrange,ProgStrange16",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/CF.png",
+        "codes": "ProgStrange,ProgStrange17",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/AG.png",
+        "codes": "ProgStrange,ProgStrange18",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/BI.png",
+        "codes": "ProgStrange,ProgStrange19",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/PI.png",
+        "codes": "ProgStrange,ProgStrange20",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/Strange.png",
+        "codes": "ProgStrange,ProgStrange21",
+        "inherit_codes": true
+      }
+    ]
   },
   {
-    "name": "Tephra Cave Strange",
-    "type": "toggle",
+    "name": "Tephra Cave Keys",
+    "type": "consumable",
     "img": "images/items/TC.png",
-    "codes": "toggle,Strange,TephraCave,TCStrange"
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,TephKeys"
   },
   {
-    "name": "Bionis' Leg Strange",
-    "type": "toggle",
+    "name": "Bionis' Leg Keys",
+    "type": "consumable",
     "img": "images/items/BL.png",
-    "codes": "toggle,Strange,BionisLeg,BLStrange"
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,LegKeys"
   },
   {
-    "name": "Colony 6 Strange",
-    "type": "toggle",
+    "name": "Colony 6 Keys",
+    "type": "consumable",
     "img": "images/items/C6.png",
-    "codes": "toggle,Strange,Colony6,C6Strange"
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,Col6Keys"
   },
   {
-    "name": "Ether Mine Strange",
-    "type": "toggle",
+    "name": "Ether Mine Keys",
+    "type": "consumable",
     "img": "images/items/EM.png",
-    "codes": "toggle,Strange,EtherMine,EMStrange"
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,MineKeys"
   },
   {
-    "name": "Satorl Marsh Strange",
-    "type": "toggle",
+    "name": "Satorl Marsh Keys",
+    "type": "consumable",
     "img": "images/items/SM.png",
-    "codes": "toggle,Strange,SatorlMarsh,SMStrange"
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,MarshKeys"
   },
   {
-    "name": "Makna Forest Strange",
-    "type": "toggle",
-    "img": "images/items/MF.png",
-    "codes": "toggle,Strange,MaknaForest,MaFoStrange"
-  },
-  {
-    "name": "Frontier Village Strange",
-    "type": "toggle",
-    "img": "images/items/FV.png",
-    "codes": "toggle,Strange,FrontierVillage,FVStrange"
-  },
-  {
-    "name": "Eryth Sea Strange",
-    "type": "toggle",
-    "img": "images/items/ES.png",
-    "codes": "toggle,Strange,ErythSea,ESStrange"
-  },
-  {
-    "name": "Alcamoth Strange",
-    "type": "toggle",
-    "img": "images/items/AL.png",
-    "codes": "toggle,Strange,Alcamoth,ALStrange"
-  },
-  {
-    "name": "High Entia Tomb Strange",
-    "type": "toggle",
-    "img": "images/items/HT.PNG",
-    "codes": "toggle,Strange,HighEntiaTomb,HTStrange"
-  },
-  {
-    "name": "Valak Mountain Strange",
-    "type": "toggle",
-    "img": "images/items/VM.png",
-    "codes": "toggle,Strange,ValakMountain,VMStrange"
-  },
-  {
-    "name": "Sword Valley Strange",
-    "type": "toggle",
-    "img": "images/items/SV.png",
-    "codes": "toggle,Strange,Sword Valley,SVStrange"
-  },
-  {
-    "name": "Galahad Fortress Strange",
-    "type": "toggle",
-    "img": "images/items/GF.png",
-    "codes": "toggle,Strange,GalahadFortress,GFStrange"
-  },
-  {
-    "name": "Fallen Arm Strange",
-    "type": "toggle",
-    "img": "images/items/FA.png",
-    "codes": "toggle,Strange,FallenArm,FAStrange"
-  },
-  {
-    "name": "Mechonis Field Strange",
-    "type": "toggle",
-    "img": "images/items/MF.png",
-    "codes": "toggle,Strange,MechonisField,MeFiStrange"
-  },
-  {
-    "name": "Central Factory Strange",
-    "type": "toggle",
-    "img": "images/items/CF.png",
-    "codes": "toggle,Strange,CentralFactory,CFStrange"
-  },
-  {
-    "name": "Agniratha Strange",
-    "type": "toggle",
-    "img": "images/items/AG.png",
-    "codes": "toggle,Strange,Agniratha,AGStrange"
-  },
-  {
-    "name": "Bionis' Interior Strange",
-    "type": "toggle",
+    "name": "Bionis' Interior (1st) Keys",
+    "type": "consumable",
     "img": "images/items/BI.png",
-    "codes": "toggle,Strange,BionisInterior,BIStrange"
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,Int1Keys"
   },
   {
-    "name": "Prison Island Strange",
-    "type": "toggle",
+    "name": "Makna Forest Keys",
+    "type": "consumable",
+    "img": "images/items/MF.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,ForestKeys"
+  },
+  {
+    "name": "Frontier Village Keys",
+    "type": "consumable",
+    "img": "images/items/FV.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,VillageKeys"
+  },
+  {
+    "name": "Eryth Sea Keys",
+    "type": "consumable",
+    "img": "images/items/ES.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,SeaKeys"
+  },
+  {
+    "name": "Alcamoth Keys",
+    "type": "consumable",
+    "img": "images/items/AL.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,AlcaKeys"
+  },
+  {
+    "name": "High Entia Tomb Keys",
+    "type": "consumable",
+    "img": "images/items/HT.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,TombKeys"
+  },
+  {
+    "name": "Prison Island (1st) Keys",
+    "type": "consumable",
     "img": "images/items/PI.png",
-    "codes": "toggle,Strange,PrisonIsland,PIStrange"
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,Pris1Keys"
+  },
+  {
+    "name": "Valak Mountain Keys",
+    "type": "consumable",
+    "img": "images/items/VM.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,MountKeys"
+  },
+  {
+    "name": "Sword Valley Keys",
+    "type": "consumable",
+    "img": "images/items/SV.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,ValleyKeys"
+  },
+  {
+    "name": "Galahad Fortress Keys",
+    "type": "consumable",
+    "img": "images/items/GF.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,FortKeys"
+  },
+  {
+    "name": "Fallen Arm Keys",
+    "type": "consumable",
+    "img": "images/items/FA.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,ArmKeys"
+  },
+  {
+    "name": "Mechonis Field Keys",
+    "type": "consumable",
+    "img": "images/items/MF.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,FieldKeys"
+  },
+  {
+    "name": "Central Factory Keys",
+    "type": "consumable",
+    "img": "images/items/CF.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,FactKeys"
+  },
+  {
+    "name": "Agniratha Keys",
+    "type": "consumable",
+    "img": "images/items/AG.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,AgniKeys"
+  },
+  {
+    "name": "Mechonis Core Keys",
+    "type": "consumable",
+    "img": "images/items/Strange.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,CoreKeys"
+  },
+  {
+    "name": "Bionis' Interior (2nd) Keys",
+    "type": "consumable",
+    "img": "images/items/BI.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,Int2Keys"
+  },
+  {
+    "name": "Prison Island (2nd) Keys",
+    "type": "consumable",
+    "img": "images/items/PI.png",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "consumable,required,Pris2Keys"
+  },
+  {
+    "name": "SweetWasabi",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Veg,SweetWasabi"
+  },
+  {
+    "name": "CoolPotato",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Veg,CoolPotato"
+  },
+  {
+    "name": "Red Lettuce",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Veg,RedLettuce"
+  },
+  {
+    "name": "ChewyRadish",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Veg,ChewyRadish"
+  },
+  {
+    "name": "DanceApple",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Fru,DanceApple"
+  },
+  {
+    "name": "BlackKiwi",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Fru,BlackKiwi"
+  },
+  {
+    "name": "StrongDandelion",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Flo,StrongDandelion"
+  },
+  {
+    "name": "MoonFlower",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Flo,MoonFlower"
+  },
+  {
+    "name": "Dawn Hydrangea",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Flo,DawnHydrangea"
+  },
+  {
+    "name": "PrairieDragonfly",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Bug,PrairieDragonfly"
+  },
+  {
+    "name": "GiantHornet",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Bug,GiantHornet"
+  },
+  {
+    "name": "WhiteBeetle",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Bug,WhiteBeetle"
+  },
+  {
+    "name": "SorrowBeetle",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Bug,SorrowBeetle"
+  },
+  {
+    "name": "BlueChain",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Par,BlueChain"
+  },
+  {
+    "name": "RabbitDiode",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Par,RabbitDiode"
+  },
+  {
+    "name": "PlateSnow",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Str,PlateSnow"
+  },
+  {
+    "name": "RainbowZirconia",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col9Collect,Col9Str,RainbowZirconia"
+  }
+  {
+    "name": "ClearAlmond",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephFru,ClearAlmond"
   }
 ]
