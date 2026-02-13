@@ -3081,12 +3081,1818 @@
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "collectable,Col9Collect,Col9Str,RainbowZirconia"
-  }
+  },
   {
     "name": "ClearAlmond",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "collectable,TephCollect,TephFru,ClearAlmond"
+  },
+  {
+    "name": "BrightFig",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephFru,BrightFig"
+  },
+  {
+    "name": "DarkGrape",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephFru,DarkGrape"
+  },
+  {
+    "name": "InsanityMint",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephFlo,InsanityMint"
+  },
+  {
+    "name": "NightTulip",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephFlo,NightTulip"
+  },
+  {
+    "name": "ShinNewt",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephAni,ShinNewt"
+  },
+  {
+    "name": "CaveRat",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephAni,CaveRat"
+  },
+  {
+    "name": "ShinGecko",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephAni,ShinGecko"
+  },
+  {
+    "name": "HappyRabbit",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephAni,HappyRabbit"
+  },
+  {
+    "name": "BrownButterfly",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephBug,BrownButterfly"
+  },
+  {
+    "name": "GoldCaterpillar",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephBug,GoldCaterpillar"
+  },
+  {
+    "name": "RumbleStonefly",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephBug,RumbleStonefly"
+  },
+  {
+    "name": "KneecapRock",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephNat,KneecapRock"
+  },
+  {
+    "name": "ConfusionIvy",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephNat,ConfusionIvy"
+  },
+  {
+    "name": "ClarityMoss",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephNat,ClarityMoss"
+  },
+  {
+    "name": "LeafMystery",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephStr,LeafMystery"
+  },
+  {
+    "name": "SteelSilk",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TephCollect,TephStr,SteelSilk"
+  },
+  {
+    "name": "HotTaro",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegVeg,HotTaro"
+  },
+  {
+    "name": "JuicyBroccoli",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegVeg,JuicyBroccoli"
+  },
+  {
+    "name": "SpicyCabbage",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegVeg,SpicyCabbage"
+  },
+  {
+    "name": "HardLotus",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegVeg,SteelSilk"
+  },
+  {
+    "name": "SourGooseberry",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegFru,SourGooseberry"
+  },
+  {
+    "name": "RedDurian",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegFru,RedDurian"
+  },
+  {
+    "name": "WalnutGrape",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegFru,WalnutGrape"
+  },
+  {
+    "name": "HummingPlum",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegFru,HummingPlum"
+  },
+  {
+    "name": "WhiteLadybird",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegBug,WhiteLadybird"
+  },
+  {
+    "name": "HillFirefly",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegBug,HillFirefly"
+  },
+  {
+    "name": "MothCrawler",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegBug,MothCrawler"
+  },
+  {
+    "name": "QueenLocust",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegBug,QueenLocust"
+  },
+  {
+    "name": "FireTarantula",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegBug,FireTarantula"
+  },
+  {
+    "name": "MatIce",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegNat,MatIce"
+  },
+  {
+    "name": "BlueskyBark",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegNat,BlueskyBark"
+  },
+  {
+    "name": "PioneStone",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegNat,PioneStone"
+  },
+  {
+    "name": "RustyBolt",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegPar,RustyBolt"
+  },
+  {
+    "name": "WindingGear",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegPar,WindingGear"
+  },
+  {
+    "name": "GoldDustIllusion",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegStr,GoldDustIllusion"
+  },
+  {
+    "name": "DeviousGravity",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegStr,DeviousGravity"
+  },
+  {
+    "name": "WhiteSongbird",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegStr,WhiteSongbird"
+  },
+  {
+    "name": "DeathBangle",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,LegCollect,LegStr,DeathBangle"
+  },
+  {
+    "name": "CuteOrchid",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col6Collect,Col6Flo,CuteOrchid"
+  },
+  {
+    "name": "SiriusAnemone",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col6Collect,Col6Flo,SiriusAnemone"
+  },
+  {
+    "name": "SpiritClematis",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col6Collect,Col6Flo,SpiritClematis"
+  },
+  {
+    "name": "PyroLizard",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col6Collect,Col6Ani,PyroLizard"
+  },
+  {
+    "name": "AmblygonTurtle",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col6Collect,Col6Ani,AmblygonTurtle"
+  },
+  {
+    "name": "Dobercorgi",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col6Collect,Col6Ani,Dobercorgi"
+  },
+  {
+    "name": "VerdantEternity",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col6Collect,Col6Str,VerdantEternity"
+  },
+  {
+    "name": "WhiteNightRod",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,Col6Collect,Col6Str,WhiteNightRod"
+  },
+  {
+    "name": "LightBat",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MineCollect,MineAni,LightBat"
+  },
+  {
+    "name": "BlackFrog",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MineCollect,MineAni,BlackFrog"
+  },
+  {
+    "name": "YellowCat",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MineCollect,MineAni,YellowCat"
+  },
+  {
+    "name": "BlackBeetle",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MineCollect,MineBug,BlackBeetle"
+  },
+  {
+    "name": "RubberMantis",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MineCollect,MineBug,RubberMantis"
+  },
+  {
+    "name": "MysteryFirefly",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MineCollect,MineBug,MysteryFirefly"
+  },
+  {
+    "name": "CharcoalLeg",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MineCollect,MineNat,CharcoalLeg"
+  },
+  {
+    "name": "EtherPebble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MineCollect,MineNat,EtherPebble"
+  },
+  {
+    "name": "RumbleCoal",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MineCollect,MineNat,RumbleCoal"
+  },
+  {
+    "name": "BlackChip",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MineCollect,MinePar,BlackChip"
+  },
+  {
+    "name": "ReadyCoil",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MineCollect,MinePar,ReadyCoil"
+  },
+  {
+    "name": "LoveCrane",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MineCollect,MineStr,LoveCrane"
+  },
+  {
+    "name": "FireAbron",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MineCollect,MineStr,FireAbron"
+  },
+  {
+    "name": "BlueTurnip",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshVeg,BlueTurnip"
+  },
+  {
+    "name": "CuteParsnip",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshVeg,CuteParsnip"
+  },
+  {
+    "name": "PoisonousGourd",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshVeg,PoisonousGourd"
+  },
+  {
+    "name": "HummingCabbage",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshVeg,HummingCabbage"
+  },
+  {
+    "name": "SunflowerRogue",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshFlo,SunflowerRogue"
+  },
+  {
+    "name": "MerryCoronation",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshFlo,MerryCoronation"
+  },
+  {
+    "name": "EtherRose",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshFlo,EtherRose"
+  },
+  {
+    "name": "OrbDaisy",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshFlo,OrbDaisy"
+  },
+  {
+    "name": "ForgetYouNot",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshFlo,ForgetYouNot"
+  },
+  {
+    "name": "ChimeraRabbit",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshAni,ChimeraRabbit"
+  },
+  {
+    "name": "VenomPlatypus",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshAni,VenomPlatypus"
+  },
+  {
+    "name": "HummingCat",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshAni,HummingCat"
+  },
+  {
+    "name": "MistTree",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshNat,MistTree"
+  },
+  {
+    "name": "LemonStone",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshNat,LemonStone"
+  },
+  {
+    "name": "FeatherLeaf",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshNat,FeatherLeaf"
+  },
+  {
+    "name": "WaterLog",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshNat,WaterLog"
+  },
+  {
+    "name": "WoolRock",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshNat,WoolRock"
+  },
+  {
+    "name": "BlueGearShard",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshPar,BlueGearShard"
+  },
+  {
+    "name": "RumblePart",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshPar,RumblePart"
+  },
+  {
+    "name": "PaupersCup",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshStr,PaupersCup"
+  },
+  {
+    "name": "HappyCarnival",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshStr,HappyCarnival"
+  },
+  {
+    "name": "DawnDice",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MarshCollect,MarshStr,DawnDice"
+  },
+  {
+    "name": "Sarsaparilla",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,IntCollect,IntVeg,Sarsaparilla"
+  },
+  {
+    "name": "BlackLiverBean",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,IntCollect,IntVeg,BlackLiverBean"
+  },
+  {
+    "name": "BloodWorm",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,IntCollect,IntAni,BloodWorm"
+  },
+  {
+    "name": "AzureMouse",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,IntCollect,IntAni,AzureMouse"
+  },
+  {
+    "name": "HappyDuck",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,IntCollect,IntAni,HappyDuck"
+  },
+  {
+    "name": "TapTapTap",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,IntCollect,IntStr,TapTapTap"
+  },
+  {
+    "name": "HighEntiaJewel",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,IntCollect,IntStr,HighEntiaJewel"
+  },
+  {
+    "name": "SchorlMushroom",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestVeg,SchorlMushroom"
+  },
+  {
+    "name": "KelpMushroom",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestVeg,KelpMushroom"
+  },
+  {
+    "name": "HoneyRhubarb",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestVeg,HoneyRhubarb"
+  },
+  {
+    "name": "DarkMango",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestFru,DarkMango"
+  },
+  {
+    "name": "PureCherry",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestFru,PureCherry"
+  },
+  {
+    "name": "BitterKiwi",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestFru,BitterKiwi"
+  },
+  {
+    "name": "JuicyGrape",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestFru,JuicyGrape"
+  },
+  {
+    "name": "EnigmaLotus",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestFlo,EnigmaLotus"
+  },
+  {
+    "name": "HummingNettle",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestFlo,HummingNettle"
+  },
+  {
+    "name": "PrincessDaffodil",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestFlo,PrincessDaffodil"
+  },
+  {
+    "name": "BlackIris",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestFlo,BlackIris"
+  },
+  {
+    "name": "AshFox",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestAni,AshFox"
+  },
+  {
+    "name": "SoftSeaCucumber",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestAni,SoftSeaCucumber"
+  },
+  {
+    "name": "FossilMonkey",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestAni,FossilMonkey"
+  },
+  {
+    "name": "VenomousLizard",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestAni,VenomousLizard"
+  },
+  {
+    "name": "ScarletLadybird",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestBug,ScarletLadybird"
+  },
+  {
+    "name": "ShieldBug",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestBug,ShieldBug"
+  },
+  {
+    "name": "HadesBeetle",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestBug,HadesBeetle"
+  },
+  {
+    "name": "BenignCricket",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestBug,BenignCricket"
+  },
+  {
+    "name": "LemonadeSky",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestStr,LemonadeSky"
+  },
+  {
+    "name": "ForestOfGossip",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestStr,ForestOfGossip"
+  },
+  {
+    "name": "GravelDisk",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ForestCollect,ForestStr,GravelDisk"
+  },
+  {
+    "name": "SpicyNut",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,VillageCollect,VillageFru,SpicyNut"
+  },
+  {
+    "name": "CrimsonCitrus",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,VillageCollect,VillageFru,CrimsonCitrus"
+  },
+  {
+    "name": "RainbowBug",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,VillageCollect,VillageBug,RainbowBug"
+  },
+  {
+    "name": "EmpressBeetle",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,VillageCollect,VillageBug,EmpressBeetle"
+  },
+  {
+    "name": "RumbleBox",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,VillageCollect,VillageStr,RumbleBox"
+  },
+  {
+    "name": "BlackPanel",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,VillageCollect,VillageStr,BlackPanel"
+  },
+  {
+    "name": "PinkAsparagus",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaVeg,PinkAsparagus"
+  },
+  {
+    "name": "TropicalRadish",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaVeg,TropicalRadish"
+  },
+  {
+    "name": "DolphinCarrot",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaVeg,DolphinCarrot"
+  },
+  {
+    "name": "GoldBurdock",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaVeg,GoldBurdock"
+  },
+  {
+    "name": "SeaBerry",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaFlo,SeaBerry"
+  },
+  {
+    "name": "DespairClover",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaFlo,DespairClover"
+  },
+  {
+    "name": "DoomsdayPoppy",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaFlo,DoomsdayPoppy"
+  },
+  {
+    "name": "NightLily",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaFlo,NightLily"
+  },
+  {
+    "name": "RazorTeasel",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaFlo,RazorTeasel"
+  },
+  {
+    "name": "SeaFrog",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaAni,SeaFrog"
+  },
+  {
+    "name": "ManeCat",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaAni,ManeCat"
+  },
+  {
+    "name": "WhiteTail",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaNat,WhiteTail"
+  },
+  {
+    "name": "MarineMarble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaNat,MarineMarble"
+  },
+  {
+    "name": "OilBranch",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaNat,OilBranch"
+  },
+  {
+    "name": "DilemmaRock",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaNat,DilemmaRock"
+  },
+  {
+    "name": "HighViolet",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaStr,HighViolet"
+  },
+  {
+    "name": "SteelHauyne",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,SeaCollect,SeaStr,SteelHauyne"
+  },
+  {
+    "name": "CoolLemon",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AlcCollect,AlcFru,CoolLemon"
+  },
+  {
+    "name": "HeartPeach",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AlcCollect,AlcFru,HeartPeach"
+  },
+  {
+    "name": "MysticDahlia",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AlcCollect,AlcFlo,MysticDahlia"
+  },
+  {
+    "name": "Stardrop",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AlcCollect,AlcFlo,Stardrop"
+  },
+  {
+    "name": "HaHaHa",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AlcCollect,AlcStr,HaHaHa"
+  },
+  {
+    "name": "ThunderAtmos",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AlcCollect,AlcStr,ThunderAtmos"
+  },
+  {
+    "name": "GreenEarwig",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TombCollect,TombBug,GreenEarwig"
+  },
+  {
+    "name": "BlueLadybird",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TombCollect,TombBug,BlueLadybird"
+  },
+  {
+    "name": "WhiteTube",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TombCollect,TombPar,WhiteTube"
+  },
+  {
+    "name": "GreenDiode",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TombCollect,TombPar,GreenDiode"
+  },
+  {
+    "name": "SpiralLamp",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TombCollect,TombPar,SpiralLamp"
+  },
+  {
+    "name": "TastySausage",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TombCollect,TombStr,TastySausage"
+  },
+  {
+    "name": "MacroPassion",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,TombCollect,TombStr,MacroPassion"
+  },
+  {
+    "name": "SourRadish",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountVeg,SourRadish"
+  },
+  {
+    "name": "IceCabbage",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountVeg,IceCabbage"
+  },
+  {
+    "name": "GirlCourgette",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountVeg,GirlCourgette"
+  },
+  {
+    "name": "AmethystVanilla",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountVeg,AmethystVanilla"
+  },
+  {
+    "name": "EtherPlum",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountFru,EtherPlum"
+  },
+  {
+    "name": "FireApple",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountFru,FireApple"
+  },
+  {
+    "name": "RubyMangosteen",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountFru,RubyMangosteen"
+  },
+  {
+    "name": "SourGrape",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountFru,SourGrape"
+  },
+  {
+    "name": "FortuneMallow",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountFlo,FortuneMallow"
+  },
+  {
+    "name": "BlackPeony",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountFlo,BlackPeony"
+  },
+  {
+    "name": "FatalBelladonna",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountFlo,FatalBelladonna"
+  },
+  {
+    "name": "WetRat",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountAni,WetRat"
+  },
+  {
+    "name": "IceMonkey",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountAni,IceMonkey"
+  },
+  {
+    "name": "CrystalFrog",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountAni,CrystalFrog"
+  },
+  {
+    "name": "MudSquirrel",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountAni,MudSquirrel"
+  },
+  {
+    "name": "GypsumBranch",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountNat,GypsumBranch"
+  },
+  {
+    "name": "BlackAsh",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountNat,BlackAsh"
+  },
+  {
+    "name": "EmeraldSnow",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountNat,EmeraldSnow"
+  },
+  {
+    "name": "RabbitStone",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountNat,RabbitStone"
+  },
+  {
+    "name": "BroomIcicle",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountNat,BroomIcicle"
+  },
+  {
+    "name": "FrostGlass",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountStr,FrostGlass"
+  },
+  {
+    "name": "LargeHandcuffs",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,MountCollect,MountStr,LargeHandcuffs"
+  },
+  {
+    "name": "FirePepper",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyVeg,FirePepper"
+  },
+  {
+    "name": "MeatyCarrot",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyVeg,MeatyCarrot"
+  },
+  {
+    "name": "BitterBroccoli",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyVeg,BitterBroccoli"
+  },
+  {
+    "name": "BitterMelon",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyFru,BitterMelon"
+  },
+  {
+    "name": "CitronGooseberry",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyFru,CitronGooseberry"
+  },
+  {
+    "name": "JuicyMelon",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyFru,JuicyMelon"
+  },
+  {
+    "name": "AmethystMelon",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyFru,AmethystMelon"
+  },
+  {
+    "name": "JujubeSilver",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyFlo,JujubeSilver"
+  },
+  {
+    "name": "BlackBlossom",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyFlo,BlackBlossom"
+  },
+  {
+    "name": "AbyssHeather",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyFlo,AbyssHeather"
+  },
+  {
+    "name": "DeleriumFoxglove",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyFlo,DeleriumFoxglove"
+  },
+  {
+    "name": "GoldCondenser",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyPar,GoldCondenser"
+  },
+  {
+    "name": "PurpleLamp",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyPar,PurpleLamp"
+  },
+  {
+    "name": "CrimsonGear",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyPar,CrimsonGear"
+  },
+  {
+    "name": "RedFrontier",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyStr,RedFrontier"
+  },
+  {
+    "name": "DarknessBottle",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyStr,DarknessBottle"
+  },
+  {
+    "name": "BudOfEternity",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ValleyCollect,ValleyStr,BudOfEternity"
+  },
+  {
+    "name": "WheelLurker",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FortCollect,FortBug,WheelLurker"
+  },
+  {
+    "name": "UltramarineAnt",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FortCollect,FortBug,UltramarineAnt"
+  },
+  {
+    "name": "LocustSpring",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FortCollect,FortPar,LocustSpring"
+  },
+  {
+    "name": "ArtCoreCoil",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FortCollect,FortPar,ArtCoreCoil"
+  },
+  {
+    "name": "TailAntenna",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FortCollect,FortPar,TailAntenna"
+  },
+  {
+    "name": "HungerCrash",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FortCollect,FortStr,HungerCrash"
+  },
+  {
+    "name": "SplishSplash",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FortCollect,FortStr,SplishSplash"
+  },
+  {
+    "name": "SourTurnip",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmVeg,SourTurnip"
+  },
+  {
+    "name": "GoldenBeetroot",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmVeg,GoldenBeetroot"
+  },
+  {
+    "name": "WhitePlum",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmFru,WhitePlum"
+  },
+  {
+    "name": "IceKiwiFruit",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmFru,IceKiwiFruit"
+  },
+  {
+    "name": "SpicyPapaya",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmFru,SpicyPapaya"
+  },
+  {
+    "name": "LargeMango",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmFru,LargeMango"
+  },
+  {
+    "name": "OilOyster",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmAni,OilOyster"
+  },
+  {
+    "name": "DarkFish",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmAni,DarkFish"
+  },
+  {
+    "name": "EtherPenguin",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmAni,EtherPenguin"
+  },
+  {
+    "name": "RainbowSlug",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmAni,RainbowSlug"
+  },
+  {
+    "name": "PoisonousCoral",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmNat,PoisonousCoral"
+  },
+  {
+    "name": "PoisonIvy",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmNat,PoisonIvy"
+  },
+  {
+    "name": "AmberLeaf",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmNat,AmberLeaf"
+  },
+  {
+    "name": "WarningLamp",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmPar,WarningLamp"
+  },
+  {
+    "name": "DigitalFilament",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmPar,DigitalFilament"
+  },
+  {
+    "name": "StarCute",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmStr,StarCute"
+  },
+  {
+    "name": "SummerStar",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ArmCollect,ArmStr,SummerStar"
+  },
+  {
+    "name": "JuicySteakplant",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldVeg,JuicySteakplant"
+  },
+  {
+    "name": "AcerolaPea",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldVeg,AcerolaPea"
+  },
+  {
+    "name": "EnergyAubergine",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldVeg,EnergyAubergine"
+  },
+  {
+    "name": "SweetPepper",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldVeg,SweetPepper"
+  },
+  {
+    "name": "AzureHollyhock",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldFlo,AzureHollyhock"
+  },
+  {
+    "name": "UtopiaCrocus",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldFlo,UtopiaCrocus"
+  },
+  {
+    "name": "ScarletCrawler",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldBug,ScarletCrawler"
+  },
+  {
+    "name": "ShinyScarab",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldBug,ShinyScarab"
+  },
+  {
+    "name": "WaterBoatman",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldBug,WaterBoatman"
+  },
+  {
+    "name": "IvyNest",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldNat,IvyNest"
+  },
+  {
+    "name": "MossyPanel",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldNat,MossyPanel"
+  },
+  {
+    "name": "BronzeWood",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldNat,BronzeWood"
+  },
+  {
+    "name": "RetroDiode",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldPar,RetroDiode"
+  },
+  {
+    "name": "ModernBlueGear",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldPar,ModernBlueGear"
+  },
+  {
+    "name": "SnowTransistor",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldPar,SnowTransistor"
+  },
+  {
+    "name": "TweetTweet",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldStr,TweetTweet"
+  },
+  {
+    "name": "FlameFrame",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FieldCollect,FieldStr,FlameFrame"
+  },
+  {
+    "name": "MeatyPotato",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactVeg,MeatyPotato"
+  },
+  {
+    "name": "BlueRoot",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactVeg,BlueRoot"
+  },
+  {
+    "name": "PrismCentipede",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactAni,PrismCentipede"
+  },
+  {
+    "name": "CableMouse",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactAni,CableMouse"
+  },
+  {
+    "name": "OilFox",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactAni,OilFox"
+  },
+  {
+    "name": "DewBeetle",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactBug,DewBeetle"
+  },
+  {
+    "name": "GliderCockroach",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactBug,GliderCockroach"
+  },
+  {
+    "name": "WhiteStyrene",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactNat,WhiteStyrene"
+  },
+  {
+    "name": "BlackStyrene",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactNat,BlackStyrene"
+  },
+  {
+    "name": "BloodOil",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactNat,BloodOil"
+  },
+  {
+    "name": "AngelEngineX",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactPar,AngelEngineX"
+  },
+  {
+    "name": "LeafCoil",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactPar,LeafCoil"
+  },
+  {
+    "name": "WarriorScrew",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactPar,WarriorScrew"
+  },
+  {
+    "name": "SmokeCylinder",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactStr,SmokeCylinder"
+  },
+  {
+    "name": "SacredPanther",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactStr,SacredPanther"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,FactCollect,FactStr,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniFru,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniFru,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniFru,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniFlo,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniFlo,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniFlo,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniBug,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniBug,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniNat,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniNat,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniPar,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniPar,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniPar,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniPar,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniStr,PartsNoble"
+  },
+  {
+    "name": "PartsNoble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AgniCollect,AgniStr,PartsNoble"
   }
 ]
