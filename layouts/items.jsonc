@@ -41,7 +41,7 @@
         "content": [
           {
             "type": "canvas",
-            "width": 340,
+            "width": 376,
             "height": 72,
             "margin": "1,5",
             "content": [
@@ -316,6 +316,14 @@
                 "item": "ReynArt8",
                 "canvas_depth": 1,
                 "canvas_left": 323,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
                 "width": 30,
                 "height": 30
               },
@@ -2626,7 +2634,7 @@
         "content": [
           {
             "type": "canvas",
-            "width": 340,
+            "width": 448,
             "height": 245,
             "margin": "1,5",
             "content": [
@@ -2698,6 +2706,57 @@
                 "item": "ShulkStreamEdge",
                 "canvas_depth": 1,
                 "canvas_left": 323,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkHead",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkTorso",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkArms",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkLegs",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkFeet",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -2907,6 +2966,60 @@
               },
               {
                 "type": "item",
+                "item": "ReynWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynHead",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynTorso",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArms",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynLegs",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynFeet",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
                 "item": "ReynArt9",
                 "canvas_depth": 1,
                 "canvas_left": 71,
@@ -3111,6 +3224,60 @@
               },
               {
                 "type": "item",
+                "item": "SharlaWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaHead",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaTorso",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArms",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaLegs",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaFeet",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
                 "item": "SharlaArt9",
                 "canvas_depth": 1,
                 "canvas_left": 71,
@@ -3237,7 +3404,7 @@
           },
           {
             "type": "canvas",
-            "width": 340,
+            "width": 448,
             "height": 245,
             "margin": "16,5",
             "content": [
@@ -3309,6 +3476,57 @@
                 "item": "DunbanArt8",
                 "canvas_depth": 1,
                 "canvas_left": 323,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanHead",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanTorso",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArms",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanLegs",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanFeet",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -3518,6 +3736,60 @@
               },
               {
                 "type": "item",
+                "item": "RikiWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiHead",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiTorso",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArms",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiLegs",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiFeet",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
                 "item": "RikiArt9",
                 "canvas_depth": 1,
                 "canvas_left": 71,
@@ -3722,6 +3994,60 @@
               },
               {
                 "type": "item",
+                "item": "MeliaWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaHead",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaTorso",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArms",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaLegs",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaFeet",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
                 "item": "MeliaArt9",
                 "canvas_depth": 1,
                 "canvas_left": 71,
@@ -3848,7 +4174,7 @@
           },
           {
             "type": "canvas",
-            "width": 340,
+            "width": 448,
             "height": 72,
             "margin": "4,5",
             "content": [
@@ -3920,6 +4246,57 @@
                 "item": "SevenArt8",
                 "canvas_depth": 1,
                 "canvas_left": 323,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenHead",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenTorso",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArms",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenLegs",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenFeet",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 33,
                 "width": 30,
                 "height": 30
               },
@@ -4049,190 +4426,49 @@
               },
               {
                 "type": "itemgrid",
-                "item_margin": "5, 100",
+                "item_margin": "5, 90",
                 "item_size": "40,40",
-                "h_alignment": "stretch",
+                "h_alignment": "left",
                 "rows": [
                   [
-                    "AreaKeys",
                     "Lobster",
                     "MemoryFragments",
                     "Colony6Housing",
                     "Colony6Commerce",
                     "Colony6Nature",
-                    "Colony6Special"
+                    "Colony6Special",
+                    "HuntLicenses"
                   ]
                 ]
               },
               {
-                "type": "item",
-                "item": "Hunt",
-                "canvas_left": 1,
-                "canvas_top": 185,
-                "width": 40,
-                "height": 40
+                "type": "itemgrid",
+                "item_margin": "5, 140",
+                "item_size": "40,40",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "Fire",
+                    "Wind",
+                    "Electric",
+                    "Earth",
+                    "Ice",
+                    "Water",
+                    "HuntLicense"
+                  ]
+                ]
               },
               {
-                "type": "item",
-                "item": "C9Hunt",
-                "canvas_depth": 1,
-                "canvas_left": 44,
-                "canvas_top": 185,
-                "width": 22,
-                "height": 22
-              },
-              {
-                "type": "item",
-                "item": "TCHunt",
-                "canvas_depth": 1,
-                "canvas_left": 75,
-                "canvas_top": 185,
-                "width": 20,
-                "height": 20
-              },
-              {
-                "type": "item",
-                "item": "BLHunt",
-                "canvas_depth": 1,
-                "canvas_left": 106,
-                "canvas_top": 185,
-                "width": 21,
-                "height": 21
-              },
-              {
-                "type": "item",
-                "item": "C6Hunt",
-                "canvas_depth": 1,
-                "canvas_left": 137,
-                "canvas_top": 185,
-                "width": 22,
-                "height": 22
-              },
-              {
-                "type": "item",
-                "item": "EMHunt",
-                "canvas_depth": 1,
-                "canvas_left": 168,
-                "canvas_top": 185,
-                "width": 26,
-                "height": 26
-              },
-              {
-                "type": "item",
-                "item": "SMHunt",
-                "canvas_depth": 1,
-                "canvas_left": 202,
-                "canvas_top": 185,
-                "width": 25,
-                "height": 25
-              },
-              {
-                "type": "item",
-                "item": "MaFoHunt",
-                "canvas_depth": 1,
-                "canvas_left": 236,
-                "canvas_top": 185,
-                "width": 25,
-                "height": 25
-              },
-              {
-                "type": "item",
-                "item": "ESHunt",
-                "canvas_depth": 1,
-                "canvas_left": 270,
-                "canvas_top": 185,
-                "width": 21,
-                "height": 21
-              },
-              {
-                "type": "item",
-                "item": "HTHunt",
-                "canvas_depth": 1,
-                "canvas_left": 306,
-                "canvas_top": 185,
-                "width": 23,
-                "height": 23
-              },
-              {
-                "type": "item",
-                "item": "VMHunt",
-                "canvas_depth": 1,
-                "canvas_left": 44,
-                "canvas_top": 206,
-                "width": 23,
-                "height": 23
-              },
-              {
-                "type": "item",
-                "item": "SVHunt",
-                "canvas_depth": 1,
-                "canvas_left": 75,
-                "canvas_top": 206,
-                "width": 21,
-                "height": 21
-              },
-              {
-                "type": "item",
-                "item": "GFHunt",
-                "canvas_depth": 1,
-                "canvas_left": 106,
-                "canvas_top": 206,
-                "width": 21,
-                "height": 21
-              },
-              {
-                "type": "item",
-                "item": "FAHunt",
-                "canvas_depth": 1,
-                "canvas_left": 137,
-                "canvas_top": 206,
-                "width": 19,
-                "height": 19
-              },
-              {
-                "type": "item",
-                "item": "MeFiHunt",
-                "canvas_depth": 1,
-                "canvas_left": 168,
-                "canvas_top": 206,
-                "width": 25,
-                "height": 25
-              },
-              {
-                "type": "item",
-                "item": "CFHunt",
-                "canvas_depth": 1,
-                "canvas_left": 202,
-                "canvas_top": 206,
-                "width": 21,
-                "height": 21
-              },
-              {
-                "type": "item",
-                "item": "AGHunt",
-                "canvas_depth": 1,
-                "canvas_left": 236,
-                "canvas_top": 206,
-                "width": 22,
-                "height": 22
-              },
-              {
-                "type": "item",
-                "item": "BIHunt",
-                "canvas_depth": 1,
-                "canvas_left": 270,
-                "canvas_top": 206,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "PIHunt",
-                "canvas_depth": 1,
-                "canvas_left": 306,
-                "canvas_top": 206,
-                "width": 17,
-                "height": 17
+                "type": "itemgrid",
+                "item_margin": "5, 190",
+                "item_size": "60,60",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "Goal",
+                    "VictoryCon"
+                  ]
+                ]
               }
             ]
           }
@@ -4250,996 +4486,92 @@
         "margin": "0,0",
         "content": [
           {
-            "type": "canvas",
-            "width": 34,
-            "height":  34,
-            "margin": "1,0",
-            "content": [
-              {
-                "type": "item",
-                "item": "Veg",
-                "canvas_left": 6,
-                "width": 16,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "C9Veg",
-                "canvas_depth": 1,
-                "canvas_left": 38,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "BLVeg",
-                "canvas_depth": 1,
-                "canvas_left": 58,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "SMVeg",
-                "canvas_depth": 1,
-                "canvas_left": 77,
-                "canvas_top": 5,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "MaFoVeg",
-                "canvas_depth": 1,
-                "canvas_left": 97,
-                "canvas_top": 5,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "ESVeg",
-                "canvas_depth": 1,
-                "canvas_left": 116,
-                "canvas_top": 5,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "VMVeg",
-                "canvas_depth": 1,
-                "canvas_left": 38,
-                "canvas_top": 20,
-                "width": 17,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "SVVeg",
-                "canvas_depth": 1,
-                "canvas_left": 58,
-                "canvas_top": 20,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "FAVeg",
-                "canvas_depth": 1,
-                "canvas_left": 77,
-                "canvas_top": 20,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "MeFiVeg",
-                "canvas_depth": 1,
-                "canvas_left": 97,
-                "canvas_top": 20,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "CFVeg",
-                "canvas_depth": 1,
-                "canvas_left": 116,
-                "canvas_top": 20,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "BIVeg",
-                "canvas_depth": 1,
-                "canvas_left": 134,
-                "canvas_top": 12,
-                "width": 12,
-                "height": 12
-              }
+            "type": "itemgrid",
+            "item_margin": "5, 5",
+            "item_size": "40,40",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "ProgVegs",
+                "ProgFruits",
+                "ProgFlowers",
+                "ProgAnimals",
+                "ProgBugs",
+                "ProgNatures",
+                "ProgPartss",
+                "ProgStranges"
+              ]
             ]
-          },{
-            "type": "canvas",
-            "width": 34,
-            "height":  34,
-            "margin": "1,0",
-            "content": [
-              {
-                "type": "item",
-                "item": "Fruit",
-                "canvas_left": 6,
-                "width": 20,
-                "height": 20
-              },
-              {
-                "type": "item",
-                "item": "C9Fruit",
-                "canvas_depth": 1,
-                "canvas_left": 38,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "TCFruit",
-                "canvas_depth": 1,
-                "canvas_left": 58,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "BLFruit",
-                "canvas_depth": 1,
-                "canvas_left": 78,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "MaFoFruit",
-                "canvas_depth": 1,
-                "canvas_left": 98,
-                "canvas_top": 5,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "FVFruit",
-                "canvas_depth": 1,
-                "canvas_left": 118,
-                "canvas_top": 5,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "ALFruit",
-                "canvas_depth": 1,
-                "canvas_left": 38,
-                "canvas_top": 20,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "VMFruit",
-                "canvas_depth": 1,
-                "canvas_left": 58,
-                "canvas_top": 20,
-                "width": 17,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "SVFruit",
-                "canvas_depth": 1,
-                "canvas_left": 78,
-                "canvas_top": 20,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "AGFruit",
-                "canvas_depth": 1,
-                "canvas_left": 98,
-                "canvas_top": 20,
-                "width": 16,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "PIFruit",
-                "canvas_depth": 1,
-                "canvas_left": 118,
-                "canvas_top": 20,
-                "width": 12,
-                "height": 12
-              }
-            ]
-          },{
-            "type": "canvas",
-            "width": 34,
-            "height":  34,
-            "margin": "1,0",
-            "content": [
-              {
-                "type": "item",
-                "item": "Flower",
-                "canvas_left": 6,
-                "width": 20,
-                "height": 20
-              },
-              {
-                "type": "item",
-                "item": "C9Flower",
-                "canvas_depth": 1,
-                "canvas_left": 38,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "TCFlower",
-                "canvas_depth": 1,
-                "canvas_left": 58,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "C6Flower",
-                "canvas_depth": 1,
-                "canvas_left": 78,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "SMFlower",
-                "canvas_depth": 1,
-                "canvas_left": 98,
-                "canvas_top": 5,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "MaFoFlower",
-                "canvas_depth": 1,
-                "canvas_left": 118,
-                "canvas_top": 5,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "ESFlower",
-                "canvas_depth": 1,
-                "canvas_left": 38,
-                "canvas_top": 20,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "ALFlower",
-                "canvas_depth": 1,
-                "canvas_left": 58,
-                "canvas_top": 20,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "VMFlower",
-                "canvas_depth": 1,
-                "canvas_left": 78,
-                "canvas_top": 20,
-                "width": 17,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "SVFlower",
-                "canvas_depth": 1,
-                "canvas_left": 98,
-                "canvas_top": 20,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "MeFiFlower",
-                "canvas_depth": 1,
-                "canvas_left": 118,
-                "canvas_top": 20,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "AGFlower",
-                "canvas_depth": 1,
-                "canvas_left": 138,
-                "canvas_top": 12,
-                "width": 16,
-                "height": 16
-              }
-            ]
-          },{
-            "type": "canvas",
-            "width": 34,
-            "height":  34,
-            "margin": "1,0",
-            "content": [
-              {
-                "type": "item",
-                "item": "Animal",
-                "canvas_left": 6,
-                "width": 20,
-                "height": 20
-              },
-              {
-                "type": "item",
-                "item": "TCAnimal",
-                "canvas_depth": 1,
-                "canvas_left": 38,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "C6Animal",
-                "canvas_depth": 1,
-                "canvas_left": 58,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "EMAnimal",
-                "canvas_depth": 1,
-                "canvas_left": 78,
-                "canvas_top": 5,
-                "width": 18,
-                "height": 18
-              },
-              {
-                "type": "item",
-                "item": "SMAnimal",
-                "canvas_depth": 1,
-                "canvas_left": 98,
-                "canvas_top": 5,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "MaFoAnimal",
-                "canvas_depth": 1,
-                "canvas_left": 118,
-                "canvas_top": 5,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "ESAnimal",
-                "canvas_depth": 1,
-                "canvas_left": 38,
-                "canvas_top": 20,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "VMAnimal",
-                "canvas_depth": 1,
-                "canvas_left": 58,
-                "canvas_top": 20,
-                "width": 17,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "FAAnimal",
-                "canvas_depth": 1,
-                "canvas_left": 78,
-                "canvas_top": 20,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "CFAnimal",
-                "canvas_depth": 1,
-                "canvas_left": 98,
-                "canvas_top": 20,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "BIAnimal",
-                "canvas_depth": 1,
-                "canvas_left": 118,
-                "canvas_top": 20,
-                "width": 12,
-                "height": 12
-              },
-              {
-                "type": "item",
-                "item": "PIAnimal",
-                "canvas_depth": 1,
-                "canvas_left": 138,
-                "canvas_top": 12,
-                "width": 12,
-                "height": 12
-              }
-            ]
-          },{
-            "type": "canvas",
-            "width": 34,
-            "height":  34,
-            "margin": "1,0",
-            "content": [
-              {
-                "type": "item",
-                "item": "Bug",
-                "canvas_left": 6,
-                "width": 20,
-                "height": 20
-              },
-              {
-                "type": "item",
-                "item": "C9Bug",
-                "canvas_depth": 1,
-                "canvas_left": 38,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "TCBug",
-                "canvas_depth": 1,
-                "canvas_left": 58,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "BLBug",
-                "canvas_depth": 1,
-                "canvas_left": 78,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "EMBug",
-                "canvas_depth": 1,
-                "canvas_left": 98,
-                "canvas_top": 5,
-                "width": 18,
-                "height": 18
-              },
-              {
-                "type": "item",
-                "item": "MaFoBug",
-                "canvas_depth": 1,
-                "canvas_left": 118,
-                "canvas_top": 5,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "FVBug",
-                "canvas_depth": 1,
-                "canvas_left": 138,
-                "canvas_top": 5,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "HTBug",
-                "canvas_depth": 1,
-                "canvas_left": 38,
-                "canvas_top": 20,
-                "width": 16,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "GFBug",
-                "canvas_depth": 1,
-                "canvas_left": 58,
-                "canvas_top": 20,
-                "width": 16,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "MeFiBug",
-                "canvas_depth": 1,
-                "canvas_left": 78,
-                "canvas_top": 20,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "CFBug",
-                "canvas_depth": 1,
-                "canvas_left": 98,
-                "canvas_top": 20,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "AGBug",
-                "canvas_depth": 1,
-                "canvas_left": 118,
-                "canvas_top": 20,
-                "width": 16,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "PIBug",
-                "canvas_depth": 1,
-                "canvas_left": 138,
-                "canvas_top": 20,
-                "width": 12,
-                "height": 12
-              }
-            ]
-          },{
-            "type": "canvas",
-            "width": 34,
-            "height":  34,
-            "margin": "1,0",
-            "content": [
-              {
-                "type": "item",
-                "item": "Nature",
-                "canvas_left": 6,
-                "width": 20,
-                "height": 20
-              },
-              {
-                "type": "item",
-                "item": "TCNature",
-                "canvas_depth": 1,
-                "canvas_left": 38,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "BLNature",
-                "canvas_depth": 1,
-                "canvas_left": 58,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "EMNature",
-                "canvas_depth": 1,
-                "canvas_left": 78,
-                "canvas_top": 5,
-                "width": 18,
-                "height": 18
-              },
-              {
-                "type": "item",
-                "item": "SMNature",
-                "canvas_depth": 1,
-                "canvas_left": 98,
-                "canvas_top": 5,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "ESNature",
-                "canvas_depth": 1,
-                "canvas_left": 118,
-                "canvas_top": 5,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "VMNature",
-                "canvas_depth": 1,
-                "canvas_left": 38,
-                "canvas_top": 20,
-                "width": 17,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "FANature",
-                "canvas_depth": 1,
-                "canvas_left": 58,
-                "canvas_top": 20,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "MeFiNature",
-                "canvas_depth": 1,
-                "canvas_left": 78,
-                "canvas_top": 20,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "CFNature",
-                "canvas_depth": 1,
-                "canvas_left": 98,
-                "canvas_top": 20,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "AGNature",
-                "canvas_depth": 1,
-                "canvas_left": 118,
-                "canvas_top": 20,
-                "width": 16,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "PINature",
-                "canvas_depth": 1,
-                "canvas_left": 138,
-                "canvas_top": 12,
-                "width": 12,
-                "height": 12
-              }
-            ]
-          },{
-            "type": "canvas",
-            "width": 34,
-            "height":  34,
-            "margin": "1,0",
-            "content": [
-              {
-                "type": "item",
-                "item": "Parts",
-                "canvas_left": 6,
-                "width": 20,
-                "height": 20
-              },
-              {
-                "type": "item",
-                "item": "C9Parts",
-                "canvas_depth": 1,
-                "canvas_left": 38,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "BLParts",
-                "canvas_depth": 1,
-                "canvas_left": 58,
-                "canvas_top": 5,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "EMParts",
-                "canvas_depth": 1,
-                "canvas_left": 78,
-                "canvas_top": 5,
-                "width": 18,
-                "height": 18
-              },
-              {
-                "type": "item",
-                "item": "SMParts",
-                "canvas_depth": 1,
-                "canvas_left": 98,
-                "canvas_top": 5,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "HTParts",
-                "canvas_depth": 1,
-                "canvas_left": 118,
-                "canvas_top": 5,
-                "width": 16,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "SVParts",
-                "canvas_depth": 1,
-                "canvas_left": 138,
-                "canvas_top": 5,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "GFParts",
-                "canvas_depth": 1,
-                "canvas_left": 38,
-                "canvas_top": 20,
-                "width": 16,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "FAParts",
-                "canvas_depth": 1,
-                "canvas_left": 58,
-                "canvas_top": 20,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "MeFiParts",
-                "canvas_depth": 1,
-                "canvas_left": 78,
-                "canvas_top": 20,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "CFParts",
-                "canvas_depth": 1,
-                "canvas_left": 98,
-                "canvas_top": 20,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "AGParts",
-                "canvas_depth": 1,
-                "canvas_left": 118,
-                "canvas_top": 20,
-                "width": 16,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "PIParts",
-                "canvas_depth": 1,
-                "canvas_left": 138,
-                "canvas_top": 20,
-                "width": 12,
-                "height": 12
-              }
+          },
+          {
+            "type": "itemgrid",
+            "item_margin": "5, 5",
+            "item_size": "40,40",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "ProgVeg",
+                "ProgFruit",
+                "ProgFlower",
+                "ProgAnimal",
+                "ProgBug",
+                "ProgNature",
+                "ProgParts",
+                "ProgStrange"
+              ]
             ]
           }
         ]
-      },
+      }
+    ]
+  },"AreaKeysH": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "15,0",
+    "content": [
       {
         "type": "array",
         "orientation": "vertical",
-        "margin": "130,0",
+        "margin": "0,0",
         "content": [
           {
-            "type": "canvas",
-            "width": 44,
-            "height":  140,
-            "margin": "1,0",
-            "content": [
-              {
-                "type": "item",
-                "item": "Strange",
-                "canvas_left": 6,
-                "width": 32,
-                "height": 32
-              },
-              {
-                "type": "item",
-                "item": "C9Strange",
-                "canvas_depth": 1,
-                "canvas_top": 34,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "TCStrange",
-                "canvas_depth": 1,
-                "canvas_top": 54,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "BLStrange",
-                "canvas_depth": 1,
-                "canvas_top": 74,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "C6Strange",
-                "canvas_depth": 1,
-                "canvas_top": 94,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "EMStrange",
-                "canvas_depth": 1,
-                "canvas_top": 114,
-                "width": 18,
-                "height": 18
-              },
-              {
-                "type": "item",
-                "item": "SMStrange",
-                "canvas_depth": 1,
-                "canvas_top": 134,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "MaFoStrange",
-                "canvas_depth": 1,
-                "canvas_top": 154,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "FVStrange",
-                "canvas_depth": 1,
-                "canvas_top": 174,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "ESStrange",
-                "canvas_depth": 1,
-                "canvas_top": 194,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "ALStrange",
-                "canvas_depth": 1,
-                "canvas_top": 214,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "HTStrange",
-                "canvas_depth": 1,
-                "canvas_top": 34,
-                "canvas_left": 26,
-                "width": 16,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "VMStrange",
-                "canvas_depth": 1,
-                "canvas_top": 54,
-                "canvas_left": 26,
-                "width": 16,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "SVStrange",
-                "canvas_depth": 1,
-                "canvas_top": 74,
-                "canvas_left": 26,
-                "width": 15,
-                "height": 15
-              },
-              {
-                "type": "item",
-                "item": "GFStrange",
-                "canvas_depth": 1,
-                "canvas_top": 94,
-                "canvas_left": 26,
-                "width": 16,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "FAStrange",
-                "canvas_depth": 1,
-                "canvas_top": 114,
-                "canvas_left": 26,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "MeFiStrange",
-                "canvas_depth": 1,
-                "canvas_top": 134,
-                "canvas_left": 26,
-                "width": 17,
-                "height": 17
-              },
-              {
-                "type": "item",
-                "item": "CFStrange",
-                "canvas_depth": 1,
-                "canvas_top": 154,
-                "canvas_left": 26,
-                "width": 14,
-                "height": 14
-              },
-              {
-                "type": "item",
-                "item": "AGStrange",
-                "canvas_depth": 1,
-                "canvas_top": 174,
-                "canvas_left": 26,
-                "width": 16,
-                "height": 16
-              },
-              {
-                "type": "item",
-                "item": "BIStrange",
-                "canvas_depth": 1,
-                "canvas_top": 194,
-                "canvas_left": 26,
-                "width": 12,
-                "height": 12
-              },
-              {
-                "type": "item",
-                "item": "PIStrange",
-                "canvas_depth": 1,
-                "canvas_top": 214,
-                "canvas_left": 26,
-                "width": 12,
-                "height": 12
-              }
+            "type": "itemgrid",
+            "item_margin": "5, 5",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "TephKeys",
+                "LegKeys",
+                "Col6Keys",
+                "MineKeys",
+                "MarshKeys",
+                "Int1Keys",
+                "ForestKeys",
+                "VillageKeys",
+                "SeaKeys",
+                "AlcaKeys",
+                "TombKeys"
+              ]
+            ]
+          },
+          {
+            "type": "itemgrid",
+            "item_margin": "5, 5",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "Pris1Keys",
+                "MountKeys",
+                "ValleyKeys",
+                "FortKeys",
+                "ArmKeys",
+                "FieldKeys",
+                "FactKeys",
+                "AgniKeys",
+                "CoreKeys",
+                "Int2Keys",
+                "Pris2Keys"
+              ]
             ]
           }
         ]

@@ -317,7 +317,7 @@
     "children": [
       {
         "name": "Refugee Camp",
-        "access_rules": ["AreaKeys:2"],
+        "access_rules": ["$LegAcc"],
         "sections": [
           {
             "name": "Anna",
@@ -385,7 +385,7 @@
       },
       {
         "name": "Traveller's Rest",
-        "access_rules": ["AreaKeys:2"],
+        "access_rules": ["$LegAcc"],
         "sections": [
           {
             "name": "Batubatu",
@@ -407,7 +407,7 @@
       },
       {
         "name": "Reconstruction HQ",
-        "access_rules": ["AreaKeys:3"],
+        "access_rules": ["$Col6Acc"],
         "sections": [
           {
             "name": "Anna",
@@ -448,7 +448,7 @@
           {
             "name": "Otharon",
             "chest_opened_img": "images/npcs/Otharon.png",
-            "access_rules": ["AreaKeys:4"]
+            "access_rules": ["$MineAcc"]
           },
           {
             "name": "Pama",
@@ -470,7 +470,7 @@
       },
       {
         "name": "Watchpoint Junction",
-        "access_rules": ["AreaKeys:3"],
+        "access_rules": ["$Col6Acc"],
         "sections": [
           {
             "name": "Daza",
@@ -500,7 +500,7 @@
     "children": [
       {
         "name": "Nopon Merchant Camp",
-        "access_rules": ["AreaKeys:5"],
+        "access_rules": ["$MarshAcc"],
         "sections": [
           {
             "name": "Bokoko",
@@ -522,7 +522,7 @@
       },
       {
         "name": "Nopon Refuge",
-        "access_rules": ["AreaKeys:5"],
+        "access_rules": ["$MarshAcc"],
         "sections": [
           {
             "name": "Zazadan",
@@ -546,7 +546,7 @@
     "children": [
       {
         "name": "Divine Sanctuary",
-        "access_rules": ["AreaKeys:7"],
+        "access_rules": ["$MaknaAcc"],
         "sections": [
           {
             "name": "Nopon Sage",
@@ -570,7 +570,7 @@
     "children": [
       {
         "name": "Ababa",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Ababa",
@@ -594,7 +594,7 @@
       },
       {
         "name": "Adidi",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Adidi",
@@ -618,7 +618,7 @@
       },
       {
         "name": "Bana",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Bana",
@@ -642,7 +642,7 @@
       },
       {
         "name": "Berryjammy",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Berryjammy",
@@ -660,7 +660,7 @@
       },
       {
         "name": "Pollen Orb Storehouse",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Cherri",
@@ -688,7 +688,7 @@
       },
       {
         "name": "Dabidabi",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Dabidabi",
@@ -706,7 +706,7 @@
       },
       {
         "name": "Deki",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Deki",
@@ -730,7 +730,7 @@
       },
       {
         "name": "Dobadoba",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Dobadoba",
@@ -754,7 +754,7 @@
       },
       {
         "name": "Pollen Works",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Gadada",
@@ -776,7 +776,7 @@
       },
       {
         "name": "Gowago",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Gowago",
@@ -794,7 +794,7 @@
       },
       {
         "name": "Hoko",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Hoko",
@@ -812,7 +812,7 @@
       },
       {
         "name": "Archaeology Level",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Kilaki",
@@ -840,7 +840,7 @@
       },
       {
         "name": "Kokora",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Kokora",
@@ -858,7 +858,7 @@
       },
       {
         "name": "Central Plaza",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Kofuko",
@@ -896,7 +896,7 @@
       },
       {
         "name": "Lalapa",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Lalapa",
@@ -914,7 +914,7 @@
       },
       {
         "name": "Archaeology Centre",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Lupa",
@@ -946,7 +946,7 @@
       },
       {
         "name": "Kyn Shopping Street",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Medi",
@@ -978,7 +978,7 @@
       },
       {
         "name": "Miko",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Miko",
@@ -996,7 +996,7 @@
       },
       {
         "name": "Modamo",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Modamo",
@@ -1020,7 +1020,7 @@
       },
       {
         "name": "Norara",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Norara",
@@ -1044,7 +1044,7 @@
       },
       {
         "name": "Npa",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Npa",
@@ -1068,7 +1068,7 @@
       },
       {
         "name": "Pelupelu",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Pelupelu",
@@ -1092,7 +1092,7 @@
       },
       {
         "name": "Pepa",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Pepa",
@@ -1110,7 +1110,7 @@
       },
       {
         "name": "Underground Store",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Tati",
@@ -1144,7 +1144,7 @@
     "children": [
       {
         "name": "Jarack",
-        "access_rules": ["AreaKeys:9"],
+        "access_rules": ["$SeaAcc"],
         "sections": [
           {
             "name": "Jarack",
@@ -1162,7 +1162,7 @@
       },
       {
         "name": "Shalen",
-        "access_rules": ["AreaKeys:9"],
+        "access_rules": ["$SeaAcc"],
         "sections": [
           {
             "name": "Shalen",
@@ -1183,7 +1183,7 @@
   {
     "name": "Alcamoth NPCs",
     "chest_unopened_img": "images/npcs/MetNPC.png",
-    "access_rules": ["AreaKeys:10"],
+    "access_rules": ["$AlcaAcc"],
     "children": [
       {
         "name": "Arielle",
@@ -1789,7 +1789,7 @@
   {
     "name": "Fallen Arm NPCs",
     "chest_unopened_img": "images/npcs/MetNPC.png",
-    "access_rules": ["AreaKeys:16"],
+    "access_rules": ["$ArmAcc"],
     "children": [
       {
         "name": "Fallen Arm NPCs 1",

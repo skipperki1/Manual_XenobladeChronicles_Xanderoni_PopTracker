@@ -3,13 +3,42 @@
     "name": "Victory",
     "children":[
       {
-        "name": "Zanza The Divine",
-        "access_rules": ["AreaKeys:22,MemoryFragments:20"],
+        "name": "Victory",
         "sections": [
           {
-            "name": "Clear",
+            "name": "Zanza The Divine",
+            "access_rules": ["$SpaceAcc"],
+            "visibility_rules": ["VictoryZanza"],
             "chest_unopened_img": "images/mapicons/Monado3.png",
             "chest_opened_img": "images/mapicons/Monado3Done.png"
+          },
+          {
+            "name": "Sightseer",
+            "access_rules": ["$SpaceAcc"],
+            "visibility_rules": ["VictorySightseer"],
+            "chest_unopened_img": "images/mapicons/Landmark.png",
+            "chest_opened_img": "images/mapicons/LandmarkGray.png"
+          },
+          {
+            "name": "Collector",
+            "access_rules": ["$CollectorGoal"],
+            "visibility_rules": ["VictoryCollector"],
+            "chest_unopened_img": "images/items/Veg.png",
+            "chest_opened_img": "images/items/VegDone.png"
+          },
+          {
+            "name": "Monster Hunter",
+            "access_rules": ["HuntLicense18"],
+            "visibility_rules": ["VictoryMonster"],
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png"
+          },
+          {
+            "name": "Super Monster Hunter",
+            "access_rules": ["HuntLicense18"],
+            "visibility_rules": ["VictorySuperMonster"],
+            "chest_unopened_img": "images/mapicons/UM.png",
+            "chest_opened_img": "images/mapicons/DeadUM.png"
           }
         ],
         "map_locations": [
@@ -78,7 +107,7 @@
       },
       {
         "name": "Colony 6",
-        "access_rules": ["AreaKeys:2"],
+        "access_rules": ["$LegAcc"],
         "sections": [
           {
             "name": "Level 1",
@@ -123,7 +152,7 @@
       },
       {
         "name": "Central Bionis",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Level 1",
@@ -168,7 +197,7 @@
       },
       {
         "name": "Upper Bionis",
-        "access_rules": ["AreaKeys:10"],
+        "access_rules": ["$AlcaAcc"],
         "sections": [
           {
             "name": "Level 1",
@@ -213,7 +242,7 @@
       },
       {
         "name": "Hidden Village",
-        "access_rules": ["AreaKeys:16"],
+        "access_rules": ["$ArmAcc"],
         "sections": [
           {
             "name": "Level 1",
@@ -396,32 +425,32 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Jackson (AM)",
-            "ref": "Colony 9 NPCs/Residential District (West)/Jackson (AM)"
+            "name": "Jackson",
+            "ref": "Colony 9 NPCs/Residential District (West)/Jackson"
           },
           {
-            "name": "Lukas (AM)",
-            "ref": "Colony 9 NPCs/Residential District (West)/Lukas (AM)"
+            "name": "Lukas",
+            "ref": "Colony 9 NPCs/Residential District (West)/Lukas"
           },
           {
-            "name": "Minnie (PM)",
-            "ref": "Colony 9 NPCs/Residential District (West)/Minnie (PM)"
+            "name": "Minnie",
+            "ref": "Colony 9 NPCs/Residential District (West)/Minnie"
           },
           {
-            "name": "Moritz (AM)",
-            "ref": "Colony 9 NPCs/Residential District (West)/Moritz (AM)"
+            "name": "Moritz",
+            "ref": "Colony 9 NPCs/Residential District (West)/Moritz"
           },
           {
-            "name": "Narine (AM)",
-            "ref": "Colony 9 NPCs/Residential District (West)/Narine (AM)"
+            "name": "Narine",
+            "ref": "Colony 9 NPCs/Residential District (West)/Narine"
           },
           {
-            "name": "Niranira (AM)",
-            "ref": "Colony 9 NPCs/Residential District (West)/Niranira (AM)"
+            "name": "Niranira",
+            "ref": "Colony 9 NPCs/Residential District (West)/Niranira"
           },
           {
-            "name": "Suzanna (AM)",
-            "ref": "Colony 9 NPCs/Residential District (West)/Suzanna (AM)"
+            "name": "Suzanna",
+            "ref": "Colony 9 NPCs/Residential District (West)/Suzanna"
           }
         ],
         "map_locations": [
@@ -438,36 +467,36 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Zukazu (PM)",
-            "ref": "Colony 9 NPCs/Residential District (West)/Zukazu (PM)"
+            "name": "Zukazu",
+            "ref": "Colony 9 NPCs/Residential District (West)/Zukazu"
           },
           {
-            "name": "Dionysis (AM)",
-            "ref": "Colony 9 NPCs/Residential District (South)/Dionysis (AM)"
+            "name": "Dionysis",
+            "ref": "Colony 9 NPCs/Residential District (South)/Dionysis"
           },
           {
-            "name": "Jolele (PM)",
-            "ref": "Colony 9 NPCs/Residential District (South)/Jolele (PM)"
+            "name": "Jolele",
+            "ref": "Colony 9 NPCs/Residential District (South)/Jolele"
           },
           {
-            "name": "Jiroque (PM)",
-            "ref": "Colony 9 NPCs/Residential District (South)/Jiroque (PM)"
+            "name": "Jiroque",
+            "ref": "Colony 9 NPCs/Residential District (South)/Jiroque"
           },
           {
-            "name": "Kenny Rohan (AM)",
-            "ref": "Colony 9 NPCs/Tranquil Square/Kenny Rohan (AM)"
+            "name": "Kenny Rohan",
+            "ref": "Colony 9 NPCs/Tranquil Square/Kenny Rohan"
           },
           {
-            "name": "Betty (AM)",
-            "ref": "Colony 9 NPCs/Tranquil Square/Betty (AM)"
+            "name": "Betty",
+            "ref": "Colony 9 NPCs/Tranquil Square/Betty"
           },
           {
-            "name": "Francoise (AM)",
-            "ref": "Colony 9 NPCs/Tranquil Square/Francoise (AM)"
+            "name": "Francoise",
+            "ref": "Colony 9 NPCs/Tranquil Square/Francoise"
           },
           {
-            "name": "Peppino (PM)",
-            "ref": "Colony 9 NPCs/Residential District (South)/Peppino (PM)"
+            "name": "Peppino",
+            "ref": "Colony 9 NPCs/Residential District (South)/Peppino"
           }
         ],
         "map_locations": [
@@ -592,68 +621,68 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Paola (AM)",
-            "ref": "Colony 9 NPCs/Gem Man's Stall/Paola (AM)"
+            "name": "Paola",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Paola"
           },
           {
-            "name": "Rocco (AM)",
-            "ref": "Colony 9 NPCs/Gem Man's Stall/Rocco (AM)"
+            "name": "Rocco",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Rocco"
           },
           {
-            "name": "Oleksiy (PM)",
-            "ref": "Colony 9 NPCs/Gem Man's Stall/Oleksiy (PM)"
+            "name": "Oleksiy",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Oleksiy"
           },
           {
-            "name": "Rosemary (PM)",
-            "ref": "Colony 9 NPCs/Gem Man's Stall/Rosemary (PM)"
+            "name": "Rosemary",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Rosemary"
           },
           {
-            "name": "Sesame (PM)",
-            "ref": "Colony 9 NPCs/Gem Man's Stall/Sesame (PM)"
+            "name": "Sesame",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/Sesame"
           },
           {
-            "name": "King Squeeze (PM)",
-            "ref": "Colony 9 NPCs/Gem Man's Stall/King Squeeze (PM)"
+            "name": "King Squeeze",
+            "ref": "Colony 9 NPCs/Gem Man's Stall/King Squeeze"
           },
           {
-            "name": "Cheryl (AM)",
-            "ref": "Colony 9 NPCs/Ether Light/Cheryl (AM)"
+            "name": "Cheryl",
+            "ref": "Colony 9 NPCs/Ether Light/Cheryl"
           },
           {
-            "name": "Marcia (AM)",
-            "ref": "Colony 9 NPCs/Ether Light/Marcia (AM)"
+            "name": "Marcia",
+            "ref": "Colony 9 NPCs/Ether Light/Marcia"
           },
           {
-            "name": "Sonia (AM)",
-            "ref": "Colony 9 NPCs/Ether Light/Sonia (AM)"
+            "name": "Sonia",
+            "ref": "Colony 9 NPCs/Ether Light/Sonia"
           },
           {
-            "name": "Giorgio (AM)",
-            "ref": "Colony 9 NPCs/Ether Light/Giorgio (AM)"
+            "name": "Giorgio",
+            "ref": "Colony 9 NPCs/Ether Light/Giorgio"
           },
           {
-            "name": "Desiree (PM)",
-            "ref": "Colony 9 NPCs/Ether Light/Desiree (PM)"
+            "name": "Desiree",
+            "ref": "Colony 9 NPCs/Ether Light/Desiree"
           },
           {
-            "name": "Shura (PM)",
-            "ref": "Colony 9 NPCs/Ether Light/Shura (PM)"
+            "name": "Shura",
+            "ref": "Colony 9 NPCs/Ether Light/Shura"
           },
           {
-            "name": "Leopold (PM)",
-            "ref": "Colony 9 NPCs/Ether Light/Leopold (PM)"
+            "name": "Leopold",
+            "ref": "Colony 9 NPCs/Ether Light/Leopold"
           },
           {
-            "name": "Sylviane (PM)",
-            "ref": "Colony 9 NPCs/Ether Light/Sylviane (PM)"
+            "name": "Sylviane",
+            "ref": "Colony 9 NPCs/Ether Light/Sylviane"
           },
           {
-            "name": "Dorothy (AM)",
-            "ref": "Colony 9 NPCs/Dunban's House/Dorothy (AM)"
+            "name": "Dorothy",
+            "ref": "Colony 9 NPCs/Dunban's House/Dorothy"
           },
           {
-            "name": "Liliana (AM)",
-            "ref": "Colony 9 NPCs/Dunban's House/Liliana (AM)"
+            "name": "Liliana",
+            "ref": "Colony 9 NPCs/Dunban's House/Liliana"
           }
         ],
         "map_locations": [
@@ -799,43 +828,43 @@
         "sections": [
           {
             "name": "Veg Completion",
-            "access_rules": ["C9Veg"],
+            "access_rules": ["ProgVeg1"],
             "chest_unopened_img": "images/items/Veg.png",
             "chest_opened_img": "images/items/VegDone.png"
           },
           {
             "name": "Fruit Completion",
-            "access_rules": ["C9Fruit"],
+            "access_rules": ["ProgFruit1"],
             "chest_unopened_img": "images/items/Fruit.png",
             "chest_opened_img": "images/items/FruitDone.png"
           },
           {
             "name": "Flower Completion",
-            "access_rules": ["C9Flower"],
+            "access_rules": ["ProgFlower1"],
             "chest_unopened_img": "images/items/Flower.png",
             "chest_opened_img": "images/items/FlowerDone.png"
           },
           {
             "name": "Bug Completion",
-            "access_rules": ["C9Bug"],
+            "access_rules": ["ProgBug1"],
             "chest_unopened_img": "images/items/Bug.png",
             "chest_opened_img": "images/items/BugDone.png"
           },
           {
             "name": "Parts Completion",
-            "access_rules": ["C9Parts"],
+            "access_rules": ["ProgParts1"],
             "chest_unopened_img": "images/items/Parts.png",
             "chest_opened_img": "images/items/PartsDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["C9Strange"],
+            "access_rules": ["ProgStrange1"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["C9Veg,C9Fruit,C9Flower,C9Bug,C9Parts,C9Strange"],
+            "access_rules": ["ProgVeg1,ProgFruit1,ProgFlower1,ProgBug1,ProgParts1,ProgStrange1"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -992,56 +1021,56 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Raoul (AM)",
-            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Raoul (AM)"
+            "name": "Raoul",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Raoul"
           },
           {
-            "name": "Jan (AM)",
-            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Jan (AM)"
+            "name": "Jan",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Jan"
           },
           {
-            "name": "Miller (AM)",
-            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Miller (AM)"
+            "name": "Miller",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Miller"
           },
           {
-            "name": "Dean (AM)",
-            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Dean (AM)"
+            "name": "Dean",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Dean"
           },
           {
-            "name": "Mefimefi (PM)",
-            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Mefimefi (PM)"
+            "name": "Mefimefi",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Mefimefi"
           },
           {
-            "name": "Arnaut (PM)",
-            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Arnaut (PM)"
+            "name": "Arnaut",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Arnaut"
           },
           {
-            "name": "Erik (20:00)",
-            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Erik (20:00)"
+            "name": "Erik",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Erik"
           },
           {
-            "name": "Perrine (20:00)",
-            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Perrine (20:00)"
+            "name": "Perrine",
+            "ref": "Colony 9 NPCs/Fortress Entrance|Weapons Dev. Lab/Perrine"
           },
           {
-            "name": "Emmy Leater (AM)",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Emmy Leater (AM)"
+            "name": "Emmy Leater",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Emmy Leater"
           },
           {
-            "name": "Kantz (AM)",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Kantz (AM)"
+            "name": "Kantz",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Kantz"
           },
           {
-            "name": "Monica (PM)",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Monica (PM)"
+            "name": "Monica",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Monica"
           },
           {
-            "name": "Andreas (PM)",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas (PM)"
+            "name": "Andreas",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Andreas"
           },
           {
-            "name": "Nic (PM)",
-            "ref": "Colony 9 NPCs/Military District (Rear)/Nic (PM)"
+            "name": "Nic",
+            "ref": "Colony 9 NPCs/Military District (Rear)/Nic"
           }
         ],
         "map_locations": [
@@ -1242,47 +1271,47 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:1"],
+        "access_rules": ["$TephAcc"],
         "sections": [
           {
             "name": "Fruit Completion",
-            "access_rules": ["TCFruit"],
+            "access_rules": ["ProgFruit2"],
             "chest_unopened_img": "images/items/Fruit.png",
             "chest_opened_img": "images/items/FruitDone.png"
           },
           {
             "name": "Flower Completion",
-            "access_rules": ["TCFlower"],
+            "access_rules": ["ProgFlower2"],
             "chest_unopened_img": "images/items/Flower.png",
             "chest_opened_img": "images/items/FlowerDone.png"
           },
           {
             "name": "Animal Completion",
-            "access_rules": ["TCAnimal"],
+            "access_rules": ["ProgAnimal1"],
             "chest_unopened_img": "images/items/Animal.png",
             "chest_opened_img": "images/items/AnimalDone.png"
           },
           {
             "name": "Bug Completion",
-            "access_rules": ["TCBug"],
+            "access_rules": ["ProgBug2"],
             "chest_unopened_img": "images/items/Bug.png",
             "chest_opened_img": "images/items/BugDone.png"
           },
           {
             "name": "Nature Completion",
-            "access_rules": ["TCNature"],
+            "access_rules": ["ProgNature1"],
             "chest_unopened_img": "images/items/Nature.png",
             "chest_opened_img": "images/items/NatureDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["TCStrange"],
+            "access_rules": ["ProgStrange2"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["TCFruit,TCFlower,TCAnimal,TCBug,TCNature,TCStrange"],
+            "access_rules": ["ProgFruit2,ProgFlower2,ProgAnimal1,ProgBug2,ProgNature1,ProgStrange2"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -1491,47 +1520,47 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:2"],
+        "access_rules": ["$LegAcc"],
         "sections": [
           {
             "name": "Veg Completion",
-            "access_rules": ["BLVeg"],
+            "access_rules": ["ProgVeg2"],
             "chest_unopened_img": "images/items/Veg.png",
             "chest_opened_img": "images/items/VegDone.png"
           },
           {
             "name": "Fruit Completion",
-            "access_rules": ["BLFruit"],
+            "access_rules": ["ProgFruit3"],
             "chest_unopened_img": "images/items/Fruit.png",
             "chest_opened_img": "images/items/FruitDone.png"
           },
           {
             "name": "Bug Completion",
-            "access_rules": ["BLBug"],
+            "access_rules": ["ProgBug3"],
             "chest_unopened_img": "images/items/Bug.png",
             "chest_opened_img": "images/items/BugDone.png"
           },
           {
             "name": "Nature Completion",
-            "access_rules": ["BLNature"],
+            "access_rules": ["ProgNature2"],
             "chest_unopened_img": "images/items/Nature.png",
             "chest_opened_img": "images/items/NatureDone.png"
           },
           {
             "name": "Parts Completion",
-            "access_rules": ["BLParts"],
+            "access_rules": ["ProgParts2"],
             "chest_unopened_img": "images/items/Parts.png",
             "chest_opened_img": "images/items/PartsDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["BLStrange"],
+            "access_rules": ["ProgStrange3"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["BLVeg,BLFruit,BLBug,BLNature,BLParts,BLStrange"],
+            "access_rules": ["ProgVeg2,ProgFruit3,ProgBug3,ProgNature2,ProgParts2,ProgStrange3"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -1558,52 +1587,52 @@
             "ref": "Colony 6 Landmarks/Reconstruction HQ/Landmark"
           },
           {
-            "name": "Anna (AM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Anna (AM)"
+            "name": "Anna",
+            "ref": "Colony 6 NPCs/Refugee Camp/Anna"
           },
           {
-            "name": "Arda (AM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Arda (AM)"
+            "name": "Arda",
+            "ref": "Colony 6 NPCs/Refugee Camp/Arda"
           },
           {
-            "name": "Ewan (PM)",
+            "name": "Ewan",
             "ref": "Colony 6 NPCs/Refugee Camp/Ewan"
           },
           {
-            "name": "Gorman (PM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Gorman (PM)"
+            "name": "Gorman",
+            "ref": "Colony 6 NPCs/Refugee Camp/Gorman"
           },
           {
             "name": "Juju",
             "ref": "Colony 6 NPCs/Refugee Camp/Juju"
           },
           {
-            "name": "Kiroki (AM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Kiroki (AM)"
+            "name": "Kiroki",
+            "ref": "Colony 6 NPCs/Refugee Camp/Kiroki"
           },
           {
-            "name": "Matryona (PM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Matryona (AM)"
+            "name": "Matryona",
+            "ref": "Colony 6 NPCs/Refugee Camp/Matryona"
           },
           {
-            "name": "Nikita (AM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Nikita (AM)"
+            "name": "Nikita",
+            "ref": "Colony 6 NPCs/Refugee Camp/Nikita"
           },
           {
-            "name": "Olga (PM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Olga (AM)"
+            "name": "Olga",
+            "ref": "Colony 6 NPCs/Refugee Camp/Olga"
           },
           {
             "name": "Otharon",
             "ref": "Colony 6 NPCs/Reconstruction HQ/Otharon"
           },
           {
-            "name": "Pama (AM)",
+            "name": "Pama",
             "ref": "Colony 6 NPCs/Refugee Camp/Pama"
           },
           {
-            "name": "Satata (AM)",
-            "ref": "Colony 6 NPCs/Refugee Camp/Satata (AM)"
+            "name": "Satata",
+            "ref": "Colony 6 NPCs/Refugee Camp/Satata"
           }
         ],
         "map_locations": [
@@ -1617,29 +1646,29 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:3"],
+        "access_rules": ["$Col6Acc"],
         "sections": [
           {
             "name": "Flower Completion",
-            "access_rules": ["C6Flower"],
+            "access_rules": ["ProgFlower3"],
             "chest_unopened_img": "images/items/Flower.png",
             "chest_opened_img": "images/items/FlowerDone.png"
           },
           {
             "name": "Animal Completion",
-            "access_rules": ["C6Animal"],
+            "access_rules": ["ProgAnimal2"],
             "chest_unopened_img": "images/items/Animal.png",
             "chest_opened_img": "images/items/AnimalDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["C6Strange"],
+            "access_rules": ["ProgStrange4"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["C6Flower,C6Animal,C6Strange"],
+            "access_rules": ["ProgFlower3,ProgAnimal2,ProgStrange4"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -1655,7 +1684,7 @@
       },
       {
         "name": "Main Entrance",
-        "access_rules": ["AreaKeys:3"],
+        "access_rules": ["$Col6Acc"],
         "sections": [
           {
             "name": "Landmark",
@@ -1715,41 +1744,41 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:4"],
+        "access_rules": ["$MineAcc"],
         "sections": [
           {
             "name": "Animal Completion",
-            "access_rules": ["EMAnimal"],
+            "access_rules": ["ProgAnimal3"],
             "chest_unopened_img": "images/items/Animal.png",
             "chest_opened_img": "images/items/AnimalDone.png"
           },
           {
             "name": "Bug Completion",
-            "access_rules": ["EMBug"],
+            "access_rules": ["ProgBug4"],
             "chest_unopened_img": "images/items/Bug.png",
             "chest_opened_img": "images/items/BugDone.png"
           },
           {
             "name": "Nature Completion",
-            "access_rules": ["EMNature"],
+            "access_rules": ["ProgNature3"],
             "chest_unopened_img": "images/items/Nature.png",
             "chest_opened_img": "images/items/NatureDone.png"
           },
           {
             "name": "Parts Completion",
-            "access_rules": ["EMParts"],
+            "access_rules": ["ProgParts3"],
             "chest_unopened_img": "images/items/Parts.png",
             "chest_opened_img": "images/items/PartsDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["EMStrange"],
+            "access_rules": ["ProgStrange5"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["EMAnimal,EMBug,EMNature,EMParts,EMStrange"],
+            "access_rules": ["ProgAnimal3,ProgBug4,ProgNature3,ProgParts3,ProgStrange5"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -2022,47 +2051,47 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:5"],
+        "access_rules": ["$MarshAcc"],
         "sections": [
           {
             "name": "Veg Completion",
-            "access_rules": ["SMVeg"],
+            "access_rules": ["ProgVeg3"],
             "chest_unopened_img": "images/items/Veg.png",
             "chest_opened_img": "images/items/VegDone.png"
           },
           {
             "name": "Flower Completion",
-            "access_rules": ["SMFlower"],
+            "access_rules": ["ProgFlower4"],
             "chest_unopened_img": "images/items/Flower.png",
             "chest_opened_img": "images/items/FlowerDone.png"
           },
           {
             "name": "Animal Completion",
-            "access_rules": ["SMAnimal"],
+            "access_rules": ["ProgAnimal4"],
             "chest_unopened_img": "images/items/Animal.png",
             "chest_opened_img": "images/items/AnimalDone.png"
           },
           {
             "name": "Nature Completion",
-            "access_rules": ["SMNature"],
+            "access_rules": ["ProgNature4"],
             "chest_unopened_img": "images/items/Nature.png",
             "chest_opened_img": "images/items/NatureDone.png"
           },
           {
             "name": "Parts Completion",
-            "access_rules": ["SMParts"],
+            "access_rules": ["ProgParts4"],
             "chest_unopened_img": "images/items/Parts.png",
             "chest_opened_img": "images/items/PartsDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["SMStrange"],
+            "access_rules": ["ProgStrange6"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["SMVeg,SMFlower,SMAnimal,SMNature,SMParts,SMStrange"],
+            "access_rules": ["ProgVeg3,ProgFlower4,ProgAnimal4,ProgNature4,ProgParts4,ProgStrange6"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -2309,47 +2338,47 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:7"],
+        "access_rules": ["$MaknaAcc"],
         "sections": [
           {
             "name": "Veg Completion",
-            "access_rules": ["MaFoVeg"],
+            "access_rules": ["ProgVeg4"],
             "chest_unopened_img": "images/items/Veg.png",
             "chest_opened_img": "images/items/VegDone.png"
           },
           {
             "name": "Fruit Completion",
-            "access_rules": ["MaFoFruit"],
+            "access_rules": ["ProgFruit4"],
             "chest_unopened_img": "images/items/Fruit.png",
             "chest_opened_img": "images/items/FruitDone.png"
           },
           {
             "name": "Flower Completion",
-            "access_rules": ["MaFoFlower"],
+            "access_rules": ["ProgFlower5"],
             "chest_unopened_img": "images/items/Flower.png",
             "chest_opened_img": "images/items/FlowerDone.png"
           },
           {
             "name": "Animal Completion",
-            "access_rules": ["MaFoAnimal"],
+            "access_rules": ["ProgAnimal5"],
             "chest_unopened_img": "images/items/Animal.png",
             "chest_opened_img": "images/items/AnimalDone.png"
           },
           {
             "name": "Bug Completion",
-            "access_rules": ["MaFoBug"],
+            "access_rules": ["ProgBug5"],
             "chest_unopened_img": "images/items/Bug.png",
             "chest_opened_img": "images/items/BugDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["MaFoStrange"],
+            "access_rules": ["ProgStrange7"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["MaFoVeg,MaFoFlower,MaFoAnimal,MaFoBug,MaFoFruit,MaFoStrange"],
+            "access_rules": ["ProgVeg4,ProgFlower5,ProgAnimal5,ProgBug5,ProgFruit4,ProgStrange7"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -2577,29 +2606,29 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Fruit Completion",
-            "access_rules": ["FVFruit"],
+            "access_rules": ["ProgFruit5"],
             "chest_unopened_img": "images/items/Fruit.png",
             "chest_opened_img": "images/items/FruitDone.png"
           },
           {
             "name": "Bug Completion",
-            "access_rules": ["FVBug"],
+            "access_rules": ["ProgBug6"],
             "chest_unopened_img": "images/items/Bug.png",
             "chest_opened_img": "images/items/BugDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["FVStrange"],
+            "access_rules": ["ProgStrange8"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["FVBug,FVFruit,FVStrange"],
+            "access_rules": ["ProgBug6,ProgFruit5,ProgStrange8"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -2839,41 +2868,41 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:9"],
+        "access_rules": ["$SeaAcc"],
         "sections": [
           {
             "name": "Veg Completion",
-            "access_rules": ["ESVeg"],
+            "access_rules": ["ProgVeg5"],
             "chest_unopened_img": "images/items/Veg.png",
             "chest_opened_img": "images/items/VegDone.png"
           },
           {
             "name": "Flower Completion",
-            "access_rules": ["ESFlower"],
+            "access_rules": ["ProgFlower6"],
             "chest_unopened_img": "images/items/Flower.png",
             "chest_opened_img": "images/items/FlowerDone.png"
           },
           {
             "name": "Animal Completion",
-            "access_rules": ["ESAnimal"],
+            "access_rules": ["ProgAnimal6"],
             "chest_unopened_img": "images/items/Animal.png",
             "chest_opened_img": "images/items/AnimalDone.png"
           },
           {
             "name": "Nature Completion",
-            "access_rules": ["ESNature"],
+            "access_rules": ["ProgNature5"],
             "chest_unopened_img": "images/items/Nature.png",
             "chest_opened_img": "images/items/NatureDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["ESStrange"],
+            "access_rules": ["ProgStrange9"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["ESVeg,ESFlower,ESAnimal,ESNature,ESStrange"],
+            "access_rules": ["ProgVeg5,ProgFlower6,ProgAnimal6,ProgNature5,ProgStrange9"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -3352,29 +3381,29 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:10"],
+        "access_rules": ["$AlcaAcc"],
         "sections": [
           {
             "name": "Fruit Completion",
-            "access_rules": ["ALFruit"],
+            "access_rules": ["ProgFruit6"],
             "chest_unopened_img": "images/items/Fruit.png",
             "chest_opened_img": "images/items/FruitDone.png"
           },
           {
             "name": "Flower Completion",
-            "access_rules": ["ALFlower"],
+            "access_rules": ["ProgFlower7"],
             "chest_unopened_img": "images/items/Flower.png",
             "chest_opened_img": "images/items/FlowerDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["ALStrange"],
+            "access_rules": ["ProgStrange10"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["ALFruit,ALFlower,ALStrange"],
+            "access_rules": ["ProgFruit6,ProgFlower7,ProgStrange10"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -3416,29 +3445,29 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:11"],
+        "access_rules": ["$TombAcc"],
         "sections": [
           {
             "name": "Bug Completion",
-            "access_rules": ["HTBug"],
+            "access_rules": ["ProgBug7"],
             "chest_unopened_img": "images/items/Bug.png",
             "chest_opened_img": "images/items/BugDone.png"
           },
           {
             "name": "Parts Completion",
-            "access_rules": ["HTParts"],
+            "access_rules": ["ProgParts5"],
             "chest_unopened_img": "images/items/Parts.png",
             "chest_opened_img": "images/items/PartsDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["HTStrange"],
+            "access_rules": ["ProgStrange11"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["HTBug,HTParts,HTStrange"],
+            "access_rules": ["ProgBug7,ProgParts5,ProgStrange11"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -3456,7 +3485,7 @@
   },
   {
     "name": "Valak Mountain",
-    "access_rules": ["AreaKeys:13"],
+    "access_rules": ["$ValakAcc"],
     "children":[
       {
         "name": "Nopon Camp & Antol Den",
@@ -3647,47 +3676,47 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:13"],
+        "access_rules": ["$ValakAcc"],
         "sections": [
           {
             "name": "Veg Completion",
-            "access_rules": ["VMVeg"],
+            "access_rules": ["ProgVeg6"],
             "chest_unopened_img": "images/items/Veg.png",
             "chest_opened_img": "images/items/VegDone.png"
           },
           {
             "name": "Fruit Completion",
-            "access_rules": ["VMFruit"],
+            "access_rules": ["ProgFruit7"],
             "chest_unopened_img": "images/items/Fruit.png",
             "chest_opened_img": "images/items/FruitDone.png"
           },
           {
             "name": "Flower Completion",
-            "access_rules": ["VMFlower"],
+            "access_rules": ["ProgFlower8"],
             "chest_unopened_img": "images/items/Flower.png",
             "chest_opened_img": "images/items/FlowerDone.png"
           },
           {
             "name": "Animal Completion",
-            "access_rules": ["VMAnimal"],
+            "access_rules": ["ProgAnimal7"],
             "chest_unopened_img": "images/items/Animal.png",
             "chest_opened_img": "images/items/AnimalDone.png"
           },
           {
             "name": "Nature Completion",
-            "access_rules": ["VMNature"],
+            "access_rules": ["ProgNature6"],
             "chest_unopened_img": "images/items/Nature.png",
             "chest_opened_img": "images/items/NatureDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["VMStrange"],
+            "access_rules": ["ProgStrange12"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["VMVeg,VMFruit,VMFlower,VMAnimal,VMNature,VMStrange"],
+            "access_rules": ["ProgVeg6,ProgFruit7,ProgFlower8,ProgAnimal7,ProgNature6,ProgStrange12"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -3705,7 +3734,7 @@
   },
   {
     "name": "Sword Valley",
-    "access_rules": ["AreaKeys:14"],
+    "access_rules": ["$SwordAcc"],
     "children":[
       {
         "name": "Dolgan Outpost",
@@ -3826,41 +3855,41 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:14"],
+        "access_rules": ["$SwordAcc"],
         "sections": [
           {
             "name": "Veg Completion",
-            "access_rules": ["SVVeg"],
+            "access_rules": ["ProgVeg7"],
             "chest_unopened_img": "images/items/Veg.png",
             "chest_opened_img": "images/items/VegDone.png"
           },
           {
             "name": "Fruit Completion",
-            "access_rules": ["SVFruit"],
+            "access_rules": ["ProgFruit8"],
             "chest_unopened_img": "images/items/Fruit.png",
             "chest_opened_img": "images/items/FruitDone.png"
           },
           {
             "name": "Flower Completion",
-            "access_rules": ["SVFlower"],
+            "access_rules": ["ProgFlower9"],
             "chest_unopened_img": "images/items/Flower.png",
             "chest_opened_img": "images/items/FlowerDone.png"
           },
           {
             "name": "Parts Completion",
-            "access_rules": ["SVParts"],
+            "access_rules": ["ProgParts6"],
             "chest_unopened_img": "images/items/Parts.png",
             "chest_opened_img": "images/items/PartsDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["SVStrange"],
+            "access_rules": ["ProgStrange13"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["SVVeg,SVFruit,SVFlower,SVParts,SVStrange"],
+            "access_rules": ["ProgVeg7,ProgFruit8,ProgFlower9,ProgParts6,ProgStrange13"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -3878,7 +3907,7 @@
   },
   {
     "name": "Galahad Fortress",
-    "access_rules": ["AreaKeys:15"],
+    "access_rules": ["$FortAcc"],
     "children":[
       {
         "name": "Ether Influx Conduit",
@@ -3974,29 +4003,29 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:15"],
+        "access_rules": ["$FortAcc"],
         "sections": [
           {
             "name": "Bug Completion",
-            "access_rules": ["GFBug"],
+            "access_rules": ["ProgBug8"],
             "chest_unopened_img": "images/items/Bug.png",
             "chest_opened_img": "images/items/BugDone.png"
           },
           {
             "name": "Parts Completion",
-            "access_rules": ["GFParts"],
+            "access_rules": ["ProgParts7"],
             "chest_unopened_img": "images/items/Parts.png",
             "chest_opened_img": "images/items/PartsDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["GFStrange"],
+            "access_rules": ["ProgStrange14"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["GFBug,GFParts,GFStrange"],
+            "access_rules": ["ProgBug8,ProgParts7,ProgStrange14"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -4014,7 +4043,7 @@
   },
   {
     "name": "Fallen Arm",
-    "access_rules": ["AreaKeys:16"],
+    "access_rules": ["$ArmAcc"],
     "children":[
       {
         "name": "Junks",
@@ -4168,47 +4197,47 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:16"],
+        "access_rules": ["$ArmAcc"],
         "sections": [
           {
             "name": "Veg Completion",
-            "access_rules": ["FAVeg"],
+            "access_rules": ["ProgVeg8"],
             "chest_unopened_img": "images/items/Veg.png",
             "chest_opened_img": "images/items/VegDone.png"
           },
           {
             "name": "Fruit Completion",
-            "access_rules": ["FAFruit"],
+            "access_rules": ["ProgFruit9"],
             "chest_unopened_img": "images/items/Fruit.png",
             "chest_opened_img": "images/items/FruitDone.png"
           },
           {
             "name": "Animal Completion",
-            "access_rules": ["FAAnimal"],
+            "access_rules": ["ProgAnimal8"],
             "chest_unopened_img": "images/items/Animal.png",
             "chest_opened_img": "images/items/AnimalDone.png"
           },
           {
             "name": "Nature Completion",
-            "access_rules": ["FANature"],
+            "access_rules": ["ProgNature7"],
             "chest_unopened_img": "images/items/Nature.png",
             "chest_opened_img": "images/items/NatureDone.png"
           },
           {
             "name": "Parts Completion",
-            "access_rules": ["FAParts"],
+            "access_rules": ["ProgParts8"],
             "chest_unopened_img": "images/items/Parts.png",
             "chest_opened_img": "images/items/PartsDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["FAStrange"],
+            "access_rules": ["ProgStrange15"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["FAVeg,FAFruit,FAAnimal,FANature,FAParts,FAStrange"],
+            "access_rules": ["ProgVeg8,ProgFruit9,ProgAnimal8,ProgNature7,ProgParts8,ProgStrange15"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -4226,7 +4255,7 @@
   },
   {
     "name": "Mechonis Field",
-    "access_rules": ["AreaKeys:17"],
+    "access_rules": ["$FieldAcc"],
     "children":[
       {
         "name": "Machina Refuge",
@@ -4289,47 +4318,47 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:17"],
+        "access_rules": ["$FieldAcc"],
         "sections": [
           {
             "name": "Veg Completion",
-            "access_rules": ["MeFiVeg"],
+            "access_rules": ["ProgVeg9"],
             "chest_unopened_img": "images/items/Veg.png",
             "chest_opened_img": "images/items/VegDone.png"
           },
           {
             "name": "Flower Completion",
-            "access_rules": ["MeFiFlower"],
+            "access_rules": ["ProgFlower10"],
             "chest_unopened_img": "images/items/Flower.png",
             "chest_opened_img": "images/items/FlowerDone.png"
           },
           {
             "name": "Bug Completion",
-            "access_rules": ["MeFiBug"],
+            "access_rules": ["ProgBug9"],
             "chest_unopened_img": "images/items/Bug.png",
             "chest_opened_img": "images/items/BugDone.png"
           },
           {
             "name": "Nature Completion",
-            "access_rules": ["MeFiNature"],
+            "access_rules": ["ProgNature8"],
             "chest_unopened_img": "images/items/Nature.png",
             "chest_opened_img": "images/items/NatureDone.png"
           },
           {
             "name": "Parts Completion",
-            "access_rules": ["MeFiParts"],
+            "access_rules": ["ProgParts9"],
             "chest_unopened_img": "images/items/Parts.png",
             "chest_opened_img": "images/items/PartsDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["MeFiStrange"],
+            "access_rules": ["ProgStrange16"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["MeFiVeg,MeFiFlower,MeFiBug,MeFiNature,MeFiParts,MeFiStrange"],
+            "access_rules": ["ProgVeg9,ProgFlower10,ProgBug9,ProgNature8,ProgParts9,ProgStrange16"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -4347,7 +4376,7 @@
   },
   {
     "name": "Central Factory",
-    "access_rules": ["AreaKeys:18"],
+    "access_rules": ["$FactAcc"],
     "children":[
       {
         "name": "Control Tower",
@@ -4376,47 +4405,47 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:17"],
+        "access_rules": ["$FactAcc"],
         "sections": [
           {
             "name": "Veg Completion",
-            "access_rules": ["CFVeg"],
+            "access_rules": ["ProgVeg10"],
             "chest_unopened_img": "images/items/Veg.png",
             "chest_opened_img": "images/items/VegDone.png"
           },
           {
             "name": "Animal Completion",
-            "access_rules": ["CFAnimal"],
+            "access_rules": ["ProgAnimal9"],
             "chest_unopened_img": "images/items/Animal.png",
             "chest_opened_img": "images/items/AnimalDone.png"
           },
           {
             "name": "Bug Completion",
-            "access_rules": ["CFBug"],
+            "access_rules": ["ProgBug10"],
             "chest_unopened_img": "images/items/Bug.png",
             "chest_opened_img": "images/items/BugDone.png"
           },
           {
             "name": "Nature Completion",
-            "access_rules": ["CFNature"],
+            "access_rules": ["ProgNature9"],
             "chest_unopened_img": "images/items/Nature.png",
             "chest_opened_img": "images/items/NatureDone.png"
           },
           {
             "name": "Parts Completion",
-            "access_rules": ["CFParts"],
+            "access_rules": ["ProgParts10"],
             "chest_unopened_img": "images/items/Parts.png",
             "chest_opened_img": "images/items/PartsDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["CFStrange"],
+            "access_rules": ["ProgStrange17"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["CFVeg,CFAnimal,CFBug,CFNature,CFParts,CFStrange"],
+            "access_rules": ["ProgVeg10,ProgAnimal9,ProgBug10,ProgNature9,ProgParts10,ProgStrange17"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -4434,7 +4463,7 @@
   },
   {
     "name": "Agniratha",
-    "access_rules": ["AreaKeys:19"],
+    "access_rules": ["$AgniAcc"],
     "children":[
       {
         "name": "Central Tower",
@@ -4565,47 +4594,47 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:17"],
+        "access_rules": ["$AgniAcc"],
         "sections": [
           {
             "name": "Fruit Completion",
-            "access_rules": ["AGFruit"],
+            "access_rules": ["ProgFruit10"],
             "chest_unopened_img": "images/items/Fruit.png",
             "chest_opened_img": "images/items/FruitDone.png"
           },
           {
             "name": "Flower Completion",
-            "access_rules": ["AGFlower"],
+            "access_rules": ["ProgFlower11"],
             "chest_unopened_img": "images/items/Flower.png",
             "chest_opened_img": "images/items/FlowerDone.png"
           },
           {
             "name": "Bug Completion",
-            "access_rules": ["AGBug"],
+            "access_rules": ["ProgBug11"],
             "chest_unopened_img": "images/items/Bug.png",
             "chest_opened_img": "images/items/BugDone.png"
           },
           {
             "name": "Nature Completion",
-            "access_rules": ["AGNature"],
+            "access_rules": ["ProgNature10"],
             "chest_unopened_img": "images/items/Nature.png",
             "chest_opened_img": "images/items/NatureDone.png"
           },
           {
             "name": "Parts Completion",
-            "access_rules": ["AGParts"],
+            "access_rules": ["ProgParts11"],
             "chest_unopened_img": "images/items/Parts.png",
             "chest_opened_img": "images/items/PartsDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["AGStrange"],
+            "access_rules": ["ProgStrange18"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["AGFruit,AGFlower,AGBug,AGNature,AGParts,AGStrange"],
+            "access_rules": ["ProgFruit10,ProgFlower11,ProgBug11,ProgNature9,ProgParts11,ProgStrange18"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -4623,7 +4652,7 @@
   },
   {
     "name": "Bionis' Interior Second",
-    "access_rules": ["AreaKeys:21"],
+    "access_rules": ["$Int2Acc"],
     "children":[
       {
         "name": "Pars Sympathica Tower",
@@ -4648,29 +4677,29 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:21"],
+        "access_rules": ["$Int2Acc"],
         "sections": [
           {
             "name": "Veg Completion",
-            "access_rules": ["BIVeg"],
+            "access_rules": ["ProgVeg11"],
             "chest_unopened_img": "images/items/Veg.png",
             "chest_opened_img": "images/items/VegDone.png"
           },
           {
             "name": "Animal Completion",
-            "access_rules": ["BIAnimal"],
+            "access_rules": ["ProgAnimal10"],
             "chest_unopened_img": "images/items/Animal.png",
             "chest_opened_img": "images/items/AnimalDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["BIStrange"],
+            "access_rules": ["ProgStrange19"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["BIVeg,BIAnimal,BIStrange"],
+            "access_rules": ["ProgVeg11,ProgAnimal10,ProgStrange19"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -4688,7 +4717,7 @@
   },
   {
     "name": "Prison Island 2",
-    "access_rules": ["AreaKeys:22"],
+    "access_rules": ["$Pris2Acc"],
     "children":[
       {
         "name": "Empty Throne",
@@ -4757,47 +4786,47 @@
       },
       {
         "name": "Collectopaedia",
-        "access_rules": ["AreaKeys:22"],
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Fruit Completion",
-            "access_rules": ["PIFruit"],
+            "access_rules": ["ProgFruit11"],
             "chest_unopened_img": "images/items/Fruit.png",
             "chest_opened_img": "images/items/FruitDone.png"
           },
           {
             "name": "Animal Completion",
-            "access_rules": ["PIAnimal"],
+            "access_rules": ["ProgAnimal11"],
             "chest_unopened_img": "images/items/Animal.png",
             "chest_opened_img": "images/items/AnimalDone.png"
           },
           {
             "name": "Bug Completion",
-            "access_rules": ["PIBug"],
+            "access_rules": ["ProgBug12"],
             "chest_unopened_img": "images/items/Bug.png",
             "chest_opened_img": "images/items/BugDone.png"
           },
           {
             "name": "Nature Completion",
-            "access_rules": ["PINature"],
+            "access_rules": ["ProgNature11"],
             "chest_unopened_img": "images/items/Nature.png",
             "chest_opened_img": "images/items/NatureDone.png"
           },
           {
             "name": "Parts Completion",
-            "access_rules": ["PIParts"],
+            "access_rules": ["ProgParts12"],
             "chest_unopened_img": "images/items/Parts.png",
             "chest_opened_img": "images/items/PartsDone.png"
           },
           {
             "name": "Strange Completion",
-            "access_rules": ["PIStrange"],
+            "access_rules": ["ProgStrange20"],
             "chest_unopened_img": "images/items/Strange.png",
             "chest_opened_img": "images/items/StrangeDone.png"
           },
           {
             "name": "Page Completion",
-            "access_rules": ["PIFruit,PIAnimal,PIBug,PINature,PIParts,PIStrange"],
+            "access_rules": ["ProgFruit11,ProgAnimal11,ProgBug12,ProgNature10,ProgParts12,ProgStrange20"],
             "chest_unopened_img": "images/mapicons/Common.png",
             "chest_opened_img": "images/mapicons/Rare.png"
           }
@@ -4808,6 +4837,49 @@
             "x": 632,
             "y": 388,
             "size": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Other Collectopaedia",
+    "access_rules": ["$CoreAcc"],
+    "children":[
+      {
+        "name": "Collectopaedia",
+        "sections": [
+          {
+            "name": "Bug Completion",
+            "access_rules": ["ProgBug13"],
+            "chest_unopened_img": "images/items/Bug.png",
+            "chest_opened_img": "images/items/BugDone.png"
+          },
+          {
+            "name": "Parts Completion",
+            "access_rules": ["ProgParts13"],
+            "chest_unopened_img": "images/items/Parts.png",
+            "chest_opened_img": "images/items/PartsDone.png"
+          },
+          {
+            "name": "Strange Completion",
+            "access_rules": ["ProgStrange21"],
+            "chest_unopened_img": "images/items/Strange.png",
+            "chest_opened_img": "images/items/StrangeDone.png"
+          },
+          {
+            "name": "Page Completion",
+            "access_rules": ["ProgBug13,ProgParts13,ProgStrange21"],
+            "chest_unopened_img": "images/mapicons/Common.png",
+            "chest_opened_img": "images/mapicons/Rare.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MISC",
+            "x": 100,
+            "y": 100,
+            "size": 32
           }
         ]
       }

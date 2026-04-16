@@ -10,7 +10,7 @@
         "sections": [
           {
             "name": "The Gem Man's Invention",
-            "access_rules": ["AreaKeys:5"]
+            "access_rules": ["$MarshAcc,Colony6Housing:1,Colony6Commerce:1,Colony6Nature:1,Colony6Special:1"]
           },
           {
             "name": "Search Quest 3",
@@ -45,7 +45,7 @@
       },
       {
         "name": "Cylinder Hangar",
-        "access_rules": [],
+        "access_rules": ["$TephAcc"],
         "sections": [
           {
             "name": "The Lost Pendant"
@@ -72,11 +72,11 @@
           },
           {
             "name": "Challenge 2",
-            "access_rules": ["C9Hunt"]
+            "access_rules": ["HuntLicense1"]
           },
           {
             "name": "Challenge 4",
-            "access_rules": ["C9Hunt"]
+            "access_rules": ["$TephAcc,HuntLicense1"]
           },
           {
             "name": "Collection Quest 1",
@@ -88,15 +88,15 @@
           },
           {
             "name": "Desiree's Future",
-            "access_rules": ["AreaKeys:5"]
+            "access_rules": ["$MarshAcc"]
           },
           {
             "name": "Getting to Know Dorothy",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Liliana's Sincere Request",
-            "access_rules": []
+            "access_rules": ["$TephAcc"]
           },
           {
             "name": "Material Quest 2",
@@ -123,7 +123,7 @@
           
           {
             "name": "Mementos of a Lost Son",
-            "access_rules": ["AreaKeys:5"]
+            "access_rules": ["$MarshAcc"]
           },
           {
             "name": "Monster Quest 3 - Part 1",
@@ -143,7 +143,7 @@
           },
           {
             "name": "Overworked and Underpaid",
-            "access_rules": []
+            "access_rules": ["$TephAcc"]
           },
           {
             "name": "Rocco's Heartful Request",
@@ -155,15 +155,15 @@
           },
           {
             "name": "The Plan - Preparation",
-            "access_rules": ["AreaKeys:1"]
+            "access_rules": ["$TephAcc"]
           },
           {
             "name": "The Plan - The Night Before",
-            "access_rules": []
+            "access_rules": ["$TephAcc"]
           },
           {
             "name": "The Plan - Execution",
-            "access_rules": ["C9Hunt"]
+            "access_rules": ["$TephAcc,HuntLicense1"]
           }
         ],
         "map_locations": [
@@ -185,31 +185,31 @@
           },
           {
             "name": "A Young Captain's Suffering",
-            "access_rules": ["AreaKeys:1"]
+            "access_rules": ["$TephAcc"]
           },
           {
             "name": "A Young Captain's Rise",
-            "access_rules": ["AreaKeys:1"]
+            "access_rules": ["$TephAcc"]
           },
           {
             "name": "A Young Captain's Challenge",
-            "access_rules": ["AreaKeys:7"]
+            "access_rules": ["$MaknaAcc"]
           },
           {
             "name": "Birthday Shoes",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Challenge 1",
-            "access_rules": ["C9Hunt"]
+            "access_rules": ["HuntLicense1"]
           },
           {
             "name": "Challenge 3",
-            "access_rules": ["C9Hunt"]
+            "access_rules": ["HuntLicense1"]
           },
           {
             "name": "Dean's Shady Request",
-            "access_rules": ["AreaKeys:1"]
+            "access_rules": ["$TephAcc"]
           },
           {
             "name": "Material Quest 1",
@@ -241,11 +241,11 @@
           },
           {
             "name": "The Elite Captain's Anguish",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "The Old Soldier's Test",
-            "access_rules": ["AreaKeys:8"]
+            "access_rules": ["$VillAcc"]
           }
         ],
         "map_locations": [
@@ -281,15 +281,15 @@
         "sections": [
           {
             "name": "Monster Quest 4 - Part 1",
-            "access_rules": ["AreaKeys:1"]
+            "access_rules": ["$TephAcc"]
           },
           {
             "name": "Monster Quest 4 - Part 2",
-            "access_rules": ["AreaKeys:1"]
+            "access_rules": ["$TephAcc"]
           },
           {
             "name": "Monster Quest 4 - Part 3",
-            "access_rules": ["AreaKeys:1"]
+            "access_rules": ["$TephAcc"]
           }
         ],
         "map_locations": [
@@ -307,11 +307,11 @@
         "sections": [
           {
             "name": "A Mysterious Light",
-            "access_rules": ["AreaKeys:2"]
+            "access_rules": ["$LegAcc"]
           },
           {
             "name": "Out Like a Light?",
-            "access_rules": ["AreaKeys:2"]
+            "access_rules": ["$LegAcc"]
           },
           {
             "name": "Collection Quest 3",
@@ -327,23 +327,23 @@
           },
           {
             "name": "Education-Crazy Suzanna",
-            "access_rules": ["AreaKeys:1"]
+            "access_rules": ["$TephAcc"]
           },
           {
             "name": "Flattened Flowers",
-            "access_rules": []
+            "access_rules": ["$TephAcc"]
           },
           {
             "name": "Friendship Tokens",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Getting to Know Minnie",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Jackson's Awakening",
-            "access_rules": []
+            "access_rules": ["$LegAcc"]
           },
           {
             "name": "Lonely Niranira",
@@ -355,7 +355,7 @@
           },
           {
             "name": "Paola and Narine",
-            "access_rules": ["AreaKeys:8,ShulkAffinity4,ReynAffinity4,SharlaAffinty4,MeliaAffinity4","AreaKeys:8,ShulkAffinity4,ReynAffinity4,SharlaAffinty4,SevenAffinity4","AreaKeys:8,ShulkAffinity4,ReynAffinity4,SevenAffinty4,MeliaAffinity4"]
+            "access_rules": ["$VillAcc,ShulkAffinity4,ReynAffinity4,SharlaAffinty4,MeliaAffinity4","$VillAcc,ShulkAffinity4,ReynAffinity4,SharlaAffinty4,SevenAffinity4","$VillAcc,ShulkAffinity4,ReynAffinity4,SevenAffinty4,MeliaAffinity4"]
           },
           {
             "name": "Pride and Courage",
@@ -389,7 +389,7 @@
         "sections": [
           {
             "name": "A Token of Friendship",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           }
         ],
         "map_locations": [
@@ -413,42 +413,35 @@
     "name": "Tephra Cave Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "access_rules": ["$TephAcc"],
     "children": [
       {
         "name": "Mag Mell Ruins",
         "access_rules": [],
         "sections": [
           {
-            "name": "Missing in Action",
-            "access_rules": ["AreaKeys:1"]
+            "name": "Missing in Action"
           },
           {
-            "name": "Arachno Silk Fundraising",
-            "access_rules": ["AreaKeys:1"]
+            "name": "Arachno Silk Fundraising"
           },
           {
-            "name": "A Thank You",
-            "access_rules": ["AreaKeys:1"]
+            "name": "A Thank You"
           },
           {
-            "name": "Clearing Obstructions",
-            "access_rules": ["AreaKeys:1"]
+            "name": "Clearing Obstructions"
           },
           {
-            "name": "Collection Quest 1",
-            "access_rules": ["AreaKeys:1"]
+            "name": "Collection Quest 1"
           },
           {
-            "name": "Collection Quest 2",
-            "access_rules": ["AreaKeys:1"]
+            "name": "Collection Quest 2"
           },
           {
-            "name": "Material Quest 1",
-            "access_rules": ["AreaKeys:1"]
+            "name": "Material Quest 1"
           },
           {
-            "name": "Material Quest 2",
-            "access_rules": ["AreaKeys:1"]
+            "name": "Material Quest 2"
           }
         ],
         "map_locations": [
@@ -462,7 +455,7 @@
       },
       {
         "name": "Bafalgar Tomb",
-        "access_rules": ["AreaKeys:20"],
+        "access_rules": ["$CoreAcc"],
         "sections": [
           {
             "name": "The Book of Bafalgar",
@@ -470,19 +463,19 @@
           },
           {
             "name": "The Blood of Bafalgar",
-            "access_rules": ["TCHunt"]
+            "access_rules": ["HuntLicense2"]
           },
           {
             "name": "The Path of Bafalgar",
-            "access_rules": ["TCHunt"]
+            "access_rules": ["HuntLicense2"]
           },
           {
             "name": "The Coffin of Bafalgar",
-            "access_rules": ["TCHunt"]
+            "access_rules": ["HuntLicense2"]
           },
           {
             "name": "The Gratitude of Bafalgar",
-            "access_rules": ["TCHunt"]
+            "access_rules": ["HuntLicense2"]
           }
         ],
         "map_locations": [
@@ -500,10 +493,10 @@
     "name": "Bionis' Leg Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "access_rules": ["$LegAcc"],
     "children": [
       {
         "name": "Refugee Camp",
-        "access_rules": ["AreaKeys:2"],
         "sections": [
           {
             "name": "Emergency Treatment (MISSABLE)",
@@ -543,15 +536,15 @@
           },
           {
             "name": "Supplies for Satorl",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "A Flower for a Rose",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Battling Brutes",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           }
         ],
         "map_locations": [
@@ -571,7 +564,6 @@
       },
       {
         "name": "Refugee Camp (Generic)",
-        "access_rules": ["AreaKeys:2"],
         "sections": [
           {
             "name": "Monster Quest 2 (MISSABLE)",
@@ -587,19 +579,19 @@
           },
           {
             "name": "Challenge 1 - Part 1 (MISSABLE)",
-            "access_rules": ["BLHunt"]
+            "access_rules": ["HuntLicense3"]
           },
           {
             "name": "Challenge 1 - Part 2 (MISSABLE)",
-            "access_rules": ["BLHunt"]
+            "access_rules": ["HuntLicense3"]
           },
           {
             "name": "Challenge 2 - Part 1 (MISSABLE)",
-            "access_rules": ["BLHunt"]
+            "access_rules": ["HuntLicense3"]
           },
           {
             "name": "Challenge 2 - Part 2 (MISSABLE)",
-            "access_rules": ["BLHunt"]
+            "access_rules": ["HuntLicense3"]
           },
           {
             "name": "Material Quest 1 (MISSABLE)",
@@ -651,7 +643,6 @@
       },
       {
         "name": "Surprise!",
-        "access_rules": ["AreaKeys:2"],
         "sections": [
           {
             "name": "Save the Girl! (MISSABLE)",
@@ -675,7 +666,6 @@
       },
       {
         "name": "Ragrinar Canyon Path",
-        "access_rules": ["AreaKeys:2"],
         "sections": [
           {
             "name": "Monster Quest 1 - Part 1",
@@ -705,7 +695,6 @@
       },
       {
         "name": "Traveller's Rest",
-        "access_rules": ["AreaKeys:2"],
         "sections": [
           {
             "name": "The Lost Nopon",
@@ -721,7 +710,7 @@
           },
           {
             "name": "Legend of Mythical Empress",
-            "access_rules": ["AreaKeys:7"]
+            "access_rules": ["$VillAcc"]
           }
         ],
         "map_locations": [
@@ -739,70 +728,70 @@
     "name": "Colony 6 Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+        "access_rules": ["$Col6Acc"],
     "children": [
       {
         "name": "Quests A-FI",
-        "access_rules": ["AreaKeys:3"],
         "sections": [
           {
             "name": "Chemist's Reopening",
-            "access_rules": ["AreaKeys:4"]
+            "access_rules": ["$MarshAcc"]
           },
           {
             "name": "Cook-Off Counter Attack!",
-            "access_rules": ["AreaKeys:10"]
+            "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Cook-Off Comeback?",
-            "access_rules": ["AreaKeys:10"]
+            "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Cook-Off Final Blow?!",
-            "access_rules": ["AreaKeys:10"]
+            "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Cook-Off Showdown!",
-            "access_rules": ["AreaKeys:13"]
+            "access_rules": ["$ValakAcc"]
           },
           {
             "name": "A Dauntless Trader",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Defend Colony 6 - Mechon (15% Reconstruction)",
-            "access_rules": ["AreaKeys:7"]
+            "access_rules": ["$MaknaAcc"]
           },
           {
             "name": "Defend Colony 6 - Reptile (35% Reconstruction)",
-            "access_rules": ["AreaKeys:10"]
+            "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Defend Colony 6 - Elite (55% Reconstruction)",
-            "access_rules": ["AreaKeys:16"]
+            "access_rules": ["$ArmAcc"]
           },
           {
             "name": "Defend Colony 6 - Ancient (75% Reconstruction)",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Defend Colony 6 - Demon (95% Reconstruction)",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "A Delectable Delicacy",
-            "access_rules": ["AreaKeys:10"]
+            "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Delivering the Undeliverable",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "A Final Sweet Favour",
-            "access_rules": ["AreaKeys:13"]
+            "access_rules": ["$ValakAcc"]
           },
           {
             "name": "Finding the Unfindable",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           }
         ],
         "map_locations": [
@@ -822,67 +811,66 @@
       },
       {
         "name": "Quests FO-PO",
-        "access_rules": ["AreaKeys:3"],
         "sections": [
           {
             "name": "For the Restoration (MISSABLE)",
-            "access_rules": ["AreaKeys:4"]
+            "access_rules": ["$MarshAcc"]
           },
           {
             "name": "A Gutsy Trader",
-            "access_rules": ["AreaKeys:7"]
+            "access_rules": ["$VillAcc"]
           },
           {
             "name": "In Pursuit of Love",
-            "access_rules": ["AreaKeys:16"]
+            "access_rules": ["$ArmAcc"]
           },
           {
             "name": "Lifespan of a Machina",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$Int2Acc"]
           },
           {
             "name": "Looking for Freedom",
-            "access_rules": ["AreaKeys:10"]
+            "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Making a New Path (MISSABLE)",
-            "access_rules": ["AreaKeys:4"]
+            "access_rules": ["$MarshAcc"]
           },
           {
             "name": "Matryona's Answer",
-            "access_rules": ["AreaKeys:5"]
+            "access_rules": ["$MarshAcc"]
           },
           {
             "name": "Melancholy Tyrea",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Missing Lodger",
-            "access_rules": ["AreaKeys:10"]
+            "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Nic's Training",
-            "access_rules": ["AreaKeys:18"]
+            "access_rules": ["$FactAcc"]
           },
           {
             "name": "Nic's Final Test",
-            "access_rules": ["AreaKeys:18"]
+            "access_rules": ["$FactAcc"]
           },
           {
             "name": "Obstinate Berryjammy",
-            "access_rules": ["AreaKeys:13"]
+            "access_rules": ["$ValakAcc"]
           },
           {
             "name": "Odd Smoke - Investigation",
-            "access_rules": ["AreaKeys:16"]
+            "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Odd Smoke - Resolution",
-            "access_rules": ["AreaKeys:16"]
+            "access_rules": ["$ArmAcc"]
           },
           {
             "name": "A Poet's Concerns",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$Int2Acc"]
           }
         ],
         "map_locations": [
@@ -902,7 +890,6 @@
       },
       {
         "name": "Quests PR-U",
-        "access_rules": ["AreaKeys:3"],
         "sections": [
           {
             "name": "Proof of Status",
@@ -910,27 +897,27 @@
           },
           {
             "name": "Replica Monado 1",
-            "access_rules": ["AreaKeys:21"]
+            "access_rules": ["$Int2Acc"]
           },
           {
             "name": "Replica Monado 2",
-            "access_rules": ["AreaKeys:21"]
+            "access_rules": ["$Int2Acc"]
           },
           {
             "name": "Replica Monado 3",
-            "access_rules": ["AreaKeys:21"]
+            "access_rules": ["$Int2Acc"]
           },
           {
             "name": "Replica Monado 4",
-            "access_rules": ["AreaKeys:21"]
+            "access_rules": ["$Int2Acc"]
           },
           {
             "name": "Replica Monado 5",
-            "access_rules": ["AreaKeys:21"]
+            "access_rules": ["$Int2Acc"]
           },
           {
             "name": "Rest in Peace",
-            "access_rules": ["AreaKeys:7"]
+            "access_rules": ["$MaknaAcc"]
           },
           {
             "name": "Safety First",
@@ -938,7 +925,7 @@
           },
           {
             "name": "Satata's Younger Brother",
-            "access_rules": ["AreaKeys:4"]
+            "access_rules": ["$MarshAcc"]
           },
           {
             "name": "A Secret Mission",
@@ -946,23 +933,23 @@
           },
           {
             "name": "Securing Provisions",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "A Selfish Girl's Mistake",
-            "access_rules": ["AreaKeys:4"]
+            "access_rules": ["$MarshAcc"]
           },
           {
             "name": "A Tantalising Treat",
-            "access_rules": ["AreaKeys:13"]
+            "access_rules": ["$ValakAcc"]
           },
           {
             "name": "The Most Transparent Thing",
-            "access_rules": ["AreaKeys:13"]
+            "access_rules": ["$ValakAcc"]
           },
           {
             "name": "Unstoppable Berryjammy",
-            "access_rules": ["AreaKeys:13"]
+            "access_rules": ["$ValakAcc"]
           }
         ],
         "map_locations": [
@@ -986,10 +973,10 @@
     "name": "Satorl Marsh Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "access_rules": ["$MarshAcc"],
     "children": [
       {
         "name": "Nopon Merchant Camp",
-        "access_rules": ["AreaKeys:5"],
         "sections": [
           {
             "name": "Kacha's Kidnapping",
@@ -1035,7 +1022,6 @@
       },
       {
         "name": "Kelsher Wetland",
-        "access_rules": ["AreaKeys:5"],
         "sections": [
           {
             "name": "The Ancient Ceremony",
@@ -1057,7 +1043,6 @@
       },
       {
         "name": "Nopon Refuge",
-        "access_rules": ["AreaKeys:5"],
         "sections": [
           {
             "name": "Preventing Starvation",
@@ -1065,7 +1050,7 @@
           },
           {
             "name": "Zazadan in Danger",
-            "access_rules": ["SMHunt"]
+            "access_rules": ["HuntLicense6"]
           },
           {
             "name": "It's All in the Mind",
@@ -1081,7 +1066,7 @@
           },
           {
             "name": "Gather Information",
-            "access_rules": ["AreaKeys:10"]
+            "access_rules": ["$AlcaAcc"]
           }
         ],
         "map_locations": [
@@ -1095,11 +1080,11 @@
       },
       {
         "name": "Sororal Statues",
-        "access_rules": ["AreaKeys:20"],
+        "access_rules": ["$CoreAcc"],
         "sections": [
           {
             "name": "Challenge",
-            "access_rules": ["SMHunt"]
+            "access_rules": ["HuntLicense6"]
           },
           {
             "name": "For a Friend",
@@ -1137,22 +1122,22 @@
     "name": "Makna Forest Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "access_rules": ["$MaknaAcc"],
     "children": [
       {
         "name": "Divine Sanctuary",
-        "access_rules": ["AreaKeys:7"],
         "sections": [
           {
             "name": "Legend of the Sage",
-            "access_rules": ["AreaKeys:9"]
+            "access_rules": ["$SeaAcc"]
           },
           {
             "name": "Challenge of the Sage",
-            "access_rules": ["AreaKeys:9"]
+            "access_rules": ["$SeaAcc"]
           },
           {
             "name": "Final Challenge of the Sage",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           }
         ],
         "map_locations": [
@@ -1166,7 +1151,6 @@
       },
       {
         "name": "Agni Tablet",
-        "access_rules": ["AreaKeys:7"],
         "sections": [
           {
             "name": "Monster Quest 1",
@@ -1186,7 +1170,7 @@
           },
           {
             "name": "Challenge",
-            "access_rules": ["AreaKeys:8,MaFoHunt"]
+            "access_rules": ["$VillAcc,HuntLicense7"]
           }
         ],
         "map_locations": [
@@ -1200,7 +1184,7 @@
       },
       {
         "name": "Pod Landing Site",
-        "access_rules": ["AreaKeys:13"],
+        "access_rules": ["$ValakAcc"],
         "sections": [
           {
             "name": "Bridge Repair",
@@ -1218,7 +1202,6 @@
       },
       {
         "name": "Makna Path",
-        "access_rules": ["AreaKeys:7"],
         "sections": [
           {
             "name": "Mystery Girl Rescue",
@@ -1240,52 +1223,52 @@
     "name": "Frontier Village Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
-    "access_rules": ["AreaKeys:8"],
+    "access_rules": ["$VillAcc"],
     "children": [
       {
         "name": "Quests A-CH",
         "sections": [
           {
             "name": "Adviser Hunt (MISSABLE)",
-            "access_rules": ["AreaKeys:10"]
+            "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "An Errand for the Heropon (Story)"
           },
           {
             "name": "Avenge a Mamapon's Death",
-            "access_rules": ["AreaKeys:9"]
+            "access_rules": ["$SeaAcc"]
           },
           {
             "name": "Bana the Betrayer",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Beat Kilaki to it!"
           },
           {
             "name": "Bored Pelupelu",
-            "access_rules": ["AreaKeys:16"]
+            "access_rules": ["$ArmAcc"]
           },
           {
             "name": "Broken Ether Furnace",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Broken Ether Furnace 2",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Challenge 1",
-            "access_rules": ["MaFoHunt"]
+            "access_rules": ["HuntLicense7"]
           },
           {
             "name": "Challenge 2",
-            "access_rules": ["MaFoHunt"]
+            "access_rules": ["HuntLicense7"]
           },
           {
             "name": "Challenge 3",
-            "access_rules": ["MaFoHunt"]
+            "access_rules": ["HuntLicense7"]
           }
         ],
         "map_locations": [
@@ -1317,25 +1300,25 @@
           },
           {
             "name": "Dangerous Ambition (MISSABLE)",
-            "access_rules": ["AreaKeys:10"]
+            "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Decoration Makeover"
           },
           {
             "name": "Destroying the City Trade (MISSABLE)",
-            "access_rules": ["AreaKeys:10"]
+            "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Disinsectization"
           },
           {
             "name": "Even In the Chief's Absence",
-            "access_rules": ["AreaKeys:16"]
+            "access_rules": ["$ArmAcc"]
           },
           {
             "name": "Evidence Collection (MISSABLE)",
-            "access_rules": ["AreaKeys:10"]
+            "access_rules": ["$AlcaAcc"]
           }
         ],
         "map_locations": [
@@ -1352,33 +1335,33 @@
         "sections": [
           {
             "name": "Find the Kingpin (MISSABLE)",
-            "access_rules": ["AreaKeys:10"]
+            "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Fixing Time Mushrooms"
           },
           {
             "name": "Getting Bigger!",
-            "access_rules": ["AreaKeys:12"]
+            "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "Giant Attack!",
-            "access_rules": ["AreaKeys:12"]
+            "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "A Gift For Miko",
-            "access_rules": ["AreaKeys:16"]
+            "access_rules": ["$ArmAcc"]
           },
           {
             "name": "Healing the Healer",
-            "access_rules": ["AreaKeys:12"]
+            "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "Heropon's Spirit"
           },
           {
             "name": "Honouring the Nopon Sage",
-            "access_rules": ["AreaKeys:9"]
+            "access_rules": ["$SeaAcc"]
           },
           {
             "name": "Hunt for a Patron"
@@ -1410,7 +1393,7 @@
           },
           {
             "name": "Legendary Nopon Charm",
-            "access_rules": ["AreaKeys:12"]
+            "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "Leku's Food Crisis"
@@ -1428,7 +1411,8 @@
             "name": "Material Quest 2"
           },
           {
-            "name": "Material Quest 3"
+            "name": "Material Quest 3",
+            "access_rules": ["$ValakAcc"]
           },
           {
             "name": "Material Quest 4"
@@ -1451,15 +1435,15 @@
         "sections": [
           {
             "name": "Meeting the Nopon Sage",
-            "access_rules": ["AreaKeys:9"]
+            "access_rules": ["$SeaAcc"]
           },
           {
             "name": "A Memento of Daddy",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Mislabelling Problem",
-            "access_rules": ["AreaKeys:12"]
+            "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "Monster Quest 1 - Part 1"
@@ -1500,19 +1484,19 @@
         "sections": [
           {
             "name": "Mystery of Makna Ruins 1",
-            "access_rules": ["AreaKeys:12"]
+            "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "Mystery of Makna Ruins 2",
-            "access_rules": ["AreaKeys:12"]
+            "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "Mystery of Makna Ruins 3",
-            "access_rules": ["AreaKeys:12"]
+            "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "Mystery of Makna Ruins 4",
-            "access_rules": ["AreaKeys:12"]
+            "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "Pollen Orb Ingredients"
@@ -1522,15 +1506,15 @@
           },
           {
             "name": "Presents for Priceless Pupils",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Restoring the Capital",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Restoring the Capital 2",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Search Quest 1"
@@ -1580,11 +1564,11 @@
           },
           {
             "name": "A Tormented Bug-Lover",
-            "access_rules": ["AreaKeys:9"]
+            "access_rules": ["$SeaAcc"]
           },
           {
             "name": "Who is Bigger?",
-            "access_rules": ["AreaKeys:12"]
+            "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "A Worried Bug-Lover"
@@ -1605,10 +1589,10 @@
     "name": "Eryth Sea Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
+    "access_rules": ["$SeaAcc"],
     "children": [
       {
         "name": "Ether Plant",
-        "access_rules": ["AreaKeys:9"],
         "sections": [
           {
             "name": "Trouble at the Plant"
@@ -1624,15 +1608,15 @@
           },
           {
             "name": "Ancient High Entia Mystery",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "The Missing Boy",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Secret Research",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           }
         ],
         "map_locations": [
@@ -1646,7 +1630,6 @@
       },
       {
         "name": "Syrath Lighthouse",
-        "access_rules": ["AreaKeys:9"],
         "sections": [
           {
             "name": "Trouble at the Lighthouse"
@@ -1665,7 +1648,7 @@
           },
           {
             "name": "Challenge",
-            "access_rules": ["ESHunt"]
+            "access_rules": ["HuntLicense8"]
           }
         ],
         "map_locations": [
@@ -1679,18 +1662,17 @@
       },
       {
         "name": "Latael Shore",
-        "access_rules": ["AreaKeys:9"],
         "sections": [
           {
             "name": "Save the Worker"
           },
           {
             "name": "Path to Prison Island",
-            "access_rules": ["AreaKeys:12"]
+            "access_rules": ["$TombAcc"]
           },
           {
             "name": "Sister Seals",
-            "access_rules": ["AreaKeys:12"]
+            "access_rules": ["$TombAcc"]
           }
         ],
         "map_locations": [
@@ -1708,7 +1690,7 @@
     "name": "Alcamoth Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
-    "access_rules": ["AreaKeys:10"],
+    "access_rules": ["$AlcaAcc"],
     "children": [
       {
         "name": "The Deciphering Machine",
@@ -1731,7 +1713,7 @@
         "sections": [
           {
             "name": "A Necessary Upgrade (MISSABLE)",
-            "access_rules": ["AreaKeys:11"]
+            "access_rules": ["$TombAcc"]
           }
         ],
         "map_locations": [
@@ -1862,7 +1844,7 @@
         "sections": [
           {
             "name": "Believing Again (MISSABLE)",
-            "access_rules": ["AreaKeys:12"]
+            "access_rules": ["$ValakAcc"]
           }
         ],
         "map_locations": [
@@ -1882,7 +1864,7 @@
           },
           {
             "name": "Starlight Gazer (MISSABLE)",
-            "access_rules": ["AreaKeys:11"]
+            "access_rules": ["$TombAcc"]
           }
         ],
         "map_locations": [
@@ -1969,7 +1951,7 @@
           },
           {
             "name": "Vidian Rescue Operation (MISSABLE)",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           }
         ],
         "map_locations": [
@@ -2041,19 +2023,19 @@
         "sections": [
           {
             "name": "Challenge 1",
-            "access_rules": ["ESHunt"]
+            "access_rules": ["HuntLicense8"]
           },
           {
             "name": "Challenge 2",
-            "access_rules": ["ESHunt"]
+            "access_rules": ["HuntLicense8"]
           },
           {
             "name": "Challenge 3",
-            "access_rules": ["ESHunt"]
+            "access_rules": ["HuntLicense8"]
           },
           {
             "name": "Challenge 4",
-            "access_rules": ["ESHunt"]
+            "access_rules": ["HuntLicense8"]
           },
           {
             "name": "Material Quest 1"
@@ -2071,7 +2053,8 @@
             "name": "Collection Quest 1"
           },
           {
-            "name": "Collection Quest 2"
+            "name": "Collection Quest 2",
+            "access_rules": ["$TombAcc"]
           },
           {
             "name": "Collection Quest 3"
@@ -2113,7 +2096,7 @@
     "name": "Valak Mountain Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
-    "access_rules": ["AreaKeys:13"],
+    "access_rules": ["$ValakAcc"],
     "children": [
       {
         "name": "Zokhed Pass",
@@ -2189,11 +2172,11 @@
           },
           {
             "name": "The Final Giants' Ruins",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "The Giants' Treasures",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           }
         ],
         "map_locations": [
@@ -2233,7 +2216,7 @@
     "name": "Sword Valley Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
-    "access_rules": ["AreaKeys:14"],
+    "access_rules": ["$SwordAcc"],
     "children": [
       {
         "name": "Secure Dolgan Outpost (MISSABLE)",
@@ -2311,7 +2294,7 @@
     "name": "Galahad Fortress Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
-    "access_rules": ["AreaKeys:15"],
+    "access_rules": ["$FortAcc"],
     "children": [
       {
         "name": "Lift Battle (MISSABLE)",
@@ -2389,7 +2372,7 @@
     "name": "Fallen Arm Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
-    "access_rules": ["AreaKeys:16"],
+    "access_rules": ["$ArmAcc"],
     "children": [
       {
         "name": "Hidden Village Quests 1",
@@ -2457,47 +2440,47 @@
           },
           {
             "name": "The History of Mechonis (MISSABLE)",
-            "access_rules": ["AreaKeys:17"]
+            "access_rules": ["$FieldAcc"]
           },
           {
             "name": "Mending Memories",
-            "access_rules": ["AreaKeys:17"]
+            "access_rules": ["$FieldAcc"]
           },
           {
             "name": "Resolution - Father",
-            "access_rules": ["AreaKeys:17"]
+            "access_rules": ["$FieldAcc"]
           },
           {
             "name": "Resolution - Mother",
-            "access_rules": ["AreaKeys:17"]
+            "access_rules": ["$FieldAcc"]
           },
           {
             "name": "The Oath Sword",
-            "access_rules": ["AreaKeys:17"]
+            "access_rules": ["$FieldAcc"]
           },
           {
             "name": "A Weapon Just For Me (MISSABLE)",
-            "access_rules": ["AreaKeys:17"]
+            "access_rules": ["$FieldAcc"]
           },
           {
             "name": "The History of the Capital (MISSABLE)",
-            "access_rules": ["AreaKeys:19"]
+            "access_rules": ["$AgniAcc"]
           },
           {
             "name": "Stunted Growth",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "The Exhaust Pump",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "The Mini Reactor",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Transmission Bypass",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           }
         ],
         "map_locations": [
@@ -2562,7 +2545,7 @@
     "name": "Mechonis Field Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
-    "access_rules": ["AreaKeys:17"],
+    "access_rules": ["$FieldAcc"],
     "children": [
       {
         "name": "Machina Refuge",
@@ -2629,7 +2612,7 @@
     "name": "Central Factory Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
-    "access_rules": ["AreaKeys:18"],
+    "access_rules": ["$FactAcc"],
     "children": [
       {
         "name": "Quests",
@@ -2659,7 +2642,8 @@
             "name": "Daring Assault (MISSABLE)"
           },
           {
-            "name": "New Weapon for Fiora"
+            "name": "New Weapon for Fiora",
+            "access_rules": ["$AgniAcc"]
           }
         ],
         "map_locations": [
@@ -2677,7 +2661,7 @@
     "name": "Agniratha Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
-    "access_rules": ["AreaKeys:19"],
+    "access_rules": ["$AgniAcc"],
     "children": [
       {
         "name": "Terminal Quests",
@@ -2714,19 +2698,19 @@
           },
           {
             "name": "Military Status 1 - 1",
-            "access_rules": ["AGHunt"]
+            "access_rules": ["HuntLicense16"]
           },
           {
             "name": "Military Status 1 - 2",
-            "access_rules": ["AGHunt"]
+            "access_rules": ["HuntLicense16"]
           },
           {
             "name": "Military Status 2 - 1",
-            "access_rules": ["AGHunt"]
+            "access_rules": ["HuntLicense16"]
           },
           {
             "name": "Military Status 2 - 2",
-            "access_rules": ["AGHunt"]
+            "access_rules": ["HuntLicense16"]
           },
           {
             "name": "Telethia Investigation 1"
@@ -2749,17 +2733,17 @@
         "sections": [
           {
             "name": "Save Bionis",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Boss: Yaldabaoth",
-            "access_rules": ["AreaKeys:20"],
+            "access_rules": ["$CoreAcc"],
             "chest_unopened_img": "images/mapicons/Boss.png",
             "chest_opened_img": "images/mapicons/DeadBoss.png"
           },
           {
             "name": "Boss: Zanza",
-            "access_rules": ["AreaKeys:20"],
+            "access_rules": ["$CoreAcc"],
             "chest_unopened_img": "images/mapicons/Boss.png",
             "chest_opened_img": "images/mapicons/DeadBoss.png"
           }

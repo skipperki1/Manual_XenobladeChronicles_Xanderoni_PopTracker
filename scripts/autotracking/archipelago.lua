@@ -179,6 +179,19 @@ function onClear(slot_data)
 	if PopVersion < "0.20.1" or AutoTracker:GetConnectionState("SNES") == 3 then
 		-- add snes interface functions here
 	end
+
+	for k, v in pairs(SETTINGS_MAPPING) do
+		obj = Tracker:FindObjectForCode(v)
+			print(SLOT_DATA)
+		local value = SLOT_DATA[k]
+		local tog = value == 1
+
+		if k == "goal" then
+			Tracker:FindObjectForCode("VictoryCon").CurrentStage = value
+		else
+			Tracker:FindObjectForCode(obj).Active = tog
+		end
+	end
 	Tracker.BulkUpdate = false
 end
 

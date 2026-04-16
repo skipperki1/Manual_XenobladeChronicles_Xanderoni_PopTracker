@@ -165,7 +165,7 @@
       },
       {
         "name": "Cylinder Hanger",
-        "access_rules": ["TephKeys:3"],
+        "access_rules": ["$TephAcc"],
         "sections": [
           {
             "name": "Landmark"
@@ -179,6 +179,210 @@
             "size": 8
           }
         ]
+      },
+      {
+        "name": "Commercial District",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 464,
+            "y": 328,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Military District",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 591,
+            "y": 170,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Residential District",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 553,
+            "y": 463,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Dunban's House",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 405,
+            "y": 335,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Weapon Development Lab",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 540,
+            "y": 202,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Anti-Air Battery 1",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 339,
+            "y": 143,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Anti-Air Battery 2",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 864,
+            "y": 127,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Anti-Air Battery 3",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 562,
+            "y": 620,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Tephra Hill",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 165,
+            "y": 457,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Cliff Lake",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 294,
+            "y": 505,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Agora Shore",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 868,
+            "y": 352,
+            "size": 8
+          }
+        ]
+      },
+      {
+        "name": "Hazzai Cape",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C9LM",
+            "x": 759,
+            "y": 529,
+            "size": 8
+          }
+        ]
       }
     ]
   },
@@ -186,7 +390,7 @@
     "name": "Tephra Cave Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["TephKeys:3"],
+    "access_rules": ["$TephAcc"],
     "children": [
       {
         "name": "Mag Mell Ruins",
@@ -234,6 +438,9 @@
         "sections": [
           {
             "name": "Landmark"
+          },
+          {
+            "name": "Tephra Cavern (Location)"
           }
         ],
         "map_locations": [
@@ -310,7 +517,7 @@
       },
       {
         "name": "Bafalgar Tomb",
-        "access_rules": ["CoreKeys:3"],
+        "access_rules": ["$CoreAcc"],
         "sections": [
           {
             "name": "Landmark"
@@ -327,7 +534,7 @@
       },
       {
         "name": "Heavenly Window",
-        "access_rules": ["CoreKeys:3"],
+        "access_rules": ["$CoreAcc"],
         "sections": [
           {
             "name": "Landmark"
@@ -341,6 +548,244 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Caterpile Nest",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 370,
+            "y": 499,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Escape Pod Bay",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 380,
+            "y": 301,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Warehouse 2",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 333,
+            "y": 271,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hidden Warehouse",
+        "access_rules": ["$CoreAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 296,
+            "y": 234,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Forgotten Cave",
+        "access_rules": ["$CoreAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 160,
+            "y": 106,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Emergency Warehouse",
+        "access_rules": ["$CoreAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 818,
+            "y": 854,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Soothsayer's Crypt",
+        "access_rules": ["$CoreAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 1051,
+            "y": 433,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Prayer Room",
+        "access_rules": ["$CoreAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 1057,
+            "y": 381,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bone Corridor",
+        "access_rules": ["$CoreAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 735,
+            "y": 384,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Trader's Stopover",
+        "access_rules": ["$CoreAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 656,
+            "y": 993,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Arachno Feeding Lair",
+        "access_rules": ["$CoreAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 534,
+            "y": 1135,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Arachno Queen's Nest",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 354,
+            "y": 1149,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kneecap Hill",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 63,
+            "y": 1075,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Path of Absolution",
+        "access_rules": ["$CoreAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "TCLM",
+            "x": 509,
+            "y": 1287,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -348,7 +793,7 @@
     "name": "Bionis' Leg Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["LegKeys:3"],
+    "access_rules": ["$LegAcc"],
     "children": [
       {
         "name": "Ragrinar Canyon Path",
@@ -566,6 +1011,261 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Volff Lair",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 299,
+            "y": 850,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Tranquil Grotto",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 704,
+            "y": 873,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kisk Cave",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 478,
+            "y": 785,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Windy Cave",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 894,
+            "y": 678,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Maguel Road",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 826,
+            "y": 761,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Raguel Lake",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 675,
+            "y": 765,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Viliera Hill",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 485,
+            "y": 680,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Rho Oasis",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 331,
+            "y": 652,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Gaur Plain",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 222,
+            "y": 740,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Tirkin Headquarters",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 303,
+            "y": 571,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sky Stage",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 487,
+            "y": 598,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Daksha Shrine",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 661,
+            "y": 596,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Crevasse Waterfall",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 927,
+            "y": 554,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Traveller's Rest",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 278,
+            "y": 268,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kasharpa Falls",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BLLM",
+            "x": 492,
+            "y": 337,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -573,7 +1273,7 @@
     "name": "Colony 6 Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["Col6Keys:3"],
+    "access_rules": ["$Col6Acc"],
     "children": [
       {
         "name": "Drainage Outlet",
@@ -600,7 +1300,7 @@
       },
       {
         "name": "Freight Road",
-        "access_rules": [],
+        "access_rules": ["$MineAcc"],
         "sections": [
           {
             "name": "Landmark"
@@ -623,7 +1323,7 @@
       },
       {
         "name": "Main Entrance",
-        "access_rules": [],
+        "access_rules": ["$MineAcc"],
         "sections": [
           {
             "name": "Landmark"
@@ -640,7 +1340,7 @@
       },
       {
         "name": "Misty Path",
-        "access_rules": [],
+        "access_rules": ["$MineAcc"],
         "sections": [
           {
             "name": "Landmark"
@@ -663,7 +1363,7 @@
       },
       {
         "name": "Reconstruction HQ",
-        "access_rules": [],
+        "access_rules": ["$MineAcc"],
         "sections": [
           {
             "name": "Landmark"
@@ -723,6 +1423,74 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Splintered Path",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6LM",
+            "x": 275,
+            "y": 313,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hope Farm",
+        "access_rules": ["$MarshAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6LM",
+            "x": 315,
+            "y": 584,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Freight Elevator",
+        "access_rules": ["$MineAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6LM",
+            "x": 160,
+            "y": 755,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Pod Depot",
+        "access_rules": ["$MineAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "C6LM",
+            "x": 260,
+            "y": 757,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -730,7 +1498,7 @@
     "name": "Ether Mine Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["MineKeys:3"],
+    "access_rules": ["$MineAcc"],
     "children": [
       {
         "name": "Drainage Tunnel",
@@ -943,6 +1711,193 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Test Pit 1",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 146,
+            "y": 246,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Test Pit 2",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 135,
+            "y": 306,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Test Pit 3",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 66,
+            "y": 241,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Storage Depot",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 36,
+            "y": 362,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Terminal",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 58,
+            "y": 432,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Test Pit 4",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 99,
+            "y": 505,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Observation Point",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 178,
+            "y": 502,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Pit - Level 1",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 273,
+            "y": 687,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Pit - Level 2",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 585,
+            "y": 346,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Pit - Level 3",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 913,
+            "y": 632,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Freight Elevator",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "EMLM",
+            "x": 269,
+            "y": 1205,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -950,7 +1905,7 @@
     "name": "Satorl Marsh Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["MarshKeys:3"],
+    "access_rules": ["$MarshAcc"],
     "children": [
       {
         "name": "Crown Tree",
@@ -1111,6 +2066,244 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Lacus Swamp",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 162,
+            "y": 524,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Zaldania Waterfall",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 371,
+            "y": 609,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Poison Swamp",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 375,
+            "y": 705,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Altar of Fate",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 561,
+            "y": 659,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Barren Moor",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 534,
+            "y": 855,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Basin Cave",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 697,
+            "y": 715,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nopon Refuge",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 709,
+            "y": 836,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Exile Fortress",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 630,
+            "y": 960,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Mauk Floodgate",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 894,
+            "y": 800,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Oath Sanctuary",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 929,
+            "y": 842,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Place of Judgement",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 858,
+            "y": 890,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Dark Swamp",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 488,
+            "y": 981,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Soter Ruins",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 894,
+            "y": 958,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Igna Territory",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SMLM",
+            "x": 630,
+            "y": 1082,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -1118,7 +2311,7 @@
     "name": "Bionis' Interior First Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["Int1Keys:3"],
+    "access_rules": ["$Int1Acc"],
     "children": [
       {
         "name": "Terminal Trachea",
@@ -1153,6 +2346,23 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Third Lung",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BI1Full",
+            "x": 924,
+            "y": 359,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -1160,7 +2370,7 @@
     "name": "Makna Forest Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["ForestKeys:3"],
+    "access_rules": ["$MaknaAcc"],
     "children": [
       {
         "name": "Agni Tablet",
@@ -1255,7 +2465,7 @@
       },
       {
         "name": "Pod Landing Site",
-        "access_rules": [],
+        "access_rules": ["$Pris1Acc"],
         "sections": [
           {
             "name": "Landmark"
@@ -1289,7 +2499,7 @@
       },
       {
         "name": "Valak Pass",
-        "access_rules": [],
+        "access_rules": ["$Pris1Acc"],
         "sections": [
           {
             "name": "Landmark"
@@ -1438,7 +2648,7 @@
       },
       {
         "name": "King Agni's Tomb",
-        "access_rules": [],
+        "access_rules": ["$Pris1Acc"],
         "sections": [
           {
             "name": "Landmark"
@@ -1452,6 +2662,244 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Repaired Bridge Four",
+        "access_rules": ["$Pris1Acc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoLM",
+            "x": 413,
+            "y": 344,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Eks Watering Hole",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoLM",
+            "x": 579,
+            "y": 327,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Contaminated Area",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoLM",
+            "x": 492,
+            "y": 368,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sap Cave",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoLM",
+            "x": 475,
+            "y": 409,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bridge One",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoLM",
+            "x": 303,
+            "y": 497,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bridge Two",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoLM",
+            "x": 378,
+            "y": 415,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bridge Three",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoLM",
+            "x": 406,
+            "y": 379,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Clear Waterfall",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoLM",
+            "x": 859,
+            "y": 448,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Yellow Flower Grove",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoLM",
+            "x": 892,
+            "y": 514,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Decayed Forest",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoLM",
+            "x": 979,
+            "y": 595,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Abyss Basin",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoLM",
+            "x": 720,
+            "y": 678,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Precipice Bridge",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoLM",
+            "x": 824,
+            "y": 661,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hode Lair",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoLM",
+            "x": 798,
+            "y": 743,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Great Makna Falls",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MaFoLM",
+            "x": 119,
+            "y": 697,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -1459,7 +2907,7 @@
     "name": "Frontier Village Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["VillageKeys:3"],
+    "access_rules": ["$VillAcc"],
     "children": [
       {
         "name": "Entry Bridge",
@@ -1602,6 +3050,244 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Nopon Kitchen",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 340,
+            "y": 462,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Underground Store",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 299,
+            "y": 482,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Reservoir",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 84,
+            "y": 476,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Plaza",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 631,
+            "y": 398,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kyn Shopping Street",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 830,
+            "y": 240,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Pollen Orb Storehouse",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 821,
+            "y": 375,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Orb Storage Level",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 829,
+            "y": 437,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Middle Housing Level",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 123,
+            "y": 688,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Pollen Works Level",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 356,
+            "y": 678,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Archaeology Level",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 563,
+            "y": 695,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Archaeology Centre",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 560,
+            "y": 752,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Top Housing Level",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 103,
+            "y": 943,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Mysterious Sanctuary",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 374,
+            "y": 963,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Apex Lake",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FVLM",
+            "x": 562,
+            "y": 939,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -1609,7 +3295,7 @@
     "name": "Eryth Sea Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["SeaKeys:3"],
+    "access_rules": ["$SeaAcc"],
     "children": [
       {
         "name": "Central Seal Island",
@@ -1781,6 +3467,312 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Anu Shore",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 945,
+            "y": 281,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bionis' Occipital",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 146,
+            "y": 413,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ether Crystal Deposit",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 740,
+            "y": 616,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hode Refuge",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 230,
+            "y": 305,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hovering Reef 1",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 637,
+            "y": 239,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hovering Reef 2",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 706,
+            "y": 314,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hovering Reef 3",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 603,
+            "y": 349,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hovering Reef 4",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 580,
+            "y": 442,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hovering Reef 5",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 610,
+            "y": 549,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hovering Reef 6",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 713,
+            "y": 561,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hovering Reef 7",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 474,
+            "y": 467,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hovering Reef 8",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 392,
+            "y": 523,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hovering Reef 9",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 271,
+            "y": 492,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hovering Reef 10",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 417,
+            "y": 321,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kromar Coast",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 511,
+            "y": 733,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Secluded Island",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 847,
+            "y": 525,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Showdown Cliff",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 719,
+            "y": 182,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sleeping Dragon Isle",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ESLM",
+            "x": 487,
+            "y": 377,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -1788,7 +3780,7 @@
     "name": "Alcamoth Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AlcaKeys:3"],
+    "access_rules": ["$AlcaAcc"],
     "children": [
       {
         "name": "Fountain of Eternity",
@@ -1926,6 +3918,91 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Great Hall",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALLM",
+            "x": 942,
+            "y": 490,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Melfica Road",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALLM",
+            "x": 752,
+            "y": 490,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Revalation Hall",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALLM",
+            "x": 1274,
+            "y": 497,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sky Terrace",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALLM",
+            "x": 1398,
+            "y": 497,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Audience Chamber",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "ALLM",
+            "x": 1490,
+            "y": 497,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -1933,7 +4010,7 @@
     "name": "High Entia Tomb Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["TombKeys:3"],
+    "access_rules": ["$TombAcc"],
     "children": [
       {
         "name": "Ceremony Hall",
@@ -2066,6 +4143,91 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Hall of Spirits",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTLM",
+            "x": 409,
+            "y": 217,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hall of Trials",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTLM",
+            "x": 656,
+            "y": 217,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Telethia Laboratory",
+        "access_rules": ["$CoreAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTLM",
+            "x": 970,
+            "y": 515,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Imperial Treasury",
+        "access_rules": ["$CoreAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTLM",
+            "x": 588,
+            "y": 935,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Second Treasury",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "HTLM",
+            "x": 519,
+            "y": 728,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -2073,7 +4235,7 @@
     "name": "Prison Island 1 Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["Pris1Keys:3"],
+    "access_rules": ["$Pris1Acc"],
     "children": [
       {
         "name": "High Entia Transporter",
@@ -2125,6 +4287,40 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Central Hall",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIFull",
+            "x": 411,
+            "y": 462,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Great Canyon",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PIFull",
+            "x": 118,
+            "y": 770,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -2132,7 +4328,7 @@
     "name": "Valak Mountain Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["MountKeys:3"],
+    "access_rules": ["$ValakAcc"],
     "children": [
       {
         "name": "Zokhed Pass",
@@ -2284,7 +4480,7 @@
       },
       {
         "name": "La Luz Church",
-        "access_rules": [],
+        "access_rules": ["$CoreAcc"],
         "sections": [
           {
             "name": "Landmark"
@@ -2350,6 +4546,261 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Serik Waterfall",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 408,
+            "y": 412,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Apis Lair",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 421,
+            "y": 370,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Nagul Waterfall",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 321,
+            "y": 553,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Kana Peak",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 239,
+            "y": 369,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Agul Mountain Range",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 319,
+            "y": 318,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Chilkin Lair",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 138,
+            "y": 351,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Url Crevasse",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 70,
+            "y": 336,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bagnar Snowfield",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 164,
+            "y": 323,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bionis' Right Elbow",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 243,
+            "y": 158,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Valak Peak",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 180,
+            "y": 159,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Antol Den",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 796,
+            "y": 668,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Jakt Geyser",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 656,
+            "y": 641,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Sealed Tower",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 516,
+            "y": 675,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ignia Hill",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 357,
+            "y": 724,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Great Glacier",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "VMLM",
+            "x": 186,
+            "y": 752,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -2357,7 +4808,7 @@
     "name": "Sword Valley Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["ValleyKeys:3"],
+    "access_rules": ["$SwordAcc"],
     "children": [
       {
         "name": "Bionis' Thumb",
@@ -2558,6 +5009,125 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "6th Gate",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 818,
+            "y": 279,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "5th Gate",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 697,
+            "y": 362,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "4th Gate",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 576,
+            "y": 349,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "3rd Gate",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 455,
+            "y": 279,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ether Storage Area",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 474,
+            "y": 418,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Port Maintenance Bay",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 173,
+            "y": 763,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Port Access Pathway",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "SVLM",
+            "x": 374,
+            "y": 533,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -2565,7 +5135,7 @@
     "name": "Galahad Fortress Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["FortKeys:3"],
+    "access_rules": ["$FortAcc"],
     "children": [
       {
         "name": "Ether Influx Conduit",
@@ -2657,6 +5227,176 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Main Maintenance Bay",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 151,
+            "y": 250,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "1st Fuel Supply Room",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 151,
+            "y": 144,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "2nd Fuel Supply Room",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 46,
+            "y": 250,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "3rd Fuel Supply Room",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 151,
+            "y": 356,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Blast Furnace Conduit",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 645,
+            "y": 310,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "1st Turbine Room",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 590,
+            "y": 339,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "2nd Turbine Room",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 590,
+            "y": 155,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Piston Control Room",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 502,
+            "y": 247,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ether Input Stream",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 332,
+            "y": 541,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Face Maintenance Bay",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "GFLM",
+            "x": 643,
+            "y": 546,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -2664,7 +5404,7 @@
     "name": "Fallen Arm Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["ArmKeys:3"],
+    "access_rules": ["$ArmAcc"],
     "children": [
       {
         "name": "Wreckage Beach",
@@ -2888,6 +5628,295 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Silver Wreckage",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 727,
+            "y": 242,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Zakt Spring",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 714,
+            "y": 302,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Jifum Beach",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 850,
+            "y": 245,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Transformer Area",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 788,
+            "y": 347,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "5th Pulse Zone",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 703,
+            "y": 430,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Power Pipe Ruins",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 731,
+            "y": 494,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Hidden Machina Village",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 458,
+            "y": 414,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ether Light",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 490,
+            "y": 420,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Radiocarpea Coast",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 585,
+            "y": 496,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Digit 1",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 461,
+            "y": 602,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Digit 1 Crevasse",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 411,
+            "y": 487,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Digit 2",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 199,
+            "y": 490,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Digit 3",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 214,
+            "y": 371,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Digit 4",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 325,
+            "y": 256,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Digit 5",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 397,
+            "y": 197,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Digit 5 Beach",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 474,
+            "y": 270,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Ether Exhaust System",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "FALM",
+            "x": 512,
+            "y": 349,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -2895,7 +5924,7 @@
     "name": "Mechonis Field Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["FieldKeys:3"],
+    "access_rules": ["$FieldAcc"],
     "children": [
       {
         "name": "Left Leg Cooling Outlet",
@@ -3137,6 +6166,247 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "1st Lift - B1F",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 190,
+            "y": 385,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Spent Fuel Tank",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 189,
+            "y": 468,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "1st Lift - GF",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 470,
+            "y": 418,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "2nd Lift - GF",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 424,
+            "y": 329,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "2nd Lift - 1F",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 719,
+            "y": 233,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "3rd Lift Engine Room",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 736,
+            "y": 400,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "2F Observation Post",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 163,
+            "y": 686,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "3rd Lift - 2F",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 130,
+            "y": 737,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Locations",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "3rd Lift - 3F"
+          },
+          {
+            "name": "Ether Gear Store"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 387,
+            "y": 753,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Bulkhead Controls",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 374,
+            "y": 677,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Patella Exhaust",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 467,
+            "y": 1007,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Power Supply Area 1",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 297,
+            "y": 934,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Power Supply Area 2",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 304,
+            "y": 1169,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "High-Velocity Lift",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "MeFiLM",
+            "x": 96,
+            "y": 1061,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -3144,7 +6414,7 @@
     "name": "Central Factory Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["FactKeys:3"],
+    "access_rules": ["$FactAcc"],
     "children": [
       {
         "name": "Port Terminal",
@@ -3346,6 +6616,261 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Central Gate",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 525,
+            "y": 312,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Landing Strip 1",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 539,
+            "y": 425,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Landing Strip 2",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 539,
+            "y": 198,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Maintenance Entrance 1",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 246,
+            "y": 447,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Maintenance Wing",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 177,
+            "y": 465,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Storage Depot",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 74,
+            "y": 386,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Main Factory Gate",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 1159,
+            "y": 388,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Lift",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 1354,
+            "y": 245,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Tower Lift",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 1245,
+            "y": 245,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Training Ground Roof",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 1336,
+            "y": 130,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Large Mechon Store",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 1220,
+            "y": 126,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Mechon Factory",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 207,
+            "y": 1230,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Tower Roof",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 225,
+            "y": 985,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Face Maintenance Bay",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 176,
+            "y": 706,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Apocrypha Generator",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "CFLM",
+            "x": 944,
+            "y": 760,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -3353,7 +6878,7 @@
     "name": "Agniratha Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["AgniKeys:3"],
+    "access_rules": ["$AgniAcc"],
     "children": [
       {
         "name": "Factory Transporter",
@@ -3566,6 +7091,244 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Cleas Pillar",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 268,
+            "y": 671,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Residential District 1",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 355,
+            "y": 590,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Residential District 2",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 352,
+            "y": 262,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Calcos Pillar",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 268,
+            "y": 175,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Helas Pillar",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 91,
+            "y": 246,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Dios Pillar",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 91,
+            "y": 600,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Zedonia Plaza",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 341,
+            "y": 1058,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Telethia Bridge",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 363,
+            "y": 1129,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Data Centre",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 1629,
+            "y": 1060,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Legislative District",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 1391,
+            "y": 946,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Judicial District",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 1389,
+            "y": 1174,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Worship Terrace",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 1393,
+            "y": 1060,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Meyneth Cloister",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 829,
+            "y": 1060,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Mechonis Core",
+        "access_rules": ["$CoreAcc"],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AGLM",
+            "x": 1457,
+            "y": 290,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -3573,7 +7336,7 @@
     "name": "Bionis' Interior Second Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["Int2Keys:3"],
+    "access_rules": ["$Int2Acc"],
     "children": [
       {
         "name": "Interior Landing Site",
@@ -3683,6 +7446,125 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Third Lung Bronchus",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BILM",
+            "x": 317,
+            "y": 550,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Second Lung",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BILM",
+            "x": 113,
+            "y": 438,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Aortic Pathway",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BILM",
+            "x": 260,
+            "y": 401,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Venous Plexus",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BILM",
+            "x": 398,
+            "y": 376,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "First Lung",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BILM",
+            "x": 109,
+            "y": 321,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Vein Crossroad",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BILM",
+            "x": 247,
+            "y": 286,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Terminal Vein",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "BILM",
+            "x": 279,
+            "y": 196,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -3690,7 +7572,7 @@
     "name": "Prison Island 2 Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["Pris2Keys:3"],
+    "access_rules": ["$Pris2Acc"],
     "children": [
       {
         "name": "Bridge of Grief",
@@ -3794,6 +7676,216 @@
             "size": 16
           }
         ]
+      },
+      {
+        "name": "Damaged Transporter",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 448,
+            "y": 146,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Central Hall",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 147,
+            "y": 289,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "First Sanctum",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 147,
+            "y": 357,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Second Sanctum",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 232,
+            "y": 221,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Location",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Banquet Hall"
+          },
+          {
+            "name": "Battle Arena"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 596,
+            "y": 266,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Location",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Kitchen"
+          },
+          {
+            "name": "Behemoth Nest"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 662,
+            "y": 266,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Arena",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 799,
+            "y": 261,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Great Canyon",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 494,
+            "y": 607,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Gravina Bridge",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 434,
+            "y": 610,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Corridor of Silence",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 808,
+            "y": 486,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Travalga Bridge",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 781,
+            "y": 685,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Basverg Belfry",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Location"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "PILM2",
+            "x": 784,
+            "y": 799,
+            "size": 16
+          }
+        ]
       }
     ]
   },
@@ -3801,7 +7893,7 @@
     "name": "Memory Space Landmarks",
     "chest_unopened_img": "images/mapicons/Landmark.png",
     "chest_opened_img": "images/mapicons/LandmarkGray.png",
-    "access_rules": ["Pris2Keys:3,MemoryFragments:20"],
+    "access_rules": ["$SpaceAcc"],
     "children": [
       {
         "name": "Saturn",

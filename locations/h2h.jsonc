@@ -10,7 +10,7 @@
         {
           "name": "Reyn & Dunban",
           "access_rules": [
-          "AreaKeys:4,ReynAffinity5,DunbanAffinity5"
+          "$MineAcc,ReynAffinity5,DunbanAffinity5"
           ]
         }
       ],
@@ -29,7 +29,7 @@
         {
           "name": "Reyn & Melia",
           "access_rules": [
-          "AreaKeys:8,ReynAffinity4,MeliaAffinity4"
+          "$VillAcc,ReynAffinity4,MeliaAffinity4"
           ]
         }
       ],
@@ -48,7 +48,7 @@
         {
           "name": "Sharla & Riki",
           "access_rules": [
-          "AreaKeys:8,SharlaAffinity3,RikiAffinity3"
+          "$VillAcc,SharlaAffinity3,RikiAffinity3"
           ]
         }
       ],
@@ -124,7 +124,7 @@
         {
           "name": "Reyn & Sharla",
           "access_rules": [
-          "AreaKeys:2,ReynAffinity4,SharlaAffinity4"
+          "$LegAcc,ReynAffinity4,SharlaAffinity4"
           ]
         }
       ],
@@ -156,7 +156,7 @@
         {
           "name": "Reyn & Seven",
           "access_rules": [
-          "AreaKeys:16,ReynAffinity5,SevenAffinity5"
+          "$ArmAcc,ReynAffinity5,SevenAffinity5"
           ]
         }
       ],
@@ -181,7 +181,7 @@
         {
           "name": "Dunban & Riki",
           "access_rules": [
-          "AreaKeys:8,DunbanAffinity2,RikiAffinity2"
+          "$VillAcc,DunbanAffinity2,RikiAffinity2"
           ]
         }
       ],
@@ -200,7 +200,7 @@
         {
           "name": "Shulk & Reyn",
           "access_rules": [
-          "AreaKeys:20,ShulkAffinity4,ReynAffinity4"
+          "$CoreAcc,ShulkAffinity4,ReynAffinity4"
           ]
         }
       ],
@@ -232,7 +232,7 @@
         {
           "name": "Shulk & Dunban",
           "access_rules": [
-          "AreaKeys:4,ShulkAffinity4,DunbanAffinity4"
+          "$MineAcc,ShulkAffinity4,DunbanAffinity4"
           ]
         }
       ],
@@ -251,7 +251,7 @@
         {
           "name": "Sharla & Dunban",
           "access_rules": [
-          "AreaKeys:4,SharlaAffinity5,DunbanAffinity5"
+          "$MineAcc,SharlaAffinity5,DunbanAffinity5"
           ]
         }
       ],
@@ -276,7 +276,7 @@
         {
           "name": "Reyn & Sharla",
           "access_rules": [
-          "AreaKeys:2,SharlaAffinity2,ReynAffinity2"
+          "$LegAcc,SharlaAffinity2,ReynAffinity2"
           ]
         }
       ],
@@ -295,7 +295,7 @@
         {
           "name": "Reyn & Dunban",
           "access_rules": [
-          "AreaKeys:4,DunbanAffinity2,ReynAffinity2"
+          "$MineAcc,DunbanAffinity2,ReynAffinity2"
           ]
         }
       ],
@@ -314,7 +314,7 @@
         {
           "name": "Shulk & Sharla",
           "access_rules": [
-          "AreaKeys:2,SharlaAffinity2,ShulkAffinity2"
+          "$LegAcc,SharlaAffinity2,ShulkAffinity2"
           ]
         }
       ],
@@ -340,7 +340,7 @@
         {
           "name": "Sharla & Dunban",
           "access_rules": [
-          "AreaKeys:4,SharlaAffinity4,DunbanAffinity4"
+          "$MineAcc,SharlaAffinity4,DunbanAffinity4"
           ]
         }
       ],
@@ -359,7 +359,7 @@
         {
           "name": "Reyn & Dunban",
           "access_rules": [
-          "AreaKeys:4,ReynAffinity4,DunbanAffinity4"
+          "$MineAcc,ReynAffinity4,DunbanAffinity4"
           ]
         }
       ],
@@ -384,7 +384,7 @@
         {
           "name": "Riki & Seven",
           "access_rules": [
-          "AreaKeys:16,RikiAffinity4,SevenAffinity4"
+          "$ArmAcc,RikiAffinity4,SevenAffinity4"
           ]
         }
       ],
@@ -409,7 +409,7 @@
         {
           "name": "Dunban & Seven",
           "access_rules": [
-          "AreaKeys:16,DunbanAffinity4,SevenAffinity4"
+          "$ArmAcc,DunbanAffinity4,SevenAffinity4"
           ]
         }
       ],
@@ -428,7 +428,7 @@
         {
           "name": "Shulk & Reyn",
           "access_rules": [
-          "AreaKeys:20,ShulkAffinity5,ReynAffinity5"
+          "$CoreAcc,ShulkAffinity5,ReynAffinity5"
           ]
         }
       ],
@@ -453,7 +453,7 @@
         {
           "name": "Shulk & Dunban",
           "access_rules": [
-          "AreaKeys:4,ShulkAffinity5,DunbanAffinity5"
+          "$MineAcc,ShulkAffinity5,DunbanAffinity5"
           ]
         }
       ],
@@ -478,7 +478,7 @@
         {
           "name": "Shulk & Sharla",
           "access_rules": [
-          "AreaKeys:4,ShulkAffinity5,SharlaAffinity5,Colony6Special:5"
+          "$Pris2Acc,ShulkAffinity5,SharlaAffinity5,Colony6Special:5"
           ]
         }
       ],
@@ -510,7 +510,7 @@
         {
           "name": "Shulk & Sharla",
           "access_rules": [
-          "AreaKeys:4,ShulkAffinity4,SharlaAffinity4"
+          "$MineAcc,ShulkAffinity4,SharlaAffinity4"
           ]
         }
       ],
@@ -529,7 +529,7 @@
         {
           "name": "Reyn & Sharla",
           "access_rules": [
-          "AreaKeys:4,ReynAffinity5,SharlaAffinity5"
+          "$MineAcc,ReynAffinity5,SharlaAffinity5"
           ]
         }
       ],
@@ -561,7 +561,7 @@
         {
           "name": "Sharla & Riki",
           "access_rules": [
-          "AreaKeys:5,SharlaAffinity5,RikiAffinity5"
+          "$VillAcc,SharlaAffinity5,RikiAffinity5"
           ]
         }
       ],
@@ -580,7 +580,7 @@
         {
           "name": "Dunban & Melia",
           "access_rules": [
-          "AreaKeys:5,DunbanAffinity4,MeliaAffinity4"
+          "$VillAcc,DunbanAffinity4,MeliaAffinity4"
           ]
         }
       ],
@@ -605,7 +605,7 @@
         {
           "name": "Shulk & Dunban",
           "access_rules": [
-          "AreaKeys:5,ShulkAffinity2,DunbanAffinity2"
+          "$MarshAcc,ShulkAffinity2,DunbanAffinity2"
           ]
         }
       ],
@@ -631,7 +631,7 @@
         {
           "name": "Shulk & Melia",
           "access_rules": [
-          "AreaKeys:8,ShulkAffinity2,MeliaAffinity2"
+          "$VillAcc,ShulkAffinity2,MeliaAffinity2"
           ]
         }
       ],
@@ -650,7 +650,7 @@
         {
           "name": "Reyn & Riki",
           "access_rules": [
-          "AreaKeys:8,ReynAffinity4,RikiAffinity4"
+          "$VillAcc,ReynAffinity4,RikiAffinity4"
           ]
         }
       ],
@@ -669,7 +669,7 @@
         {
           "name": "Sharla & Melia",
           "access_rules": [
-          "AreaKeys:8,SharlaAffinity2,MeliaAffinity2"
+          "$VillAcc,SharlaAffinity2,MeliaAffinity2"
           ]
         }
       ],
@@ -695,7 +695,7 @@
         {
           "name": "Melia & Seven",
           "access_rules": [
-          "AreaKeys:16,MeliaAffinity4,SevenAffinity4"
+          "$ArmAcc,MeliaAffinity4,SevenAffinity4"
           ]
         }
       ],
@@ -714,7 +714,7 @@
         {
           "name": "Melia & Riki",
           "access_rules": [
-          "AreaKeys:8,MeliaAffinity2,RikiAffinity2"
+          "$VillAcc,MeliaAffinity2,RikiAffinity2"
           ]
         }
       ],
@@ -733,7 +733,7 @@
         {
           "name": "Shulk & Riki",
           "access_rules": [
-          "AreaKeys:8,ShulkAffinity2,RikiAffinity2"
+          "$VillAcc,ShulkAffinity2,RikiAffinity2"
           ]
         }
       ],
@@ -752,7 +752,7 @@
         {
           "name": "Dunban & Riki",
           "access_rules": [
-          "AreaKeys:8,DunbanAffinity5,RikiAffinity5"
+          "$VillAcc,DunbanAffinity5,RikiAffinity5"
           ]
         }
       ],
@@ -771,7 +771,7 @@
         {
           "name": "Sharla & Seven",
           "access_rules": [
-          "AreaKeys:16,SharlaAffinity4,SevenAffinity4"
+          "$ArmAcc,SharlaAffinity4,SevenAffinity4"
           ]
         }
       ],
@@ -790,7 +790,7 @@
         {
           "name": "Dunban & Melia",
           "access_rules": [
-          "AreaKeys:8,MeliaAffinity2,DunbanAffinity2"
+          "$VillAcc,MeliaAffinity2,DunbanAffinity2"
           ]
         }
       ],
@@ -816,7 +816,7 @@
         {
           "name": "Sharla & Dunban",
           "access_rules": [
-          "AreaKeys:9,SharlaAffinity2,DunbanAffinity2"
+          "$ArmAcc,SharlaAffinity2,DunbanAffinity2"
           ]
         }
       ],
@@ -835,7 +835,7 @@
         {
           "name": "Reyn & Riki",
           "access_rules": [
-          "AreaKeys:9,ReynAffinity2,RikiAffinity2"
+          "$SeaAcc,ReynAffinity2,RikiAffinity2"
           ]
         }
       ],
@@ -854,7 +854,7 @@
         {
           "name": "Sharla & Riki",
           "access_rules": [
-          "AreaKeys:9,SharlaAffinity2,RikiAffinity2"
+          "$SeaAcc,SharlaAffinity2,RikiAffinity2"
           ]
         }
       ],
@@ -879,7 +879,7 @@
         {
           "name": "Riki & Seven",
           "access_rules": [
-          "AreaKeys:16,RikiAffinity5,SevenAffinity5"
+          "$ArmAcc,RikiAffinity5,SevenAffinity5"
           ]
         }
       ],
@@ -898,7 +898,6 @@
     "name": "Alcamoth H2H",
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
-    "access_rules": ["AreaKeys:10"],
     "children": [
       {
         "name": "The Forefathers",
@@ -906,7 +905,7 @@
         {
           "name": "Riki & Seven",
           "access_rules": [
-          "RikiAffinity2,SevenAffinity2"
+          "$ArmAcc,RikiAffinity2,SevenAffinity2"
           ]
         }
       ],
@@ -931,7 +930,7 @@
         {
           "name": "Shulk & Melia",
           "access_rules": [
-          "ShulkAffinity4,MeliaAffinity4"
+          "$AlcaAcc,ShulkAffinity4,MeliaAffinity4"
           ]
         }
       ],
@@ -956,7 +955,7 @@
         {
           "name": "Melia & Seven",
           "access_rules": [
-          "MeliaAffinity2,SevenAffinity2"
+          "$ArmAcc,MeliaAffinity2,SevenAffinity2"
           ]
         }
       ],
@@ -975,7 +974,7 @@
         {
           "name": "Dunban & Seven",
           "access_rules": [
-          "DunbanAffinity2,SevenAffinity2"
+          "$ArmAcc,DunbanAffinity2,SevenAffinity2"
           ]
         }
       ],
@@ -1000,7 +999,7 @@
         {
           "name": "Sharla & Melia",
           "access_rules": [
-          "SharlaAffinity4,MeliaAffinity4"
+          "$AlcaAcc,SharlaAffinity4,MeliaAffinity4"
           ]
         }
       ],
@@ -1025,7 +1024,7 @@
         {
           "name": "Reyn & Melia",
           "access_rules": [
-          "ReynAffinity5,MeliaAffinity5"
+          "$TombAcc,ReynAffinity5,MeliaAffinity5"
           ]
         }
       ],
@@ -1050,7 +1049,6 @@
     "name": "High Entia Tomb H2H",
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
-    "access_rules": ["AreaKeys:11"],
     "children": [
       {
         "name": "Echoes of Ancient Times",
@@ -1058,7 +1056,7 @@
         {
           "name": "Reyn & Melia",
           "access_rules": [
-          "ReynAffinity2,MeliaAffinity2"
+          "$TombAcc,ReynAffinity2,MeliaAffinity2"
           ]
         }
       ],
@@ -1083,7 +1081,7 @@
         {
           "name": "Shulk & Melia",
           "access_rules": [
-          "AreaKeys:20,ShulkAffinity5,MeliaAffinity5"
+          "$CoreAcc,ShulkAffinity5,MeliaAffinity5"
           ]
         }
       ],
@@ -1108,7 +1106,6 @@
     "name": "Valak Mountain H2H",
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
-    "access_rules": ["AreaKeys:13"],
     "children": [
       {
         "name": "A Snowy Hot Spring",
@@ -1116,7 +1113,7 @@
         {
           "name": "Shulk & Riki",
           "access_rules": [
-          "ShulkAffinity4,RikiAffinity4"
+          "$ValakAcc,ShulkAffinity4,RikiAffinity4"
           ]
         }
       ],
@@ -1141,7 +1138,7 @@
         {
           "name": "Reyn & Seven",
           "access_rules": [
-          "ReynAffinity4,SevenAffinity4"
+          "$CoreAcc,ReynAffinity4,SevenAffinity4"
           ]
         }
       ],
@@ -1166,7 +1163,7 @@
         {
           "name": "Dunban & Riki",
           "access_rules": [
-          "DunbanAffinity2,RikiAffinity2"
+          "$ValakAcc,DunbanAffinity2,RikiAffinity2"
           ]
         }
       ],
@@ -1185,7 +1182,6 @@
     "name": "Fallen Arm H2H",
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
-    "access_rules": ["AreaKeys:16"],
     "children": [
       {
         "name": "A Family of Two",
@@ -1193,7 +1189,7 @@
         {
           "name": "Dunban & Seven",
           "access_rules": [
-          "DunbanAffinity5,SevenAffinity5"
+          "$ArmAcc,DunbanAffinity5,SevenAffinity5"
           ]
         }
       ],
@@ -1212,7 +1208,7 @@
         {
           "name": "Sharla & Seven",
           "access_rules": [
-          "SharlaAffinity2,SevenAffinity2"
+          "$ArmAcc,SharlaAffinity2,SevenAffinity2"
           ]
         }
       ],
@@ -1231,7 +1227,7 @@
         {
           "name": "Melia & Riki",
           "access_rules": [
-          "MeliaAffinity4,RikiAffinity4"
+          "$ArmAcc,MeliaAffinity4,RikiAffinity4"
           ]
         }
       ],
@@ -1250,7 +1246,7 @@
         {
           "name": "Dunban & Melia",
           "access_rules": [
-          "DunbanAffinity5,MeliaAffinity5"
+          "$ArmAcc,DunbanAffinity5,MeliaAffinity5"
           ]
         }
       ],
@@ -1269,7 +1265,7 @@
         {
           "name": "Shulk & Seven",
           "access_rules": [
-          "ShulkAffinity4,SevenAffinity4"
+          "$ArmAcc,ShulkAffinity4,SevenAffinity4"
           ]
         }
       ],
@@ -1294,7 +1290,7 @@
         {
           "name": "Melia & Seven",
           "access_rules": [
-          "MeliaAffinity5,SevenAffinity5"
+          "$ArmAcc,MeliaAffinity5,SevenAffinity5"
           ]
         }
       ],
@@ -1319,7 +1315,7 @@
         {
           "name": "Shulk & Riki",
           "access_rules": [
-          "ShulkAffinity5,RikiAffinity5"
+          "$ArmAcc,ShulkAffinity5,RikiAffinity5"
           ]
         }
       ],
@@ -1338,7 +1334,6 @@
     "name": "Bionis' Interior Second H2H",
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
-    "access_rules": ["AreaKeys:21"],
     "children": [
       {
         "name": "Fiora's Body",
@@ -1346,7 +1341,7 @@
         {
           "name": "Sharla & Seven",
           "access_rules": [
-          "SharlaAffinity5,SevenAffinity5"
+          "$Int2Acc,SharlaAffinity5,SevenAffinity5"
           ]
         }
       ],
@@ -1371,7 +1366,7 @@
         {
           "name": "Melia & Riki",
           "access_rules": [
-          "MeliaAffinity5,RikiAffinity5"
+          "$Int2Acc,MeliaAffinity5,RikiAffinity5"
           ]
         }
       ],
@@ -1396,7 +1391,6 @@
     "name": "Prison Island Second H2H",
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
-    "access_rules": ["AreaKeys:22"],
     "children": [
       {
         "name": "Before the Final Battle",
@@ -1404,7 +1398,7 @@
         {
           "name": "Shulk & Seven",
           "access_rules": [
-          "ShulkAffinity5,SevenAffinity5"
+          "$Pris2Acc,ShulkAffinity5,SevenAffinity5"
           ]
         }
       ],
@@ -1429,7 +1423,7 @@
         {
           "name": "Reyn & Riki",
           "access_rules": [
-          "ReynAffinity5,RikiAffinity5"
+          "$Pris2Acc,ReynAffinity5,RikiAffinity5"
           ]
         }
       ],
@@ -1448,7 +1442,7 @@
         {
           "name": "Sharla & Melia",
           "access_rules": [
-          "SharlaAffinity5,MeliaAffinity5"
+          "$Pris2Acc,SharlaAffinity5,MeliaAffinity5"
           ]
         }
       ],

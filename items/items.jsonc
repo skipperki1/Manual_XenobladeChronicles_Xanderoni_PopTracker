@@ -24,6 +24,38 @@
     "codes": "consumable,required,MemoryFragments"
   },
   {
+    "name": "Victory Condition",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/mapicons/Monado3.png",
+        "codes": "VictoryCon,VictoryZanza"
+      },
+      {
+        "img": "images/mapicons/Landmark.png",
+        "codes": "VictoryCon,VictorySightseer",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/Veg.png",
+        "codes": "VictoryCon,VictoryCollector",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/mapicons/UM.png",
+        "codes": "VictoryCon,VictoryMonster",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/mapicons/DeadUM.png",
+        "codes": "VictoryCon,VictorySuperMonster",
+        "inherit_codes": false
+      }
+    ]
+  },
+  {
     "name": "Shulk",
     "type": "static",
     "img": "images/items/Shulk.png",
@@ -1943,16 +1975,17 @@
     "initial_quantity": 0,
     "overlay_background": "#000000",
     "overlay_font_size": 10,
-    "codes": "HuntLicense"
+    "codes": "HuntLicenses"
   },
   {
     "name": "Progressive Hunting License",
     "type": "progressive",
-    "allow_disabled": false,
+    "allow_disabled": true,
     "initial_stage_idx": 0,
     "stages": [
       {
         "img": "images/items/C9.png",
+        "disabled_img": "images/items/Affinity0.png",
         "codes": "HuntLicense,HuntLicense1"
       },
       {
@@ -2052,16 +2085,17 @@
     "initial_quantity": 0,
     "overlay_background": "#000000",
     "overlay_font_size": 10,
-    "codes": "ProgVeg"
+    "codes": "ProgVegs"
   },
   {
     "name": "Progressive Veg",
     "type": "progressive",
-    "allow_disabled": false,
+    "allow_disabled": true,
     "initial_stage_idx": 0,
     "stages": [
       {
         "img": "images/items/C9.png",
+        "disabled_img": "images/items/Affinity0.png",
         "codes": "ProgVeg,ProgVeg1"
       },
       {
@@ -2126,16 +2160,17 @@
     "initial_quantity": 0,
     "overlay_background": "#000000",
     "overlay_font_size": 10,
-    "codes": "ProgFruit"
+    "codes": "ProgFruits"
   },
   {
     "name": "Progressive Fruit",
     "type": "progressive",
-    "allow_disabled": false,
+    "allow_disabled": true,
     "initial_stage_idx": 0,
     "stages": [
       {
         "img": "images/items/C9.png",
+        "disabled_img": "images/items/Affinity0.png",
         "codes": "ProgFruit,ProgFruit1"
       },
       {
@@ -2174,18 +2209,18 @@
         "inherit_codes": true
       },
       {
-        "img": "images/items/AG.png",
+        "img": "images/items/FA.png",
         "codes": "ProgFruit,ProgFruit9",
         "inherit_codes": true
       },
       {
-        "img": "images/items/PI.png",
+        "img": "images/items/AG.png",
         "codes": "ProgFruit,ProgFruit10",
         "inherit_codes": true
       },
       {
-        "img": "images/items/Strange.png",
-        "codes": "ProgFruit,ProgFruit10",
+        "img": "images/items/PI.png",
+        "codes": "ProgFruit,ProgFruit11",
         "inherit_codes": true
       }
     ]
@@ -2200,16 +2235,17 @@
     "initial_quantity": 0,
     "overlay_background": "#000000",
     "overlay_font_size": 10,
-    "codes": "ProgFlower"
+    "codes": "ProgFlowers"
   },
   {
     "name": "Progressive Flower",
     "type": "progressive",
-    "allow_disabled": false,
+    "allow_disabled": true,
     "initial_stage_idx": 0,
     "stages": [
       {
         "img": "images/items/C9.png",
+        "disabled_img": "images/items/Affinity0.png",
         "codes": "ProgFlower,ProgFlower1"
       },
       {
@@ -2274,16 +2310,17 @@
     "initial_quantity": 0,
     "overlay_background": "#000000",
     "overlay_font_size": 10,
-    "codes": "ProgAnimal"
+    "codes": "ProgAnimals"
   },
   {
     "name": "Progressive Animal",
     "type": "progressive",
-    "allow_disabled": false,
+    "allow_disabled": true,
     "initial_stage_idx": 0,
     "stages": [
       {
         "img": "images/items/TC.png",
+        "disabled_img": "images/items/Affinity0.png",
         "codes": "ProgAnimal,ProgAnimal1"
       },
       {
@@ -2348,16 +2385,17 @@
     "initial_quantity": 0,
     "overlay_background": "#000000",
     "overlay_font_size": 10,
-    "codes": "ProgBug"
+    "codes": "ProgBugs"
   },
   {
     "name": "Progressive Bug",
     "type": "progressive",
-    "allow_disabled": false,
+    "allow_disabled": true,
     "initial_stage_idx": 0,
     "stages": [
       {
         "img": "images/items/C9.png",
+        "disabled_img": "images/items/Affinity0.png",
         "codes": "ProgBug,ProgBug1"
       },
       {
@@ -2366,57 +2404,57 @@
         "inherit_codes": true
       },
       {
-        "img": "images/items/TC.png",
+        "img": "images/items/BL.png",
         "codes": "ProgBug,ProgBug3",
         "inherit_codes": true
       },
       {
-        "img": "images/items/TC.png",
+        "img": "images/items/EM.png",
         "codes": "ProgBug,ProgBug4",
         "inherit_codes": true
       },
       {
-        "img": "images/items/TC.png",
+        "img": "images/items/MF.png",
         "codes": "ProgBug,ProgBug5",
         "inherit_codes": true
       },
       {
-        "img": "images/items/TC.png",
+        "img": "images/items/FV.png",
         "codes": "ProgBug,ProgBug6",
         "inherit_codes": true
       },
       {
-        "img": "images/items/TC.png",
+        "img": "images/items/HT.png",
         "codes": "ProgBug,ProgBug7",
         "inherit_codes": true
       },
       {
-        "img": "images/items/TC.png",
+        "img": "images/items/GF.png",
         "codes": "ProgBug,ProgBug8",
         "inherit_codes": true
       },
       {
-        "img": "images/items/TC.png",
+        "img": "images/items/MF.png",
         "codes": "ProgBug,ProgBug9",
         "inherit_codes": true
       },
       {
-        "img": "images/items/TC.png",
+        "img": "images/items/CF.png",
         "codes": "ProgBug,ProgBug10",
         "inherit_codes": true
       },
       {
-        "img": "images/items/TC.png",
+        "img": "images/items/AG.png",
         "codes": "ProgBug,ProgBug11",
         "inherit_codes": true
       },
       {
-        "img": "images/items/TC.png",
+        "img": "images/items/PI.png",
         "codes": "ProgBug,ProgBug12",
         "inherit_codes": true
       },
       {
-        "img": "images/items/TC.png",
+        "img": "images/items/Strange.png",
         "codes": "ProgBug,ProgBug13",
         "inherit_codes": true
       }
@@ -2432,16 +2470,17 @@
     "initial_quantity": 0,
     "overlay_background": "#000000",
     "overlay_font_size": 10,
-    "codes": "ProgNature"
+    "codes": "ProgNatures"
   },
   {
     "name": "Progressive Nature",
     "type": "progressive",
-    "allow_disabled": false,
+    "allow_disabled": true,
     "initial_stage_idx": 0,
     "stages": [
       {
         "img": "images/items/TC.png",
+        "disabled_img": "images/items/Affinity0.png",
         "codes": "ProgNature,ProgNature1"
       },
       {
@@ -2465,28 +2504,33 @@
         "inherit_codes": true
       },
       {
-        "img": "images/items/FA.png",
+        "img": "images/items/VM.png",
         "codes": "ProgNature,ProgNature6",
         "inherit_codes": true
       },
       {
-        "img": "images/items/MF.png",
+        "img": "images/items/FA.png",
         "codes": "ProgNature,ProgNature7",
         "inherit_codes": true
       },
       {
-        "img": "images/items/CF.png",
+        "img": "images/items/MF.png",
         "codes": "ProgNature,ProgNature8",
         "inherit_codes": true
       },
       {
-        "img": "images/items/AG.png",
+        "img": "images/items/CF.png",
         "codes": "ProgNature,ProgNature9",
         "inherit_codes": true
       },
       {
-        "img": "images/items/PI.png",
+        "img": "images/items/AG.png",
         "codes": "ProgNature,ProgNature10",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/PI.png",
+        "codes": "ProgNature,ProgNature11",
         "inherit_codes": true
       }
     ]
@@ -2501,16 +2545,17 @@
     "initial_quantity": 0,
     "overlay_background": "#000000",
     "overlay_font_size": 10,
-    "codes": "ProgParts"
+    "codes": "ProgPartss"
   },
   {
     "name": "Progressive Parts",
     "type": "progressive",
-    "allow_disabled": false,
+    "allow_disabled": true,
     "initial_stage_idx": 0,
     "stages": [
       {
         "img": "images/items/C9.png",
+        "disabled_img": "images/items/Affinity0.png",
         "codes": "ProgParts,ProgParts1"
       },
       {
@@ -2585,16 +2630,17 @@
     "initial_quantity": 0,
     "overlay_background": "#000000",
     "overlay_font_size": 10,
-    "codes": "ProgStrange"
+    "codes": "ProgStranges"
   },
   {
     "name": "Progressive Strange",
     "type": "progressive",
-    "allow_disabled": false,
+    "allow_disabled": true,
     "initial_stage_idx": 0,
     "stages": [
       {
         "img": "images/items/C9.png",
+        "disabled_img": "images/items/Affinity0.png",
         "codes": "ProgStrange,ProgStrange1"
       },
       {
@@ -2708,211 +2754,211 @@
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,TephKeys"
   },
   {
     "name": "Bionis' Leg Keys",
     "type": "consumable",
     "img": "images/items/BL.png",
-    "max_quantity": 3,
+    "max_quantity": 1,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,LegKeys"
   },
   {
     "name": "Colony 6 Keys",
     "type": "consumable",
     "img": "images/items/C6.png",
-    "max_quantity": 3,
+    "max_quantity": 1,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,Col6Keys"
   },
   {
     "name": "Ether Mine Keys",
     "type": "consumable",
     "img": "images/items/EM.png",
-    "max_quantity": 3,
+    "max_quantity": 1,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,MineKeys"
   },
   {
     "name": "Satorl Marsh Keys",
     "type": "consumable",
     "img": "images/items/SM.png",
-    "max_quantity": 3,
+    "max_quantity": 1,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,MarshKeys"
   },
   {
     "name": "Bionis' Interior (1st) Keys",
     "type": "consumable",
     "img": "images/items/BI.png",
-    "max_quantity": 3,
+    "max_quantity": 1,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,Int1Keys"
   },
   {
     "name": "Makna Forest Keys",
     "type": "consumable",
     "img": "images/items/MF.png",
-    "max_quantity": 3,
+    "max_quantity": 1,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,ForestKeys"
   },
   {
     "name": "Frontier Village Keys",
     "type": "consumable",
     "img": "images/items/FV.png",
-    "max_quantity": 3,
+    "max_quantity": 1,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,VillageKeys"
   },
   {
     "name": "Eryth Sea Keys",
     "type": "consumable",
     "img": "images/items/ES.png",
-    "max_quantity": 3,
+    "max_quantity": 1,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,SeaKeys"
   },
   {
     "name": "Alcamoth Keys",
     "type": "consumable",
     "img": "images/items/AL.png",
-    "max_quantity": 3,
+    "max_quantity": 1,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,AlcaKeys"
   },
   {
     "name": "High Entia Tomb Keys",
     "type": "consumable",
     "img": "images/items/HT.png",
-    "max_quantity": 3,
+    "max_quantity": 1,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,TombKeys"
   },
   {
     "name": "Prison Island (1st) Keys",
     "type": "consumable",
     "img": "images/items/PI.png",
-    "max_quantity": 3,
+    "max_quantity": 2,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,Pris1Keys"
   },
   {
     "name": "Valak Mountain Keys",
     "type": "consumable",
     "img": "images/items/VM.png",
-    "max_quantity": 3,
+    "max_quantity": 2,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,MountKeys"
   },
   {
     "name": "Sword Valley Keys",
     "type": "consumable",
     "img": "images/items/SV.png",
-    "max_quantity": 3,
+    "max_quantity": 2,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,ValleyKeys"
   },
   {
     "name": "Galahad Fortress Keys",
     "type": "consumable",
     "img": "images/items/GF.png",
-    "max_quantity": 3,
+    "max_quantity": 2,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,FortKeys"
   },
   {
     "name": "Fallen Arm Keys",
     "type": "consumable",
     "img": "images/items/FA.png",
-    "max_quantity": 3,
+    "max_quantity": 2,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,ArmKeys"
   },
   {
     "name": "Mechonis Field Keys",
     "type": "consumable",
     "img": "images/items/MF.png",
-    "max_quantity": 3,
+    "max_quantity": 2,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,FieldKeys"
   },
   {
     "name": "Central Factory Keys",
     "type": "consumable",
     "img": "images/items/CF.png",
-    "max_quantity": 3,
+    "max_quantity": 2,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,FactKeys"
   },
   {
@@ -2924,7 +2970,7 @@
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,AgniKeys"
   },
   {
@@ -2936,7 +2982,7 @@
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,CoreKeys"
   },
   {
@@ -2948,7 +2994,7 @@
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,Int2Keys"
   },
   {
@@ -2960,7 +3006,7 @@
     "decrement": 1,
     "initial_quantity": 0,
     "overlay_background": "#000000",
-    "overlay_font_size": 8,
+    "overlay_font_size": 16,
     "codes": "consumable,required,Pris2Keys"
   },
   {
@@ -2978,7 +3024,7 @@
     "codes": "collectable,Col9Collect,Col9Veg,CoolPotato"
   },
   {
-    "name": "Red Lettuce",
+    "name": "RedLettuce",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
@@ -3020,7 +3066,7 @@
     "codes": "collectable,Col9Collect,Col9Flo,MoonFlower"
   },
   {
-    "name": "Dawn Hydrangea",
+    "name": "DawnHydrangea",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
@@ -4784,115 +4830,1836 @@
     "codes": "collectable,FactCollect,FactStr,PartsNoble"
   },
   {
-    "name": "PartsNoble",
+    "name": "JuicyBlueberry",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniFru,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniFru,JuicyBlueberry"
   },
   {
-    "name": "PartsNoble",
+    "name": "SweetLime",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniFru,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniFru,SweetLime"
   },
   {
-    "name": "PartsNoble",
+    "name": "SpicyBanana",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniFru,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniFru,SpicyBanana"
   },
   {
-    "name": "PartsNoble",
+    "name": "LewisiaSilver",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniFlo,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniFlo,LewisiaSilver"
   },
   {
-    "name": "PartsNoble",
+    "name": "FreesiaCyst",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniFlo,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniFlo,FreesiaCyst"
   },
   {
-    "name": "PartsNoble",
+    "name": "BellflowerCrystal",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniFlo,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniFlo,BellflowerCrystal"
   },
   {
-    "name": "PartsNoble",
+    "name": "ElectricCricket",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniBug,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniBug,ElectricCricket"
   },
   {
-    "name": "PartsNoble",
+    "name": "ScissorBug",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniBug,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniBug,ScissorBug"
   },
   {
-    "name": "PartsNoble",
+    "name": "MissingTree",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniNat,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniNat,MissingTree"
   },
   {
-    "name": "PartsNoble",
+    "name": "FortuneFeather",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniNat,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniNat,FortuneFeather"
   },
   {
-    "name": "PartsNoble",
+    "name": "FancyBolt",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniPar,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniPar,FancyBolt"
   },
   {
-    "name": "PartsNoble",
+    "name": "BlueLightAmp",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniPar,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniPar,BlueLightAmp"
   },
   {
-    "name": "PartsNoble",
+    "name": "FairyTaleDiode",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniPar,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniPar,FairyTaleDiode"
   },
   {
-    "name": "PartsNoble",
+    "name": "GrapeSpring",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniPar,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniPar,GrapeSpring"
   },
   {
-    "name": "PartsNoble",
+    "name": "ErythBlue",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniStr,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniStr,ErythBlue"
   },
   {
-    "name": "PartsNoble",
+    "name": "DramaticNight",
     "type": "toggle",
     "allow_disabled": true,
     "initial_active_state": true,
-    "codes": "collectable,AgniCollect,AgniStr,PartsNoble"
+    "codes": "collectable,AgniCollect,AgniStr,DramaticNight"
+  },
+  {
+    "name": "DryLemon",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisFru,DryLemon"
+  },
+  {
+    "name": "DeathLychee",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisFru,DeathLychee"
+  },
+  {
+    "name": "HellRaspberry",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisFru,HellRaspberry"
+  },
+  {
+    "name": "DeadlyKiwi",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisFru,DeadlyKiwi"
+  },
+  {
+    "name": "DancingSquirell",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisAni,DancingSquirell"
+  },
+  {
+    "name": "LightningWeasel",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisAni,LightningWeasel"
+  },
+  {
+    "name": "AngryMonkey",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisAni,AngryMonkey"
+  },
+  {
+    "name": "SenoritaScarab",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisBug,SenoritaScarab"
+  },
+  {
+    "name": "EmperorBeetle",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisBug,EmperorBeetle"
+  },
+  {
+    "name": "AbsurdBranch",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisNat,AbsurdBranch"
+  },
+  {
+    "name": "InsanityMoss",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisNat,InsanityMoss"
+  },
+  {
+    "name": "WhiteCover",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisPar,WhiteCover"
+  },
+  {
+    "name": "ModernResistor",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisPar,ModernResistor"
+  },
+  {
+    "name": "GreenCam",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisPar,GreenCam"
+  },
+  {
+    "name": "StrongScrew",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisPar,StrongScrew"
+  },
+  {
+    "name": "BlueGlow",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisStr,BlueGlow"
+  },
+  {
+    "name": "BlueBlood",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,PrisCollect,PrisStr,BlueBlood"
+  },
+  {
+    "name": "MinuteMantis",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,OtherCollect,OtherBug,MinuteMantis"
+  },
+  {
+    "name": "LoveBeetle",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,OtherCollect,OtherBug,LoveBeetle"
+  },
+  {
+    "name": "GoldenCog",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,OtherCollect,OtherPar,GoldenCog"
+  },
+  {
+    "name": "AngelEngineY",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,OtherCollect,OtherPar,AngelEngineY"
+  },
+  {
+    "name": "ThunderCompass",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,OtherCollect,OtherPar,ThunderCompass"
+  },
+  {
+    "name": "CoinofFortune",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,OtherCollect,OtherStr,CoinofFortune"
+  },
+  {
+    "name": "LoveSource",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,OtherCollect,OtherStr,LoveSource"
+  },
+  {
+    "name": "Nanoceros",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AlcaFCCollect,AlcaFCAni,Nanoceros"
+  },
+  {
+    "name": "ManeCatFC",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,AlcaFCCollect,AlcaFCAni,ManeCatFC"
+  },
+  {
+    "name": "RainbowCarrot",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderVeg,RainbowCarrot"
+  },
+  {
+    "name": "HighLeaf",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderVeg,HighLeaf"
+  },
+  {
+    "name": "CreamWheat",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderVeg,CreamWheat"
+  },
+  {
+    "name": "MorrowCob",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderVeg,MorrowCob"
+  },
+  {
+    "name": "Kilopumpkin",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderVeg,Kilopumpkin"
+  },
+  {
+    "name": "AngelBream",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderAni,AngelBream"
+  },
+  {
+    "name": "Gentleclam",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderAni,Gentleclam"
+  },
+  {
+    "name": "SkyMole",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderAni,SkyMole"
+  },
+  {
+    "name": "BladeBird",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderAni,BladeBird"
+  },
+  {
+    "name": "PalmtopElephant",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderAni,PalmtopElephant"
+  },
+  {
+    "name": "HalfPart",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderPar,HalfPart"
+  },
+  {
+    "name": "SnareWire",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderPar,SnareWire"
+  },
+  {
+    "name": "SubzeroSteel",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderPar,SubzeroSteel"
+  },
+  {
+    "name": "BlazeChain",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderPar,BlazeChain"
+  },
+  {
+    "name": "CogenialCogs",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderPar,CogenialCogs"
+  },
+  {
+    "name": "SwirlySlash",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderStr,SwirlySlash"
+  },
+  {
+    "name": "HeroNipper",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderStr,HeroNipper"
+  },
+  {
+    "name": "Highlightning",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderStr,Highlightning"
+  },
+  {
+    "name": "DubiousSculpture",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderStr,DubiousSculpture"
+  },
+  {
+    "name": "Shimmertumble",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "collectable,ShoulderCollect,ShoulderStr,Shimmertumble"
+  },
+  {
+    "name": "CollectionVictory",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "CollectionVictory"
+  },
+  {
+    "name": "LocEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "LocEn"
+  },
+  {
+    "name": "LanEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "LanEn"
+  },
+  {
+    "name": "StQEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "StQEn"
+  },
+  {
+    "name": "MoQEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "MoQEn"
+  },
+  {
+    "name": "CQEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "CQEn"
+  },
+  {
+    "name": "SeQEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "SeQEn"
+  },
+  {
+    "name": "ChQEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "ChQEn"
+  },
+  {
+    "name": "AQEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "AQEn"
+  },
+  {
+    "name": "MaQEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "MaQEn"
+  },
+  {
+    "name": "UMEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "UMEn"
+  },
+  {
+    "name": "SBEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "SBEn"
+  },
+  {
+    "name": "ColEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "ColEn"
+  },
+  {
+    "name": "H2HEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "H2HEn"
+  },
+  {
+    "name": "AffEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "AffEn"
+  },
+  {
+    "name": "AchEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "AchEn"
+  },
+  {
+    "name": "DevEn",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "DevEn"
+  },
+  {
+    "name": "Artsanity",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "Artsanity"
+  },
+  {
+    "name": "Colsanity",
+    "type": "toggle",
+    "allow_disabled": true,
+    "initial_active_state": true,
+    "codes": "Colsanity"
+  },
+  {
+    "name": "Reyn Progressive Weapon",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/gunlance.png",
+        "codes": "ReynWeapon,ReynWeapon1"
+      },
+      {
+        "img": "images/items/gunlance.png",
+        "codes": "ReynWeapon,ReynWeapon2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/gunlance.png",
+        "codes": "ReynWeapon,ReynWeapon3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Reyn Progressive Head",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/head.png",
+        "codes": "ReynHead,ReynHead1"
+      },
+      {
+        "img": "images/items/head.png",
+        "codes": "ReynHead,ReynHead2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/head.png",
+        "codes": "ReynHead,ReynHead3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Reyn Progressive Torso",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/torso.png",
+        "codes": "ReynTorso,ReynTorso1"
+      },
+      {
+        "img": "images/items/torso.png",
+        "codes": "ReynTorso,ReynTorso2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/torso.png",
+        "codes": "ReynTorso,ReynTorso3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Reyn Progressive Arms",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/arm.png",
+        "codes": "ReynArms,ReynArms1"
+      },
+      {
+        "img": "images/items/arm.png",
+        "codes": "ReynArms,ReynArms2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/arm.png",
+        "codes": "ReynArms,ReynArms3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Reyn Progressive Legs",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/legs.png",
+        "codes": "ReynLegs,ReynLegs1"
+      },
+      {
+        "img": "images/items/legs.png",
+        "codes": "ReynLegs,ReynLegs2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/legs.png",
+        "codes": "ReynLegs,ReynLegs3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Reyn Progressive Feet",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/feet.png",
+        "codes": "ReynFeet,ReynFeet1"
+      },
+      {
+        "img": "images/items/feet.png",
+        "codes": "ReynFeet,ReynFeet2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/feet.png",
+        "codes": "ReynFeet,ReynFeet3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Shulk Progressive Weapon",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/Monado.png",
+        "codes": "ShulkWeapon,ShulkWeapon1"
+      }
+    ]
+  },
+  {
+    "name": "Shulk Progressive Head",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/head.png",
+        "codes": "ShulkHead,ShulkHead1"
+      },
+      {
+        "img": "images/items/head.png",
+        "codes": "ShulkHead,ShulkHead2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/head.png",
+        "codes": "ShulkHead,ShulkHead3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Shulk Progressive Torso",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/torso.png",
+        "codes": "ShulkTorso,ShulkTorso1"
+      },
+      {
+        "img": "images/items/torso.png",
+        "codes": "ShulkTorso,ShulkTorso2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/torso.png",
+        "codes": "ShulkTorso,ShulkTorso3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Shulk Progressive Arms",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/arm.png",
+        "codes": "ShulkArms,ShulkArms1"
+      },
+      {
+        "img": "images/items/arm.png",
+        "codes": "ShulkArms,ShulkArms2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/arm.png",
+        "codes": "ShulkArms,ShulkArms3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Shulk Progressive Legs",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/legs.png",
+        "codes": "ShulkLegs,ShulkLegs1"
+      },
+      {
+        "img": "images/items/legs.png",
+        "codes": "ShulkLegs,ShulkLegs2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/legs.png",
+        "codes": "ShulkLegs,ShulkLegs3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Shulk Progressive Feet",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/feet.png",
+        "codes": "ShulkFeet,ShulkFeet1"
+      },
+      {
+        "img": "images/items/feet.png",
+        "codes": "ShulkFeet,ShulkFeet2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/feet.png",
+        "codes": "ShulkFeet,ShulkFeet3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Sharla Progressive Weapon",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/rifle.png",
+        "codes": "SharlaWeapon,SharlaWeapon1"
+      },
+      {
+        "img": "images/items/rifle.png",
+        "codes": "SharlaWeapon,SharlaWeapon2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/rifle.png",
+        "codes": "SharlaWeapon,SharlaWeapon3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Sharla Progressive Head",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/head.png",
+        "codes": "SharlaHead,SharlaHead1"
+      },
+      {
+        "img": "images/items/head.png",
+        "codes": "SharlaHead,SharlaHead2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/head.png",
+        "codes": "SharlaHead,SharlaHead3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Sharla Progressive Torso",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/torso.png",
+        "codes": "SharlaTorso,SharlaTorso1"
+      },
+      {
+        "img": "images/items/torso.png",
+        "codes": "SharlaTorso,SharlaTorso2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/torso.png",
+        "codes": "SharlaTorso,SharlaTorso3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Sharla Progressive Arms",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/arm.png",
+        "codes": "SharlaArms,SharlaArms1"
+      },
+      {
+        "img": "images/items/arm.png",
+        "codes": "SharlaArms,SharlaArms2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/arm.png",
+        "codes": "SharlaArms,SharlaArms3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Sharla Progressive Legs",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/legs.png",
+        "codes": "SharlaLegs,SharlaLegs1"
+      },
+      {
+        "img": "images/items/legs.png",
+        "codes": "SharlaLegs,SharlaLegs2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/legs.png",
+        "codes": "SharlaLegs,SharlaLegs3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Sharla Progressive Feet",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/feet.png",
+        "codes": "SharlaFeet,SharlaFeet1"
+      },
+      {
+        "img": "images/items/feet.png",
+        "codes": "SharlaFeet,SharlaFeet2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/feet.png",
+        "codes": "SharlaFeet,SharlaFeet3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Dunban Progressive Weapon",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/sword.png",
+        "codes": "DunbanWeapon,DunbanWeapon1"
+      },
+      {
+        "img": "images/items/sword.png",
+        "codes": "DunbanWeapon,DunbanWeapon2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/sword.png",
+        "codes": "DunbanWeapon,DunbanWeapon3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Dunban Progressive Head",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/head.png",
+        "codes": "DunbanHead,DunbanHead1"
+      },
+      {
+        "img": "images/items/head.png",
+        "codes": "DunbanHead,DunbanHead2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/head.png",
+        "codes": "DunbanHead,DunbanHead3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Dunban Progressive Torso",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/torso.png",
+        "codes": "DunbanTorso,DunbanTorso1"
+      },
+      {
+        "img": "images/items/torso.png",
+        "codes": "DunbanTorso,DunbanTorso2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/torso.png",
+        "codes": "DunbanTorso,DunbanTorso3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Dunban Progressive Arms",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/arm.png",
+        "codes": "DunbanArms,DunbanArms1"
+      },
+      {
+        "img": "images/items/arm.png",
+        "codes": "DunbanArms,DunbanArms2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/arm.png",
+        "codes": "DunbanArms,DunbanArms3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Dunban Progressive Legs",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/legs.png",
+        "codes": "DunbanLegs,DunbanLegs1"
+      },
+      {
+        "img": "images/items/legs.png",
+        "codes": "DunbanLegs,DunbanLegs2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/legs.png",
+        "codes": "DunbanLegs,DunbanLegs3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Dunban Progressive Feet",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/feet.png",
+        "codes": "DunbanFeet,DunbanFeet1"
+      },
+      {
+        "img": "images/items/feet.png",
+        "codes": "DunbanFeet,DunbanFeet2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/feet.png",
+        "codes": "DunbanFeet,DunbanFeet3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Riki Progressive Weapon",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/biter.png",
+        "codes": "RikiWeapon,RikiWeapon1"
+      },
+      {
+        "img": "images/items/biter.png",
+        "codes": "RikiWeapon,RikiWeapon2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/biter.png",
+        "codes": "RikiWeapon,RikiWeapon3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Riki Progressive Head",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/head.png",
+        "codes": "RikiHead,RikiHead1"
+      },
+      {
+        "img": "images/items/head.png",
+        "codes": "RikiHead,RikiHead2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/head.png",
+        "codes": "RikiHead,RikiHead3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Riki Progressive Torso",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/torso.png",
+        "codes": "RikiTorso,RikiTorso1"
+      },
+      {
+        "img": "images/items/torso.png",
+        "codes": "RikiTorso,RikiTorso2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/torso.png",
+        "codes": "RikiTorso,RikiTorso3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Riki Progressive Arms",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/arm.png",
+        "codes": "RikiArms,RikiArms1"
+      },
+      {
+        "img": "images/items/arm.png",
+        "codes": "RikiArms,RikiArms2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/arm.png",
+        "codes": "RikiArms,RikiArms3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Riki Progressive Legs",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/legs.png",
+        "codes": "RikiLegs,RikiLegs1"
+      },
+      {
+        "img": "images/items/legs.png",
+        "codes": "RikiLegs,RikiLegs2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/legs.png",
+        "codes": "RikiLegs,RikiLegs3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Riki Progressive Feet",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/feet.png",
+        "codes": "RikiFeet,RikiFeet1"
+      },
+      {
+        "img": "images/items/feet.png",
+        "codes": "RikiFeet,RikiFeet2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/feet.png",
+        "codes": "RikiFeet,RikiFeet3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Melia Progressive Weapon",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/staff.png",
+        "codes": "MeliaWeapon,MeliaWeapon1"
+      },
+      {
+        "img": "images/items/staff.png",
+        "codes": "MeliaWeapon,MeliaWeapon2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/staff.png",
+        "codes": "MeliaWeapon,MeliaWeapon3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Melia Progressive Head",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/head.png",
+        "codes": "MeliaHead,MeliaHead1"
+      },
+      {
+        "img": "images/items/head.png",
+        "codes": "MeliaHead,MeliaHead2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/head.png",
+        "codes": "MeliaHead,MeliaHead3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Melia Progressive Torso",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/torso.png",
+        "codes": "MeliaTorso,MeliaTorso1"
+      },
+      {
+        "img": "images/items/torso.png",
+        "codes": "MeliaTorso,MeliaTorso2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/torso.png",
+        "codes": "MeliaTorso,MeliaTorso3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Melia Progressive Arms",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/arm.png",
+        "codes": "MeliaArms,MeliaArms1"
+      },
+      {
+        "img": "images/items/arm.png",
+        "codes": "MeliaArms,MeliaArms2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/arm.png",
+        "codes": "MeliaArms,MeliaArms3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Melia Progressive Legs",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/legs.png",
+        "codes": "MeliaLegs,MeliaLegs1"
+      },
+      {
+        "img": "images/items/legs.png",
+        "codes": "MeliaLegs,MeliaLegs2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/legs.png",
+        "codes": "MeliaLegs,MeliaLegs3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Melia Progressive Feet",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/feet.png",
+        "codes": "MeliaFeet,MeliaFeet1"
+      },
+      {
+        "img": "images/items/feet.png",
+        "codes": "MeliaFeet,MeliaFeet2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/feet.png",
+        "codes": "MeliaFeet,MeliaFeet3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Seven Progressive Weapon",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/blades.png",
+        "codes": "SevenWeapon,SevenWeapon1"
+      },
+      {
+        "img": "images/items/blades.png",
+        "codes": "SevenWeapon,SevenWeapon2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/blades.png",
+        "codes": "SevenWeapon,SevenWeapon3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Seven Progressive Head",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/head.png",
+        "codes": "SevenHead,SevenHead1"
+      },
+      {
+        "img": "images/items/head.png",
+        "codes": "SevenHead,SevenHead2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/head.png",
+        "codes": "SevenHead,SevenHead3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Seven Progressive Torso",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/torso.png",
+        "codes": "SevenTorso,SevenTorso1"
+      },
+      {
+        "img": "images/items/torso.png",
+        "codes": "SevenTorso,SevenTorso2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/torso.png",
+        "codes": "SevenTorso,SevenTorso3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Seven Progressive Arms",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/arm.png",
+        "codes": "SevenArms,SevenArms1"
+      },
+      {
+        "img": "images/items/arm.png",
+        "codes": "SevenArms,SevenArms2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/arm.png",
+        "codes": "SevenArms,SevenArms3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Seven Progressive Legs",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/legs.png",
+        "codes": "SevenLegs,SevenLegs1"
+      },
+      {
+        "img": "images/items/legs.png",
+        "codes": "SevenLegs,SevenLegs2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/legs.png",
+        "codes": "SevenLegs,SevenLegs3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Seven Progressive Feet",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/feet.png",
+        "codes": "SevenFeet,SevenFeet1"
+      },
+      {
+        "img": "images/items/feet.png",
+        "codes": "SevenFeet,SevenFeet2",
+        "img_mods": "overlay|images/items/Slot.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/feet.png",
+        "codes": "SevenFeet,SevenFeet3",
+        "img_mods": "overlay|images/items/Unique.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Progressive Fire Gem",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/fire.png",
+        "codes": "Fire,Fire1",
+        "img_mods": "overlay|images/items/Gem1.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/fire.png",
+        "codes": "Fire,Fire2",
+        "img_mods": "overlay|images/items/Gem2.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/fire.png",
+        "codes": "Fire,Fire3",
+        "img_mods": "overlay|images/items/Gem3.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/fire.png",
+        "codes": "Fire,Fire4",
+        "img_mods": "overlay|images/items/Gem4.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/fire.png",
+        "codes": "Fire,Fire5",
+        "img_mods": "overlay|images/items/Gem5.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/fire.png",
+        "codes": "Fire,Fire6",
+        "img_mods": "overlay|images/items/Gem6.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Progressive Wind Gem",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/wind.png",
+        "codes": "Wind,Wind1",
+        "img_mods": "overlay|images/items/Gem1.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/wind.png",
+        "codes": "Wind,Wind2",
+        "img_mods": "overlay|images/items/Gem2.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/wind.png",
+        "codes": "Wind,Wind3",
+        "img_mods": "overlay|images/items/Gem3.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/wind.png",
+        "codes": "Wind,Wind4",
+        "img_mods": "overlay|images/items/Gem4.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/wind.png",
+        "codes": "Wind,Wind5",
+        "img_mods": "overlay|images/items/Gem5.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/wind.png",
+        "codes": "Wind,Wind6",
+        "img_mods": "overlay|images/items/Gem6.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Progressive Electric Gem",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/electric.png",
+        "codes": "Electric,Electric1",
+        "img_mods": "overlay|images/items/Gem1.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/electric.png",
+        "codes": "Electric,Electric2",
+        "img_mods": "overlay|images/items/Gem2.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/electric.png",
+        "codes": "Electric,Electric3",
+        "img_mods": "overlay|images/items/Gem3.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/electric.png",
+        "codes": "Electric,Electric4",
+        "img_mods": "overlay|images/items/Gem4.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/electric.png",
+        "codes": "Electric,Electric5",
+        "img_mods": "overlay|images/items/Gem5.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/electric.png",
+        "codes": "Electric,Electric6",
+        "img_mods": "overlay|images/items/Gem6.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Progressive Earth Gem",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/earth.png",
+        "codes": "Earth,Earth1",
+        "img_mods": "overlay|images/items/Gem1.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/earth.png",
+        "codes": "Earth,Earth2",
+        "img_mods": "overlay|images/items/Gem2.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/earth.png",
+        "codes": "Earth,Earth3",
+        "img_mods": "overlay|images/items/Gem3.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/earth.png",
+        "codes": "Earth,Earth4",
+        "img_mods": "overlay|images/items/Gem4.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/earth.png",
+        "codes": "Earth,Earth5",
+        "img_mods": "overlay|images/items/Gem5.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/earth.png",
+        "codes": "Earth,Earth6",
+        "img_mods": "overlay|images/items/Gem6.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Progressive Ice Gem",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/ice.png",
+        "codes": "Ice,Ice1",
+        "img_mods": "overlay|images/items/Gem1.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/ice.png",
+        "codes": "Ice,Ice2",
+        "img_mods": "overlay|images/items/Gem2.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/ice.png",
+        "codes": "Ice,Ice3",
+        "img_mods": "overlay|images/items/Gem3.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/ice.png",
+        "codes": "Ice,Ice4",
+        "img_mods": "overlay|images/items/Gem4.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/ice.png",
+        "codes": "Ice,Ice5",
+        "img_mods": "overlay|images/items/Gem5.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/ice.png",
+        "codes": "Ice,Ice6",
+        "img_mods": "overlay|images/items/Gem6.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Progressive Water Gem",
+    "type": "progressive",
+    "allow_disabled": true,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/water.png",
+        "codes": "Water,Water1",
+        "img_mods": "overlay|images/items/Gem1.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/water.png",
+        "codes": "Water,Water2",
+        "img_mods": "overlay|images/items/Gem2.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/water.png",
+        "codes": "Water,Water3",
+        "img_mods": "overlay|images/items/Gem3.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/water.png",
+        "codes": "Water,Water4",
+        "img_mods": "overlay|images/items/Gem4.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/water.png",
+        "codes": "Water,Water5",
+        "img_mods": "overlay|images/items/Gem5.png",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/water.png",
+        "codes": "Water,Water6",
+        "img_mods": "overlay|images/items/Gem6.png",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Goal",
+    "type": "static",
+    "img": "images/items/Goal.png",
+    "codes":"static,dummyItem,Goal"
   }
 ]

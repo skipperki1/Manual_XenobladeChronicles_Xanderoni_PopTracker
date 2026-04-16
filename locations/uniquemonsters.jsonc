@@ -1,7 +1,7 @@
 [
   {
     "name": "Colony 9 Unique Monsters",
-    "access_rules": ["C9Hunt"],
+    "access_rules": ["HuntLicense1"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "children": [
@@ -29,7 +29,7 @@
       },
       {
         "name": "UM: Itinerant Dorothea",
-        "access_rules": ["C9Hunt,AreaKeys:1"],
+        "access_rules": ["HuntLicense1,$TephAcc"],
         "sections": [
           {
             "name": "Lv.6 (Day)"
@@ -52,7 +52,7 @@
       },
       {
         "name": "UM: Evil Rhangrot",
-        "access_rules": ["C9Hunt,AreaKeys:1"],
+        "access_rules": ["HuntLicense1,$TephAcc"],
         "sections": [
           {
             "name": "Lv.6"
@@ -75,7 +75,7 @@
       },
       {
         "name": "UM: Lake Magdalena",
-        "access_rules": ["C9Hunt,AreaKeys:1"],
+        "access_rules": ["HuntLicense1,$TephAcc"],
         "sections": [
           {
             "name": "Lv.6 (Night)"
@@ -92,7 +92,7 @@
       },
       {
         "name": "UM: Speedy Ramshyde",
-        "access_rules": ["C9Hunt,AreaKeys:2"],
+        "access_rules": ["HuntLicense1,$LegAcc"],
         "sections": [
           {
             "name": "Lv.10"
@@ -115,7 +115,7 @@
       },
       {
         "name": "UM: Enchanting Grune",
-        "access_rules": ["C9Hunt,AreaKeys:2"],
+        "access_rules": ["HuntLicense1,$LegAcc"],
         "sections": [
           {
             "name": "Lv.13"
@@ -138,7 +138,7 @@
       },
       {
         "name": "UM: Dark Murkamor",
-        "access_rules": ["C9Hunt,AreaKeys:3"],
+        "access_rules": ["HuntLicense1,$Col6Acc"],
         "sections": [
           {
             "name": "Lv.18 (Night)"
@@ -161,7 +161,7 @@
       },
       {
         "name": "UM: Gentle Mother Armu",
-        "access_rules": ["C9Hunt,AreaKeys:6"],
+        "access_rules": ["HuntLicense1,$Int1Acc"],
         "sections": [
           {
             "name": "Lv.37"
@@ -184,7 +184,7 @@
       },
       {
         "name": "UM: Impenetrable Redrob",
-        "access_rules": ["C9Hunt,AreaKeys:6"],
+        "access_rules": ["HuntLicense1,$Int1Acc"],
         "sections": [
           {
             "name": "Lv.38 (Night)"
@@ -210,11 +210,11 @@
         "sections": [
           {
             "name": "Lv.39",
-            "access_rules": ["C9Hunt,AreaKeys:6"]
+            "access_rules": ["HuntLicense1,$Int1Acc"]
           },
           {
             "name": "Lv.44",
-            "access_rules": ["C9Hunt,AreaKeys:7"]
+            "access_rules": ["HuntLicense1,$MaknaAcc"]
           }
         ],
         "map_locations": [
@@ -234,7 +234,7 @@
       },
       {
         "name": "UM: Gentle Rodriguez",
-        "access_rules": ["C9Hunt,AreaKeys:7"],
+        "access_rules": ["HuntLicense1,$MaknaAcc"],
         "sections": [
           {
             "name": "Lv.40"
@@ -257,7 +257,7 @@
       },
       {
         "name": "UM: Flailing Bracken",
-        "access_rules": ["C9Hunt,AreaKeys:18"],
+        "access_rules": ["HuntLicense1,$FactAcc"],
         "sections": [
           {
             "name": "Lv.73"
@@ -287,7 +287,7 @@
     "children": [
       {
         "name": "Metal Face",
-        "access_rules": ["AreaKeys:1"],
+        "access_rules": ["$TephAcc"],
         "sections": [
           {
             "name": "Boss: Metal Face"
@@ -304,7 +304,7 @@
       },
       {
         "name": "Ancient Machines",
-        "access_rules": ["AreaKeys:1"],
+        "access_rules": ["$TephAcc"],
         "sections": [
           {
             "name": "Boss: Ancient Machines"
@@ -323,7 +323,7 @@
   },
   {
     "name": "Tephra Cave Unique Monsters",
-    "access_rules": ["TCHunt,AreaKeys:1"],
+    "access_rules": ["HuntLicense2,$TephAcc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "children": [
@@ -351,7 +351,7 @@
       },
       {
         "name": "UM: Erratic Goliante",
-        "access_rules": ["AreaKeys:20"],
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.97"
@@ -384,7 +384,7 @@
       },
       {
         "name": "UM: Judicious Bunnitzol",
-        "access_rules": ["AreaKeys:20"],
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.94"
@@ -429,7 +429,7 @@
       },
       {
         "name": "UM: Musical Vanflare",
-        "access_rules": ["AreaKeys:20"],
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.93"
@@ -452,7 +452,7 @@
       },
       {
         "name": "UM: Plump Sprahda",
-        "access_rules": ["AreaKeys:20"],
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.92"
@@ -475,7 +475,7 @@
       },
       {
         "name": "UM: Protective Torquidon",
-        "access_rules": ["AreaKeys:20"],
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.96"
@@ -492,7 +492,7 @@
       },
       {
         "name": "UM: Reckless Galdon",
-        "access_rules": ["AreaKeys:20"],
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.95"
@@ -553,7 +553,7 @@
       },
       {
         "name": "UM: Dazzling Tolosnia",
-        "access_rules": ["AreaKeys:20"],
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.97"
@@ -576,7 +576,7 @@
       },
       {
         "name": "UM: Firework Geldesia",
-        "access_rules": ["AreaKeys:20"],
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.98"
@@ -593,7 +593,7 @@
       },
       {
         "name": "UM: Reckless Zanden",
-        "access_rules": ["AreaKeys:20"],
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.98"
@@ -617,7 +617,7 @@
     "children": [
       {
         "name": "Arachno Queen",
-        "access_rules": ["AreaKeys:1"],
+        "access_rules": ["$TephAcc"],
         "sections": [
           {
             "name": "Boss: Arachno Queen"
@@ -636,12 +636,13 @@
   },
   {
     "name": "Bionis' Leg Unique Monsters",
-    "access_rules": ["BLHunt,AreaKeys:2"],
+    "access_rules": ["HuntLicense3,$LegAcc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "children": [
       {
         "name": "UM: Armoured Rockwell",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.82 (Rain)"
@@ -664,6 +665,7 @@
       },
       {
         "name": "UM: Canyon Valencia",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.78 (Clear)"
@@ -680,6 +682,7 @@
       },
       {
         "name": "UM: Clifftop Bayern",
+        "access_rules": ["$MarshAcc"],
         "sections": [
           {
             "name": "Lv.32"
@@ -702,6 +705,7 @@
       },
       {
         "name": "UM: Field Altrich",
+        "access_rules": ["$CoreAcc"],
         "sections": [
           {
             "name": "Lv.76"
@@ -724,6 +728,7 @@
       },
       {
         "name": "UM: Mysterious Barnaby",
+        "access_rules": ["$CoreAcc"],
         "sections": [
           {
             "name": "Lv.75"
@@ -812,6 +817,7 @@
       },
       {
         "name": "UM: Territorial Rotbart",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.81"
@@ -929,7 +935,7 @@
     "children": [
       {
         "name": "Spiral Valley",
-        "access_rules": ["AreaKeys:2"],
+        "access_rules": ["$LegAcc"],
         "sections": [
           {
             "name": "Boss: Mechon M71"
@@ -941,7 +947,7 @@
             "name": "UM: Immovable Gonzalez (Lv.90)",
             "chest_unopened_img": "images/mapicons/UM.png",
             "chest_opened_img": "images/mapicons/DeadUM.png",
-            "access_rules": ["BLHunt"]
+            "access_rules": ["$Pris2Acc"]
           }
         ],
         "map_locations": [
@@ -957,7 +963,7 @@
   },
   {
     "name": "Colony 6 Unique Monsters",
-    "access_rules": ["C6Hunt,AreaKeys:3"],
+    "access_rules": ["HuntLicense4,$Col6Acc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "children": [
@@ -988,7 +994,7 @@
         "sections": [
           {
             "name": "Lv.25",
-            "access_rules": ["AreaKeys:4"]
+            "access_rules": ["$MineAcc"]
           }
         ],
         "map_locations": [
@@ -1015,7 +1021,7 @@
     "children": [
       {
         "name": "Bosses",
-        "access_rules": ["AreaKeys:20"],
+        "access_rules": ["$CoreAcc"],
         "sections": [
           {
             "name": "Boss: Sureny Telethia"
@@ -1037,7 +1043,7 @@
   },
   {
     "name": "Ether Mine Unique Monsters",
-    "access_rules": ["EMHunt,AreaKeys:4"],
+    "access_rules": ["HuntLicense5,$MineAcc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "children": [
@@ -1110,7 +1116,7 @@
     "children": [
       {
         "name": "Bosses",
-        "access_rules": ["AreaKeys:4"],
+        "access_rules": ["$MineAcc"],
         "sections": [
           {
             "name": "Boss: Xord"
@@ -1129,7 +1135,7 @@
   },
   {
     "name": "Satorl Marsh Unique Monsters",
-    "access_rules": ["SMHunt,AreaKeys:5"],
+    "access_rules": ["HuntLicense6,$MarshAcc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "children": [
@@ -1201,6 +1207,7 @@
       },
       {
         "name": "Superboss: Despotic Arsene",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.108"
@@ -1223,6 +1230,7 @@
       },
       {
         "name": "UM: Indomitable Daulton",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.85"
@@ -1349,6 +1357,7 @@
       },
       {
         "name": "UM: Veteran Yozel",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.83"
@@ -1371,6 +1380,7 @@
       },
       {
         "name": "UM: Eternal Palsadia",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.91"
@@ -1400,7 +1410,7 @@
     "children": [
       {
         "name": "Bosses",
-        "access_rules": ["AreaKeys:5"],
+        "access_rules": ["$MarshAcc"],
         "sections": [
           {
             "name": "Boss: Satorl Guardian"
@@ -1419,7 +1429,7 @@
   },
   {
     "name": "Makna Forest Unique Monsters",
-    "access_rules": ["MaFoHunt,AreaKeys:7"],
+    "access_rules": ["HuntLicense7,$MaknaAcc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "children": [
@@ -1472,7 +1482,7 @@
         "sections": [
           {
             "name": "Lv.46",
-            "access_rules": ["AreaKeys:12"]
+            "access_rules": ["$Pris1Acc"]
           }
         ],
         "map_locations": [
@@ -1505,7 +1515,7 @@
         "sections": [
           {
             "name": "Lv.98",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$Pris2Acc"]
           }
         ],
         "map_locations": [
@@ -1550,7 +1560,7 @@
         "sections": [
           {
             "name": "Lv.99",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$Pris2Acc"]
           }
         ],
         "map_locations": [
@@ -1611,7 +1621,7 @@
         "sections": [
           {
             "name": "Lv.96 (Quest)",
-            "access_rules": ["AreaKeys:20"]
+            "access_rules": ["$Pris2Acc"]
           }
         ],
         "map_locations": [
@@ -1638,7 +1648,7 @@
     "children": [
       {
         "name": "Leone Telethia",
-        "access_rules": ["AreaKeys:8"],
+        "access_rules": ["$VillAcc"],
         "sections": [
           {
             "name": "Boss: Leone Telethia"
@@ -1661,7 +1671,7 @@
       },
       {
         "name": "Puera Telethia",
-        "access_rules": ["AreaKeys:7"],
+        "access_rules": ["$MaknaAcc"],
         "sections": [
           {
             "name": "Boss: Puera Telethia"
@@ -1680,12 +1690,13 @@
   },
   {
     "name": "Eryth Sea Unique Monsters",
-    "access_rules": ["ESHunt,AreaKeys:9"],
+    "access_rules": ["HuntLicense8,$SeaAcc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "children": [
       {
         "name": "UM: Bizarre Ragoel",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.88"
@@ -1708,6 +1719,7 @@
       },
       {
         "name": "UM: Clamorous Dablon",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.92 (Thunder)"
@@ -1740,6 +1752,7 @@
       },
       {
         "name": "UM: Deadly Medorlo",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.93"
@@ -1800,6 +1813,7 @@
       },
       {
         "name": "UM: Lightspeed Sonid",
+        "access_rules": ["$AlcaAcc"],
         "sections": [
           {
             "name": "Lv.44"
@@ -1866,6 +1880,7 @@
       },
       {
         "name": "UM: Sacred Zagamei",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.89"
@@ -1888,6 +1903,7 @@
       },
       {
         "name": "UM: Stormy Belagon",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.87"
@@ -1977,7 +1993,7 @@
     "children": [
       {
         "name": "Skyray",
-        "access_rules": ["AreaKeys:10"],
+        "access_rules": ["$TombAcc"],
         "sections": [
           {
             "name": "Boss: Skyray"
@@ -1996,7 +2012,7 @@
   },
   {
     "name": "High Entia Tomb Unique Monsters",
-    "access_rules": ["HTHunt,AreaKeys:11"],
+    "access_rules": ["HuntLicense9,$TombAcc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "children": [
@@ -2050,7 +2066,7 @@
     "name": "High Entia Tomb Bosses",
     "chest_unopened_img": "images/mapicons/Boss.png",
     "chest_opened_img": "images/mapicons/DeadBoss.png",
-    "access_rules": ["AreaKeys:11"],
+    "access_rules": ["$TombAcc"],
     "children": [
       {
         "name": "Orluga Rufus",
@@ -2096,7 +2112,7 @@
     "name": "Prison Island 1 Bosses",
     "chest_unopened_img": "images/mapicons/Boss.png",
     "chest_opened_img": "images/mapicons/DeadBoss.png",
-    "access_rules": ["AreaKeys:12"],
+    "access_rules": ["$Pris1Acc"],
     "children": [
       {
         "name": "Metal Face",
@@ -2120,7 +2136,7 @@
     "name": "Valak Mountain Unique Monsters",
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
-    "access_rules": ["VMHunt,AreaKeys:13"],
+    "access_rules": ["HuntLicense10,$ValakAcc"],
     "children": [
       {
         "name": "UM: Agile Barbatos",
@@ -2146,6 +2162,7 @@
       },
       {
         "name": "Superboss: Avalanche Abaasy",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.120 (Night, Blizzard)"
@@ -2181,6 +2198,7 @@
       },
       {
         "name": "Superboss: Blizzard Belgazas",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.114"
@@ -2211,7 +2229,8 @@
             "name": "UM: Moonlight Paimon (Lv.46)"
           },
           {
-            "name": "UM: Exposure Wolfol (Lv.97)"
+            "name": "UM: Exposure Wolfol (Lv.97)",
+            "access_rules": ["$Pris2Acc"]
           }
         ],
         "map_locations": [
@@ -2225,6 +2244,7 @@
       },
       {
         "name": "Superboss: Final Marcus",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.100 (Night, Not Blizzard)"
@@ -2329,6 +2349,7 @@
       },
       {
         "name": "UM: Wandering Amon",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.98 (Night)"
@@ -2355,7 +2376,7 @@
     "name": "Valak Mountain Bosses",
     "chest_unopened_img": "images/mapicons/Boss.png",
     "chest_opened_img": "images/mapicons/DeadBoss.png",
-    "access_rules": ["AreaKeys:13"],
+    "access_rules": ["$ValakAcc"],
     "children": [
       {
         "name": "Mumkhar",
@@ -2385,7 +2406,7 @@
     "name": "Sword Valley Unique Monsters",
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
-    "access_rules": ["SVHunt,AreaKeys:14"],
+    "access_rules": ["HuntLicense11,$SwordAcc"],
     "children": [
       {
         "name": "UM: Benevolent Aim",
@@ -2545,7 +2566,7 @@
     "name": "Sword Valley Bosses",
     "chest_unopened_img": "images/mapicons/Boss.png",
     "chest_opened_img": "images/mapicons/DeadBoss.png",
-    "access_rules": ["AreaKeys:14"],
+    "access_rules": ["$SwordAcc"],
     "children": [
       {
         "name": "Mumkhar",
@@ -2569,7 +2590,7 @@
     "name": "Galahad Fortress Unique Monsters",
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
-    "access_rules": ["GFHunt,AreaKeys:15"],
+    "access_rules": ["HuntLicense12,$FortAcc"],
     "children": [
       {
         "name": "UM: Glacier Acon",
@@ -2631,7 +2652,7 @@
     "name": "Galahad Fortress Bosses",
     "chest_unopened_img": "images/mapicons/Boss.png",
     "chest_opened_img": "images/mapicons/DeadBoss.png",
-    "access_rules": ["AreaKeys:15"],
+    "access_rules": ["$FortAcc"],
     "children": [
       {
         "name": "Gold Face",
@@ -2655,7 +2676,7 @@
     "name": "Fallen Arm Unique Monsters",
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
-    "access_rules": ["FAHunt,AreaKeys:16"],
+    "access_rules": ["HuntLicense13,$ArmAcc"],
     "children": [
       {
         "name": "UM: Aged Leraje",
@@ -2703,6 +2724,7 @@
       },
       {
         "name": "Superboss: Ancient Daedala",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.105"
@@ -2747,6 +2769,7 @@
       },
       {
         "name": "UM: Powerful Eligos",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.80"
@@ -2813,6 +2836,7 @@
       },
       {
         "name": "UM: Wicked Sallos",
+        "access_rules": ["$Pris2Acc"],
         "sections": [
           {
             "name": "Lv.95"
@@ -2833,7 +2857,7 @@
     "name": "Mechonis Field Unique Monsters",
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
-    "access_rules": ["MeFiHunt,AreaKeys:17"],
+    "access_rules": ["HuntLicense14,$FieldAcc"],
     "children": [
       {
         "name": "UM: Amorous Arca",
@@ -2945,7 +2969,7 @@
     "name": "Mechonis Field Bosses",
     "chest_unopened_img": "images/mapicons/Boss.png",
     "chest_opened_img": "images/mapicons/DeadBoss.png",
-    "access_rules": ["AreaKeys:17"],
+    "access_rules": ["$FieldAcc"],
     "children": [
       {
         "name": "Jade Face",
@@ -2975,7 +2999,7 @@
     "name": "Central Factory Unique Monsters",
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
-    "access_rules": ["CFHunt,AreaKeys:18"],
+    "access_rules": ["HuntLicense15,$FactAcc"],
     "children": [
       {
         "name": "UM: Balanced Palamedes",
@@ -3039,6 +3063,7 @@
       },
       {
         "name": "UM: Magestic Mordred",
+        "access_rules": ["$AgniAcc"],
         "sections": [
           {
             "name": "Lv.70"
@@ -3169,7 +3194,7 @@
     "name": "Central Factory Bosses",
     "chest_unopened_img": "images/mapicons/Boss.png",
     "chest_opened_img": "images/mapicons/DeadBoss.png",
-    "access_rules": ["AreaKeys:18"],
+    "access_rules": ["$FactAcc"],
     "children": [
       {
         "name": "Apocrypha Generator",
@@ -3199,7 +3224,7 @@
     "name": "Agniratha Unique Monsters",
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
-    "access_rules": ["AGHunt,AreaKeys:19"],
+    "access_rules": ["HuntLicense16,$AgniAcc"],
     "children": [
       {
         "name": "UM: Vagabond Allocer",
@@ -3383,7 +3408,7 @@
     "name": "Agniratha Bosses",
     "chest_unopened_img": "images/mapicons/Boss.png",
     "chest_opened_img": "images/mapicons/DeadBoss.png",
-    "access_rules": ["AreaKeys:19"],
+    "access_rules": ["$AgniAcc"],
     "children": [
       {
         "name": "Meyneth Shrine",
@@ -3426,7 +3451,7 @@
     "name": "Bionis' Interior Second Unique Monsters",
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
-    "access_rules": ["BIHunt,AreaKeys:21"],
+    "access_rules": ["HuntLicense17,$Int2Acc"],
     "children": [
       {
         "name": "UM: Active Impulso",
@@ -3604,7 +3629,7 @@
     "name": "Prison Island 2 Unique Monsters",
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
-    "access_rules": ["PIHunt,AreaKeys:22"],
+    "access_rules": ["HuntLicense18,$Pris2Acc"],
     "children": [
       {
         "name": "UM: Abnormal Clone Barg",
@@ -3788,7 +3813,7 @@
     "name": "Prison Island 2 Bosses",
     "chest_unopened_img": "images/mapicons/Boss.png",
     "chest_opened_img": "images/mapicons/DeadBoss.png",
-    "access_rules": ["AreaKeys:22"],
+    "access_rules": ["$Pris2Acc"],
     "children": [
       {
         "name": "Arena",

@@ -1392,14 +1392,29 @@
               }
             },
             {
-              "type": "group",
-              "header": "Collectopaedia",
+              "type": "array",
               "dock": "right",
-              "content": {
-                "type": "layout",
-                "v_alignment": "center",
-                "key": "CollectopaediaHorizontal"
-              }
+              "content": [
+                {
+                  "type": "group",
+                  "header": "Collectopaedia",
+                  "dock": "right",
+                  "content": {
+                    "type": "layout",
+                    "v_alignment": "center",
+                    "key": "CollectopaediaHorizontal"
+                  }
+                },{
+                  "type": "group",
+                  "header": "Area Keys",
+                  "dock": "right",
+                  "content": {
+                    "type": "layout",
+                    "v_alignment": "center",
+                    "key": "AreaKeysH"
+                  }
+                }
+              ]
             }
           ]
         },
