@@ -20,7 +20,7 @@ SETTINGS_MAPPING = {
  ["DevelopmentLevels"] = "DevEn",
  ["Artsanity"] = "Artsanity",
  ["collectopaediasanity"] = "Colsanity",
- ["goal"] = "VictoryCondition",
+ ["goal"] = "VictoryCon",
 }
 
 ITEM_MAPPING = {

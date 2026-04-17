@@ -1,0 +1,3 @@
+{
+    "allow_deferred_logic_update": true // set initial value of Tracker.AllowDeferredLogicUpdate
+}

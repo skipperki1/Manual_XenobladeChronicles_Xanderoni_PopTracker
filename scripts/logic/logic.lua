@@ -15,7 +15,7 @@ function has_more_then_n_consumable(n)
 end
 
 function TephAcc()
-    if Tracker:FindObjectForCode("TephKeys").AcquiredCount == 3 then
+    if Tracker:FindObjectForCode("TephKeys").AcquiredCount > 0 then
         return 1
     end
     return 0

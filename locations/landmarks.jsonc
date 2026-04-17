@@ -1552,6 +1552,9 @@
         "sections": [
           {
             "name": "Landmark"
+          },
+          {
+            "name": "Location"
           }
         ],
         "map_locations": [
@@ -1878,23 +1881,6 @@
             "map": "EMLM",
             "x": 913,
             "y": 632,
-            "size": 16
-          }
-        ]
-      },
-      {
-        "name": "Freight Elevator",
-        "access_rules": [],
-        "sections": [
-          {
-            "name": "Location"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "EMLM",
-            "x": 269,
-            "y": 1205,
             "size": 16
           }
         ]
@@ -2358,8 +2344,8 @@
         "map_locations": [
           {
             "map": "BI1Full",
-            "x": 924,
-            "y": 359,
+            "x": 279,
+            "y": 201,
             "size": 16
           }
         ]
@@ -5021,8 +5007,8 @@
         "map_locations": [
           {
             "map": "SVLM",
-            "x": 818,
-            "y": 279,
+            "x": 780,
+            "y": 303,
             "size": 16
           }
         ]
@@ -6747,8 +6733,8 @@
         "map_locations": [
           {
             "map": "CFLM",
-            "x": 1354,
-            "y": 245,
+            "x": 1341,
+            "y": 327,
             "size": 16
           }
         ]
@@ -7766,7 +7752,7 @@
         ]
       },
       {
-        "name": "Location",
+        "name": "Locations",
         "access_rules": [],
         "sections": [
           {

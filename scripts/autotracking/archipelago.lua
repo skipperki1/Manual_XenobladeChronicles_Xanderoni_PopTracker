@@ -219,14 +219,14 @@ function onClear(slot_data)
 
 	for k, v in pairs(SETTINGS_MAPPING) do
 		obj = Tracker:FindObjectForCode(v)
-			print(SLOT_DATA)
-		local value = SLOT_DATA[k]
+			print(slot_data[k])
+		local value = slot_data[k]
 		local tog = value == 1
 
 		if k == "goal" then
 			Tracker:FindObjectForCode("VictoryCon").CurrentStage = value
 		else
-			Tracker:FindObjectForCode(obj).Active = tog
+			obj.Active = tog
 		end
 	end
 	Tracker.BulkUpdate = false
@@ -332,7 +332,51 @@ end
 
 ScriptHost:AddOnLocationSectionChangedHandler("manual", function(section)
     local sectionID = section.FullID
-    if sectionID == "Victory/Zanza The Devine/Clear" then
+    if sectionID == "Victory/Victory/Zanza The Divine" then
+        if section.AvailableChestCount == 0 then
+            local res = Archipelago:StatusUpdate(Archipelago.ClientStatus.GOAL)
+            if res then
+                print("Sent Victory")
+                local obj = Tracker:FindObjectForCode("event_cynthia")
+                obj.Active = true
+            else
+                print("Error sending Victory")
+            end
+        end
+	elseif sectionID == "Victory/Victory/Sightseer" then
+        if section.AvailableChestCount == 0 then
+            local res = Archipelago:StatusUpdate(Archipelago.ClientStatus.GOAL)
+            if res then
+                print("Sent Victory")
+                local obj = Tracker:FindObjectForCode("event_cynthia")
+                obj.Active = true
+            else
+                print("Error sending Victory")
+            end
+        end
+	elseif sectionID == "Victory/Victory/Collector" then
+        if section.AvailableChestCount == 0 then
+            local res = Archipelago:StatusUpdate(Archipelago.ClientStatus.GOAL)
+            if res then
+                print("Sent Victory")
+                local obj = Tracker:FindObjectForCode("event_cynthia")
+                obj.Active = true
+            else
+                print("Error sending Victory")
+            end
+        end
+	elseif sectionID == "Victory/Victory/Monster Hunter" then
+        if section.AvailableChestCount == 0 then
+            local res = Archipelago:StatusUpdate(Archipelago.ClientStatus.GOAL)
+            if res then
+                print("Sent Victory")
+                local obj = Tracker:FindObjectForCode("event_cynthia")
+                obj.Active = true
+            else
+                print("Error sending Victory")
+            end
+        end
+	elseif sectionID == "Victory/Victory/Super Monster Hunter" then
         if section.AvailableChestCount == 0 then
             local res = Archipelago:StatusUpdate(Archipelago.ClientStatus.GOAL)
             if res then
