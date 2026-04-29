@@ -5273,6 +5273,7 @@
   {
     "name": "LocEn",
     "type": "toggle",
+    "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "LocEn"
@@ -5280,6 +5281,7 @@
   {
     "name": "LanEn",
     "type": "toggle",
+    "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "LanEn"
@@ -5287,6 +5289,7 @@
   {
     "name": "StQEn",
     "type": "toggle",
+    "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "StQEn"
@@ -5294,6 +5297,7 @@
   {
     "name": "MoQEn",
     "type": "toggle",
+    "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "MoQEn"
@@ -5301,6 +5305,7 @@
   {
     "name": "CQEn",
     "type": "toggle",
+    "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "CQEn"
@@ -5308,6 +5313,7 @@
   {
     "name": "SeQEn",
     "type": "toggle",
+    "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "SeQEn"
@@ -5315,6 +5321,7 @@
   {
     "name": "ChQEn",
     "type": "toggle",
+    "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "ChQEn"
@@ -5322,6 +5329,7 @@
   {
     "name": "AQEn",
     "type": "toggle",
+    "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "AQEn"
@@ -5329,6 +5337,7 @@
   {
     "name": "MaQEn",
     "type": "toggle",
+    "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "MaQEn"
@@ -5336,6 +5345,7 @@
   {
     "name": "UMEn",
     "type": "toggle",
+    "img": "images/mapicons/UM.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "UMEn"
@@ -5343,6 +5353,7 @@
   {
     "name": "SBEn",
     "type": "toggle",
+    "img": "images/mapicons/UM.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "SBEn"
@@ -5350,6 +5361,7 @@
   {
     "name": "ColEn",
     "type": "toggle",
+    "img": "images/items/Veg.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "ColEn"
@@ -5357,6 +5369,7 @@
   {
     "name": "H2HEn",
     "type": "toggle",
+    "img": "images/mapicons/HeartToHeart.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "H2HEn"
@@ -5364,6 +5377,7 @@
   {
     "name": "AffEn",
     "type": "toggle",
+    "img": "images/items/Lobster.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "AffEn"
@@ -5371,6 +5385,7 @@
   {
     "name": "AchEn",
     "type": "toggle",
+    "img": "images/items/Lobster.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "AchEn"
@@ -5378,6 +5393,7 @@
   {
     "name": "DevEn",
     "type": "toggle",
+    "img": "images/items/Lobster.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "DevEn"
@@ -5385,6 +5401,7 @@
   {
     "name": "Artsanity",
     "type": "toggle",
+    "img": "images/items/Lobster.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "Artsanity"
@@ -5392,6 +5409,7 @@
   {
     "name": "Colsanity",
     "type": "toggle",
+    "img": "images/items/Lobster.png",
     "allow_disabled": true,
     "initial_active_state": true,
     "codes": "Colsanity"

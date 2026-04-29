@@ -1,6 +1,7 @@
 [
   {
     "name": "Colony 9 H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [
@@ -147,6 +148,7 @@
   },
   {
     "name": "Tephra Cave H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [
@@ -223,6 +225,7 @@
   },
   {
     "name": "Bionis' Leg H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [
@@ -331,6 +334,7 @@
   },
   {
     "name": "Colony 6 H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [
@@ -501,6 +505,7 @@
   },
   {
     "name": "Ether Mine H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [
@@ -552,6 +557,7 @@
   },
   {
     "name": "Satorl Marsh H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [
@@ -622,6 +628,7 @@
   },
   {
     "name": "Makna Forest H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [
@@ -686,6 +693,7 @@
   },
   {
     "name": "Frontier Village H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [
@@ -807,6 +815,7 @@
   },
   {
     "name": "Eryth Sea H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [
@@ -896,6 +905,7 @@
   },
   {
     "name": "Alcamoth H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [
@@ -1047,6 +1057,7 @@
   },
   {
     "name": "High Entia Tomb H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [
@@ -1104,6 +1115,7 @@
   },
   {
     "name": "Valak Mountain H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [
@@ -1180,6 +1192,7 @@
   },
   {
     "name": "Fallen Arm H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [
@@ -1332,6 +1345,7 @@
   },
   {
     "name": "Bionis' Interior Second H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [
@@ -1389,6 +1403,7 @@
   },
   {
     "name": "Prison Island Second H2H",
+    "visibility_rules": ["H2HEn"],
     "chest_unopened_img": "images/mapicons/HeartToHeart.png",
     "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
     "children": [

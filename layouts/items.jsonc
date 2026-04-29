@@ -4577,5 +4577,39 @@
         ]
       }
     ]
+  },
+  "settings_popup":{
+    "type": "itemgrid",
+    "item_margin": "5, 5",
+    "h_alignment": "left",
+    "rows": [
+      [
+        "LocEn",
+        "LanEn",
+        "StQEn",
+        "MoQEn",
+        "CQEn"
+      ],
+      [
+        "SeQEn",
+        "ChQEn",
+        "AQEn",
+        "MaQEn",
+        "UMEn"
+      ],
+      [
+        "SBEn",
+        "ColEn",
+        "H2HEn",
+        "AffEn",
+        "AchEn"
+      ],
+      [
+        "DevEn",
+        "Artsanity",
+        "Colsanity",
+        "VictoryCon"
+      ]
+    ]
   }
 }

@@ -1,6 +1,7 @@
 [
   {
     "name": "Colony 9 NPCs",
+    "visibility_rules": ["AffEn"],
     "chest_unopened_img": "images/npcs/MetNPC.png",
     "children": [
       {
@@ -313,6 +314,7 @@
   },
   {
     "name": "Colony 6 NPCs",
+    "visibility_rules": ["AffEn"],
     "chest_unopened_img": "images/npcs/MetNPC.png",
     "children": [
       {
@@ -496,6 +498,7 @@
   },
   {
     "name": "Satorl Marsh NPCs",
+    "visibility_rules": ["AffEn"],
     "chest_unopened_img": "images/npcs/MetNPC.png",
     "children": [
       {
@@ -542,6 +545,7 @@
   },
   {
     "name": "Makna Forest NPCs",
+    "visibility_rules": ["AffEn"],
     "chest_unopened_img": "images/npcs/MetNPC.png",
     "children": [
       {
@@ -566,6 +570,7 @@
   },
   {
     "name": "Frontier Village NPCs",
+    "visibility_rules": ["AffEn"],
     "chest_unopened_img": "images/npcs/MetNPC.png",
     "children": [
       {
@@ -1140,6 +1145,7 @@
   },
   {
     "name": "Eryth Sea NPCs",
+    "visibility_rules": ["AffEn"],
     "chest_unopened_img": "images/npcs/MetNPC.png",
     "children": [
       {
@@ -1182,6 +1188,7 @@
   },
   {
     "name": "Alcamoth NPCs",
+    "visibility_rules": ["AffEn"],
     "chest_unopened_img": "images/npcs/MetNPC.png",
     "access_rules": ["$AlcaAcc"],
     "children": [
@@ -1788,6 +1795,7 @@
   },
   {
     "name": "Fallen Arm NPCs",
+    "visibility_rules": ["AffEn"],
     "chest_unopened_img": "images/npcs/MetNPC.png",
     "access_rules": ["$ArmAcc"],
     "children": [

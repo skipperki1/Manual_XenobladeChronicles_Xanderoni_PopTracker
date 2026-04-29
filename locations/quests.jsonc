@@ -10,10 +10,12 @@
         "sections": [
           {
             "name": "The Gem Man's Invention",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$MarshAcc,Colony6Housing:1,Colony6Commerce:1,Colony6Nature:1,Colony6Special:1"]
           },
           {
             "name": "Search Quest 3",
+            "visibility_rules": ["SeQEn"],
             "access_rules": []
           }
         ],
@@ -31,7 +33,8 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Search Quest 1"
+            "name": "Search Quest 1",
+            "visibility_rules": ["SeQEn"]
           }
         ],
         "map_locations": [
@@ -48,7 +51,8 @@
         "access_rules": ["$TephAcc"],
         "sections": [
           {
-            "name": "The Lost Pendant"
+            "name": "The Lost Pendant",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -65,45 +69,56 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "A Curry Conundrum"
+            "name": "A Curry Conundrum",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Biscuits for a Grandson"
+            "name": "Biscuits for a Grandson",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "Challenge 2",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense1"]
           },
           {
             "name": "Challenge 4",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["$TephAcc,HuntLicense1"]
           },
           {
             "name": "Collection Quest 1",
+            "visibility_rules": ["CQEn"],
             "access_rules": []
           },
           {
             "name": "Collection Quest 2",
+            "visibility_rules": ["CQEn"],
             "access_rules": []
           },
           {
             "name": "Desiree's Future",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$MarshAcc"]
           },
           {
             "name": "Getting to Know Dorothy",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Liliana's Sincere Request",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$TephAcc"]
           },
           {
             "name": "Material Quest 2",
+            "visibility_rules": ["MaQEn"],
             "access_rules": []
           },
           {
             "name": "Material Quest 3",
+            "visibility_rules": ["MaQEn"],
             "access_rules": []
           }
         ],
@@ -123,46 +138,57 @@
           
           {
             "name": "Mementos of a Lost Son",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$MarshAcc"]
           },
           {
             "name": "Monster Quest 3 - Part 1",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 3 - Part 2",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 3 - Part 3",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 3 - Part 4",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Overworked and Underpaid",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$TephAcc"]
           },
           {
             "name": "Rocco's Heartful Request",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "The Broken Watch",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "The Plan - Preparation",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$TephAcc"]
           },
           {
             "name": "The Plan - The Night Before",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$TephAcc"]
           },
           {
             "name": "The Plan - Execution",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$TephAcc,HuntLicense1"]
           }
         ],
@@ -181,70 +207,87 @@
         "sections": [
           {
             "name": "A Young Captain's Request",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "A Young Captain's Suffering",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$TephAcc"]
           },
           {
             "name": "A Young Captain's Rise",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$TephAcc"]
           },
           {
             "name": "A Young Captain's Challenge",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$MaknaAcc"]
           },
           {
             "name": "Birthday Shoes",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Challenge 1",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense1"]
           },
           {
             "name": "Challenge 3",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense1"]
           },
           {
             "name": "Dean's Shady Request",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$TephAcc"]
           },
           {
             "name": "Material Quest 1",
+            "visibility_rules": ["MaQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 1 - Part 1",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 1 - Part 2",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 1 - Part 3",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 2 - Part 1",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 2 - Part 2",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 2 - Part 3",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "The Elite Captain's Anguish",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "The Old Soldier's Test",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$VillAcc"]
           }
         ],
@@ -263,6 +306,7 @@
         "sections": [
           {
             "name": "Delivering Food",
+            "visibility_rules": ["StQEn"],
             "access_rules": []
           }
         ],
@@ -281,14 +325,17 @@
         "sections": [
           {
             "name": "Monster Quest 4 - Part 1",
+            "visibility_rules": ["MoQEn"],
             "access_rules": ["$TephAcc"]
           },
           {
             "name": "Monster Quest 4 - Part 2",
+            "visibility_rules": ["MoQEn"],
             "access_rules": ["$TephAcc"]
           },
           {
             "name": "Monster Quest 4 - Part 3",
+            "visibility_rules": ["MoQEn"],
             "access_rules": ["$TephAcc"]
           }
         ],
@@ -307,70 +354,87 @@
         "sections": [
           {
             "name": "A Mysterious Light",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$LegAcc"]
           },
           {
             "name": "Out Like a Light?",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$LegAcc"]
           },
           {
             "name": "Collection Quest 3",
+            "visibility_rules": ["CQEn"],
             "access_rules": []
           },
           {
             "name": "Collection Quest 4",
+            "visibility_rules": ["CQEn"],
             "access_rules": []
           },
           {
             "name": "Education-Minded Suzanna",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Education-Crazy Suzanna",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$TephAcc"]
           },
           {
             "name": "Flattened Flowers",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$TephAcc"]
           },
           {
             "name": "Friendship Tokens",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Getting to Know Minnie",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Jackson's Awakening",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$LegAcc"]
           },
           {
             "name": "Lonely Niranira",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Material Quest 4",
+            "visibility_rules": ["MaQEn"],
             "access_rules": []
           },
           {
             "name": "Paola and Narine",
-            "access_rules": ["$VillAcc,ShulkAffinity4,ReynAffinity4,SharlaAffinty4,MeliaAffinity4","$VillAcc,ShulkAffinity4,ReynAffinity4,SharlaAffinty4,SevenAffinity4","$VillAcc,ShulkAffinity4,ReynAffinity4,SevenAffinty4,MeliaAffinity4"]
+            "visibility_rules": ["AQEn"],
+            "access_rules": ["$VillAcc,ShulkAffinity4,ReynAffinity4,SharlaAffinty4,MeliaAffinity4","$ArmAcc,ShulkAffinity4,ReynAffinity4,SharlaAffinty4,SevenAffinity4","$ArmAcc,ShulkAffinity4,ReynAffinity4,SevenAffinty4,MeliaAffinity4"]
           },
           {
             "name": "Pride and Courage",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Search Quest 2",
+            "visibility_rules": ["SeQEn"],
             "access_rules": []
           },
           {
             "name": "Search Quest 4",
+            "visibility_rules": ["SeQEn"],
             "access_rules": []
           },
           {
             "name": "The Key to a Long Life",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           }
         ],
@@ -389,6 +453,7 @@
         "sections": [
           {
             "name": "A Token of Friendship",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           }
         ],
@@ -420,28 +485,36 @@
         "access_rules": [],
         "sections": [
           {
-            "name": "Missing in Action"
+            "name": "Missing in Action",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Arachno Silk Fundraising"
+            "name": "Arachno Silk Fundraising",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "A Thank You"
+            "name": "A Thank You",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Clearing Obstructions"
+            "name": "Clearing Obstructions",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Collection Quest 1"
+            "name": "Collection Quest 1",
+            "visibility_rules": ["CQEn"]
           },
           {
-            "name": "Collection Quest 2"
+            "name": "Collection Quest 2",
+            "visibility_rules": ["CQEn"]
           },
           {
-            "name": "Material Quest 1"
+            "name": "Material Quest 1",
+            "visibility_rules": ["MaQEn"]
           },
           {
-            "name": "Material Quest 2"
+            "name": "Material Quest 2",
+            "visibility_rules": ["MaQEn"]
           }
         ],
         "map_locations": [
@@ -459,22 +532,27 @@
         "sections": [
           {
             "name": "The Book of Bafalgar",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "The Blood of Bafalgar",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["HuntLicense2"]
           },
           {
             "name": "The Path of Bafalgar",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["HuntLicense2"]
           },
           {
             "name": "The Coffin of Bafalgar",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["HuntLicense2"]
           },
           {
             "name": "The Gratitude of Bafalgar",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["HuntLicense2"]
           }
         ],
@@ -500,50 +578,62 @@
         "sections": [
           {
             "name": "Emergency Treatment (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "A Thoughtful Idea (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "A Dash of Colour (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Thieving Monsters (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "The Greedy Monster (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Earnest's Fibs",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Earnest's Mischief",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Earnest's Solitude",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Being a Good Grandfather (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Supplies for Satorl",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "A Flower for a Rose",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Battling Brutes",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           }
         ],
@@ -567,62 +657,77 @@
         "sections": [
           {
             "name": "Monster Quest 2 (MISSABLE)",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 3 - Part 1 (MISSABLE)",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 3 - Part 2 (MISSABLE)",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Challenge 1 - Part 1 (MISSABLE)",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense3"]
           },
           {
             "name": "Challenge 1 - Part 2 (MISSABLE)",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense3"]
           },
           {
             "name": "Challenge 2 - Part 1 (MISSABLE)",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense3"]
           },
           {
             "name": "Challenge 2 - Part 2 (MISSABLE)",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense3"]
           },
           {
             "name": "Material Quest 1 (MISSABLE)",
+            "visibility_rules": ["MaQEn"],
             "access_rules": []
           },
           {
             "name": "Material Quest 2 (MISSABLE)",
+            "visibility_rules": ["MaQEn"],
             "access_rules": []
           },
           {
             "name": "Material Quest 3 (MISSABLE)",
+            "visibility_rules": ["MaQEn"],
             "access_rules": []
           },
           {
             "name": "Material Quest 4 (MISSABLE)",
+            "visibility_rules": ["MaQEn"],
             "access_rules": []
           },
           {
             "name": "Collection Quest 1 (MISSABLE)",
+            "visibility_rules": ["CQEn"],
             "access_rules": []
           },
           {
             "name": "Collection Quest 2 (MISSABLE)",
+            "visibility_rules": ["CQEn"],
             "access_rules": []
           },
           {
             "name": "Search Quest 1 (MISSABLE)",
+            "visibility_rules": ["SeQEn"],
             "access_rules": []
           },
           {
             "name": "Search Quest 2 (MISSABLE)",
+            "visibility_rules": ["SeQEn"],
             "access_rules": []
           }
         ],
@@ -646,6 +751,7 @@
         "sections": [
           {
             "name": "Save the Girl! (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           }
         ],
@@ -669,18 +775,22 @@
         "sections": [
           {
             "name": "Monster Quest 1 - Part 1",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 1 - Part 2",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 1 - Part 3",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 1 - Part 4",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           }
         ],
@@ -698,18 +808,22 @@
         "sections": [
           {
             "name": "The Lost Nopon",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "With Much Gratitude",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "With Even More Gratitude",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Legend of Mythical Empress",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$VillAcc"]
           }
         ],
@@ -735,62 +849,77 @@
         "sections": [
           {
             "name": "Chemist's Reopening",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$MarshAcc"]
           },
           {
             "name": "Cook-Off Counter Attack!",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Cook-Off Comeback?",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Cook-Off Final Blow?!",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Cook-Off Showdown!",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$ValakAcc"]
           },
           {
             "name": "A Dauntless Trader",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Defend Colony 6 - Mechon (15% Reconstruction)",
+            "visibility_rules": ["MoQEn"],
             "access_rules": ["$MaknaAcc"]
           },
           {
             "name": "Defend Colony 6 - Reptile (35% Reconstruction)",
+            "visibility_rules": ["MoQEn"],
             "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Defend Colony 6 - Elite (55% Reconstruction)",
+            "visibility_rules": ["MoQEn"],
             "access_rules": ["$ArmAcc"]
           },
           {
             "name": "Defend Colony 6 - Ancient (75% Reconstruction)",
+            "visibility_rules": ["MoQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Defend Colony 6 - Demon (95% Reconstruction)",
+            "visibility_rules": ["MoQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "A Delectable Delicacy",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Delivering the Undeliverable",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "A Final Sweet Favour",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$ValakAcc"]
           },
           {
             "name": "Finding the Unfindable",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           }
         ],
@@ -814,62 +943,72 @@
         "sections": [
           {
             "name": "For the Restoration (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$MarshAcc"]
           },
           {
             "name": "A Gutsy Trader",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$VillAcc"]
           },
           {
             "name": "In Pursuit of Love",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$ArmAcc"]
           },
           {
             "name": "Lifespan of a Machina",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Int2Acc"]
           },
           {
             "name": "Looking for Freedom",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Making a New Path (MISSABLE)",
-            "access_rules": ["$MarshAcc"]
-          },
-          {
-            "name": "Matryona's Answer",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$MarshAcc"]
           },
           {
             "name": "Melancholy Tyrea",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Missing Lodger",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Nic's Training",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$FactAcc"]
           },
           {
             "name": "Nic's Final Test",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$FactAcc"]
           },
           {
             "name": "Obstinate Berryjammy",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$ValakAcc"]
           },
           {
             "name": "Odd Smoke - Investigation",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AlcaAcc"]
           },
           {
             "name": "Odd Smoke - Resolution",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$ArmAcc"]
           },
           {
             "name": "A Poet's Concerns",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Int2Acc"]
           }
         ],
@@ -893,62 +1032,77 @@
         "sections": [
           {
             "name": "Proof of Status",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Replica Monado 1",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Int2Acc"]
           },
           {
             "name": "Replica Monado 2",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Int2Acc"]
           },
           {
             "name": "Replica Monado 3",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Int2Acc"]
           },
           {
             "name": "Replica Monado 4",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Int2Acc"]
           },
           {
             "name": "Replica Monado 5",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Int2Acc"]
           },
           {
             "name": "Rest in Peace",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$MaknaAcc"]
           },
           {
             "name": "Safety First",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Satata's Younger Brother",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$MarshAcc"]
           },
           {
             "name": "A Secret Mission",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Securing Provisions",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "A Selfish Girl's Mistake",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$MarshAcc"]
           },
           {
             "name": "A Tantalising Treat",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$ValakAcc"]
           },
           {
             "name": "The Most Transparent Thing",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$ValakAcc"]
           },
           {
             "name": "Unstoppable Berryjammy",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$ValakAcc"]
           }
         ],
@@ -980,34 +1134,42 @@
         "sections": [
           {
             "name": "Kacha's Kidnapping",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "The Giants' Key",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "The Giants' Treasure",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Making Camp",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 1",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 2",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 3",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 4",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           }
         ],
@@ -1025,10 +1187,12 @@
         "sections": [
           {
             "name": "The Ancient Ceremony",
+            "visibility_rules": ["StQEn"],
             "access_rules": []
           },
           {
             "name": "Ancient Ceremony Offerings",
+            "visibility_rules": ["StQEn"],
             "access_rules": []
           }
         ],
@@ -1046,30 +1210,37 @@
         "sections": [
           {
             "name": "Preventing Starvation",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Zazadan in Danger",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["HuntLicense6"]
           },
           {
             "name": "Zazadan Still in Danger",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["HuntLicense6"]
           },
           {
             "name": "It's All in the Mind",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "A Mysterious Delicacy",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "A Gift?",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Gather Information",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AlcaAcc"]
           }
         ],
@@ -1088,26 +1259,32 @@
         "sections": [
           {
             "name": "Challenge",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense6"]
           },
           {
             "name": "For a Friend",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "A Merciful End",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "A Release from Duty",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "The Imperial Ceremony",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Imperial Ceremony Offerings",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           }
         ],
@@ -1133,14 +1310,17 @@
         "sections": [
           {
             "name": "Legend of the Sage",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$SeaAcc"]
           },
           {
             "name": "Challenge of the Sage",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$SeaAcc"]
           },
           {
             "name": "Final Challenge of the Sage",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           }
         ],
@@ -1158,22 +1338,27 @@
         "sections": [
           {
             "name": "Monster Quest 1",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 2",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 3",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Monster Quest 4",
+            "visibility_rules": ["MoQEn"],
             "access_rules": []
           },
           {
             "name": "Challenge",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["$VillAcc,HuntLicense7"]
           }
         ],
@@ -1192,6 +1377,7 @@
         "sections": [
           {
             "name": "Bridge Repair",
+            "visibility_rules": ["AQEn"],
             "access_rules": []
           }
         ],
@@ -1209,6 +1395,7 @@
         "sections": [
           {
             "name": "Mystery Girl Rescue",
+            "visibility_rules": ["StQEn"],
             "access_rules": []
           }
         ],
@@ -1234,44 +1421,55 @@
         "sections": [
           {
             "name": "Adviser Hunt (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AlcaAcc"]
           },
           {
-            "name": "An Errand for the Heropon (Story)"
+            "name": "An Errand for the Heropon (Story)",
+            "visibility_rules": ["StQEn"]
           },
           {
             "name": "Avenge a Mamapon's Death",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$SeaAcc"]
           },
           {
             "name": "Bana the Betrayer",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
-            "name": "Beat Kilaki to it!"
+            "name": "Beat Kilaki to it!",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "Bored Pelupelu",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$ArmAcc"]
           },
           {
             "name": "Broken Ether Furnace",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Broken Ether Furnace 2",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Challenge 1",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense7"]
           },
           {
             "name": "Challenge 2",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense7"]
           },
           {
             "name": "Challenge 3",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense7"]
           }
         ],
@@ -1288,40 +1486,51 @@
         "name": "Quests CO-EV",
         "sections": [
           {
-            "name": "Collection Quest 1"
+            "name": "Collection Quest 1",
+            "visibility_rules": ["CQEn"]
           },
           {
-            "name": "Collection Quest 2"
+            "name": "Collection Quest 2",
+            "visibility_rules": ["CQEn"]
           },
           {
-            "name": "Collection Quest 3"
+            "name": "Collection Quest 3",
+            "visibility_rules": ["CQEn"]
           },
           {
-            "name": "Collection Quest 4"
+            "name": "Collection Quest 4",
+            "visibility_rules": ["CQEn"]
           },
           {
-            "name": "Dadapon in Trouble"
+            "name": "Dadapon in Trouble",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "Dangerous Ambition (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AlcaAcc"]
           },
           {
-            "name": "Decoration Makeover"
+            "name": "Decoration Makeover",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "Destroying the City Trade (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AlcaAcc"]
           },
           {
-            "name": "Disinsectization"
+            "name": "Disinsectization",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "Even In the Chief's Absence",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$ArmAcc"]
           },
           {
             "name": "Evidence Collection (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AlcaAcc"]
           }
         ],
@@ -1339,42 +1548,53 @@
         "sections": [
           {
             "name": "Find the Kingpin (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AlcaAcc"]
           },
           {
-            "name": "Fixing Time Mushrooms"
+            "name": "Fixing Time Mushrooms",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "Getting Bigger!",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "Giant Attack!",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "A Gift For Miko",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$ArmAcc"]
           },
           {
             "name": "Healing the Healer",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Pris1Acc"]
           },
           {
-            "name": "Heropon's Spirit"
+            "name": "Heropon's Spirit",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "Honouring the Nopon Sage",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$SeaAcc"]
           },
           {
-            "name": "Hunt for a Patron"
+            "name": "Hunt for a Patron",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Hunt for Bug-Loving Friend"
+            "name": "Hunt for Bug-Loving Friend",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Ingredients For A Brew"
+            "name": "Ingredients For A Brew",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1390,39 +1610,49 @@
         "name": "Quests IT-MA",
         "sections": [
           {
-            "name": "It Definitely Exist!"
+            "name": "It Definitely Exist!",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Kind Lupa's Grampypon"
+            "name": "Kind Lupa's Grampypon",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "Legendary Nopon Charm",
             "access_rules": ["$Pris1Acc"]
           },
           {
-            "name": "Leku's Food Crisis"
+            "name": "Leku's Food Crisis",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Lousy Lizards"
+            "name": "Lousy Lizards",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Making a Mixer"
+            "name": "Making a Mixer",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Material Quest 1"
+            "name": "Material Quest 1",
+            "visibility_rules": ["MaQEn"]
           },
           {
-            "name": "Material Quest 2"
+            "name": "Material Quest 2",
+            "visibility_rules": ["MaQEn"]
           },
           {
             "name": "Material Quest 3",
+            "visibility_rules": ["MaQEn"],
             "access_rules": ["$ValakAcc"]
           },
           {
-            "name": "Material Quest 4"
+            "name": "Material Quest 4",
+            "visibility_rules": ["MaQEn"]
           },
           {
-            "name": "Materials for a Mixer"
+            "name": "Materials for a Mixer",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1439,39 +1669,50 @@
         "sections": [
           {
             "name": "Meeting the Nopon Sage",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$SeaAcc"]
           },
           {
             "name": "A Memento of Daddy",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Mislabelling Problem",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Pris1Acc"]
           },
           {
-            "name": "Monster Quest 1 - Part 1"
+            "name": "Monster Quest 1 - Part 1",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 1 - Part 2"
+            "name": "Monster Quest 1 - Part 2",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 1 - Part 3"
+            "name": "Monster Quest 1 - Part 3",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 2 - Part 1"
+            "name": "Monster Quest 2 - Part 1",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 2 - Part 2"
+            "name": "Monster Quest 2 - Part 2",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 2 - Part 3"
+            "name": "Monster Quest 2 - Part 3",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Mushy Mushrooms"
+            "name": "Mushy Mushrooms",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Musical Genius"
+            "name": "Musical Genius",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1488,46 +1729,58 @@
         "sections": [
           {
             "name": "Mystery of Makna Ruins 1",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "Mystery of Makna Ruins 2",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "Mystery of Makna Ruins 3",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Pris1Acc"]
           },
           {
             "name": "Mystery of Makna Ruins 4",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Pris1Acc"]
           },
           {
-            "name": "Pollen Orb Ingredients"
+            "name": "Pollen Orb Ingredients",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Popularity Premonition"
+            "name": "Popularity Premonition",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "Presents for Priceless Pupils",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Restoring the Capital",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Restoring the Capital 2",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
-            "name": "Search Quest 1"
+            "name": "Search Quest 1",
+            "visibility_rules": ["SeQEn"]
           },
           {
-            "name": "Search Quest 2"
+            "name": "Search Quest 2",
+            "visibility_rules": ["SeQEn"]
           },
           {
-            "name": "Search Quest 3"
+            "name": "Search Quest 3",
+            "visibility_rules": ["SeQEn"]
           }
         ],
         "map_locations": [
@@ -1543,39 +1796,50 @@
         "name": "Quests SEC-WO",
         "sections": [
           {
-            "name": "Secret Elixir Ingredients"
+            "name": "Secret Elixir Ingredients",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Secret Ingredient Hunt"
+            "name": "Secret Ingredient Hunt",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Secret Innovation"
+            "name": "Secret Innovation",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Strange Noises from Below"
+            "name": "Strange Noises from Below",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Sweet Seduction"
+            "name": "Sweet Seduction",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "The Master's Successor"
+            "name": "The Master's Successor",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Things that Hum"
+            "name": "Things that Hum",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Things that Rumble"
+            "name": "Things that Rumble",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "A Tormented Bug-Lover",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$SeaAcc"]
           },
           {
             "name": "Who is Bigger?",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Pris1Acc"]
           },
           {
-            "name": "A Worried Bug-Lover"
+            "name": "A Worried Bug-Lover",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1599,27 +1863,34 @@
         "name": "Ether Plant",
         "sections": [
           {
-            "name": "Trouble at the Plant"
+            "name": "Trouble at the Plant",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Punish the Hodes"
+            "name": "Punish the Hodes",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Mend the Plant"
+            "name": "Mend the Plant",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Hode Attack"
+            "name": "Hode Attack",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "Ancient High Entia Mystery",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "The Missing Boy",
+            "visibility_rules": ["StQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Secret Research",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           }
         ],
@@ -1636,22 +1907,28 @@
         "name": "Syrath Lighthouse",
         "sections": [
           {
-            "name": "Trouble at the Lighthouse"
+            "name": "Trouble at the Lighthouse",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Monster Quest 1"
+            "name": "Monster Quest 1",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 2"
+            "name": "Monster Quest 2",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Collect Quest 1"
+            "name": "Collect Quest 1",
+            "visibility_rules": ["CoQEn"]
           },
           {
-            "name": "Collect Quest 2"
+            "name": "Collect Quest 2",
+            "visibility_rules": ["CoQEn"]
           },
           {
             "name": "Challenge",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense8"]
           }
         ],
@@ -1668,14 +1945,17 @@
         "name": "Latael Shore",
         "sections": [
           {
-            "name": "Save the Worker"
+            "name": "Save the Worker",
+            "visibility_rules": ["StQEn"]
           },
           {
             "name": "Path to Prison Island",
+            "visibility_rules": ["StQEn"],
             "access_rules": ["$TombAcc"]
           },
           {
             "name": "Sister Seals",
+            "visibility_rules": ["StQEn"],
             "access_rules": ["$TombAcc"]
           }
         ],
@@ -1700,7 +1980,8 @@
         "name": "The Deciphering Machine",
         "sections": [
           {
-            "name": "The Deciphering Machine (MISSABLE)"
+            "name": "The Deciphering Machine (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1717,6 +1998,7 @@
         "sections": [
           {
             "name": "A Necessary Upgrade (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$TombAcc"]
           }
         ],
@@ -1733,7 +2015,8 @@
         "name": "Bring Back My Son!",
         "sections": [
           {
-            "name": "Bring Back My Son! (MISSABLE)"
+            "name": "Bring Back My Son! (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1749,13 +2032,16 @@
         "name": "Mir'leiz",
         "sections": [
           {
-            "name": "Teaching Materials (MISSABLE)"
+            "name": "Teaching Materials (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Brave Actions (MISSABLE)"
+            "name": "Brave Actions (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Protect the Capital! (MISSABLE)"
+            "name": "Protect the Capital! (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1771,10 +2057,12 @@
         "name": "Scarlen",
         "sections": [
           {
-            "name": "How Do They Feel? (MISSABLE)"
+            "name": "How Do They Feel? (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "How Do I Feel? (MISSABLE)"
+            "name": "How Do I Feel? (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1790,10 +2078,12 @@
         "name": "Great Hall Guards",
         "sections": [
           {
-            "name": "A Friend in Need (MISSABLE)"
+            "name": "A Friend in Need (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Back Pain (MISSABLE)"
+            "name": "Back Pain (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1809,13 +2099,16 @@
         "name": "Kurralth & Zain",
         "sections": [
           {
-            "name": "Preparing for Adventure (MISSABLE)"
+            "name": "Preparing for Adventure (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Preparing for Adventure 2 (MISSABLE)"
+            "name": "Preparing for Adventure 2 (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Preparing for Adventure 3 (MISSABLE)"
+            "name": "Preparing for Adventure 3 (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1831,7 +2124,8 @@
         "name": "Building Bridges",
         "sections": [
           {
-            "name": "Building Bridges (MISSABLE)"
+            "name": "Building Bridges (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1848,6 +2142,7 @@
         "sections": [
           {
             "name": "Believing Again (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$ValakAcc"]
           }
         ],
@@ -1864,10 +2159,12 @@
         "name": "Elior",
         "sections": [
           {
-            "name": "Starlight Seeker (MISSABLE)"
+            "name": "Starlight Seeker (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "Starlight Gazer (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$TombAcc"]
           }
         ],
@@ -1884,7 +2181,8 @@
         "name": "Looking for Gold Bugs",
         "sections": [
           {
-            "name": "Looking for Gold Bugs (MISSABLE)"
+            "name": "Looking for Gold Bugs (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1900,7 +2198,8 @@
         "name": "Losing the Taste for Alcohol",
         "sections": [
           {
-            "name": "Losing the Taste for Alcohol (MISSABLE)"
+            "name": "Losing the Taste for Alcohol (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1916,10 +2215,12 @@
         "name": "Vol'aren",
         "sections": [
           {
-            "name": "Looking for a Lost Son (MISSABLE)"
+            "name": "Looking for a Lost Son (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Looking for a Lost Daughter (MISSABLE)"
+            "name": "Looking for a Lost Daughter (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1935,7 +2236,8 @@
         "name": "Going Out to Play",
         "sections": [
           {
-            "name": "Going Out to Play (MISSABLE)"
+            "name": "Going Out to Play (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -1951,10 +2253,12 @@
         "name": "Main Entrance (Surprise)",
         "sections": [
           {
-            "name": "Getting a Member's Card (MISSABLE)"
+            "name": "Getting a Member's Card (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "Vidian Rescue Operation (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           }
         ],
@@ -1971,40 +2275,52 @@
         "name": "Generic Quests 1 (ALL MISSABLE)",
         "sections": [
           {
-            "name": "Monster Quest 1 - Part 1"
+            "name": "Monster Quest 1 - Part 1",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 1 - Part 2"
+            "name": "Monster Quest 1 - Part 2",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 1 - Part 3"
+            "name": "Monster Quest 1 - Part 3",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 2 - Part 1"
+            "name": "Monster Quest 2 - Part 1",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 2 - Part 2"
+            "name": "Monster Quest 2 - Part 2",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 2 - Part 3"
+            "name": "Monster Quest 2 - Part 3",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 3 - Part 1"
+            "name": "Monster Quest 3 - Part 1",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 3 - Part 2"
+            "name": "Monster Quest 3 - Part 2",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 3 - Part 3"
+            "name": "Monster Quest 3 - Part 3",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 4 - Part 1"
+            "name": "Monster Quest 4 - Part 1",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 4 - Part 2"
+            "name": "Monster Quest 4 - Part 2",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 4 - Part 3"
+            "name": "Monster Quest 4 - Part 3",
+            "visibility_rules": ["MoQEn"]
           }
         ],
         "map_locations": [
@@ -2027,56 +2343,72 @@
         "sections": [
           {
             "name": "Challenge 1",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense8"]
           },
           {
             "name": "Challenge 2",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense8"]
           },
           {
             "name": "Challenge 3",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense8"]
           },
           {
             "name": "Challenge 4",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense8"]
           },
           {
-            "name": "Material Quest 1"
+            "name": "Material Quest 1",
+            "visibility_rules": ["MaQEn"]
           },
           {
-            "name": "Material Quest 2"
+            "name": "Material Quest 2",
+            "visibility_rules": ["MaQEn"]
           },
           {
-            "name": "Material Quest 3"
+            "name": "Material Quest 3",
+            "visibility_rules": ["MaQEn"]
           },
           {
-            "name": "Material Quest 4"
+            "name": "Material Quest 4",
+            "visibility_rules": ["MaQEn"]
           },
           {
-            "name": "Collection Quest 1"
+            "name": "Collection Quest 1",
+            "visibility_rules": ["CQEn"]
           },
           {
             "name": "Collection Quest 2",
+            "visibility_rules": ["CQEn"],
             "access_rules": ["$TombAcc"]
           },
           {
-            "name": "Collection Quest 3"
+            "name": "Collection Quest 3",
+            "visibility_rules": ["CQEn"]
           },
           {
-            "name": "Collection Quest 4"
+            "name": "Collection Quest 4",
+            "visibility_rules": ["CQEn"]
           },
           {
-            "name": "Search Quest 1"
+            "name": "Search Quest 1",
+            "visibility_rules": ["SeQEn"]
           },
           {
-            "name": "Search Quest 2"
+            "name": "Search Quest 2",
+            "visibility_rules": ["SeQEn"]
           },
           {
-            "name": "Search Quest 3"
+            "name": "Search Quest 3",
+            "visibility_rules": ["SeQEn"]
           },
           {
-            "name": "Search Quest 4"
+            "name": "Search Quest 4",
+            "visibility_rules": ["SeQEn"]
           }
         ],
         "map_locations": [
@@ -2106,16 +2438,20 @@
         "name": "Zokhed Pass",
         "sections": [
           {
-            "name": "Monster Quest 1"
+            "name": "Monster Quest 1",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 2"
+            "name": "Monster Quest 2",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 3"
+            "name": "Monster Quest 3",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Monster Quest 4"
+            "name": "Monster Quest 4",
+            "visibility_rules": ["MoQEn"]
           }
         ],
         "map_locations": [
@@ -2131,16 +2467,20 @@
         "name": "Nopon Camp",
         "sections": [
           {
-            "name": "Chilkins and Antols"
+            "name": "Chilkins and Antols",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Valak Mountain Research"
+            "name": "Valak Mountain Research",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Chilkin Changes"
+            "name": "Chilkin Changes",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "The Balance of Power"
+            "name": "The Balance of Power",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -2156,7 +2496,8 @@
         "name": "The Freezing Nopon",
         "sections": [
           {
-            "name": "The Freezing Nopon"
+            "name": "The Freezing Nopon",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -2172,14 +2513,17 @@
         "name": "Harict Chapel",
         "sections": [
           {
-            "name": "The Magma Rock (Story)"
+            "name": "The Magma Rock (Story)",
+            "visibility_rules": ["StQEn"]
           },
           {
             "name": "The Final Giants' Ruins",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "The Giants' Treasures",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           }
         ],
@@ -2196,7 +2540,8 @@
         "name": "Bad Timing",
         "sections": [
           {
-            "name": "Bad Timing"
+            "name": "Bad Timing",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -2226,7 +2571,8 @@
         "name": "Secure Dolgan Outpost (MISSABLE)",
         "sections": [
           {
-            "name": "Secure Dolgan Outpost (MISSABLE)"
+            "name": "Secure Dolgan Outpost (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -2242,7 +2588,8 @@
         "name": "Secure Enalda Control Base (MISSABLE)",
         "sections": [
           {
-            "name": "Secure Enalda Control Base (MISSABLE)"
+            "name": "Secure Enalda Control Base (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -2258,7 +2605,8 @@
         "name": "3rd Gate Front Line (MISSABLE)",
         "sections": [
           {
-            "name": "3rd Gate Front Line (MISSABLE)"
+            "name": "3rd Gate Front Line (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -2280,7 +2628,8 @@
         "name": "Secure the Radio Tower (MISSABLE)",
         "sections": [
           {
-            "name": "Secure the Radio Tower (MISSABLE)"
+            "name": "Secure the Radio Tower (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -2304,7 +2653,8 @@
         "name": "Lift Battle (MISSABLE)",
         "sections": [
           {
-            "name": "Lift Battle (MISSABLE)"
+            "name": "Lift Battle (MISSABLE)",
+            "visibility_rules": ["StQEn"]
           }
         ],
         "map_locations": [
@@ -2320,7 +2670,8 @@
         "name": "Supply Station Battle (MISSABLE)",
         "sections": [
           {
-            "name": "Supply Station Battle (MISSABLE)"
+            "name": "Supply Station Battle (MISSABLE)",
+            "visibility_rules": ["StQEn"]
           }
         ],
         "map_locations": [
@@ -2342,7 +2693,8 @@
         "name": "Turbine Battle (MISSABLE)",
         "sections": [
           {
-            "name": "Turbine Battle (MISSABLE)"
+            "name": "Turbine Battle (MISSABLE)",
+            "visibility_rules": ["StQEn"]
           }
         ],
         "map_locations": [
@@ -2358,7 +2710,8 @@
         "name": "Fiora's Conviction (MISSABLE)",
         "sections": [
           {
-            "name": "Fiora's Conviction (MISSABLE)"
+            "name": "Fiora's Conviction (MISSABLE)",
+            "visibility_rules": ["StQEn"]
           }
         ],
         "map_locations": [
@@ -2382,43 +2735,56 @@
         "name": "Hidden Village Quests 1",
         "sections": [
           {
-            "name": "Fixing a Broken Door!"
+            "name": "Fixing a Broken Door!",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Food Delivery"
+            "name": "Food Delivery",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "I Want to be a Homs!"
+            "name": "I Want to be a Homs!",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Mysterious Noises"
+            "name": "Mysterious Noises",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Save the Machina!"
+            "name": "Save the Machina!",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Protect the Village"
+            "name": "Protect the Village",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Eliminate the Threat"
+            "name": "Eliminate the Threat",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Powerless"
+            "name": "Powerless",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Stop the Mechon Rampage!"
+            "name": "Stop the Mechon Rampage!",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "The Wilted Flower"
+            "name": "The Wilted Flower",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "A Tough Battle"
+            "name": "A Tough Battle",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Power Up!"
+            "name": "Power Up!",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Therapy"
+            "name": "Therapy",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -2440,50 +2806,62 @@
         "name": "Hidden Village Quests 2",
         "sections": [
           {
-            "name": "Scheduled Inspection"
+            "name": "Scheduled Inspection",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "The History of Mechonis (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$FieldAcc"]
           },
           {
             "name": "Mending Memories",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$FieldAcc"]
           },
           {
             "name": "Resolution - Father",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$FieldAcc"]
           },
           {
             "name": "Resolution - Mother",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$FieldAcc"]
           },
           {
             "name": "The Oath Sword",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$FieldAcc"]
           },
           {
             "name": "A Weapon Just For Me (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$FieldAcc"]
           },
           {
             "name": "The History of the Capital (MISSABLE)",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AgniAcc"]
           },
           {
             "name": "Stunted Growth",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "The Exhaust Pump",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "The Mini Reactor",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {
             "name": "Transmission Bypass",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$CoreAcc"]
           }
         ],
@@ -2506,10 +2884,12 @@
         "name": "Zarkort",
         "sections": [
           {
-            "name": "For My Loved One... (MISSABLE)"
+            "name": "For My Loved One... (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "To My Loved One... (MISSABLE)"
+            "name": "To My Loved One... (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -2525,13 +2905,16 @@
         "name": "Wreckage Beach",
         "sections": [
           {
-            "name": "Reunion with Fiora"
+            "name": "Reunion with Fiora",
+            "visibility_rules": ["StQEn"]
           },
           {
-            "name": "We Made It"
+            "name": "We Made It",
+            "visibility_rules": ["StQEn"]
           },
           {
-            "name": "Fiora's Treatment"
+            "name": "Fiora's Treatment",
+            "visibility_rules": ["StQEn"]
           }
         ],
         "map_locations": [
@@ -2555,16 +2938,20 @@
         "name": "Machina Refuge",
         "sections": [
           {
-            "name": "Best Boots (MISSABLE)"
+            "name": "Best Boots (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Monster Quest (MISSABLE)"
+            "name": "Monster Quest (MISSABLE)",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Challenge Quest 1 (MISSABLE)"
+            "name": "Challenge Quest 1 (MISSABLE)",
+            "visibility_rules": ["ChQEn"]
           },
           {
-            "name": "Challenge Quest 2 (MISSABLE)"
+            "name": "Challenge Quest 2 (MISSABLE)",
+            "visibility_rules": ["ChQEn"]
           }
         ],
         "map_locations": [
@@ -2578,6 +2965,7 @@
       },
       {
         "name": "Story Quests",
+        "visibility_rules": ["StQEn"],
         "sections": [
           {
             "name": "Aiming for the Top"
@@ -2622,31 +3010,40 @@
         "name": "Quests",
         "sections": [
           {
-            "name": "To the Central Tower"
+            "name": "To the Central Tower",
+            "visibility_rules": ["StQEn"]
           },
           {
-            "name": "Maintenance Wing Escape"
+            "name": "Maintenance Wing Escape",
+            "visibility_rules": ["StQEn"]
           },
           {
-            "name": "Find a Path to the Top"
+            "name": "Find a Path to the Top",
+            "visibility_rules": ["StQEn"]
           },
           {
-            "name": "Materials for a Bomb"
+            "name": "Materials for a Bomb",
+            "visibility_rules": ["StQEn"]
           },
           {
-            "name": "The Central Tower Barrier"
+            "name": "The Central Tower Barrier",
+            "visibility_rules": ["StQEn"]
           },
           {
-            "name": "Eliminate the Backup! (MISSABLE)"
+            "name": "Eliminate the Backup! (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Roof Battle (MISSABLE)"
+            "name": "Roof Battle (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Daring Assault (MISSABLE)"
+            "name": "Daring Assault (MISSABLE)",
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "New Weapon for Fiora",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$AgniAcc"]
           }
         ],
@@ -2671,34 +3068,44 @@
         "name": "Terminal Quests",
         "sections": [
           {
-            "name": "Shrine Transport"
+            "name": "Shrine Transport",
+            "visibility_rules": ["StQEn"]
           },
           {
-            "name": "Pillar Verification Devices"
+            "name": "Pillar Verification Devices",
+            "visibility_rules": ["StQEn"]
           },
           {
-            "name": "Agniratha Beautification 1"
+            "name": "Agniratha Beautification 1",
+            "visibility_rules": ["MaQEn"]
           },
           {
-            "name": "Agniratha Beautification 2"
+            "name": "Agniratha Beautification 2",
+            "visibility_rules": ["MaQEn"]
           },
           {
-            "name": "Civil Protection 1 - 1"
+            "name": "Civil Protection 1 - 1",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Civil Protection 1 - 2"
+            "name": "Civil Protection 1 - 2",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Civil Protection 1 - 3"
+            "name": "Civil Protection 1 - 3",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Civil Protection 2 - 1"
+            "name": "Civil Protection 2 - 1",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Civil Protection 2 - 2"
+            "name": "Civil Protection 2 - 2",
+            "visibility_rules": ["MoQEn"]
           },
           {
-            "name": "Civil Protection 2 - 3"
+            "name": "Civil Protection 2 - 3",
+            "visibility_rules": ["MoQEn"]
           },
           {
             "name": "Military Status 1 - 1",
@@ -2717,10 +3124,12 @@
             "access_rules": ["HuntLicense16"]
           },
           {
-            "name": "Telethia Investigation 1"
+            "name": "Telethia Investigation 1",
+            "visibility_rules": ["AQEn"]
           },
           {
-            "name": "Telethia Investigation 2"
+            "name": "Telethia Investigation 2",
+            "visibility_rules": ["AQEn"]
           }
         ],
         "map_locations": [
@@ -2737,6 +3146,7 @@
         "sections": [
           {
             "name": "Save Bionis",
+            "visibility_rules": ["StQEn"],
             "access_rules": ["$CoreAcc"]
           },
           {

@@ -60,6 +60,7 @@
   },
   {
     "name": "Development Levels",
+    "visibility_rules": ["DevEn"],
     "children":[
       {
         "name": "Colony 9",
@@ -4789,11 +4790,13 @@
         "sections": [
           {
             "name": "Chase Dickson",
+            "visibility_rules": ["StQEn"],
             "chest_unopened_img": "images/mapicons/QuestMarker.png",
             "chest_opened_img": "images/mapicons/QuestMarkerGray.png"
           },
           {
             "name": "Path to the Top",
+            "visibility_rules": ["StQEn"],
             "chest_unopened_img": "images/mapicons/QuestMarker.png",
             "chest_opened_img": "images/mapicons/QuestMarkerGray.png"
           }

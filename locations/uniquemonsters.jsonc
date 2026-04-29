@@ -1,6 +1,7 @@
 [
   {
     "name": "Colony 9 Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "access_rules": ["HuntLicense1"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
@@ -323,6 +324,7 @@
   },
   {
     "name": "Tephra Cave Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "access_rules": ["HuntLicense2,$TephAcc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
@@ -636,6 +638,7 @@
   },
   {
     "name": "Bionis' Leg Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "access_rules": ["HuntLicense3,$LegAcc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
@@ -963,6 +966,7 @@
   },
   {
     "name": "Colony 6 Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "access_rules": ["HuntLicense4,$Col6Acc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
@@ -1043,6 +1047,7 @@
   },
   {
     "name": "Ether Mine Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "access_rules": ["HuntLicense5,$MineAcc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
@@ -1135,6 +1140,7 @@
   },
   {
     "name": "Satorl Marsh Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "access_rules": ["HuntLicense6,$MarshAcc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
@@ -1207,6 +1213,7 @@
       },
       {
         "name": "Superboss: Despotic Arsene",
+        "visibility_rules": ["SBEn"],
         "access_rules": ["$Pris2Acc"],
         "sections": [
           {
@@ -1429,6 +1436,7 @@
   },
   {
     "name": "Makna Forest Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "access_rules": ["HuntLicense7,$MaknaAcc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
@@ -1690,6 +1698,7 @@
   },
   {
     "name": "Eryth Sea Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "access_rules": ["HuntLicense8,$SeaAcc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
@@ -2012,6 +2021,7 @@
   },
   {
     "name": "High Entia Tomb Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "access_rules": ["HuntLicense9,$TombAcc"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
@@ -2134,6 +2144,7 @@
   },
   {
     "name": "Valak Mountain Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "access_rules": ["HuntLicense10,$ValakAcc"],
@@ -2162,6 +2173,7 @@
       },
       {
         "name": "Superboss: Avalanche Abaasy",
+        "visibility_rules": ["SBEn"],
         "access_rules": ["$Pris2Acc"],
         "sections": [
           {
@@ -2198,6 +2210,7 @@
       },
       {
         "name": "Superboss: Blizzard Belgazas",
+        "visibility_rules": ["SBEn"],
         "access_rules": ["$Pris2Acc"],
         "sections": [
           {
@@ -2244,6 +2257,7 @@
       },
       {
         "name": "Superboss: Final Marcus",
+        "visibility_rules": ["SBEn"],
         "access_rules": ["$Pris2Acc"],
         "sections": [
           {
@@ -2404,6 +2418,7 @@
   },
   {
     "name": "Sword Valley Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "access_rules": ["HuntLicense11,$SwordAcc"],
@@ -2588,6 +2603,7 @@
   },
   {
     "name": "Galahad Fortress Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "access_rules": ["HuntLicense12,$FortAcc"],
@@ -2674,6 +2690,7 @@
   },
   {
     "name": "Fallen Arm Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "access_rules": ["HuntLicense13,$ArmAcc"],
@@ -2724,6 +2741,7 @@
       },
       {
         "name": "Superboss: Ancient Daedala",
+        "visibility_rules": ["SBEn"],
         "access_rules": ["$Pris2Acc"],
         "sections": [
           {
@@ -2855,6 +2873,7 @@
   },
   {
     "name": "Mechonis Field Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "access_rules": ["HuntLicense14,$FieldAcc"],
@@ -2997,6 +3016,7 @@
   },
   {
     "name": "Central Factory Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "access_rules": ["HuntLicense15,$FactAcc"],
@@ -3222,6 +3242,7 @@
   },
   {
     "name": "Agniratha Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "access_rules": ["HuntLicense16,$AgniAcc"],
@@ -3449,6 +3470,7 @@
   },
   {
     "name": "Bionis' Interior Second Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "access_rules": ["HuntLicense17,$Int2Acc"],
@@ -3627,6 +3649,7 @@
   },
   {
     "name": "Prison Island 2 Unique Monsters",
+    "visibility_rules": ["UMEn"],
     "chest_unopened_img": "images/mapicons/UM.png",
     "chest_opened_img": "images/mapicons/DeadUM.png",
     "access_rules": ["HuntLicense18,$Pris2Acc"],
