@@ -1053,6 +1053,10 @@
             "access_rules": ["HuntLicense6"]
           },
           {
+            "name": "Zazadan Still in Danger",
+            "access_rules": ["HuntLicense6"]
+          },
+          {
             "name": "It's All in the Mind",
             "access_rules": []
           },
