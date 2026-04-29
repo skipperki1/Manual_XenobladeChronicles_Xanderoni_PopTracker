@@ -824,6 +824,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": [],
         "sections": [
           {
@@ -1271,6 +1272,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$TephAcc"],
         "sections": [
           {
@@ -1520,6 +1522,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$LegAcc"],
         "sections": [
           {
@@ -1646,6 +1649,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$Col6Acc"],
         "sections": [
           {
@@ -1744,6 +1748,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$MineAcc"],
         "sections": [
           {
@@ -2055,6 +2060,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$MarshAcc"],
         "sections": [
           {
@@ -2342,6 +2348,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$MaknaAcc"],
         "sections": [
           {
@@ -2610,6 +2617,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$VillAcc"],
         "sections": [
           {
@@ -2872,6 +2880,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$SeaAcc"],
         "sections": [
           {
@@ -3385,6 +3394,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$AlcaAcc"],
         "sections": [
           {
@@ -3449,6 +3459,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$TombAcc"],
         "sections": [
           {
@@ -3680,6 +3691,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$ValakAcc"],
         "sections": [
           {
@@ -3859,6 +3871,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$SwordAcc"],
         "sections": [
           {
@@ -4007,6 +4020,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$FortAcc"],
         "sections": [
           {
@@ -4201,6 +4215,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$ArmAcc"],
         "sections": [
           {
@@ -4322,6 +4337,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$FieldAcc"],
         "sections": [
           {
@@ -4409,6 +4425,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$FactAcc"],
         "sections": [
           {
@@ -4598,6 +4615,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$AgniAcc"],
         "sections": [
           {
@@ -4681,6 +4699,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$Int2Acc"],
         "sections": [
           {
@@ -4790,6 +4809,7 @@
       },
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "access_rules": ["$Pris2Acc"],
         "sections": [
           {
@@ -4852,6 +4872,7 @@
     "children":[
       {
         "name": "Collectopaedia",
+        "visibility_rules": ["ColEn"],
         "sections": [
           {
             "name": "Bug Completion",
