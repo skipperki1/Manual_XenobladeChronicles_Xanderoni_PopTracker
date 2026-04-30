@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Colony 9 H2H",
+    "visibility_rules": ["H2HEn"],
+    "chest_unopened_img": "images/mapicons/HeartToHeart.png",
+    "chest_opened_img": "images/mapicons/HeartToHeartComplete.png",
+    "children": [
+      {
+        "name": "Watching Over Them",
+        "sections": [
+        {
+          "name": "Reyn & Dunban",
+          "access_rules": [
+          "$MineAcc,ReynAffinity5,DunbanAffinity5"
+          ]
+        }
+      ],
+        "map_locations": [
+          {
+            "map": "C9H2H",
+            "x": 496,
+            "y": 471,
+            "size": 8
+          }
+        ]
+      }
+    ]
+  }
+]

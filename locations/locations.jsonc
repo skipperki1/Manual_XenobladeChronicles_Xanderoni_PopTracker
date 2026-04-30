@@ -3512,6 +3512,7 @@
           },
           {
             "name": "Dakuku",
+            "visibility_rules": ["AffEn"],
             "chest_unopened_img": "images/npcs/MetNPC.png",
             "chest_opened_img": "images/npcs/Dakuku.png"
           },
@@ -4286,6 +4287,7 @@
           },
           {
             "name": "Bozatrox",
+            "visibility_rules": ["AffEn"],
             "chest_opened_img": "images/npcs/Bozatrox.png",
             "chest_unopened_img": "images/npcs/MetNPC.png"
           },

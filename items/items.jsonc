@@ -5271,7 +5271,7 @@
     "codes": "CollectionVictory"
   },
   {
-    "name": "LocEn",
+    "name": "Locations",
     "type": "toggle",
     "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
@@ -5279,7 +5279,7 @@
     "codes": "LocEn"
   },
   {
-    "name": "LanEn",
+    "name": "Landmarks",
     "type": "toggle",
     "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
@@ -5287,7 +5287,7 @@
     "codes": "LanEn"
   },
   {
-    "name": "StQEn",
+    "name": "Story Quests",
     "type": "toggle",
     "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
@@ -5295,7 +5295,7 @@
     "codes": "StQEn"
   },
   {
-    "name": "MoQEn",
+    "name": "Monster Quests",
     "type": "toggle",
     "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
@@ -5303,7 +5303,7 @@
     "codes": "MoQEn"
   },
   {
-    "name": "CQEn",
+    "name": "Collection Quests",
     "type": "toggle",
     "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
@@ -5311,7 +5311,7 @@
     "codes": "CQEn"
   },
   {
-    "name": "SeQEn",
+    "name": "Search Quests",
     "type": "toggle",
     "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
@@ -5319,7 +5319,7 @@
     "codes": "SeQEn"
   },
   {
-    "name": "ChQEn",
+    "name": "Challenge Quests",
     "type": "toggle",
     "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
@@ -5327,7 +5327,7 @@
     "codes": "ChQEn"
   },
   {
-    "name": "AQEn",
+    "name": "Affinity Quests",
     "type": "toggle",
     "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
@@ -5335,7 +5335,7 @@
     "codes": "AQEn"
   },
   {
-    "name": "MaQEn",
+    "name": "Material Quests",
     "type": "toggle",
     "img": "images/mapicons/QuestMarker.png",
     "allow_disabled": true,
@@ -5343,7 +5343,7 @@
     "codes": "MaQEn"
   },
   {
-    "name": "UMEn",
+    "name": "Unique Monsters",
     "type": "toggle",
     "img": "images/mapicons/UM.png",
     "allow_disabled": true,
@@ -5351,7 +5351,7 @@
     "codes": "UMEn"
   },
   {
-    "name": "SBEn",
+    "name": "SuperBosses",
     "type": "toggle",
     "img": "images/mapicons/UM.png",
     "allow_disabled": true,
@@ -5359,7 +5359,7 @@
     "codes": "SBEn"
   },
   {
-    "name": "ColEn",
+    "name": "Collectopaedia",
     "type": "toggle",
     "img": "images/items/Veg.png",
     "allow_disabled": true,
@@ -5367,7 +5367,7 @@
     "codes": "ColEn"
   },
   {
-    "name": "H2HEn",
+    "name": "Heart-to-Hearts",
     "type": "toggle",
     "img": "images/mapicons/HeartToHeart.png",
     "allow_disabled": true,
@@ -5375,7 +5375,7 @@
     "codes": "H2HEn"
   },
   {
-    "name": "AffEn",
+    "name": "NPCs",
     "type": "toggle",
     "img": "images/items/Lobster.png",
     "allow_disabled": true,
@@ -5383,7 +5383,7 @@
     "codes": "AffEn"
   },
   {
-    "name": "AchEn",
+    "name": "Achievements",
     "type": "toggle",
     "img": "images/items/Lobster.png",
     "allow_disabled": true,
@@ -5391,7 +5391,7 @@
     "codes": "AchEn"
   },
   {
-    "name": "DevEn",
+    "name": "Area Development Levels",
     "type": "toggle",
     "img": "images/items/Lobster.png",
     "allow_disabled": true,
@@ -5407,7 +5407,7 @@
     "codes": "Artsanity"
   },
   {
-    "name": "Colsanity",
+    "name": "Collectopaediasanity",
     "type": "toggle",
     "img": "images/items/Lobster.png",
     "allow_disabled": true,

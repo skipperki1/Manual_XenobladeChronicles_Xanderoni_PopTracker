@@ -1619,6 +1619,7 @@
           },
           {
             "name": "Legendary Nopon Charm",
+            "visibility_rules": ["AQEn"],
             "access_rules": ["$Pris1Acc"]
           },
           {
@@ -3109,18 +3110,22 @@
           },
           {
             "name": "Military Status 1 - 1",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense16"]
           },
           {
             "name": "Military Status 1 - 2",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense16"]
           },
           {
             "name": "Military Status 2 - 1",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense16"]
           },
           {
             "name": "Military Status 2 - 2",
+            "visibility_rules": ["ChQEn"],
             "access_rules": ["HuntLicense16"]
           },
           {
