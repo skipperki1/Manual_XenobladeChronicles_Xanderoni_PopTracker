@@ -11,42 +11,15 @@
         {
           "type": "dock",
           "dock": "left",
-          "v_alignment": "stretch",
           "content": [
             {
               "type": "group",
-              "header": "Party",
-              "dock": "top",
+              "header": "Party/Items/Collectopaedia/Area Keys",
+              "dock": "left",
+              "margin": "15,0,75,0",
               "content": {
                 "type": "layout",
-                "key": "Characters"
-              }
-            },
-            {
-              "type": "group",
-              "header": "Items/Reconstruction",
-              "dock": "top",
-              "content": {
-                "type": "layout",
-                "key": "shared_item_grid"
-              }
-            },
-            {
-              "type": "group",
-              "header": "Collectopaedia",
-              "dock": "top",
-              "content": {
-                "type": "layout",
-                "key": "Collectopaedia"
-              }
-            },
-            {
-              "type": "group",
-              "header": "Hunting Licenses",
-              "dock": "top",
-              "content": {
-                "type": "layout",
-                "key": "Hunting Licenses"
+                "key": "CharactersVertical"
               }
             }
           ]
@@ -1351,7 +1324,7 @@
       ]
     }
   },
-  "tracker_horizontal": {
+  "tracker_horizontaly": {
     "type": "container",
     "background": "#000000",
     "content": {

@@ -4802,6 +4802,2800 @@
       }
     ]
   },
+  "CharactersVertical": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0,10",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "canvas",
+            "width": 448,
+            "height": 245,
+            "margin": "1,5",
+            "content": [
+              {
+                "type": "item",
+                "item": "ShulkIcon",
+                "canvas_depth": 1,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "ShulkAirSlash",
+                "canvas_depth": 1,
+                "canvas_left": 71,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkBackSlash",
+                "canvas_depth": 1,
+                "canvas_left": 107,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkBattleSoul",
+                "canvas_depth": 1,
+                "canvas_left": 143,
+                "width":30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkLightHeal",
+                "canvas_depth": 1,
+                "canvas_left": 179,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkShadowEye",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkShakerEdge",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkSlitEdge",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkStreamEdge",
+                "canvas_depth": 1,
+                "canvas_left": 323,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkHead",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkTorso",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkArms",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkLegs",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkFeet",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoArmour",
+                "canvas_depth": 1,
+                "canvas_left": 71,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoBuster",
+                "canvas_depth": 1,
+                "canvas_left": 107,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoCyclone",
+                "canvas_depth": 1,
+                "canvas_left": 143,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoEater",
+                "canvas_depth": 1,
+                "canvas_left": 179,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoEnchant",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoPurge",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoShield",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkMonadoSpeed",
+                "canvas_depth": 1,
+                "canvas_left": 323,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 43,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "ShulkIntegrity",
+                "canvas_depth": 1,
+                "canvas_top": 68,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkIntuition",
+                "canvas_depth": 1,
+                "canvas_left": 67,
+                "canvas_top": 68,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkHumanity",
+                "canvas_depth": 1,
+                "canvas_left": 134,
+                "canvas_top": 68,
+                "width": 65,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkPessimism",
+                "canvas_depth": 1,
+                "canvas_left": 209,
+                "canvas_top": 68,
+                "width": 75,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkBravery",
+                "canvas_depth": 1,
+                "canvas_left": 294,
+                "canvas_top": 68,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ReynIcon",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "ReynArt1",
+                "canvas_depth": 1,
+                "canvas_left": 71,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt2",
+                "canvas_depth": 1,
+                "canvas_left": 107,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt3",
+                "canvas_depth": 1,
+                "canvas_left": 143,
+                "canvas_top": 82,
+                "width":30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt4",
+                "canvas_depth": 1,
+                "canvas_left": 179,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt5",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt6",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt7",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt8",
+                "canvas_depth": 1,
+                "canvas_left": 323,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynHead",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynTorso",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArms",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynLegs",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynFeet",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt9",
+                "canvas_depth": 1,
+                "canvas_left": 71,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt10",
+                "canvas_depth": 1,
+                "canvas_left": 107,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt11",
+                "canvas_depth": 1,
+                "canvas_left": 143,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt12",
+                "canvas_depth": 1,
+                "canvas_left": 179,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt13",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt14",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt15",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArt16",
+                "canvas_depth": 1,
+                "canvas_left": 323,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 125,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "ReynSkill1",
+                "canvas_depth": 1,
+                "canvas_top": 150,
+                "width": 40,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ReynSkill2",
+                "canvas_depth": 1,
+                "canvas_left": 43,
+                "canvas_top": 150,
+                "width": 65,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ReynSkill3",
+                "canvas_depth": 1,
+                "canvas_left": 111,
+                "canvas_top": 150,
+                "width": 77,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ReynSkill4",
+                "canvas_depth": 1,
+                "canvas_left": 191,
+                "canvas_top": 150,
+                "width": 75,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ReynSkill5",
+                "canvas_depth": 1,
+                "canvas_left": 269,
+                "canvas_top": 150,
+                "width": 83,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SharlaIcon",
+                "canvas_depth": 1,
+                "canvas_top": 164,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt1",
+                "canvas_depth": 1,
+                "canvas_left": 71,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt2",
+                "canvas_depth": 1,
+                "canvas_left": 107,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt3",
+                "canvas_depth": 1,
+                "canvas_left": 143,
+                "canvas_top": 164,
+                "width":30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt4",
+                "canvas_depth": 1,
+                "canvas_left": 179,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt5",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt6",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt7",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt8",
+                "canvas_depth": 1,
+                "canvas_left": 323,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaHead",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaTorso",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArms",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaLegs",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaFeet",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt9",
+                "canvas_depth": 1,
+                "canvas_left": 71,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt10",
+                "canvas_depth": 1,
+                "canvas_left": 107,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt11",
+                "canvas_depth": 1,
+                "canvas_left": 143,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt12",
+                "canvas_depth": 1,
+                "canvas_left": 179,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt13",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt14",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt15",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArt16",
+                "canvas_depth": 1,
+                "canvas_left": 323,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 207,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "SharlaSkill1",
+                "canvas_depth": 1,
+                "canvas_top": 232,
+                "width": 60,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SharlaSkill2",
+                "canvas_depth": 1,
+                "canvas_left": 63,
+                "canvas_top": 232,
+                "width": 72,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SharlaSkill3",
+                "canvas_depth": 1,
+                "canvas_left": 137,
+                "canvas_top": 232,
+                "width": 90,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SharlaSkill4",
+                "canvas_depth": 1,
+                "canvas_left": 229,
+                "canvas_top": 232,
+                "width": 59,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SharlaSkill5",
+                "canvas_depth": 1,
+                "canvas_left": 290,
+                "canvas_top": 232,
+                "width": 63,
+                "height": 13
+              }
+            ]
+          },
+          {
+            "type": "canvas",
+            "width": 448,
+            "height": 245,
+            "margin": "0,0",
+            "content": [
+              {
+                "type": "item",
+                "item": "DunbanIcon",
+                "canvas_depth": 1,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt1",
+                "canvas_depth": 1,
+                "canvas_left": 71,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt2",
+                "canvas_depth": 1,
+                "canvas_left": 107,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt3",
+                "canvas_depth": 1,
+                "canvas_left": 143,
+                "width":30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt4",
+                "canvas_depth": 1,
+                "canvas_left": 179,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt5",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt6",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt7",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt8",
+                "canvas_depth": 1,
+                "canvas_left": 323,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanHead",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanTorso",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArms",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanLegs",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanFeet",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt9",
+                "canvas_depth": 1,
+                "canvas_left": 71,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt10",
+                "canvas_depth": 1,
+                "canvas_left": 107,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt11",
+                "canvas_depth": 1,
+                "canvas_left": 143,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt12",
+                "canvas_depth": 1,
+                "canvas_left": 179,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt13",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt14",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt15",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArt16",
+                "canvas_depth": 1,
+                "canvas_left": 323,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 43,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "DunbanSkill1",
+                "canvas_depth": 1,
+                "canvas_top": 68,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "DunbanSkill2",
+                "canvas_depth": 1,
+                "canvas_left": 62,
+                "canvas_top": 68,
+                "width": 69,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "DunbanSkill3",
+                "canvas_depth": 1,
+                "canvas_left": 138,
+                "canvas_top": 68,
+                "width": 54,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "DunbanSkill4",
+                "canvas_depth": 1,
+                "canvas_left": 197,
+                "canvas_top": 68,
+                "width": 75,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "DunbanSkill5",
+                "canvas_depth": 1,
+                "canvas_left": 277,
+                "canvas_top": 68,
+                "width": 78,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "RikiIcon",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "RikiArt1",
+                "canvas_depth": 1,
+                "canvas_left": 71,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt2",
+                "canvas_depth": 1,
+                "canvas_left": 107,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt3",
+                "canvas_depth": 1,
+                "canvas_left": 143,
+                "canvas_top": 82,
+                "width":30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt4",
+                "canvas_depth": 1,
+                "canvas_left": 179,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt5",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt6",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt7",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt8",
+                "canvas_depth": 1,
+                "canvas_left": 323,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiHead",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiTorso",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArms",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiLegs",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiFeet",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt9",
+                "canvas_depth": 1,
+                "canvas_left": 71,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt10",
+                "canvas_depth": 1,
+                "canvas_left": 107,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt11",
+                "canvas_depth": 1,
+                "canvas_left": 143,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt12",
+                "canvas_depth": 1,
+                "canvas_left": 179,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt13",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt14",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt15",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArt16",
+                "canvas_depth": 1,
+                "canvas_left": 323,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 125,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "RikiSkill1",
+                "canvas_depth": 1,
+                "canvas_top": 150,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "RikiSkill2",
+                "canvas_depth": 1,
+                "canvas_left": 65,
+                "canvas_top": 150,
+                "width": 66,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "RikiSkill3",
+                "canvas_depth": 1,
+                "canvas_left": 139,
+                "canvas_top": 150,
+                "width": 72,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "RikiSkill4",
+                "canvas_depth": 1,
+                "canvas_left": 219,
+                "canvas_top": 150,
+                "width": 72,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "RikiSkill5",
+                "canvas_depth": 1,
+                "canvas_left": 298,
+                "canvas_top": 150,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "MeliaIcon",
+                "canvas_depth": 1,
+                "canvas_top": 164,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt1",
+                "canvas_depth": 1,
+                "canvas_left": 71,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt2",
+                "canvas_depth": 1,
+                "canvas_left": 107,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt3",
+                "canvas_depth": 1,
+                "canvas_left": 143,
+                "canvas_top": 164,
+                "width":30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt4",
+                "canvas_depth": 1,
+                "canvas_left": 179,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt5",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt6",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt7",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt8",
+                "canvas_depth": 1,
+                "canvas_left": 323,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaHead",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaTorso",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArms",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaLegs",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaFeet",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt9",
+                "canvas_depth": 1,
+                "canvas_left": 71,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt10",
+                "canvas_depth": 1,
+                "canvas_left": 107,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt11",
+                "canvas_depth": 1,
+                "canvas_left": 143,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt12",
+                "canvas_depth": 1,
+                "canvas_left": 179,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt13",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt14",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt15",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArt16",
+                "canvas_depth": 1,
+                "canvas_left": 323,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 207,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "MeliaSkill1",
+                "canvas_depth": 1,
+                "canvas_top": 232,
+                "width": 60,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "MeliaSkill2",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "canvas_top": 232,
+                "width": 69,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "MeliaSkill3",
+                "canvas_depth": 1,
+                "canvas_left": 145,
+                "canvas_top": 232,
+                "width": 65,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "MeliaSkill4",
+                "canvas_depth": 1,
+                "canvas_left": 218,
+                "canvas_top": 232,
+                "width": 72,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "MeliaSkill5",
+                "canvas_depth": 1,
+                "canvas_left": 298,
+                "canvas_top": 232,
+                "width": 54,
+                "height": 13
+              }
+            ]
+          },
+          {
+            "type": "canvas",
+            "width": 448,
+            "height": 72,
+            "margin": "0,0",
+            "content": [
+              {
+                "type": "item",
+                "item": "SevenIcon",
+                "canvas_depth": 1,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "SevenArt1",
+                "canvas_depth": 1,
+                "canvas_left": 71,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt2",
+                "canvas_depth": 1,
+                "canvas_left": 107,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt3",
+                "canvas_depth": 1,
+                "canvas_left": 143,
+                "width":30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt4",
+                "canvas_depth": 1,
+                "canvas_left": 179,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt5",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt6",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt7",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt8",
+                "canvas_depth": 1,
+                "canvas_left": 323,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenHead",
+                "canvas_depth": 1,
+                "canvas_left": 359,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenTorso",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArms",
+                "canvas_depth": 1,
+                "canvas_left": 395,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenLegs",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenFeet",
+                "canvas_depth": 1,
+                "canvas_left": 431,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt9",
+                "canvas_depth": 1,
+                "canvas_left": 71,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt10",
+                "canvas_depth": 1,
+                "canvas_left": 107,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt11",
+                "canvas_depth": 1,
+                "canvas_left": 143,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt12",
+                "canvas_depth": 1,
+                "canvas_left": 179,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt13",
+                "canvas_depth": 1,
+                "canvas_left": 215,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt14",
+                "canvas_depth": 1,
+                "canvas_left": 251,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt15",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArt16",
+                "canvas_depth": 1,
+                "canvas_left": 323,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 43,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "SevenSkill1",
+                "canvas_depth": 1,
+                "canvas_top": 68,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SevenSkill2",
+                "canvas_depth": 1,
+                "canvas_left": 80,
+                "canvas_top": 68,
+                "width": 30,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SevenSkill3",
+                "canvas_depth": 1,
+                "canvas_left": 133,
+                "canvas_top": 68,
+                "width": 45,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SevenSkill4",
+                "canvas_depth": 1,
+                "canvas_left": 201,
+                "canvas_top": 68,
+                "width": 63,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SevenSkill5",
+                "canvas_depth": 1,
+                "canvas_left": 287,
+                "canvas_top": 68,
+                "width": 69,
+                "height": 13
+              },
+              {
+                "type": "itemgrid",
+                "item_margin": "5, 90",
+                "item_size": "40,40",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "Lobster",
+                    "MemoryFragments",
+                    "Colony6Housing",
+                    "Colony6Commerce",
+                    "Colony6Nature",
+                    "Colony6Special",
+                    "HuntLicenses",
+                    "Goal"
+                  ]
+                ]
+              },
+              {
+                "type": "itemgrid",
+                "item_margin": "5, 140",
+                "item_size": "40,40",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "Fire",
+                    "Wind",
+                    "Electric",
+                    "Earth",
+                    "Ice",
+                    "Water",
+                    "HuntLicense",
+                    "VictoryCon"
+                  ]
+                ]
+              },
+              {
+                "type": "itemgrid",
+                "item_margin": "5, 190",
+                "item_size": "40,40",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "ProgVegs",
+                    "ProgFruits",
+                    "ProgFlowers",
+                    "ProgAnimals",
+                    "ProgBugs",
+                    "ProgNatures",
+                    "ProgPartss",
+                    "ProgStranges"
+                  ]
+                ]
+              },
+              {
+                "type": "itemgrid",
+                "item_margin": "5, 240",
+                "item_size": "40,40",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "ProgVeg",
+                    "ProgFruit",
+                    "ProgFlower",
+                    "ProgAnimal",
+                    "ProgBug",
+                    "ProgNature",
+                    "ProgParts",
+                    "ProgStrange"
+                  ]
+                ]
+              },
+              {
+                "type": "itemgrid",
+                "item_margin": "5, 290",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "TephKeys",
+                    "LegKeys",
+                    "Col6Keys",
+                    "MineKeys",
+                    "MarshKeys",
+                    "Int1Keys",
+                    "ForestKeys",
+                    "VillageKeys",
+                    "SeaKeys",
+                    "AlcaKeys",
+                    "TombKeys"
+                  ]
+                ]
+              },
+              {
+                "type": "itemgrid",
+                "item_margin": "5, 340",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "Pris1Keys",
+                    "MountKeys",
+                    "ValleyKeys",
+                    "FortKeys",
+                    "ArmKeys",
+                    "FieldKeys",
+                    "FactKeys",
+                    "AgniKeys",
+                    "CoreKeys",
+                    "Int2Keys",
+                    "Pris2Keys"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+    "CharactersVerticalNoArts": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "canvas",
+            "width": 260,
+            "height": 245,
+            "margin": "1,5",
+            "content": [
+              {
+                "type": "item",
+                "item": "ShulkIcon",
+                "canvas_depth": 1,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "ShulkWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkHead",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkTorso",
+                "canvas_depth": 1,
+                "canvas_left": 104,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkArms",
+                "canvas_depth": 1,
+                "canvas_left": 104,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkLegs",
+                "canvas_depth": 1,
+                "canvas_left": 140,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkFeet",
+                "canvas_depth": 1,
+                "canvas_left": 140,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ShulkAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 43,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "ShulkIntegrity",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkIntuition",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 15,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkHumanity",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 30,
+                "width": 65,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkPessimism",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 45,
+                "width": 75,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ShulkBravery",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 60,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ReynIcon",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "ReynWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynHead",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynTorso",
+                "canvas_depth": 1,
+                "canvas_left": 104,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynArms",
+                "canvas_depth": 1,
+                "canvas_left": 104,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynLegs",
+                "canvas_depth": 1,
+                "canvas_left": 140,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynFeet",
+                "canvas_depth": 1,
+                "canvas_left": 140,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "ReynAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 125,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "ReynSkill1",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 82,
+                "width": 40,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ReynSkill2",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 97,
+                "width": 65,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ReynSkill3",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 112,
+                "width": 77,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ReynSkill4",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 127,
+                "width": 75,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "ReynSkill5",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 142,
+                "width": 83,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SharlaIcon",
+                "canvas_depth": 1,
+                "canvas_top": 164,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "SharlaWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaHead",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaTorso",
+                "canvas_depth": 1,
+                "canvas_left": 104,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaArms",
+                "canvas_depth": 1,
+                "canvas_left": 104,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaLegs",
+                "canvas_depth": 1,
+                "canvas_left": 140,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaFeet",
+                "canvas_depth": 1,
+                "canvas_left": 140,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SharlaAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 207,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "SharlaSkill1",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 164,
+                "width": 60,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SharlaSkill2",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 179,
+                "width": 72,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SharlaSkill3",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 194,
+                "width": 90,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SharlaSkill4",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 209,
+                "width": 59,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SharlaSkill5",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 224,
+                "width": 63,
+                "height": 13
+              }
+            ]
+          },
+          {
+            "type": "canvas",
+            "width": 260,
+            "height": 245,
+            "margin": "16,5",
+            "content": [
+              {
+                "type": "item",
+                "item": "DunbanIcon",
+                "canvas_depth": 1,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "DunbanWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanHead",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanTorso",
+                "canvas_depth": 1,
+                "canvas_left": 104,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanArms",
+                "canvas_depth": 1,
+                "canvas_left": 104,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanLegs",
+                "canvas_depth": 1,
+                "canvas_left": 140,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanFeet",
+                "canvas_depth": 1,
+                "canvas_left": 140,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "DunbanAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 43,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "DunbanSkill1",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "DunbanSkill2",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 15,
+                "width": 69,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "DunbanSkill3",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 30,
+                "width": 54,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "DunbanSkill4",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 45,
+                "width": 75,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "DunbanSkill5",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 60,
+                "width": 78,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "RikiIcon",
+                "canvas_depth": 1,
+                "canvas_top": 82,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "RikiWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiHead",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiTorso",
+                "canvas_depth": 1,
+                "canvas_left": 104,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiArms",
+                "canvas_depth": 1,
+                "canvas_left": 104,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiLegs",
+                "canvas_depth": 1,
+                "canvas_left": 140,
+                "canvas_top": 82,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiFeet",
+                "canvas_depth": 1,
+                "canvas_left": 140,
+                "canvas_top": 115,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "RikiAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 125,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "RikiSkill1",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 82,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "RikiSkill2",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 97,
+                "width": 66,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "RikiSkill3",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 112,
+                "width": 72,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "RikiSkill4",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 127,
+                "width": 72,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "RikiSkill5",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 142,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "MeliaIcon",
+                "canvas_depth": 1,
+                "canvas_top": 164,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "MeliaWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaHead",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaTorso",
+                "canvas_depth": 1,
+                "canvas_left": 104,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaArms",
+                "canvas_depth": 1,
+                "canvas_left": 104,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaLegs",
+                "canvas_depth": 1,
+                "canvas_left": 140,
+                "canvas_top": 164,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaFeet",
+                "canvas_depth": 1,
+                "canvas_left": 140,
+                "canvas_top": 197,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "MeliaAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 207,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "MeliaSkill1",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 164,
+                "width": 60,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "MeliaSkill2",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 179,
+                "width": 69,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "MeliaSkill3",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 194,
+                "width": 65,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "MeliaSkill4",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 209,
+                "width": 72,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "MeliaSkill5",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 224,
+                "width": 54,
+                "height": 13
+              }
+            ]
+          },
+          {
+            "type": "canvas",
+            "width": 350,
+            "height": 72,
+            "margin": "4,5",
+            "content": [
+              {
+                "type": "item",
+                "item": "SevenIcon",
+                "canvas_depth": 1,
+                "width": 65,
+                "height": 65
+              },
+              {
+                "type": "item",
+                "item": "SevenWeapon",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenHead",
+                "canvas_depth": 1,
+                "canvas_left": 68,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenTorso",
+                "canvas_depth": 1,
+                "canvas_left": 104,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenArms",
+                "canvas_depth": 1,
+                "canvas_left": 104,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenLegs",
+                "canvas_depth": 1,
+                "canvas_left": 140,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenFeet",
+                "canvas_depth": 1,
+                "canvas_left": 140,
+                "canvas_top": 33,
+                "width": 30,
+                "height": 30
+              },
+              {
+                "type": "item",
+                "item": "SevenAffinity",
+                "canvas_depth": 1,
+                "canvas_top": 43,
+                "width": 22,
+                "height": 22
+              },
+              {
+                "type": "item",
+                "item": "SevenSkill1",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "width": 57,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SevenSkill2",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 15,
+                "width": 30,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SevenSkill3",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 30,
+                "width": 45,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SevenSkill4",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 45,
+                "width": 63,
+                "height": 13
+              },
+              {
+                "type": "item",
+                "item": "SevenSkill5",
+                "canvas_depth": 1,
+                "canvas_left": 176,
+                "canvas_top": 60,
+                "width": 69,
+                "height": 13
+              },
+              {
+                "type": "itemgrid",
+                "item_margin": "5, 90",
+                "item_size": "40,40",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "Lobster",
+                    "MemoryFragments",
+                    "Colony6Housing",
+                    "Colony6Commerce",
+                    "Colony6Nature",
+                    "Colony6Special",
+                    "HuntLicenses"
+                  ]
+                ]
+              },
+              {
+                "type": "itemgrid",
+                "item_margin": "5, 140",
+                "item_size": "40,40",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "Fire",
+                    "Wind",
+                    "Electric",
+                    "Earth",
+                    "Ice",
+                    "Water",
+                    "HuntLicense"
+                  ]
+                ]
+              },
+              {
+                "type": "itemgrid",
+                "item_margin": "5, 190",
+                "item_size": "60,60",
+                "h_alignment": "left",
+                "rows": [
+                  [
+                    "Goal",
+                    "VictoryCon"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "CharactersHorizontal": {
     "type": "array",
     "orientation": "horizontal",
@@ -6680,15 +9474,7 @@
                 "ProgNatures",
                 "ProgPartss",
                 "ProgStranges"
-              ]
-            ]
-          },
-          {
-            "type": "itemgrid",
-            "item_margin": "5, 5",
-            "item_size": "40,40",
-            "h_alignment": "left",
-            "rows": [
+              ],
               [
                 "ProgVeg",
                 "ProgFruit",
