@@ -10,13 +10,13 @@
     "standard": {
       "display_name": "Map Tracker",
       "flags": ["apmanual"]
-    }/*,
+    },
     "var_artsanity": {
       "display_name": "Map Tracker (Artsanity)",
       "flags": [
         "apmanual"
       ]
-    },
+    }/*,
     "var_summary": {
       "display_name": "Summary & Items only",
       "flags": [

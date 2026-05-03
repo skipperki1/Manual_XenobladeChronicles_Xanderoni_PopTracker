@@ -31,15 +31,7 @@ ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlus.lua")
 ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlusWrapper.lua")
 
 -- Items
-if ARTSANITY then
-    Tracker:AddItems("items/itemsArtsanity.jsonc")
-    print("Artsanity Items loaded!")
-elseif SUMMARYARTS then
-    Tracker:AddItems("items/itemsArtsanity.jsonc")
-else
     Tracker:AddItems("items/items.jsonc")
-    print("Normal Items loaded!")
-end
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     -- Maps
@@ -60,8 +52,8 @@ end
 
 -- Layout
 Tracker:AddLayouts("layouts/items.jsonc")
-if SUMMARY then
-    Tracker:AddLayouts("var_summary/layouts/tracker.jsonc")
+if ARTSANITY then
+    Tracker:AddLayouts("var_artsanity/layouts/tracker.jsonc")
 else
     Tracker:AddLayouts("layouts/tracker.jsonc")
 end

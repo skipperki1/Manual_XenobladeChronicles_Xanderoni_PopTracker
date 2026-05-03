@@ -1388,7 +1388,7 @@
                 "type": "layout",
                 "h_alignment": "center",
                 "v_alignment": "center",
-                "key": "CharactersHorizontal"
+                "key": "CharactersHorizontalNoArts"
               }
             },
             {
