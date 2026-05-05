@@ -28,6 +28,23 @@
           "type": "tabbed",
           "tabs": [
             {
+              "title": "Summary",
+              "content": {
+               "type": "tabbed",
+               "tabs": [
+                {
+                 "title": "Summary",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "Summary"
+                    ]
+                  }
+                }
+                ]
+              }
+            },
+            {
               "title": "Colony 9",
               "content": {
                "type": "tabbed",
@@ -1316,6 +1333,40 @@
                       ]
                     }
                   }
+                ]
+              }
+            },
+            {
+              "title": "Memory Space",
+              "content": {
+               "type": "tabbed",
+               "tabs": [
+                {
+                 "title": "Full",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "MSFull"
+                    ]
+                  }
+                }
+                ]
+              }
+            },
+            {
+              "title": "Misc.",
+              "content": {
+               "type": "tabbed",
+               "tabs": [
+                {
+                 "title": "Area Affinities & Victory",
+                  "content": {
+                    "type": "map",
+                    "maps": [
+                      "MISC"
+                    ]
+                  }
+                }
                 ]
               }
             }
