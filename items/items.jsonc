@@ -6679,5 +6679,11 @@
     "type": "static",
     "img": "images/items/Goal.png",
     "codes":"static,dummyItem,Goal"
+  },
+  {
+    "name": "Ether Jet",
+    "type": "toggle",
+    "img": "images/items/Goal.png",
+    "codes":"toggle,EtherJet,SW2"
   }
 ]
