@@ -634,7 +634,7 @@
           {
             "name": "Battling Brutes",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$CoreAcc"]
+            "access_rules": ["$Pris2Acc"]
           }
         ],
         "map_locations": [
@@ -855,22 +855,22 @@
           {
             "name": "Cook-Off Counter Attack!",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$AlcaAcc"]
+            "access_rules": ["$AlcaAcc,Colony6Housing:2,Colony6Commerce:2"]
           },
           {
             "name": "Cook-Off Comeback?",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$AlcaAcc"]
+            "access_rules": ["$AlcaAcc,Colony6Housing:2,Colony6Commerce:2"]
           },
           {
             "name": "Cook-Off Final Blow?!",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$AlcaAcc"]
+            "access_rules": ["$AlcaAcc,Colony6Housing:2,Colony6Commerce:2"]
           },
           {
             "name": "Cook-Off Showdown!",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$ValakAcc"]
+            "access_rules": ["$ValakAcc,Colony6Housing:2,Colony6Commerce:2"]
           },
           {
             "name": "A Dauntless Trader",
@@ -880,47 +880,47 @@
           {
             "name": "Defend Colony 6 - Mechon (15% Reconstruction)",
             "visibility_rules": ["MoQEn"],
-            "access_rules": ["$MaknaAcc"]
+            "access_rules": ["$MaknaAcc,Colony6Housing:1,Colony6Commerce:1,Colony6Nature:1,Colony6Special:1"]
           },
           {
             "name": "Defend Colony 6 - Reptile (35% Reconstruction)",
             "visibility_rules": ["MoQEn"],
-            "access_rules": ["$AlcaAcc"]
+            "access_rules": ["$AlcaAcc,Colony6Housing:2,Colony6Commerce:2,Colony6Nature:2,Colony6Special:2"]
           },
           {
             "name": "Defend Colony 6 - Elite (55% Reconstruction)",
             "visibility_rules": ["MoQEn"],
-            "access_rules": ["$ArmAcc"]
+            "access_rules": ["$ArmAcc,Colony6Housing:3,Colony6Commerce:3,Colony6Nature:3,Colony6Special:3"]
           },
           {
             "name": "Defend Colony 6 - Ancient (75% Reconstruction)",
             "visibility_rules": ["MoQEn"],
-            "access_rules": ["$CoreAcc"]
+            "access_rules": ["$CoreAcc,Colony6Housing:4,Colony6Commerce:4,Colony6Nature:4,Colony6Special:4"]
           },
           {
             "name": "Defend Colony 6 - Demon (95% Reconstruction)",
             "visibility_rules": ["MoQEn"],
-            "access_rules": ["$CoreAcc"]
+            "access_rules": ["$CoreAcc,Colony6Housing:5,Colony6Commerce:5,Colony6Nature:5,Colony6Special:5"]
           },
           {
             "name": "A Delectable Delicacy",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$AlcaAcc"]
+            "access_rules": ["$AlcaAcc,Colony6Housing:2,Colony6Special:2"]
           },
           {
             "name": "Delivering the Undeliverable",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$CoreAcc"]
+            "access_rules": ["$CoreAcc,Colony6Housing:3,Colony6Nature:3"]
           },
           {
             "name": "A Final Sweet Favour",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$ValakAcc"]
+            "access_rules": ["$ValakAcc,Colony6Housing:3,Colony6Commerce:2,Colony6Nature:2,Colony6Special:2"]
           },
           {
             "name": "Finding the Unfindable",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$CoreAcc"]
+            "access_rules": ["$CoreAcc,Colony6Housing:3,Colony6Nature:3"]
           }
         ],
         "map_locations": [
@@ -949,12 +949,12 @@
           {
             "name": "A Gutsy Trader",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$VillAcc"]
+            "access_rules": ["$VillAcc,Colony6Housing:1,Colony6Commerce:2,Colony6Nature:2"]
           },
           {
             "name": "In Pursuit of Love",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$ArmAcc"]
+            "access_rules": ["$FactAcc,Colony6Housing:5"]
           },
           {
             "name": "Lifespan of a Machina",
