@@ -538,22 +538,22 @@
           {
             "name": "The Blood of Bafalgar",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["HuntLicense2"]
+            "access_rules": ["HuntLicense2,$Pris2Acc"]
           },
           {
             "name": "The Path of Bafalgar",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["HuntLicense2"]
+            "access_rules": ["HuntLicense2,$Pris2Acc"]
           },
           {
             "name": "The Coffin of Bafalgar",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["HuntLicense2"]
+            "access_rules": ["HuntLicense2,$Pris2Acc"]
           },
           {
             "name": "The Gratitude of Bafalgar",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["HuntLicense2"]
+            "access_rules": ["HuntLicense2,$Pris2Acc"]
           }
         ],
         "map_locations": [
@@ -1921,11 +1921,11 @@
           },
           {
             "name": "Collect Quest 1",
-            "visibility_rules": ["CoQEn"]
+            "visibility_rules": ["CQEn"]
           },
           {
             "name": "Collect Quest 2",
-            "visibility_rules": ["CoQEn"]
+            "visibility_rules": ["CQEn"]
           },
           {
             "name": "Challenge",

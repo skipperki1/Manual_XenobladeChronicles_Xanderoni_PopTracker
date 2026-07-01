@@ -6685,5 +6685,34 @@
     "type": "toggle",
     "img": "images/items/Goal.png",
     "codes":"toggle,EtherJet,SW2"
+  },
+  {
+    "name": "GameVersion",
+    "type": "progressive",
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/items/WiiLogo.png",
+        "codes": "GameVersion,Wii",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/SwitchLogo.png",
+        "codes": "GameVersion,Switch",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/Switch2Logo.png",
+        "codes": "GameVersion,Switch2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Spoiler Setting",
+    "type": "toggle",
+    "img": "images/items/Seven.png",
+    "codes":"toggle,Settings,Spoilers"
   }
 ]

@@ -4792,7 +4792,8 @@
                 "rows": [
                   [
                     "Goal",
-                    "VictoryCon"
+                    "VictoryCon",
+                    "GameVersion"
                   ]
                 ]
               }
@@ -9440,7 +9441,8 @@
                 "rows": [
                   [
                     "Goal",
-                    "VictoryCon"
+                    "VictoryCon",
+                    "GameVersion"
                   ]
                 ]
               }
@@ -9574,7 +9576,8 @@
         "DevEn",
         "Artsanity",
         "Colsanity",
-        "VictoryCon"
+        "VictoryCon",
+        "Spoilers"
       ]
     ]
   }
