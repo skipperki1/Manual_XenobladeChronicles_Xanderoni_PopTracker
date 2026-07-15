@@ -11,7 +11,7 @@
         {
           "name": "Reyn & Dunban",
           "access_rules": [
-          "$MineAcc,ReynAffinity5,DunbanAffinity5"
+          "$ArmAcc,ReynAffinity5,DunbanAffinity5"
           ]
         }
       ],
@@ -30,7 +30,7 @@
         {
           "name": "Reyn & Melia",
           "access_rules": [
-          "$VillAcc,ReynAffinity4,MeliaAffinity4"
+          "$AlcaAcc,ReynAffinity4,MeliaAffinity4"
           ]
         }
       ],
@@ -49,7 +49,7 @@
         {
           "name": "Sharla & Riki",
           "access_rules": [
-          "$VillAcc,SharlaAffinity3,RikiAffinity3"
+          "$AlcaAcc,SharlaAffinity2,RikiAffinity2"
           ]
         }
       ],
@@ -87,7 +87,7 @@
         {
           "name": "Reyn & Fiora",
           "access_rules": [
-          "ReynAffinity2,SevenAffinity2"
+          "$ArmAcc,ReynAffinity2,SevenAffinity2"
           ]
         }
       ],
@@ -125,7 +125,7 @@
         {
           "name": "Reyn & Sharla",
           "access_rules": [
-          "$LegAcc,ReynAffinity4,SharlaAffinity4"
+          "$MarshAcc,ReynAffinity4,SharlaAffinity4"
           ]
         }
       ],
@@ -317,7 +317,7 @@
         {
           "name": "Shulk & Sharla",
           "access_rules": [
-          "$LegAcc,SharlaAffinity2,ShulkAffinity2"
+          "$MineAcc,SharlaAffinity2,ShulkAffinity2"
           ]
         }
       ],
@@ -344,7 +344,7 @@
         {
           "name": "Sharla & Dunban",
           "access_rules": [
-          "$MineAcc,SharlaAffinity4,DunbanAffinity4"
+          "$ArmAcc,SharlaAffinity4,DunbanAffinity4"
           ]
         }
       ],
@@ -413,7 +413,7 @@
         {
           "name": "Dunban & Seven",
           "access_rules": [
-          "$ArmAcc,DunbanAffinity4,SevenAffinity4"
+          "$AgniAcc,DunbanAffinity4,SevenAffinity4"
           ]
         }
       ],
@@ -482,7 +482,7 @@
         {
           "name": "Shulk & Sharla",
           "access_rules": [
-          "$Pris2Acc,ShulkAffinity5,SharlaAffinity5,Colony6Special:5"
+          "$AgniAcc,ShulkAffinity5,SharlaAffinity5,Colony6Special:5"
           ]
         }
       ],
@@ -534,7 +534,7 @@
         {
           "name": "Reyn & Sharla",
           "access_rules": [
-          "$MineAcc,ReynAffinity5,SharlaAffinity5"
+          "$FactAcc,ReynAffinity5,SharlaAffinity5"
           ]
         }
       ],
@@ -567,7 +567,7 @@
         {
           "name": "Sharla & Riki",
           "access_rules": [
-          "$VillAcc,SharlaAffinity5,RikiAffinity5"
+          "$AlcaAcc,SharlaAffinity5,RikiAffinity5"
           ]
         }
       ],
@@ -586,7 +586,7 @@
         {
           "name": "Dunban & Melia",
           "access_rules": [
-          "$VillAcc,DunbanAffinity4,MeliaAffinity4"
+          "$AlcaAcc,DunbanAffinity4,MeliaAffinity4"
           ]
         }
       ],
@@ -760,7 +760,7 @@
         {
           "name": "Dunban & Riki",
           "access_rules": [
-          "$VillAcc,DunbanAffinity5,RikiAffinity5"
+          "$ArmAcc,DunbanAffinity5,RikiAffinity5"
           ]
         }
       ],
@@ -798,7 +798,7 @@
         {
           "name": "Dunban & Melia",
           "access_rules": [
-          "$VillAcc,MeliaAffinity2,DunbanAffinity2"
+          "$AlcaAcc,MeliaAffinity2,DunbanAffinity2"
           ]
         }
       ],

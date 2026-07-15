@@ -900,7 +900,7 @@
           {
             "name": "Defend Colony 6 - Demon (95% Reconstruction)",
             "visibility_rules": ["MoQEn"],
-            "access_rules": ["$CoreAcc,Colony6Housing:5,Colony6Commerce:5,Colony6Nature:5,Colony6Special:5"]
+            "access_rules": ["$Pris2Acc,Colony6Housing:5,Colony6Commerce:5,Colony6Nature:5,Colony6Special:5"]
           },
           {
             "name": "A Delectable Delicacy",
@@ -949,12 +949,12 @@
           {
             "name": "A Gutsy Trader",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$VillAcc,Colony6Housing:1,Colony6Commerce:2,Colony6Nature:2"]
+            "access_rules": ["$MaknaAcc,Colony6Housing:1,Colony6Commerce:2,Colony6Nature:2"]
           },
           {
             "name": "In Pursuit of Love",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$FactAcc,Colony6Housing:5"]
+            "access_rules": ["$Int2Acc,Colony6Housing:5"]
           },
           {
             "name": "Lifespan of a Machina",
@@ -964,7 +964,7 @@
           {
             "name": "Looking for Freedom",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$AlcaAcc"]
+            "access_rules": ["$AlcaAcc,Colony6Housing:2,Colony6Special:2"]
           },
           {
             "name": "Making a New Path (MISSABLE)",
@@ -974,42 +974,42 @@
           {
             "name": "Melancholy Tyrea",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$CoreAcc"]
+            "access_rules": ["$Int2Acc"]
           },
           {
             "name": "Missing Lodger",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$AlcaAcc"]
+            "access_rules": ["$AlcaAcc,Colony6Housing:2,Colony6Special:2"]
           },
           {
             "name": "Nic's Training",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$FactAcc"]
+            "access_rules": ["$Int2Acc,HuntLicense3,Colony6Housing5"]
           },
           {
             "name": "Nic's Final Test",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$FactAcc"]
+            "access_rules": ["$Pris2Acc,HuntLicense6,Colony6Housing5"]
           },
           {
             "name": "Obstinate Berryjammy",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$ValakAcc"]
+            "access_rules": ["$ValakAcc,Colony6Housing:3,Colony6Commerce:2,Colony6Nature:2,Colony6Special:2"]
           },
           {
             "name": "Odd Smoke - Investigation",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$AlcaAcc"]
+            "access_rules": ["$FieldAcc,Colony6Housing:4"]
           },
           {
             "name": "Odd Smoke - Resolution",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$ArmAcc"]
+            "access_rules": ["$FieldAcc,Colony6Housing:4,Colony6Commerce:2,Colony6Nature:2,Colony6Special:2"]
           },
           {
             "name": "A Poet's Concerns",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$Int2Acc"]
+            "access_rules": ["$Int2Acc,Colony6Housing:5,Colony6Nature:5"]
           }
         ],
         "map_locations": [
@@ -1076,14 +1076,14 @@
             "access_rules": ["$MarshAcc"]
           },
           {
-            "name": "A Secret Mission",
+            "name": "Secret Mission",
             "visibility_rules": ["AQEn"],
             "access_rules": []
           },
           {
             "name": "Securing Provisions",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$CoreAcc"]
+            "access_rules": ["$Pris2Acc"]
           },
           {
             "name": "A Selfish Girl's Mistake",
@@ -1093,17 +1093,17 @@
           {
             "name": "A Tantalising Treat",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$ValakAcc"]
+            "access_rules": ["$ValakAcc,Colony6Housing:2,Colony6Special:2"]
           },
           {
             "name": "The Most Transparent Thing",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$ValakAcc"]
+            "access_rules": ["$ValakAcc,Colony6Housing:3,Colony6Commerce:2,Colony6Nature:2,Colony6Special:2"]
           },
           {
             "name": "Unstoppable Berryjammy",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$ValakAcc"]
+            "access_rules": ["$ValakAcc,Colony6Housing:3,Colony6Commerce:2,Colony6Nature:2,Colony6Special:2"]
           }
         ],
         "map_locations": [
@@ -1226,22 +1226,22 @@
           {
             "name": "It's All in the Mind",
             "visibility_rules": ["AQEn"],
-            "access_rules": []
+            "access_rules": ["HuntLicense6"]
           },
           {
             "name": "A Mysterious Delicacy",
             "visibility_rules": ["AQEn"],
-            "access_rules": []
+            "access_rules": ["HuntLicense6"]
           },
           {
             "name": "A Gift?",
             "visibility_rules": ["AQEn"],
-            "access_rules": []
+            "access_rules": ["HuntLicense6"]
           },
           {
             "name": "Gather Information",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$AlcaAcc"]
+            "access_rules": ["$CoreAcc"]
           }
         ],
         "map_locations": [
@@ -1260,7 +1260,7 @@
           {
             "name": "Challenge",
             "visibility_rules": ["ChQEn"],
-            "access_rules": ["HuntLicense6"]
+            "access_rules": ["$Pris2Acc,HuntLicense6"]
           },
           {
             "name": "For a Friend",
@@ -1270,12 +1270,12 @@
           {
             "name": "A Merciful End",
             "visibility_rules": ["AQEn"],
-            "access_rules": []
+            "access_rules": ["$Pris2Acc"]
           },
           {
             "name": "A Release from Duty",
             "visibility_rules": ["AQEn"],
-            "access_rules": []
+            "access_rules": ["$Pris2Acc"]
           },
           {
             "name": "The Imperial Ceremony",
@@ -1321,7 +1321,7 @@
           {
             "name": "Final Challenge of the Sage",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$CoreAcc"]
+            "access_rules": ["$Pris2Acc"]
           }
         ],
         "map_locations": [
@@ -1450,12 +1450,12 @@
           {
             "name": "Broken Ether Furnace",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$CoreAcc"]
+            "access_rules": ["$Pris2Acc"]
           },
           {
             "name": "Broken Ether Furnace 2",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$CoreAcc"]
+            "access_rules": ["$Pris2Acc"]
           },
           {
             "name": "Challenge 1",
@@ -1764,12 +1764,12 @@
           {
             "name": "Restoring the Capital",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$CoreAcc"]
+            "access_rules": ["$Pris2Acc"]
           },
           {
             "name": "Restoring the Capital 2",
             "visibility_rules": ["AQEn"],
-            "access_rules": ["$CoreAcc"]
+            "access_rules": ["$Pris2Acc"]
           },
           {
             "name": "Search Quest 1",
@@ -1858,7 +1858,7 @@
     "name": "Eryth Sea Quests",
     "chest_unopened_img": "images/mapicons/QuestMarker.png",
     "chest_opened_img": "images/mapicons/QuestMarkerGray.png",
-    "access_rules": ["$SeaAcc"],
+    "access_rules": ["$AlcaAcc"],
     "children": [
       {
         "name": "Ether Plant",
@@ -1881,8 +1881,7 @@
           },
           {
             "name": "Ancient High Entia Mystery",
-            "visibility_rules": ["AQEn"],
-            "access_rules": ["$CoreAcc"]
+            "visibility_rules": ["AQEn"]
           },
           {
             "name": "The Missing Boy",
@@ -1909,7 +1908,8 @@
         "sections": [
           {
             "name": "Trouble at the Lighthouse",
-            "visibility_rules": ["AQEn"]
+            "visibility_rules": ["AQEn"],
+            "access_rules": ["HuntLicense8"]
           },
           {
             "name": "Monster Quest 1",
@@ -2481,7 +2481,8 @@
           },
           {
             "name": "The Balance of Power",
-            "visibility_rules": ["AQEn"]
+            "visibility_rules": ["AQEn"],
+            "access_rules": ["HuntLicense10"]
           }
         ],
         "map_locations": [
@@ -2948,11 +2949,13 @@
           },
           {
             "name": "Challenge Quest 1 (MISSABLE)",
-            "visibility_rules": ["ChQEn"]
+            "visibility_rules": ["ChQEn"],
+            "access_rules": ["HuntLicense14"]
           },
           {
             "name": "Challenge Quest 2 (MISSABLE)",
-            "visibility_rules": ["ChQEn"]
+            "visibility_rules": ["ChQEn"],
+            "access_rules": ["HuntLicense14"]
           }
         ],
         "map_locations": [

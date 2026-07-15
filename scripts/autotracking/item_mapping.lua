@@ -21,6 +21,7 @@ SETTINGS_MAPPING = {
  ["Artsanity"] = "Artsanity",
  ["collectopaediasanity"] = "Colsanity",
  ["goal"] = "VictoryCon",
+ ["Spoilers"] = "Spoilers",
 }
 
 ITEM_MAPPING = {

@@ -203,3 +203,17 @@ function CollectorGoal()
     end
     return 0
 end
+
+function Spoilers()
+	if Tracker:FindObjectForCode("Spoilers").Active then
+        return 1
+    end
+    return 0
+end
+
+function NoSpoilers()
+	if Tracker:FindObjectForCode("Spoilers").Active then
+        return 0
+    end
+    return 1
+end
