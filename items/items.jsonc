@@ -104,8 +104,13 @@
     "initial_stage_idx": 0,
     "stages": [
       {
+        "img": "images/items/Affinity0.png",
+        "codes": "ShulkAffinity,ShulkAffinity0"
+      },
+{
         "img": "images/items/Affinity1.png",
-        "codes": "ShulkAffinity,ShulkAffinity1"
+        "codes": "ShulkAffinity,ShulkAffinity1",
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity2.png",
@@ -370,8 +375,13 @@
     "initial_stage_idx": 0,
     "stages": [
       {
+        "img": "images/items/Affinity0.png",
+        "codes": "ReynAffinity,ReynAffinity0"
+      },
+      {
         "img": "images/items/Affinity1.png",
-        "codes": "ReynAffinity,ReynAffinity1"
+        "codes": "ReynAffinity,ReynAffinity1",
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity2.png",
@@ -636,8 +646,13 @@
     "initial_stage_idx": 0,
     "stages": [
       {
+        "img": "images/items/Affinity0.png",
+        "codes": "SharlaAffinity,SharlaAffinity0"
+      },
+      {
         "img": "images/items/Affinity1.png",
-        "codes": "SharlaAffinity,SharlaAffinity1"
+        "codes": "SharlaAffinity,SharlaAffinity1",
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity2.png",
@@ -902,8 +917,13 @@
     "initial_stage_idx": 0,
     "stages": [
       {
+        "img": "images/items/Affinity0.png",
+        "codes": "DunbanAffinity,DunbanAffinity0"
+      },
+      {
         "img": "images/items/Affinity1.png",
-        "codes": "DunbanAffinity,DunbanAffinity1"
+        "codes": "DunbanAffinity,DunbanAffinity1",
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity2.png",
@@ -1168,8 +1188,13 @@
     "initial_stage_idx": 0,
     "stages": [
       {
+        "img": "images/items/Affinity0.png",
+        "codes": "RikiAffinity,RikiAffinity0"
+      },
+      {
         "img": "images/items/Affinity1.png",
-        "codes": "RikiAffinity,RikiAffinity1"
+        "codes": "RikiAffinity,RikiAffinity1",
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity2.png",
@@ -1434,8 +1459,13 @@
     "initial_stage_idx": 0,
     "stages": [
       {
+        "img": "images/items/Affinity0.png",
+        "codes": "MeliaAffinity,MeliaAffinity0"
+      },
+      {
         "img": "images/items/Affinity1.png",
-        "codes": "MeliaAffinity,MeliaAffinity1"
+        "codes": "MeliaAffinity,MeliaAffinity1",
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity2.png",
@@ -1700,8 +1730,13 @@
     "initial_stage_idx": 0,
     "stages": [
       {
+        "img": "images/items/Affinity0.png",
+        "codes": "SevenAffinity,SevenAffinity0"
+      },
+      {
         "img": "images/items/Affinity1.png",
-        "codes": "SevenAffinity,SevenAffinity1"
+        "codes": "SevenAffinity,SevenAffinity1",
+        "inherit_codes": true
       },
       {
         "img": "images/items/Affinity2.png",
